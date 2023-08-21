@@ -1,4 +1,91 @@
 [
+{
+  "title": "Activity testing",
+  "displayTitle": "Activity testing",
+  "body": "",
+  "_classes": "",
+  "subtitle": "",
+  "pageBody": "",
+  "instruction": "",
+  "_htmlClasses": "",
+  "linkText": "View",
+  "duration": "",
+  "_lockedBy": [],
+  "_lockType": "",
+  "_isOptional": false,
+  "_isAvailable": true,
+  "_isHidden": false,
+  "_isVisible": true,
+  "_requireCompletionOf": -1,
+  "_ariaLevel": 0,
+  "_id": "expb-20-OBJ",
+  "_parentId": "course",
+  "_type": "page",
+  "_graphic": {
+    "alt": "",
+    "src": ""
+  },
+  "_onScreen": {
+    "_isEnabled": false,
+    "_classes": "",
+    "_percentInviewVertical": 50
+  },
+  "_aboutPage": {
+    "aboutCredit": "",
+    "SL_text": "",
+    "_items": []
+  },
+  "_ODILicence": {
+    "_items": []
+  },
+  "_pageLevelProgress": {
+    "_isEnabled": true,
+    "_showPageCompletion": true,
+    "_isCompletionIndicatorEnabled": false,
+    "_excludeAssessments": false
+  },
+  "_resources": {
+    "_isEnabled": true,
+    "_resourcesItems": []
+  },
+  "_boxMenu": {
+    "_renderAsGroup": false
+  },
+  "_vanilla": {
+    "_backgroundImage": {
+      "_large": "",
+      "_medium": "",
+      "_small": ""
+    },
+    "_backgroundStyles": {
+      "_backgroundRepeat": null,
+      "_backgroundSize": null,
+      "_backgroundPosition": null
+    },
+    "_responsiveClasses": {
+      "_large": "",
+      "_medium": "",
+      "_small": ""
+    },
+    "_pageHeader": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      }
+    }
+  }
+},
   {
     "title": "1. Introduction to data ethics",
     "displayTitle": "1. Introduction to data ethics",
@@ -29,6 +116,24 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -99,6 +204,24 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
     "_boxMenu": {
       "_renderAsGroup": false
     },
@@ -158,7 +281,25 @@
     "_ariaLevel": 0,
     "_id": "64d34a4fd9db5173efdc23fa",
     "_parentId": "64d34979d9db5173efdc23e8",
-    "_type": "page"
+    "_type": "page",
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    }
   },
   {
     "title": "New Menu/Page Title",
@@ -181,7 +322,25 @@
     "_ariaLevel": 0,
     "_id": "64d34a50d9db5173efdc23fd",
     "_parentId": "64d3498fd9db5173efdc23e9",
-    "_type": "page"
+    "_type": "page",
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    }
   },
   {
     "title": "New Menu/Page Title",
@@ -204,7 +363,25 @@
     "_ariaLevel": 0,
     "_id": "64d362a8d9db5173efdc241c",
     "_parentId": "64d348f0d9db5173efdc23e5",
-    "_type": "page"
+    "_type": "page",
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    }
   },
   {
     "title": "New Menu/Page Title",
@@ -227,7 +404,25 @@
     "_ariaLevel": 0,
     "_id": "64d362b5d9db5173efdc2420",
     "_parentId": "64d34913d9db5173efdc23e6",
-    "_type": "page"
+    "_type": "page",
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    }
   },
   {
     "title": "New Menu/Page Title",
@@ -250,7 +445,25 @@
     "_ariaLevel": 0,
     "_id": "64d3638bd9db5173efdc2428",
     "_parentId": "64d36356d9db5173efdc2427",
-    "_type": "page"
+    "_type": "page",
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    }
   },
   {
     "title": "New Menu/Page Title",
@@ -273,7 +486,25 @@
     "_ariaLevel": 0,
     "_id": "64d363abd9db5173efdc242e",
     "_parentId": "64d3499cd9db5173efdc23ea",
-    "_type": "page"
+    "_type": "page",
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    }
   },
   {
     "title": "New Menu/Page Title",
@@ -296,7 +527,25 @@
     "_ariaLevel": 0,
     "_id": "64d363b7d9db5173efdc2432",
     "_parentId": "64d349a7d9db5173efdc23eb",
-    "_type": "page"
+    "_type": "page",
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    }
   },
   {
     "title": "New Menu/Page Title",
@@ -319,7 +568,25 @@
     "_ariaLevel": 0,
     "_id": "64d363bfd9db5173efdc2436",
     "_parentId": "64d349a7d9db5173efdc23ec",
-    "_type": "page"
+    "_type": "page",
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    }
   },
   {
     "title": "New Menu/Page Title",
@@ -342,7 +609,25 @@
     "_ariaLevel": 0,
     "_id": "64d363f2d9db5173efdc243a",
     "_parentId": "64d349c1d9db5173efdc23ed",
-    "_type": "page"
+    "_type": "page",
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    }
   },
   {
     "title": "New Menu/Page Title",
@@ -365,7 +650,25 @@
     "_ariaLevel": 0,
     "_id": "64d363fcd9db5173efdc243e",
     "_parentId": "64d349cdd9db5173efdc23ee",
-    "_type": "page"
+    "_type": "page",
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    }
   },
   {
     "title": "New Menu/Page Title",
@@ -388,7 +691,25 @@
     "_ariaLevel": 0,
     "_id": "64d36406d9db5173efdc2442",
     "_parentId": "64d349dfd9db5173efdc23ef",
-    "_type": "page"
+    "_type": "page",
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    }
   },
   {
     "title": "New Menu/Page Title",
@@ -411,7 +732,25 @@
     "_ariaLevel": 0,
     "_id": "64d3640ed9db5173efdc2446",
     "_parentId": "64d349e9d9db5173efdc23f0",
-    "_type": "page"
+    "_type": "page",
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    }
   },
   {
     "title": "2. Foundations of ethical decision-making",
@@ -443,6 +782,24 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -513,6 +870,24 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
     "_boxMenu": {
       "_renderAsGroup": false
     },
@@ -581,6 +956,24 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -651,6 +1044,24 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
     "_boxMenu": {
       "_renderAsGroup": false
     },
@@ -719,6 +1130,24 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -789,6 +1218,24 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
     "_boxMenu": {
       "_renderAsGroup": false
     },
@@ -857,6 +1304,24 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -927,6 +1392,24 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
     "_boxMenu": {
       "_renderAsGroup": false
     },
@@ -995,6 +1478,24 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -1065,6 +1566,24 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
     "_boxMenu": {
       "_renderAsGroup": false
     },
@@ -1133,6 +1652,24 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -1203,6 +1740,24 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
     "_boxMenu": {
       "_renderAsGroup": false
     },
@@ -1272,6 +1827,24 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
     "_boxMenu": {
       "_renderAsGroup": false
     },
@@ -1340,6 +1913,24 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
     },
     "_boxMenu": {
       "_renderAsGroup": false
