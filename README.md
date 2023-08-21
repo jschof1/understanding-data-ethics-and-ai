@@ -1,54 +1,43 @@
-# Adapt Framework
-[![Join the chat at https://gitter.im/adaptlearning/adapt_framework](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/adaptlearning/adapt_framework?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-Adapt is a free and easy to use framework and authoring tool that creates fully responsive, multi-device, HTML5 e-learning content.
+# Adapt e-learning modules: Understanding Data Ethics and AI
 
-**Important Note:** Adapt no longer supports IE8, 9 & 10. If you need support for those browsers, please use [the legacy branch of Adapt](https://github.com/adaptlearning/adapt_framework/tree/legacy) instead.
+**This is a draught specification for a course being built for alpha release at the end of Q3 2023. Everything in this repository is subject to change as the final product is designed. Please note that this repository is currently in development, so some features may be incomplete or subject to change.**
 
-## What Does It Do?
-The Adapt framework is a toolkit for creating responsive, single-version HTML5 e-learning courses for delivery on a web server or SCORM-compliant learning management system.
+## Repository Contents
 
-We've also created a [server-based authoring tool](https://github.com/adaptlearning/adapt_authoring/) for creating courses using the framework.
+This repository hosts the Adapt elearning modules for the course "Understanding Data Ethics and AI" that is currently in development.
 
-Interested? [See what Adapt can do.](https://adaptlearning.github.io/v5demo/)
+Please note that the materials in this repository are a work in progress and may be subject to change as the final product is designed. We welcome contributions and feedback from the community as we continue to refine and develop the content.
 
-## Features
-+ Open source, published under the GNU General Public License, and FREE
-+ HTML5 and CSS3 - now with support for JavaScript ES6-8 and [JSX](https://reactjs.org/docs/introducing-jsx.html)
-+ Responsive across multiple devices and platforms
-+ Delivery of courses via SCORM compliant LMS or via web server
-+ 23 bundled plug-ins, [more available](https://www.adaptlearning.org/index.php/plugin-browser/) through the community
-+ [Meets WAI AA accessibility standards](https://github.com/adaptlearning/adapt_framework/wiki/Accessibility)
-+ Right-To-Left compatibility
-+ Assessments with support for question banks, randomisation, and customisable feedback
-+ [Step locking](https://github.com/adaptlearning/adapt_framework/wiki/Locking-objects-with-'_isLocked'-and-'_lockType') and bookmarking
-+ [Multi language and localisation support](https://github.com/adaptlearning/adapt_framework/wiki/Course-Localisation)
-+ Customisable theme
-+ Built-in animation effects
-+ [Experience API (xAPI)](https://xapi.com/) support via the [adapt-contrib-xapi plugin](https://github.com/adaptlearning/adapt-contrib-xapi)
+## Course Overview
 
-Got five minutes to spare? Check out [our whistle-stop tour](https://github.com/adaptlearning/adapt_framework/wiki/Framework-in-five-minutes) of the framework to find out more.
+In the age of data and AI, ethical considerations are crucial when dealing with data practises such as collection, use, and sharing. The course "Understanding Data Ethics and AI" is designed to provide participants with a comprehensive understanding of the ethical challenges associated with all data practises and the impact of different data practises on people, particularly concerning the evolution of AI systems. This course will delve into the principles, frameworks, and tools needed to assess ethical data practises and support responsible decision-making.
 
-## Full Documentation
-[Visit the wiki](https://github.com/adaptlearning/adapt_framework/wiki) for full documentation, including **installation**, course authoring, developer guides, and other information.
+## Course Style and Length
 
-## Communication
-+ [Twitter: @AdaptLearning](https://twitter.com/adaptlearning)
-+ [Gitter](https://gitter.im/orgs/adaptlearning/rooms)
-+ [Community Site](https://community.adaptlearning.org/)
-+ [Technical Forum](https://community.adaptlearning.org/mod/forum/view.php?id=4)
-+ [Bugs / Feature Requests](https://github.com/adaptlearning/adapt_framework/issues/new)
-+ [Responsive e-Learning Forum](https://community.adaptlearning.org/mod/forum/view.php?id=56)
+This self-study course consists of 15 modules, with each module taking approximately 40 minutes to complete. The total study time is estimated to be between 10 and 12 hours.
 
-## Contributing to Adapt
-See [Contributing to the Adapt Framework](https://github.com/adaptlearning/adapt_framework/wiki/Contributing-to-the-Adapt-Project).
+## Why is the Open Data Institute Offering This Course?
 
-## Troubleshooting, Bugs, and Feedback
-+ For help with troubleshooting, visit the [Technical Discussion Forum](https://community.adaptlearning.org/mod/forum/view.php?id=4).
-+ To report a bug, please [submit an issue via Github Issues](https://github.com/adaptlearning/adapt_framework/issues/new).
-+ To provide feedback, please use [GitHub Issues](https://github.com/adaptlearning/adapt_framework/issues/new).
+The Open Data Institute (ODI) is committed to building an open and trustworthy data ecosystem. As a leading organisation in this field, the ODI seeks to promote responsible data practises across the entire data spectrum, emphasising ethical considerations associated with data practises.
 
-## License
-<a href="https://community.adaptlearning.org/" target="_blank"><img src="https://github.com/adaptlearning/documentation/blob/master/04_wiki_assets/plug-ins/images/adapt-logo-mrgn-lft.jpg" alt="adapt learning logo" align="right"></a>  Adapt is licensed under the [GNU General Public License, Version 3](https://github.com/adaptlearning/adapt_framework/blob/master/LICENSE).
+We define data ethics as:
+"Data ethics is a branch of ethics that evaluates data practises with the potential to adversely impact on people and society – in data collection, sharing and use."
 
-## Requirements
-Node >=14 is required for the grunt tasks to run as needed
+Data ethics is vital in guiding how data is collected, used, and shared, particularly when data activities have the potential to impact people and society, either directly or indirectly.
+
+To support work in this area, we have developed tools such as the Data Ethics Canvas and the consequence scanning toolkit to help navigate ethical challenges in projects. Our data ethics maturity model enables organisations to benchmark themselves and identify areas for improvement.
+
+Open data is integral to this course, as it fosters:
+
+1. **Transparency:** Open data promotes transparency in data collection, use, and AI development, fostering accountability and trust.
+
+2. **Ethical AI Development:** Access to diverse and representative open datasets can help reduce bias and ensure fair AI decision-making.
+
+3. **Public Interest and Participation:** Open data empowers citizens to actively engage in discussions about data ethics and data-driven technologies.
+
+4. **Data Impact Assessments:** Open data enables ethical impact assessments by allowing researchers, policymakers, and organisations to examine the data and identify biases and limitations.
+
+5. **Responsible Governance:** Open data policies encourage ethical data governance and the establishment of guidelines for ethical data practises.
+
+Ultimately, the ODI aims for this course to empower individuals and organisations to leverage the benefits of open data in the age of AI while adhering to ethical standards and legal frameworks.
+
