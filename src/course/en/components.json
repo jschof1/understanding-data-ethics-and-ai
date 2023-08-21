@@ -175,7 +175,7 @@
         "body": "<p>During the Ebola outbreak in West Africa, mobile phone data was used to track population movement and predict the spread of the disease, helping health organisations respond effectively while minimising privacy concerns.</p> <p>The organisation behind using mobile phone data to track and predict the spread of Ebola during the outbreak in West Africa was Flowminder Foundation. Flowminder is a non-profit organisation that specialises in using big data for public health and development purposes. They collaborated with mobile phone operators and health organisations to collect and analyse anonymised and aggregated mobile phone data to understand population movement and aid in disease outbreak response by sharing relevant insights with the appropriate bodies.</p> <h3>Further Reading</h3> <p><a href=\\\"https://www.technologyreview.com/2014/08/22/250264/cell-phone-data-might-help-predict-ebolas-spread/#:~:text=A%20West%20African%20mobile%20carrier,predict%20the%20spread%20of%20Ebola.\\&amp;text=The%20new%20model%20helped%20Flowminder,of%20people%20across%20West%20Africa\\\" target=\\\"_blank\\\" rel=\\\"noopener\\\">Cell-Phone Data Might Help Predict Ebola\\&rsquo;s Spread | MIT Technology Review</a></p> <p><a href=\\\"https://obamawhitehouse.archives.gov/blog/2014/10/29/innovating-fight-ebola\\\" target=\\\"_blank\\\" rel=\\\"noopener\\\">Innovating to Fight Ebola | whitehouse.gov</a></p>",
         "_imageAlignment": "full",
         "_graphic": {
-          "src": "course/en/images/example.jpg",
+          "src": "",
           "alt": "",
           "attribution": "Copyright © 2019"
         },
@@ -186,7 +186,7 @@
         "body": "<p>The World Resources Institute (WRI) engages in environmental monitoring. They curate data from various sources such as sensors, satellites, and citizen science initiatives to track critical environmental indicators, including pollution levels, deforestation rates, and climate change trends. The Global Forest Watch uses satellite data to monitor changes in forests and deforestation patterns.&nbsp;</p><p>A significant ethical dimension of WRI's work is their commitment to open and transparent data sharing. By making their collected data openly accessible through platforms like Global Forest Watch, they enable researchers, policymakers, communities, and the public to access valuable information. This transparent approach encourages collaboration and collective efforts to address environmental challenges.&nbsp;</p><h3>Further Reading</h3><p><a href=\"https://www.wri.org/initiatives/global-forest-watch\" target=\"_blank\" rel=\"noopener\">Global Forest Watch | World Resources Institute</a>&nbsp;&nbsp;</p>",
         "_imageAlignment": "full",
         "_graphic": {
-          "src": "course/en/images/example.jpg",
+          "src": "",
           "alt": "",
           "attribution": "Copyright © 2019"
         },
