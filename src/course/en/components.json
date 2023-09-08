@@ -711,47 +711,6 @@
     "title": "New Component Title",
     "displayTitle": "New Component Title",
     "body": "",
-    "_id": "64d3638fd9db5173efdc242b",
-    "_parentId": "64d3638bd9db5173efdc242a",
-    "_type": "component",
-    "_layout": "full",
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_graphicExpand": {
-      "_isEnabled": false,
-      "_selector": "",
-      "_button": {
-        "buttonText": "",
-        "ariaLabel": "",
-        "iconClass": "icon-expand_1"
-      }
-    }
-  },
-  {
-    "_component": "blank",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "New Component Title",
-    "displayTitle": "New Component Title",
-    "body": "",
     "_id": "64d3639fd9db5173efdc242c",
     "_parentId": "64d34a4fd9db5173efdc23fc",
     "_type": "component",
@@ -1106,6 +1065,1151 @@
         "ariaLabel": "",
         "iconClass": "icon-expand_1"
       }
+    }
+  },
+
+  {
+    "_id": "aide-m4-o2-anon-data-c-1",
+    "_parentId": "aide-m4-o2-anon-data-b-1",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "left",
+    "title": "Increasing the utility of data, whilst protecting individual rights",
+    "displayTitle": "Increasing the utility of data, whilst protecting individual rights",
+    "body": "<p>There are many cases where you might need to use or share data containing personal or sensitive information about individuals. To reduce the risk of handling this personal data, you may need to apply anonymisation techniques.&nbsp;</p><p>So, how might you anonymise data?</p><p>This module looks at:</p><ul>\n<li>The 7 steps of anonymisation</li>\n<li>The role of synthetic data</li>\n<li>The relationship between anonymisation and data protection regulations</li>\n</ul>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "aide-m4-o2-anon-data-c-2",
+    "_parentId": "aide-m4-o2-anon-data-b-2",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Anonymisation in 7-steps",
+    "displayTitle": "Anonymisation in 7-steps",
+    "body": "<p>Generally speaking, there are 7-steps to the anonymisation process. Explore each of these below.</p>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "aide-m4-o2-anon-data-c-3",
+    "_parentId": "aide-m4-o2-anon-data-b-3",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "STEP 1: Establish the lawful and ethical basis",
+    "displayTitle": "STEP 1: Establish the lawful and ethical basis",
+    "body": "<h3>Data Anonymisation & Regulations</h3>     <p>Once personal data is <strong>anonymised</strong>, meaning the risk of re-identification is sufficiently small, it is no longer subject to data protection regulations such as the <abbr title=\"General Data Protection Regulation\">GDPR</abbr> or the UK Data Protection Act 2018.</p>      <h3>Pre-anonymisation Requirements</h3>     <p>However, prior to anonymising personal data, you must assess the lawful and ethical basis for using it. If necessary, undertake a <span class=\"highlight\">Privacy Impact Assessment</span> – especially if the data you are using is special category data, meaning, sensitive data.</p>      <h3>Ethical Assessment</h3>     <p>In addition to the lawful basis, it's crucial to carry out an ethical assessment on the impact of the anonymisation. This evaluation should weigh both the potential benefits and harms that might result.</p>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "aide-m4-o2-anon-data-c-4",
+    "_parentId": "aide-m4-o2-anon-data-b-4",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "STEP 2: Set objectives",
+    "displayTitle": "STEP 2: Set objectives",
+    "body": "<div class=\"anonymisation-content\">\r\n\r\n    <div class=\"point\">\r\n        <span class=\"icon\">\uD83D\uDD10<\/span>\r\n        <p>Anonymisation should be done in a way that aims to maintain as much of the intended utility while also protecting privacy.<\/p>\r\n    <\/div>\r\n    \r\n    <div class=\"point\">\r\n        <span class=\"icon\">\uD83D\uDCCB<\/span>\r\n        <p>In order to do this it is a good idea to outline some potential use cases. These should have already been considered during the legal and ethical evaluation in step 1.<\/p>\r\n    <\/div>\r\n\r\n    <div class=\"point\">\r\n        <span class=\"icon\">\uD83D\uDEAB<\/span>\r\n        <p>At the end of this stage, you should know which objectives you are looking to support and which are out of scope due to legal or ethical concerns.<\/p>\r\n    <\/div>\r\n\r\n<\/div>\r\n",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "aide-m4-o2-anon-data-c-5",
+    "_parentId": "aide-m4-o2-anon-data-b-5",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "left",
+    "title": "STEP 3: Assess risk",
+    "displayTitle": "STEP 3: Assess risk",
+    "body": "<div class=\"data-card\">\r\n\r\n    <div class=\"data-point\">\r\n        <span class=\"drop-cap\">I<\/span>t is important to understand that data protection does not require anonymisation to be completely risk free \u2013 you must be able to mitigate the risk of re-identification until it is sufficiently small.\r\n    <\/div>\r\n\r\n    <div class=\"data-point\">\r\n        <span class=\"drop-cap\">T<\/span>o do this, identify characteristics in your dataset that can directly or indirectly be used to identify a person: the personal data.\r\n    <\/div>\r\n\r\n    <div class=\"data-point\">\r\n        <span class=\"drop-cap\">F<\/span>ollowing this, you should determine which of these characteristics pose a potential threat to harm an individual and label them as either posing a \u2018normal\u2019 or \u2018high\u2019 risk.\r\n    <\/div>\r\n\r\n<\/div>\r\n",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "aide-m4-o2-anon-data-c-6",
+    "_parentId": "aide-m4-o2-anon-data-b-6",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "STEP 4: Anonymise personal data",
+    "displayTitle": "STEP 4: Anonymise personal data",
+    "body": "<div class=\"anonymise-card\">      <div class=\"anonymise-point\">         <span class=\"icon\">&#9881;<\/span>         There are several techniques that can be used to anonymise data. In the majority of cases, several techniques may need to be applied to lower the risks of re-identification.     <\/div>      <div class=\"anonymise-point\">         <span class=\"icon\">&#9888;<\/span>         Choosing the right combination of techniques will depend on both the intended use and the level of risk related to each characteristic in the dataset.     <\/div>      <div class=\"anonymise-point\">         <span class=\"icon\">&#9898;<\/span>         A record should be kept on how each technique is applied and the reasons for its choice.     <\/div>      <div class=\"anonymise-point\">         <span class=\"icon\">&#9775;<\/span>         The <span class=\"eu-reference\">EU Data Protection Working Party<\/span> has produced a useful report outlining anonymisation techniques, robustness and typical mistakes. We have summarised these techniques in the later hands-on section of Anonymising Data.     <\/div>  <\/div>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "aide-m4-o2-anon-data-c-7",
+    "_parentId": "aide-m4-o2-anon-data-b-7",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "STEP 5: Testing resilience",
+    "displayTitle": "STEP 5: Testing resilience",
+    "body": "<div class=\"resilience-check\">      <h3>Anonymisation Resilience Check<\/h3>          <p>Anonymisation is considered successful when the risk of re-identification is low. To test this, you should carry out resilience tests.<\/p>          <p>This step will also help you analyse the risk\/utility balance. As before, stay safe and if you are worried, take a more cautious approach.<\/p>          <div class=\"questions\">         <h4>Ask Yourself:<\/h4>         <ul>             <li>Is it possible to single out an individual?<\/li>             <li>Is it possible to link records relating to an individual using data already available?<\/li>             <li>Can information be inferred concerning an individual within the same dataset?<\/li>         <\/ul>     <\/div>          <p>You should also consider putting yourself in the shoes of a stakeholder who may have a nefarious interest in the dataset. You may have identified these stakeholders during the risk assessment when considering intentions of attackers. If you cannot think of any stakeholders, but you labelled data \u2018high risk\u2019, it could be that the risk is not as high risk as you first thought.<\/p>          <p class=\"caution\"><strong>Note:<\/strong> If you answered \u2018yes\u2019 to any of the questions, go back to Step 3.<\/p>  <\/div> ",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "aide-m4-o2-anon-data-c-8",
+    "_parentId": "aide-m4-o2-anon-data-b-8",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "STEP 6: Write a plan to mitigate risk",
+    "displayTitle": "STEP 6: Write a plan to mitigate risk",
+    "body": "<div class=\"risk-management\">      <h3>Risk Management Plan<\/h3>          <div class=\"grid-section\">         <div class=\"item\">             <p>You should create a plan to monitor and handle any potential risks, for example when normal risks might require action.<\/p>         <\/div>                  <div class=\"item\">             <p>Include roles and responsibilities that describe who does what in a given situation to help clarify the actions that need to be put in place in case of re-identification.<\/p>         <\/div>                  <div class=\"item important\">             <p>This plan should be shared with a data protection officer or other authority for them to review and decide if the methods and procedures you applied pose minimal risk to re-identification.<\/p>         <\/div>     <\/div>      <\/div>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "aide-m4-o2-anon-data-c-9",
+    "_parentId": "aide-m4-o2-anon-data-b-9",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "STEP 7: Publish the data, anonymisation details and risk assessment",
+    "displayTitle": "STEP 7: Publish the data, anonymisation details and risk assessment",
+    "body": "<div class=\"anonymised-dataset\">     <p>Once the dataset is anonymised and risk of re-identification low, it can be shared\/published for others to use.<\/p> <p>In addition to the data, it is highly recommended that the following are also published</p>         <div class=\"recommendations\">         <h4>Recommended Publications:<\/h4>         <ul>             <li>The objectives for your anonymisation<\/li>             <li>The techniques applied to anonymise the dataset<\/li>             <li>Your risk assessment<\/li>             <li>Your plan to mitigate risks<\/li>             <li>Details of how people can reach out with questions and concerns<\/li>         <\/ul>     <\/div> <\/div>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "aide-m4-o2-anon-data-c-10",
+    "_parentId": "aide-m4-o2-anon-data-b-10",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "right",
+    "title": "Hands-on: Data anonymisation",
+    "displayTitle": "Hands-on: Data anonymisation",
+    "body": "<p>In this section, we are going to follow a number of steps to demonstrate how anonymisation works in practice. In order to complete this exercise, you should download the dataset below.</p><p>Download the dataset: <a href=\"https://docs.google.com/spreadsheets/d/1K5iuIn3gkzGS2HIT2pv8K4mBbO2_y_N_k0PIOTR3RXA/edit#gid=0\" target=\"_blank\" rel=\"noopener\">#DATA NHS synthetic data</a>.csv</p>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "aide-m4-o2-anon-data-c-11",
+    "_parentId": "aide-m4-o2-anon-data-b-11",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "left",
+    "title": "STEP 1: Establish the lawful and ethical basis",
+    "displayTitle": "STEP 1: Establish the lawful and ethical basis",
+    "body": "<p>As this dataset is made up of fictional people, we do not need a lawful basis for using it. Although there is ‘personal data’ in the dataset, it is not related to any living individual.</p><p>From an ethical viewpoint, there is a small risk that someone might believe that Gilderoy Lockhart (a half-blood professor from the Harry Potter series) does live in Tower Hamlets, or that Joe Quimby (the Mayor from the Simpsons) lives in Ringwood. This person then might go to that street address (if our fictional street even exists) or enter the postcode (which does exist) in a SatNav and end up annoying whoever may live in that location, but the risk of that is acceptably low. So we can continue.</p>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "aide-m4-o2-anon-data-c-12",
+    "_parentId": "aide-m4-o2-anon-data-b-12",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "right",
+    "title": "STEP 2: Set objectives",
+    "displayTitle": "STEP 2: Set objectives",
+    "body": "<p>Anonymisation should be done in a way that aims to maintain as much of the intended utility while also protecting privacy.</p><p>Our objective is to allow people access to anonymised data in order to evaluate the reported spread of the CoViD19, the locations and types of people it is impacting including any patterns in the spread.</p>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "aide-m4-o2-anon-data-c-13",
+    "_parentId": "aide-m4-o2-anon-data-b-13",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "STEP 3: Assess risk",
+    "displayTitle": "STEP 3: Assess risk",
+    "body": "<p>This step starts by identifying the Personal Data points and assessing the risk of re-identification for each one.</p><div>\n<table>\n<tbody>\n<tr>\n<td><strong>Site</strong></td>\n<td><strong>Call date</strong></td>\n<td><strong>Name</strong></td>\n<td><strong>Sex</strong></td>\n<td><strong>Date of birth</strong></td>\n<td><strong>Address</strong></td>\n<td><strong>Postcode</strong></td>\n<td><strong>Profession</strong></td>\n<td><strong>Severity (1=High)</strong></td>\n</tr>\n<tr>\n<td>111</td>\n<td>18/03/2020</td>\n<td>Zoe Bloggs</td>\n<td>F</td>\n<td>06/06/2005</td>\n<td>12 Penn Street, Barking, London</td>\n<td>IG11 0DI</td>\n<td>Student&nbsp;</td>\n<td>35</td>\n</tr>\n<tr>\n<td>111</td>\n<td>18/03/202</td>\n<td>Pat Butcher</td>\n<td>F</td>\n<td>10/11/1949</td>\n<td>27 Penelope Drive, Eastbourne</td>\n<td>BN20 7UP</td>\n<td>Retired</td>\n<td>3</td>\n</tr>\n<tr>\n<td>111</td>\n<td>18/03/202</td>\n<td>Barry Titchmarsh</td>\n<td>M</td>\n<td>08/10/1981</td>\n<td>19 Barber Close, Matlock, Derby</td>\n<td>DE4 2ME</td>\n<td>Gardener&nbsp;</td>\n<td>90</td>\n</tr>\n<tr>\n<td>999</td>\n<td>18/03/202</td>\n<td>Gilderoy Lockhart</td>\n<td>M</td>\n<td>28/02/1946</td>\n<td>27 Diagon Alley, Tower Hamlets, London</td>\n<td>E1 0HP</td>\n<td>Professor</td>\n<td>1</td>\n</tr>\n<tr>\n<td>999</td>\n<td>14/04/202</td>\n<td>Arthur Smith</td>\n<td>M</td>\n<td>05/03/1922</td>\n<td>155 Mount Park, Shrewbury</td>\n<td>Sy1 0AP</td>\n<td>Retired</td>\n<td>2</td>\n</tr>\n<tr>\n<td>999</td>\n<td>16/04/2020</td>\n<td>Joe Quimby</td>\n<td>F</td>\n<td>17/09/2965</td>\n<td>17 Prestige Place, Ringwood</td>\n<td>BH24 1TM</td>\n<td>Mayor</td>\n<td>6</td>\n</tr>\n</tbody>\n</table>\n</div><p>For each factor in the dataset, select if it is personal data or not and also assess the risk of re-identification of each factor. Risk of re-identification has been split into four categories:</p><ul>\n<li>High risk: A clear identifier for a person</li>\n<li>Medium risk: While tied to a person, it is not a direct identifier, but would have negative consequences if it could be tied to a person.</li>\n<li>Low risk: In some cases it might be possible to link back to a person, risks of tying this datapoint to a person are low</li>\n<li>No risk: No risk due to either not being personal or even if the risk of re-identification is non-existent.</li>\n</ul>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "aide-m4-o2-anon-data-c-14",
+    "_parentId": "aide-m4-o2-anon-data-b-14",
+    "_type": "component",
+    "_component": "mcq",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Which data points are Personal Data and what is the risk level of each data point?",
+    "displayTitle": "Which data points are Personal Data and what is the risk level of each data point?",
+    "body": "",
+    "instruction": "Choose one option then select Submit.",
+    "ariaQuestion": "Question text specifically for screen readers.",
+    "_attempts": 1,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 8,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_recordInteraction": true,
+    "_items": [
+      {
+        "text": "Site",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "Call date",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "Name",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "Sex",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "Date of birth",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "Address",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "Postcode",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "Profession ",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "Severity",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false
+      }
+    ],
+    "_feedback": {
+      "correct": "<p><strong>That's right!</p></strong>Personal data refers to information relating to an identified or identifiable natural person. For this data set that means: name, sex, date of birth, address and postcode.</p>",
+      "_incorrect": {
+        "notFinal": "<p><strong>Are you sure about that?</p></strong>Personal data refers to information relating to an identified or identifiable natural person. For this data set that means: name, sex, date of birth, address and postcode.</p>",
+        "final": "<p><strong>Are you sure about that?</p></strong>Personal data refers to information relating to an identified or identifiable natural person. For this data set that means: name, sex, date of birth, address and postcode.</p>"
+      }
+    },
+    "_comment": "You only need to include _buttons if you want to override the button labels that are set in course.json",
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Submit",
+        "ariaLabel": "Select here to submit your answer."
+      },
+      "_reset": {
+        "buttonText": "Reset",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "Correct Answer",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "My Answer",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "Show feedback",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "attempts remaining",
+      "remainingAttemptText": "final attempt"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "aide-m4-o2-anon-data-c-15",
+    "_parentId": "aide-m4-o2-anon-data-b-15",
+    "_type": "component",
+    "_component": "mcq",
+    "_classes": "",
+    "_layout": "full",
+    "title": "What is the risk level of each data point?",
+    "displayTitle": "What is the risk level of each data point?",
+    "body": "",
+    "instruction": "Choose one option then select Submit.",
+    "ariaQuestion": "Question text specifically for screen readers.",
+    "_attempts": 1,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_recordInteraction": true,
+    "_items": [
+      {
+        "text": "Site (low)",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "Call date (low)",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "Name (high)",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "Sex (medium)",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "Date of birth (medium)",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "Address (high)",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "Postcode (medium)",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "Profession (medium)",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "Severity (low)",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false
+      }
+    ],
+    "_feedback": {
+      "correct": "<p><strong>That's right!</p></strong>When it comes to rating risk, aspects like name and precise address have higher risks when talking about the health of individuals or households. While date of birth is personal, the risk of re-identification from this point alone is actually low, however the impact of it being tied to a person is high due to the use of this in many authentication systems, thus medium. The same argument applies for sex.</p><p>&nbsp;When considering data points that are not personal, there may still be risks. Although Profession is not personal data, we do run the risk of making an individual identifiable if we’re not careful - for example, how many mayors exist in any given town? The same could be said for post code. The risk is low in densely populated areas, but for more rural addresses it may not be unusual for a post code to only have a small number of addresses, possibly only one.&nbsp;</p>",
+      "_incorrect": {
+        "notFinal": "<p><strong>Are you sure about that?</p></strong>When it comes to rating risk, aspects like name and precise address have higher risks when talking about the health of individuals or households. While date of birth is personal, the risk of re-identification from this point alone is actually low, however the impact of it being tied to a person is high due to the use of this in many authentication systems, thus medium. The same argument applies for sex.</p><p>&nbsp;When considering data points that are not personal, there may still be risks. Although Profession is not personal data, we do run the risk of making an individual identifiable if we’re not careful - for example, how many mayors exist in any given town? The same could be said for post code. The risk is low in densely populated areas, but for more rural addresses it may not be unusual for a post code to only have a small number of addresses, possibly only one.&nbsp;</p>",
+        "final": "<p><strong>Are you sure about that?</p></strong>When it comes to rating risk, aspects like name and precise address have higher risks when talking about the health of individuals or households. While date of birth is personal, the risk of re-identification from this point alone is actually low, however the impact of it being tied to a person is high due to the use of this in many authentication systems, thus medium. The same argument applies for sex.</p><p>&nbsp;When considering data points that are not personal, there may still be risks. Although Profession is not personal data, we do run the risk of making an individual identifiable if we’re not careful - for example, how many mayors exist in any given town? The same could be said for post code. The risk is low in densely populated areas, but for more rural addresses it may not be unusual for a post code to only have a small number of addresses, possibly only one.&nbsp;</p>"
+      }
+    },
+    "_comment": "You only need to include _buttons if you want to override the button labels that are set in course.json",
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Submit",
+        "ariaLabel": "Select here to submit your answer."
+      },
+      "_reset": {
+        "buttonText": "Reset",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "Correct Answer",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "My Answer",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "Show feedback",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "attempts remaining",
+      "remainingAttemptText": "final attempt"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "aide-m4-o2-anon-data-c-16",
+    "_parentId": "aide-m4-o2-anon-data-b-16",
+    "_type": "component",
+    "_component": "accordion",
+    "_classes": "",
+    "_layout": "full",
+    "title": "STEP 4: Anonymise the data",
+    "displayTitle": "STEP 4: Anonymise the data",
+    "body": "<p>There are several ways to anonymise data including Suppression, Randomisation, Generalisation and Pseudonymisation. For the purposes of this module, we’re going to focus on Suppression and Generalisation.</p>",
+    "instruction": "Select the headings to find out more.",
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Suppression",
+        "body": "<p>Suppression simply involves removing data from the dataset, such as any identifier or person’s name. Suppression is best applied on any direct identifiers. It is important to carefully consider the use cases before simply deleting data, otherwise, the overuse of suppression is highly likely to reduce the utility of data.</p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "src": "course/en/images/example.jpg",
+          "alt": "",
+          "attribution": "Copyright © 2019"
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Generalisation",
+        "body": "<p>This approach consists of generalising or diluting the attributes of data by modifying the respective scale or order of magnitude (that is, a region rather than a city, a month rather than a week).</p><p>While generalisation can be effective to prevent re-identification, it does not allow effective anonymisation in all cases; in particular, it requires specific and sophisticated quantitative approaches to prevent linkability and inference.</p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "src": "course/en/images/example.jpg",
+          "alt": "",
+          "attribution": "Copyright © 2019"
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Randomisation",
+        "body": "<p>This method adds randomness to data while keeping it useful for analysis by maintaining statistical significance. For instance, in age data, randomisation means adding a random number to each person's age. This way, data stays useful but doesn't reveal exact details about individuals.&nbsp;</p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "src": "course/en/images/example.jpg",
+          "alt": "",
+          "attribution": "Copyright © 2019"
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Pseudonymisation ",
+        "body": "<p>This involves replacing sensitive data with pseudonyms or fake identifiers. Unlike other techniques, where data is made completely unidentifiable, pseudonymisation allows for reversible transformation. This means that the original data can be linked back to the pseudonyms using a special key or method known only to authorised users.&nbsp;</p><p>Pseudonymisation helps protect personal data while still allowing for data analysis and processing, making it a useful approach for balancing privacy and data usability. However, it’s important to note that pseudonymised data carries a higher risk of re-identification and therefore may not necessarily be the most appropriate practice for protecting an individual's privacy.&nbsp;</p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "src": "course/en/images/example.jpg",
+          "alt": "",
+          "attribution": "Copyright © 2019"
+        },
+        "_classes": ""
+      }
+    ],
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "aide-m4-o2-anon-data-c-17",
+    "_parentId": "aide-m4-o2-anon-data-b-17",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Application to our example dataset",
+    "displayTitle": "Application to our example dataset",
+    "body": "<p>If we were to suppress (remove) all the personal data, then this dataset would not be useful to fulfil any of our objectives. So, we need to consider other methods.</p><p>It may be useful to consider what needs to be kept to fulfil our objectives:</p><div>\n<table>\n<tbody>\n<tr>\n<td>Personal data field</td>\n<td>Objective #1</td>\n<td>Objective #2</td>\n</tr>\n<tr>\n<td>Name</td>\n<td>No</td>\n<td>No</td>\n</tr>\n<tr>\n<td>Sex</td>\n<td>Potentially useful</td>\n<td>Potentially useful</td>\n</tr>\n<tr>\n<td>Date of birth</td>\n<td>No</td>\n<td>Yes</td>\n</tr>\n<tr>\n<td>Address</td>\n<td>Yes</td>\n<td>Yes</td>\n</tr>\n<tr>\n<td>Postcode</td>\n<td>Yes</td>\n<td>Yes</td>\n</tr>\n</tbody>\n</table>\n</div><p>From this, it is clear we can suppress the person’s name.</p><p>At this point, while the person is not directly identifiable, a combination of the other characteristics will allow people to be re-identified easily, therefore we haven’t finished yet.</p><p>The next most identifiable piece of information is probably the exact address, given that only a small number of people will live at a single address. We can aggregate this information to anonymise it:</p><div>\n<table>\n<tbody>\n<tr>\n<td>Address (original)</td>\n<td>Address (anonymised)</td>\n</tr>\n<tr>\n<td>12 Penn Street, Barking, London</td>\n<td>Barking, London</td>\n</tr>\n<tr>\n<td>27 Penelope Drive, Eastbourne</td>\n<td>Eastbourne</td>\n</tr>\n<tr>\n<td>19 Barber Close, Matlock, Derby</td>\n<td>Matlock, Derby</td>\n</tr>\n<tr>\n<td>27 Diagon Alley, Tower Hamlets, London</td>\n<td>Tower Hamlets, London</td>\n</tr>\n<tr>\n<td>155 Mount Park, Shrewsbury</td>\n<td>Shrewsbury</td>\n</tr>\n<tr>\n<td><span style=\"color: #1f1f1f;\">17 Prestige Place, Ringwood</span></td>\n<td>Ringwood</td>\n</tr>\n</tbody>\n</table>\n</div><p>We could&nbsp; also do the same with the postcode, removing the last three digits to just identify regions in a city, for example, W1, W2 etc.</p><p>Aggregation can also be used to translate the date of birth into an age range, for example. 0–18,19–69,70–120.</p><div>\n<table>\n<tbody>\n<tr>\n<td>Date of birth (original)</td>\n<td>Age band (anonymised)</td>\n</tr>\n<tr>\n<td>2005-06-03</td>\n<td>0–18 years</td>\n</tr>\n<tr>\n<td>1949-11-10</td>\n<td>70–120 years</td>\n</tr>\n<tr>\n<td>1981-10-08</td>\n<td>19–69 years</td>\n</tr>\n<tr>\n<td>1946-02-28</td>\n<td>70–120 years</td>\n</tr>\n<tr>\n<td>1922-03-15</td>\n<td>70–120 years</td>\n</tr>\n</tbody>\n</table>\n</div><p>By applying anonymisation techniques we are able to ensure that the data shared complies with the law, but maintains its utility. By recognising what personal data is contained within our datasets we can decide on the appropriate anonymisation technique that enables us to meet our objectives.&nbsp;</p><p>In this example, in order to meet our objective:&nbsp;</p><p>“to report back on high level Covid infection statistics across county’s in the UK”,</p><p>we can apply anonymisation using suppression and simply remove identifiable data (i.e. the personal data) and generalise other data points by simplifying their location based data.&nbsp;</p><p>Apply anonymisation techniques to the NHS Synthetic Dataset. When you’re ready, review the model answer below.</p>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "aide-m4-o2-anon-data-c-18",
+    "_parentId": "aide-m4-o2-anon-data-b-18",
+    "_type": "component",
+    "_component": "accordion",
+    "_classes": "",
+    "_layout": "right",
+    "title": "Reviewing the model",
+    "displayTitle": "Reviewing the model",
+    "body": "<p><a href=\"https://docs.google.com/spreadsheets/d/1zNFWYXI1rRhbMEyZVLnkXFddYTe4BPfYO4RyFsu_p2w/edit?usp=drive_link\" target=\"_blank\" rel=\"noopener\">#DATA NHS synthetic data [Model Answer]</a></p><p>To anonymise the dataset we have undertaken the following activities:</p>",
+    "instruction": "Select the headings to find out more.",
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Suppressed the Name",
+        "body": "<p>&nbsp;(we’ve removed the column entirely)</p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "src": "course/en/images/example.jpg",
+          "alt": "",
+          "attribution": "Copyright © 2019"
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Generalised the address",
+        "body": "<p>by removing street names and home numbers, as well as the post code which now identifies an area of the UK, but not a specific street.&nbsp;</p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "src": "course/en/images/example.jpg",
+          "alt": "",
+          "attribution": "Copyright © 2019"
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Generalised the profession",
+        "body": "<p>You’ll see that only the job role of the mayor has been updated. Student, Retired, Gardener and Professor were deemed to be sufficiently broad. However, it is likely there will only be one mayor in an area and therefore this may lead to identification. You may have chosen to generalise these job roles, or remove them entirely as they are not directly related to our objective.&nbsp;</p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "src": "course/en/images/example.jpg",
+          "alt": "",
+          "attribution": "Copyright © 2019"
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Generalised the date of birth",
+        "body": "<p>In this example, we’ve used 0-18, 19-69 and 70-120. These are very broad categorisations. We could expand these into further groups to support a more granular analysis.&nbsp;</p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "src": "course/en/images/example.jpg",
+          "alt": "",
+          "attribution": "Copyright © 2019"
+        },
+        "_classes": ""
+      }
+    ],
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "aide-m4-o2-anon-data-c-19",
+    "_parentId": "aide-m4-o2-anon-data-b-19",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "left",
+    "title": "There is no right or wrong - it depends on the data set",
+    "displayTitle": "There is no right or wrong - it depends on the data set",
+    "body": "<p>&nbsp;there’s not necessarily a right or wrong answer when it comes to anonymisation techniques. The amount of anonymisation applied, and which technique is applied will be dependent on your dataset, your objective and most of all - the risk of re-identification.&nbsp;</p>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "aide-m4-o2-anon-data-c-20",
+    "_parentId": "aide-m4-o2-anon-data-b-20",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "right",
+    "title": "Synthetic data",
+    "displayTitle": "Synthetic data",
+    "body": "<p>What if your objective doesn’t require you to explicitly use personal data? The example above is synthetic data - that is, it’s been created. It’s not real.&nbsp;</p><p>A synthetic dataset contains many of the statistical patterns of an original dataset, but does not refer to identifiable individuals (for example it contains fictional people), thereby reducing the risk of re-identification. Intuitively, it is easy to see how this could enable the sharing or open release of data similar to very sensitive data, but with less risk of data protection infringement attached to it.</p><p>Explore some case studies in synthetic data:</p>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "aide-m4-o2-anon-data-c-21",
+    "_parentId": "aide-m4-o2-anon-data-b-21",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "left",
+    "title": "Synthetic data as training data for AI",
+    "displayTitle": "Synthetic data as training data for AI",
+    "body": "<p>One problem that can arise with AI systems is a lack of training data. For example, to train an AI to recognise defects from images of objects; it is first necessary to have images of defective objects. Rather than gather real world images, one potential is to create a synthetic dataset of objects with defects (ie. using CAD software).&nbsp;</p><p>This can then form 90% of the training data with real work data used to test accuracy. Additionally, the dataset can be created under controlled conditions, minimising a number of biases and speeding up collection.</p>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "aide-m4-o2-anon-data-c-22",
+    "_parentId": "aide-m4-o2-anon-data-b-22",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "right",
+    "title": "Diagnosing the NHS: SynÆ",
+    "displayTitle": "Diagnosing the NHS: SynÆ",
+    "body": "<p>NHS England recognises that data is useful. Summary data about A&amp;E departments of UK hospitals are big news. Waiting times data is <a href=\"https://www.kingsfund.org.uk/projects/urgent-emergency-care/urgent-and-emergency-care-mythbusters\" target=\"_blank\" rel=\"noopener\">analysed</a> and fills front pages, the TV, and the radio. Things get political very quickly.</p><p>But an average waiting time doesn't tell us much about what's really happening.</p><p>Who needed care? At what time? For what problem? And what happened as a result?</p><p>Detailed A&amp;E admissions data is far too sensitive to be made open. It is rightly afforded <a href=\"https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/lawful-basis-for-processing/special-category-data/\" target=\"_blank\" rel=\"noopener\">special category status within both the GDPR and The Data Protection Act 2018</a>.</p><p>Synthetic data provides a potential method through which statistically accurate data can be shared.&nbsp;</p><p>You can read more about the work of ODI Leeds and NHS England on creating synthetic A&amp;E data <a href=\"https://open-innovations.org/events/synae/\" target=\"_blank\" rel=\"noopener\">here</a> including detail on the <a href=\"https://open-innovations.org/blog/2019-01-24-exploring-methods-for-creating-synthetic-a-e-data\" target=\"_blank\" rel=\"noopener\">methodology</a>.</p>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "aide-m4-o2-anon-data-c-23",
+    "_parentId": "aide-m4-o2-anon-data-b-23",
+    "_type": "component",
+    "_component": "mcq",
+    "_classes": "",
+    "_layout": "left",
+    "title": "Data protection and anonymised/synthetic data?",
+    "displayTitle": "Data protection and anonymised/synthetic data?",
+    "body": "",
+    "instruction": "Choose one option then select Submit.",
+    "ariaQuestion": "Question text specifically for screen readers.",
+    "_attempts": 1,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_recordInteraction": true,
+    "_items": [
+      {
+        "text": "Yes",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "No",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false
+      }
+    ],
+    "_feedback": {
+      "correct": "<p><strong>That's right!</p></strong></p><p>Once the data is anonymised, data protection regulations no longer apply and data can be shared with others safely, even outside the geographical boundaries that may be imposed by data protection regulations.</p><p>However, this does not mean that the retention, use and sharing (or not sharing) of the data will be ethical, even if it is legal.</p>",
+      "_incorrect": {
+        "notFinal": "<p><strong>Are you sure about that?</p></strong></p><p>Once the data is anonymised, data protection regulations no longer apply and data can be shared with others safely, even outside the geographical boundaries that may be imposed by data protection regulations.</p><p>However, this does not mean that the retention, use and sharing (or not sharing) of the data will be ethical, even if it is legal.</p>",
+        "final": "<p><strong>Are you sure about that?</p></strong></p><p>Once the data is anonymised, data protection regulations no longer apply and data can be shared with others safely, even outside the geographical boundaries that may be imposed by data protection regulations.</p><p>However, this does not mean that the retention, use and sharing (or not sharing) of the data will be ethical, even if it is legal.</p>"
+      }
+    },
+    "_comment": "You only need to include _buttons if you want to override the button labels that are set in course.json",
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Submit",
+        "ariaLabel": "Select here to submit your answer."
+      },
+      "_reset": {
+        "buttonText": "Reset",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "Correct Answer",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "My Answer",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "Show feedback",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "attempts remaining",
+      "remainingAttemptText": "final attempt"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "aide-m4-o2-anon-data-c-24",
+    "_parentId": "aide-m4-o2-anon-data-b-24",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "STEP 5: Testing resilience",
+    "displayTitle": "STEP 5: Testing resilience",
+    "body": "<p>Application to our example dataset</p><p>Remember the questions:</p><ol>\n<li>Is it possible to single out an individual?</li>\n<li>Is it possible to link records relating to an individual using data already available to people?</li>\n<li>Can information be inferred concerning an individual within the same dataset?</li>\n</ol><p>Let’s apply these to the dataset:</p><div>\n<table>\n<tbody>\n<tr>\n<td><strong>Feature</strong></td>\n<td><strong>Example value</strong></td>\n<td><strong>Q1</strong></td>\n<td><strong>Q2</strong></td>\n<td><strong>Q3</strong></td>\n</tr>\n<tr>\n<td>Site Type</td>\n<td>111,999</td>\n<td>N</td>\n<td>N</td>\n<td>N</td>\n</tr>\n<tr>\n<td>Call date</td>\n<td>2020-03-19</td>\n<td>N</td>\n<td>N</td>\n<td>N</td>\n</tr>\n<tr>\n<td>Name</td>\n<td>Joe Bloggs</td>\n<td>REMOVED FROM DATA</td>\n</tr>\n<tr>\n<td>Date of Birth</td>\n<td>2005-06-03</td>\n<td>REMOVED FROM DATA</td>\n</tr>\n<tr>\n<td>Age Band</td>\n<td>0–18,19–69,70–120</td>\n<td>N</td>\n<td>N</td>\n<td>N</td>\n</tr>\n<tr>\n<td>Town/City</td>\n<td>Matlock</td>\n<td>N</td>\n<td>Potentially in some sparsely populated areas. Classifying as low risk.</td>\n<td>N</td>\n</tr>\n<tr>\n<td>Postcode area</td>\n<td>IG11</td>\n<td>N</td>\n<td>Potentially in some sparsely populated areas. Classifying as low risk.</td>\n<td>N</td>\n</tr>\n<tr>\n<td>Profession</td>\n<td>Student, Counselor</td>\n<td>N</td>\n<td>N</td>\n<td>N</td>\n</tr>\n</tbody>\n</table>\n</div><p>For this, it appears our anonymisation is good while preserving the objective. There are some acceptable risks associated with sparsely populated areas and we could choose to identify these and remove them from the dataset. In spreads of infections, measuring the spread in sparsely populated areas is not likely to be of significant interest.&nbsp;</p>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "aide-m4-o2-anon-data-c-25",
+    "_parentId": "aide-m4-o2-anon-data-b-25",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "left",
+    "title": "STEP 6: Write a plan to mitigate risk",
+    "displayTitle": "STEP 6: Write a plan to mitigate risk",
+    "body": "<p>Rather than apply and plan to mitigate risk regarding our dataset, we applied this step to the whole of this guide. The guide was reviewed internally by senior members of the ODI team prior to publication to ensure our advice is both accurate and set in the right tone that provides the right balance between risk and utility.</p><p>Although the dataset was synthetic, some of the data points, e.g. postcodes, are realistic and could actually exist. This led us to still evaluating the risks and documenting our decision making in Step 1.</p>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "aide-m4-o2-anon-data-c-26",
+    "_parentId": "aide-m4-o2-anon-data-b-26",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "right",
+    "title": "STEP 7: Publish the data, anonymisation details and risk assessment",
+    "displayTitle": "STEP 7: Publish the data, anonymisation details and risk assessment",
+    "body": "<p>This is hopefully exactly what this step by step example activity is.</p>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "aide-m4-o2-anon-data-c-27",
+    "_parentId": "aide-m4-o2-anon-data-b-27",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "left",
+    "title": "Supporting tools and guides",
+    "displayTitle": "Supporting tools and guides",
+    "body": "<ul>\n<li><a href=\"https://theodi.org/article/anonymising-data-in-times-of-crisis/\" target=\"_blank\" rel=\"noopener\">Anonymising data in times of crisis – The ODI</a></li>\n<li><a href=\"https://theodi.org/article/anonymisation-and-synthetic-data-towards-trustworthy-data/\" target=\"_blank\" rel=\"noopener\">Anonymisation and synthetic data: towards trustworthy data – The ODI</a></li>\n<li><a href=\"https://odileeds.org/blog/2019-02-01-anonimisation-and-re-identification\" target=\"_blank\" rel=\"noopener\">Anonymisation and re-identification - ODI Leeds</a></li>\n<li><a href=\"https://github.com/theodi/synthetic-data-tutorial\" target=\"_blank\" rel=\"noopener\">theodi/synthetic-data-tutorial: A hands-on tutorial showing how to use Python to do anonymisation with synthetic data - The ODI</a></li>\n</ul>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "aide-m4-o2-anon-data-c-28",
+    "_parentId": "aide-m4-o2-anon-data-b-28",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "right",
+    "title": "Summary",
+    "displayTitle": "Summary",
+    "body": "<p>Data is anonymised to protect an individuals' privacy. Anonymisation techniques are applied to personal or sensitive data, where there is a risk of re-identification and potential harm to an individual.</p><p>Anonymisation involves removing (suppression) or altering data (generalisation or randomisation) in a way that makes it impossible to identify specific individuals from the data. This process is crucial when sharing data for research, analysis, or other purposes, as it ensures that people's identities cannot be revealed.&nbsp;</p><p>Anonymised data helps prevent potential misuse, discrimination, or unauthorised access to sensitive information while still maintaining the utility of data and enabling organisations to use the data for valuable insights and decision-making.</p>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "aide-m4-o2-anon-data-g-1",
+    "_parentId": "aide-m4-o2-anon-data-b-1",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "intro-logo",
+    "_layout": "right",
+    "title": "Graphic for Introduction",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/ed8c41138dc38e9d42c4c464ef200a62b430716e.png",
+      "small": "course/en/assets/ed8c41138dc38e9d42c4c464ef200a62b430716e.png",
+      "attribution": "<a href=\"theodi.org\" target=\"_blank\">ODI</a> <span class='assetLicence'>[CC0]</span></div>",
+      "_url": "",
+      "_target": ""
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0,
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "aide-m4-o2-anon-data-g-3",
+    "_parentId": "aide-m4-o2-anon-data-b-3",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "right",
+    "title": "graphic for STEP 1: Establish the lawful and ethical basis",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "https://via.placeholder.com/600x400",
+      "small": "https://via.placeholder.com/600x400",
+      "attribution": "NO ATTRIBUTION",
+      "_url": "",
+      "_target": ""
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0,
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "aide-m4-o2-anon-data-g-5",
+    "_parentId": "aide-m4-o2-anon-data-b-5",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "right",
+    "title": "graphic for STEP 4: Anonymise personal data",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "https://via.placeholder.com/600x400",
+      "small": "https://via.placeholder.com/600x400",
+      "attribution": "NO ATTRIBUTION",
+      "_url": "",
+      "_target": ""
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0,
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "aide-m4-o2-anon-data-g-10",
+    "_parentId": "aide-m4-o2-anon-data-b-10",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "left",
+    "title": "graphic for Hands-on: Data anonymisation",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "https://via.placeholder.com/600x400",
+      "small": "https://via.placeholder.com/600x400",
+      "attribution": "NO ATTRIBUTION",
+      "_url": "",
+      "_target": ""
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0,
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+
+  {
+    "_id": "aide-m4-o2-anon-data-g-12",
+    "_parentId": "aide-m4-o2-anon-data-b-12",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "left",
+    "title": "graphic for STEP 2: Set objectives",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "https://via.placeholder.com/600x400",
+      "small": "https://via.placeholder.com/600x400",
+      "attribution": "NO ATTRIBUTION",
+      "_url": "",
+      "_target": ""
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0,
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "aide-m4-o2-anon-data-g-18",
+    "_parentId": "aide-m4-o2-anon-data-b-18",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "left",
+    "title": "graphic for Reviewing the model",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "https://via.placeholder.com/600x400",
+      "small": "https://via.placeholder.com/600x400",
+      "attribution": "NO ATTRIBUTION",
+      "_url": "",
+      "_target": ""
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0,
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "aide-m4-o2-anon-data-g-19",
+    "_parentId": "aide-m4-o2-anon-data-b-19",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "right",
+    "title": "graphic for There is no right or wrong - it depends on the data set",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "https://via.placeholder.com/600x400",
+      "small": "https://via.placeholder.com/600x400",
+      "attribution": "NO ATTRIBUTION",
+      "_url": "",
+      "_target": ""
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0,
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "aide-m4-o2-anon-data-g-20",
+    "_parentId": "aide-m4-o2-anon-data-b-20",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "left",
+    "title": "graphic for Synthetic data",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "https://via.placeholder.com/600x400",
+      "small": "https://via.placeholder.com/600x400",
+      "attribution": "NO ATTRIBUTION",
+      "_url": "",
+      "_target": ""
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0,
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "aide-m4-o2-anon-data-g-21",
+    "_parentId": "aide-m4-o2-anon-data-b-21",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "right",
+    "title": "graphic for Synthetic data as training data for AI",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "https://via.placeholder.com/600x400",
+      "small": "https://via.placeholder.com/600x400",
+      "attribution": "NO ATTRIBUTION",
+      "_url": "",
+      "_target": ""
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0,
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "aide-m4-o2-anon-data-g-22",
+    "_parentId": "aide-m4-o2-anon-data-b-22",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "left",
+    "title": "graphic for Diagnosing the NHS: SynÆ",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "https://via.placeholder.com/600x400",
+      "small": "https://via.placeholder.com/600x400",
+      "attribution": "NO ATTRIBUTION",
+      "_url": "",
+      "_target": ""
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0,
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "aide-m4-o2-anon-data-g-23",
+    "_parentId": "aide-m4-o2-anon-data-b-23",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "right",
+    "title": "graphic for Data protection and anonymised/synthetic data",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "https://via.placeholder.com/600x400",
+      "small": "https://via.placeholder.com/600x400",
+      "attribution": "NO ATTRIBUTION",
+      "_url": "",
+      "_target": ""
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0,
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "aide-m4-o2-anon-data-g-25",
+    "_parentId": "aide-m4-o2-anon-data-b-25",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "right",
+    "title": "graphic for STEP 6: Write a plan to mitigate risk",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "https://via.placeholder.com/600x400",
+      "small": "https://via.placeholder.com/600x400",
+      "attribution": "NO ATTRIBUTION",
+      "_url": "",
+      "_target": ""
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0,
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "aide-m4-o2-anon-data-g-26",
+    "_parentId": "aide-m4-o2-anon-data-b-26",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "left",
+    "title": "graphic for STEP 7: Publish the data, anonymisation details and risk assessment",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "https://via.placeholder.com/600x400",
+      "small": "https://via.placeholder.com/600x400",
+      "attribution": "NO ATTRIBUTION",
+      "_url": "",
+      "_target": ""
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0,
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "aide-m4-o2-anon-data-g-27",
+    "_parentId": "aide-m4-o2-anon-data-b-27",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "right",
+    "title": "graphic for Supporting tools and guides",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "https://via.placeholder.com/600x400",
+      "small": "https://via.placeholder.com/600x400",
+      "attribution": "NO ATTRIBUTION",
+      "_url": "",
+      "_target": ""
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0,
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "aide-m4-o2-anon-data-g-28",
+    "_parentId": "aide-m4-o2-anon-data-b-28",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "left",
+    "title": "graphic for Summary",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "https://via.placeholder.com/600x400",
+      "small": "https://via.placeholder.com/600x400",
+      "attribution": "NO ATTRIBUTION",
+      "_url": "",
+      "_target": ""
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0,
+    "_pageLevelProgress": {
+      "_isEnabled": true
     }
   }
 ]

@@ -1,1 +1,1860 @@
-[{"title":"Trialogue","displayTitle":"","body":"","_classes":"","_trackingId":1000,"instruction":"","_isOptional":false,"_isAvailable":true,"_isHidden":false,"_isVisible":true,"_requireCompletionOf":-1,"_ariaLevel":0,"_id":"expb-20","_parentId":"expa-20","_type":"block","_trickle":{"_isEnabled":false,"_isInherited":false,"_autoScroll":false,"_scrollDuration":500,"_scrollTo":"@block +1","_completionAttribute":"_isComplete","_button":{"_isEnabled":true,"_styleBeforeCompletion":"hidden","_styleAfterClick":"hidden","_isFullWidth":true,"_autoHide":false,"_showEndOfPage":true,"_className":"","_hasIcon":false,"text":"Continue","ariaLabel":"Continue","startText":"Begin","startAriaLabel":"Begin","finalText":"Finish","finalAriaLabel":"Finish","_component":"trickle-button"},"_stepLocking":{"_isEnabled":true,"_isCompletionRequired":true,"_isLockedOnRevisit":false}},"_pageLevelProgress":{"_isEnabled":false,"_isCompletionIndicatorEnabled":false},"_assessment":{"_quizBankID":1}},{"title":"New Component Title","displayTitle":"","body":"","_classes":"","_trackingId":1,"instruction":"","_isOptional":false,"_isAvailable":true,"_isHidden":false,"_isVisible":true,"_requireCompletionOf":-1,"_ariaLevel":0,"_id":"64d34a4dd9db5173efdc23f9","_parentId":"64d34a4dd9db5173efdc23f8","_type":"block","_trickle":{"_isEnabled":false,"_isInherited":false,"_autoScroll":false,"_scrollDuration":500,"_scrollTo":"@block +1","_completionAttribute":"_isComplete","_button":{"_isEnabled":true,"_styleBeforeCompletion":"hidden","_styleAfterClick":"hidden","_isFullWidth":true,"_autoHide":false,"_showEndOfPage":true,"_className":"","_hasIcon":false,"text":"Continue","ariaLabel":"Continue","startText":"Begin","startAriaLabel":"Begin","finalText":"Finish","finalAriaLabel":"Finish","_component":"trickle-button"},"_stepLocking":{"_isEnabled":true,"_isCompletionRequired":true,"_isLockedOnRevisit":false}},"_pageLevelProgress":{"_isEnabled":false,"_isCompletionIndicatorEnabled":false},"_assessment":{"_quizBankID":1}},{"title":"New Component Title","displayTitle":"","body":"","_classes":"","_trackingId":2,"instruction":"","_isOptional":false,"_isAvailable":true,"_isHidden":false,"_isVisible":true,"_requireCompletionOf":-1,"_ariaLevel":0,"_id":"64d34a4fd9db5173efdc23fc","_parentId":"64d34a4fd9db5173efdc23fb","_type":"block","_trickle":{"_isEnabled":false,"_isInherited":false,"_autoScroll":false,"_scrollDuration":500,"_scrollTo":"@block +1","_completionAttribute":"_isComplete","_button":{"_isEnabled":true,"_styleBeforeCompletion":"hidden","_styleAfterClick":"hidden","_isFullWidth":true,"_autoHide":false,"_showEndOfPage":true,"_className":"","_hasIcon":false,"text":"Continue","ariaLabel":"Continue","startText":"Begin","startAriaLabel":"Begin","finalText":"Finish","finalAriaLabel":"Finish","_component":"trickle-button"},"_stepLocking":{"_isEnabled":true,"_isCompletionRequired":true,"_isLockedOnRevisit":false}},"_pageLevelProgress":{"_isEnabled":false,"_isCompletionIndicatorEnabled":false},"_assessment":{"_quizBankID":1}},{"title":"New Component Title","displayTitle":"","body":"","_classes":"","_trackingId":3,"instruction":"","_isOptional":false,"_isAvailable":true,"_isHidden":false,"_isVisible":true,"_requireCompletionOf":-1,"_ariaLevel":0,"_id":"64d34a50d9db5173efdc23ff","_parentId":"64d34a50d9db5173efdc23fe","_type":"block","_trickle":{"_isEnabled":false,"_isInherited":false,"_autoScroll":false,"_scrollDuration":500,"_scrollTo":"@block +1","_completionAttribute":"_isComplete","_button":{"_isEnabled":true,"_styleBeforeCompletion":"hidden","_styleAfterClick":"hidden","_isFullWidth":true,"_autoHide":false,"_showEndOfPage":true,"_className":"","_hasIcon":false,"text":"Continue","ariaLabel":"Continue","startText":"Begin","startAriaLabel":"Begin","finalText":"Finish","finalAriaLabel":"Finish","_component":"trickle-button"},"_stepLocking":{"_isEnabled":true,"_isCompletionRequired":true,"_isLockedOnRevisit":false}},"_pageLevelProgress":{"_isEnabled":false,"_isCompletionIndicatorEnabled":false},"_assessment":{"_quizBankID":1}},{"title":"New Component Title","displayTitle":"","body":"","_classes":"","_trackingId":4,"instruction":"","_isOptional":false,"_isAvailable":true,"_isHidden":false,"_isVisible":true,"_requireCompletionOf":-1,"_ariaLevel":0,"_id":"64d34ce4d9db5173efdc2417","_parentId":"64d34ce4d9db5173efdc2416","_type":"block","_trickle":{"_isEnabled":false,"_isInherited":false,"_autoScroll":false,"_scrollDuration":500,"_scrollTo":"@block +1","_completionAttribute":"_isComplete","_button":{"_isEnabled":true,"_styleBeforeCompletion":"hidden","_styleAfterClick":"hidden","_isFullWidth":true,"_autoHide":false,"_showEndOfPage":true,"_className":"","_hasIcon":false,"text":"Continue","ariaLabel":"Continue","startText":"Begin","startAriaLabel":"Begin","finalText":"Finish","finalAriaLabel":"Finish","_component":"trickle-button"},"_stepLocking":{"_isEnabled":true,"_isCompletionRequired":true,"_isLockedOnRevisit":false}},"_pageLevelProgress":{"_isEnabled":false,"_isCompletionIndicatorEnabled":false},"_assessment":{"_quizBankID":1}},{"title":"New Component Title","displayTitle":"","body":"","_classes":"","_trackingId":5,"instruction":"","_isOptional":false,"_isAvailable":true,"_isHidden":false,"_isVisible":true,"_requireCompletionOf":-1,"_ariaLevel":0,"_id":"64d34cf8d9db5173efdc241a","_parentId":"64d34cf8d9db5173efdc2419","_type":"block","_trickle":{"_isEnabled":false,"_isInherited":false,"_autoScroll":false,"_scrollDuration":500,"_scrollTo":"@block +1","_completionAttribute":"_isComplete","_button":{"_isEnabled":true,"_styleBeforeCompletion":"hidden","_styleAfterClick":"hidden","_isFullWidth":true,"_autoHide":false,"_showEndOfPage":true,"_className":"","_hasIcon":false,"text":"Continue","ariaLabel":"Continue","startText":"Begin","startAriaLabel":"Begin","finalText":"Finish","finalAriaLabel":"Finish","_component":"trickle-button"},"_stepLocking":{"_isEnabled":true,"_isCompletionRequired":true,"_isLockedOnRevisit":false}},"_pageLevelProgress":{"_isEnabled":false,"_isCompletionIndicatorEnabled":false},"_assessment":{"_quizBankID":1}},{"title":"Introduction","displayTitle":"Why is data ethics important?","body":"","_classes":"","_trackingId":1009,"instruction":"","_isOptional":false,"_isAvailable":true,"_isHidden":false,"_isVisible":true,"_requireCompletionOf":-1,"_ariaLevel":0,"_id":"b-1","_parentId":"64d362a8d9db5173efdc241d","_type":"block","_onScreen":{"_isEnabled":false,"_classes":"","_percentInviewVertical":50},"_assessment":{"_quizBankID":1},"_pageLevelProgress":{"_isEnabled":true,"_isCompletionIndicatorEnabled":true}},{"title":"LO's","displayTitle":"","body":"","_classes":"","_trackingId":1019,"instruction":"","_isOptional":false,"_isAvailable":true,"_isHidden":false,"_isVisible":true,"_requireCompletionOf":-1,"_ariaLevel":0,"_id":"b-20","_parentId":"64d362a8d9db5173efdc241d","_type":"block","_onScreen":{"_isEnabled":false,"_classes":"","_percentInviewVertical":50},"_assessment":{"_quizBankID":1},"_pageLevelProgress":{"_isEnabled":true,"_isCompletionIndicatorEnabled":true}},{"title":"What is data ethics?","displayTitle":"","body":"","_classes":"","_trackingId":1010,"instruction":"","_isOptional":false,"_isAvailable":true,"_isHidden":false,"_isVisible":true,"_requireCompletionOf":-1,"_ariaLevel":0,"_id":"b-2","_parentId":"64d362a8d9db5173efdc241d","_type":"block","_onScreen":{"_isEnabled":false,"_classes":"","_percentInviewVertical":50},"_assessment":{"_quizBankID":1},"_pageLevelProgress":{"_isEnabled":true,"_isCompletionIndicatorEnabled":true}},{"title":"The Data Lifecycle and the changing nature of data ethics","displayTitle":"The Data Lifecycle and the changing nature of data ethics","body":"","_classes":"","_trackingId":1011,"instruction":"","_isOptional":false,"_isAvailable":true,"_isHidden":false,"_isVisible":true,"_requireCompletionOf":-1,"_ariaLevel":0,"_id":"b-3","_parentId":"64d362a8d9db5173efdc241d","_type":"block","_onScreen":{"_isEnabled":false,"_classes":"","_percentInviewVertical":50},"_assessment":{"_quizBankID":1},"_pageLevelProgress":{"_isEnabled":true,"_isCompletionIndicatorEnabled":true}},{"title":"Why is data ethics important?","displayTitle":"Why is data ethics important?","body":"","_classes":"","_trackingId":1012,"instruction":"","_isOptional":false,"_isAvailable":true,"_isHidden":false,"_isVisible":true,"_requireCompletionOf":-1,"_ariaLevel":0,"_id":"b-4","_parentId":"64d362a8d9db5173efdc241d","_type":"block","_onScreen":{"_isEnabled":false,"_classes":"","_percentInviewVertical":50},"_assessment":{"_quizBankID":1},"_pageLevelProgress":{"_isEnabled":true,"_isCompletionIndicatorEnabled":true}},{"title":"Accordion","displayTitle":"","body":"","_classes":"","_trackingId":1013,"instruction":"","_isOptional":false,"_isAvailable":true,"_isHidden":false,"_isVisible":true,"_requireCompletionOf":-1,"_ariaLevel":0,"_id":"b-5","_parentId":"64d362a8d9db5173efdc241d","_type":"block","_onScreen":{"_isEnabled":false,"_classes":"","_percentInviewVertical":50},"_assessment":{"_quizBankID":1},"_pageLevelProgress":{"_isEnabled":true,"_isCompletionIndicatorEnabled":true}},{"title":"So, why is data ethics important?","displayTitle":"So, why is data ethics important?","body":"","_classes":"","_trackingId":6,"instruction":"","_isOptional":false,"_isAvailable":true,"_isHidden":false,"_isVisible":true,"_requireCompletionOf":-1,"_ariaLevel":0,"_id":"b-6","_parentId":"64d362a8d9db5173efdc241d","_type":"block","_onScreen":{"_isEnabled":false,"_classes":"","_percentInviewVertical":50},"_assessment":{"_quizBankID":1},"_pageLevelProgress":{"_isEnabled":true,"_isCompletionIndicatorEnabled":true}},{"title":"Accordion","displayTitle":"","body":"","_classes":"","_trackingId":7,"instruction":"","_isOptional":false,"_isAvailable":true,"_isHidden":false,"_isVisible":true,"_requireCompletionOf":-1,"_ariaLevel":0,"_id":"b-7","_parentId":"64d362a8d9db5173efdc241d","_type":"block","_onScreen":{"_isEnabled":false,"_classes":"","_percentInviewVertical":50},"_assessment":{"_quizBankID":1},"_pageLevelProgress":{"_isEnabled":true,"_isCompletionIndicatorEnabled":true}},{"title":"Is data ethics important, or is it critical?","displayTitle":"","body":"","_classes":"","_trackingId":8,"instruction":"","_isOptional":false,"_isAvailable":true,"_isHidden":false,"_isVisible":true,"_requireCompletionOf":-1,"_ariaLevel":0,"_id":"b-8","_parentId":"64d362a8d9db5173efdc241d","_type":"block","_onScreen":{"_isEnabled":false,"_classes":"","_percentInviewVertical":50},"_assessment":{"_quizBankID":1},"_pageLevelProgress":{"_isEnabled":true,"_isCompletionIndicatorEnabled":true}},{"title":"Summary","displayTitle":"","body":"","_classes":"","_trackingId":9,"instruction":"","_isOptional":false,"_isAvailable":true,"_isHidden":false,"_isVisible":true,"_requireCompletionOf":-1,"_ariaLevel":0,"_id":"b-9","_parentId":"64d362a8d9db5173efdc241d","_type":"block","_onScreen":{"_isEnabled":false,"_classes":"","_percentInviewVertical":50},"_assessment":{"_quizBankID":1},"_pageLevelProgress":{"_isEnabled":true,"_isCompletionIndicatorEnabled":true}},{"title":"New Component Title","displayTitle":"","body":"","_classes":"","_trackingId":1014,"instruction":"","_isOptional":false,"_isAvailable":true,"_isHidden":false,"_isVisible":true,"_requireCompletionOf":-1,"_ariaLevel":0,"_id":"64d362b5d9db5173efdc2422","_parentId":"64d362b5d9db5173efdc2421","_type":"block","_trickle":{"_isEnabled":false,"_isInherited":false,"_autoScroll":false,"_scrollDuration":500,"_scrollTo":"@block +1","_completionAttribute":"_isComplete","_button":{"_isEnabled":true,"_styleBeforeCompletion":"hidden","_styleAfterClick":"hidden","_isFullWidth":true,"_autoHide":false,"_showEndOfPage":true,"_className":"","_hasIcon":false,"text":"Continue","ariaLabel":"Continue","startText":"Begin","startAriaLabel":"Begin","finalText":"Finish","finalAriaLabel":"Finish","_component":"trickle-button"},"_stepLocking":{"_isEnabled":true,"_isCompletionRequired":true,"_isLockedOnRevisit":false}},"_pageLevelProgress":{"_isEnabled":false,"_isCompletionIndicatorEnabled":false},"_assessment":{"_quizBankID":1}},{"title":"New Component Title","displayTitle":"","body":"","_classes":"","_trackingId":1015,"instruction":"","_isOptional":false,"_isAvailable":true,"_isHidden":false,"_isVisible":true,"_requireCompletionOf":-1,"_ariaLevel":0,"_id":"64d3638bd9db5173efdc242a","_parentId":"64d3638bd9db5173efdc2429","_type":"block","_trickle":{"_isEnabled":false,"_isInherited":false,"_autoScroll":false,"_scrollDuration":500,"_scrollTo":"@block +1","_completionAttribute":"_isComplete","_button":{"_isEnabled":true,"_styleBeforeCompletion":"hidden","_styleAfterClick":"hidden","_isFullWidth":true,"_autoHide":false,"_showEndOfPage":true,"_className":"","_hasIcon":false,"text":"Continue","ariaLabel":"Continue","startText":"Begin","startAriaLabel":"Begin","finalText":"Finish","finalAriaLabel":"Finish","_component":"trickle-button"},"_stepLocking":{"_isEnabled":true,"_isCompletionRequired":true,"_isLockedOnRevisit":false}},"_pageLevelProgress":{"_isEnabled":false,"_isCompletionIndicatorEnabled":false},"_assessment":{"_quizBankID":1}},{"title":"New Component Title","displayTitle":"","body":"","_classes":"","_trackingId":1016,"instruction":"","_isOptional":false,"_isAvailable":true,"_isHidden":false,"_isVisible":true,"_requireCompletionOf":-1,"_ariaLevel":0,"_id":"64d363abd9db5173efdc2430","_parentId":"64d363abd9db5173efdc242f","_type":"block","_trickle":{"_isEnabled":false,"_isInherited":false,"_autoScroll":false,"_scrollDuration":500,"_scrollTo":"@block +1","_completionAttribute":"_isComplete","_button":{"_isEnabled":true,"_styleBeforeCompletion":"hidden","_styleAfterClick":"hidden","_isFullWidth":true,"_autoHide":false,"_showEndOfPage":true,"_className":"","_hasIcon":false,"text":"Continue","ariaLabel":"Continue","startText":"Begin","startAriaLabel":"Begin","finalText":"Finish","finalAriaLabel":"Finish","_component":"trickle-button"},"_stepLocking":{"_isEnabled":true,"_isCompletionRequired":true,"_isLockedOnRevisit":false}},"_pageLevelProgress":{"_isEnabled":false,"_isCompletionIndicatorEnabled":false},"_assessment":{"_quizBankID":1}},{"title":"New Component Title","displayTitle":"","body":"","_classes":"","_trackingId":10,"instruction":"","_isOptional":false,"_isAvailable":true,"_isHidden":false,"_isVisible":true,"_requireCompletionOf":-1,"_ariaLevel":0,"_id":"64d363b7d9db5173efdc2434","_parentId":"64d363b7d9db5173efdc2433","_type":"block","_trickle":{"_isEnabled":false,"_isInherited":false,"_autoScroll":false,"_scrollDuration":500,"_scrollTo":"@block +1","_completionAttribute":"_isComplete","_button":{"_isEnabled":true,"_styleBeforeCompletion":"hidden","_styleAfterClick":"hidden","_isFullWidth":true,"_autoHide":false,"_showEndOfPage":true,"_className":"","_hasIcon":false,"text":"Continue","ariaLabel":"Continue","startText":"Begin","startAriaLabel":"Begin","finalText":"Finish","finalAriaLabel":"Finish","_component":"trickle-button"},"_stepLocking":{"_isEnabled":true,"_isCompletionRequired":true,"_isLockedOnRevisit":false}},"_pageLevelProgress":{"_isEnabled":false,"_isCompletionIndicatorEnabled":false},"_assessment":{"_quizBankID":1}},{"title":"New Component Title","displayTitle":"","body":"","_classes":"","_trackingId":11,"instruction":"","_isOptional":false,"_isAvailable":true,"_isHidden":false,"_isVisible":true,"_requireCompletionOf":-1,"_ariaLevel":0,"_id":"64d363bfd9db5173efdc2438","_parentId":"64d363bfd9db5173efdc2437","_type":"block","_trickle":{"_isEnabled":false,"_isInherited":false,"_autoScroll":false,"_scrollDuration":500,"_scrollTo":"@block +1","_completionAttribute":"_isComplete","_button":{"_isEnabled":true,"_styleBeforeCompletion":"hidden","_styleAfterClick":"hidden","_isFullWidth":true,"_autoHide":false,"_showEndOfPage":true,"_className":"","_hasIcon":false,"text":"Continue","ariaLabel":"Continue","startText":"Begin","startAriaLabel":"Begin","finalText":"Finish","finalAriaLabel":"Finish","_component":"trickle-button"},"_stepLocking":{"_isEnabled":true,"_isCompletionRequired":true,"_isLockedOnRevisit":false}},"_pageLevelProgress":{"_isEnabled":false,"_isCompletionIndicatorEnabled":false},"_assessment":{"_quizBankID":1}},{"title":"New Component Title","displayTitle":"","body":"","_classes":"","_trackingId":12,"instruction":"","_isOptional":false,"_isAvailable":true,"_isHidden":false,"_isVisible":true,"_requireCompletionOf":-1,"_ariaLevel":0,"_id":"64d363f2d9db5173efdc243c","_parentId":"64d363f2d9db5173efdc243b","_type":"block","_trickle":{"_isEnabled":false,"_isInherited":false,"_autoScroll":false,"_scrollDuration":500,"_scrollTo":"@block +1","_completionAttribute":"_isComplete","_button":{"_isEnabled":true,"_styleBeforeCompletion":"hidden","_styleAfterClick":"hidden","_isFullWidth":true,"_autoHide":false,"_showEndOfPage":true,"_className":"","_hasIcon":false,"text":"Continue","ariaLabel":"Continue","startText":"Begin","startAriaLabel":"Begin","finalText":"Finish","finalAriaLabel":"Finish","_component":"trickle-button"},"_stepLocking":{"_isEnabled":true,"_isCompletionRequired":true,"_isLockedOnRevisit":false}},"_pageLevelProgress":{"_isEnabled":false,"_isCompletionIndicatorEnabled":false},"_assessment":{"_quizBankID":1}},{"title":"New Component Title","displayTitle":"","body":"","_classes":"","_trackingId":13,"instruction":"","_isOptional":false,"_isAvailable":true,"_isHidden":false,"_isVisible":true,"_requireCompletionOf":-1,"_ariaLevel":0,"_id":"64d363fcd9db5173efdc2440","_parentId":"64d363fcd9db5173efdc243f","_type":"block","_trickle":{"_isEnabled":false,"_isInherited":false,"_autoScroll":false,"_scrollDuration":500,"_scrollTo":"@block +1","_completionAttribute":"_isComplete","_button":{"_isEnabled":true,"_styleBeforeCompletion":"hidden","_styleAfterClick":"hidden","_isFullWidth":true,"_autoHide":false,"_showEndOfPage":true,"_className":"","_hasIcon":false,"text":"Continue","ariaLabel":"Continue","startText":"Begin","startAriaLabel":"Begin","finalText":"Finish","finalAriaLabel":"Finish","_component":"trickle-button"},"_stepLocking":{"_isEnabled":true,"_isCompletionRequired":true,"_isLockedOnRevisit":false}},"_pageLevelProgress":{"_isEnabled":false,"_isCompletionIndicatorEnabled":false},"_assessment":{"_quizBankID":1}},{"title":"New Component Title","displayTitle":"","body":"","_classes":"","_trackingId":14,"instruction":"","_isOptional":false,"_isAvailable":true,"_isHidden":false,"_isVisible":true,"_requireCompletionOf":-1,"_ariaLevel":0,"_id":"64d36406d9db5173efdc2444","_parentId":"64d36406d9db5173efdc2443","_type":"block","_trickle":{"_isEnabled":false,"_isInherited":false,"_autoScroll":false,"_scrollDuration":500,"_scrollTo":"@block +1","_completionAttribute":"_isComplete","_button":{"_isEnabled":true,"_styleBeforeCompletion":"hidden","_styleAfterClick":"hidden","_isFullWidth":true,"_autoHide":false,"_showEndOfPage":true,"_className":"","_hasIcon":false,"text":"Continue","ariaLabel":"Continue","startText":"Begin","startAriaLabel":"Begin","finalText":"Finish","finalAriaLabel":"Finish","_component":"trickle-button"},"_stepLocking":{"_isEnabled":true,"_isCompletionRequired":true,"_isLockedOnRevisit":false}},"_pageLevelProgress":{"_isEnabled":false,"_isCompletionIndicatorEnabled":false},"_assessment":{"_quizBankID":1}},{"title":"New Component Title","displayTitle":"","body":"","_classes":"","_trackingId":15,"instruction":"","_isOptional":false,"_isAvailable":true,"_isHidden":false,"_isVisible":true,"_requireCompletionOf":-1,"_ariaLevel":0,"_id":"64d3640ed9db5173efdc2448","_parentId":"64d3640ed9db5173efdc2447","_type":"block","_trickle":{"_isEnabled":false,"_isInherited":false,"_autoScroll":false,"_scrollDuration":500,"_scrollTo":"@block +1","_completionAttribute":"_isComplete","_button":{"_isEnabled":true,"_styleBeforeCompletion":"hidden","_styleAfterClick":"hidden","_isFullWidth":true,"_autoHide":false,"_showEndOfPage":true,"_className":"","_hasIcon":false,"text":"Continue","ariaLabel":"Continue","startText":"Begin","startAriaLabel":"Begin","finalText":"Finish","finalAriaLabel":"Finish","_component":"trickle-button"},"_stepLocking":{"_isEnabled":true,"_isCompletionRequired":true,"_isLockedOnRevisit":false}},"_pageLevelProgress":{"_isEnabled":false,"_isCompletionIndicatorEnabled":false},"_assessment":{"_quizBankID":1}}]
+[
+  {
+    "title": "Trialogue",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 1,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "expb-20",
+    "_parentId": "expa-20",
+    "_type": "block",
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 2,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "64d34a4dd9db5173efdc23f9",
+    "_parentId": "64d34a4dd9db5173efdc23f8",
+    "_type": "block",
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 3,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "64d34a4fd9db5173efdc23fc",
+    "_parentId": "64d34a4fd9db5173efdc23fb",
+    "_type": "block",
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 4,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "64d34a50d9db5173efdc23ff",
+    "_parentId": "64d34a50d9db5173efdc23fe",
+    "_type": "block",
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 5,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "64d34ce4d9db5173efdc2417",
+    "_parentId": "64d34ce4d9db5173efdc2416",
+    "_type": "block",
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 6,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "64d34cf8d9db5173efdc241a",
+    "_parentId": "64d34cf8d9db5173efdc2419",
+    "_type": "block",
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Introduction",
+    "displayTitle": "Why is data ethics important?",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 7,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "b-1",
+    "_parentId": "64d362a8d9db5173efdc241d",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "LO's",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 8,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "b-20",
+    "_parentId": "64d362a8d9db5173efdc241d",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "What is data ethics?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 9,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "b-2",
+    "_parentId": "64d362a8d9db5173efdc241d",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "The Data Lifecycle and the changing nature of data ethics",
+    "displayTitle": "The Data Lifecycle and the changing nature of data ethics",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 10,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "b-3",
+    "_parentId": "64d362a8d9db5173efdc241d",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "Why is data ethics important?",
+    "displayTitle": "Why is data ethics important?",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 11,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "b-4",
+    "_parentId": "64d362a8d9db5173efdc241d",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "Accordion",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 12,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "b-5",
+    "_parentId": "64d362a8d9db5173efdc241d",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "So, why is data ethics important?",
+    "displayTitle": "So, why is data ethics important?",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 13,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "b-6",
+    "_parentId": "64d362a8d9db5173efdc241d",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "Accordion",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 14,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "b-7",
+    "_parentId": "64d362a8d9db5173efdc241d",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "Is data ethics important, or is it critical?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 15,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "b-8",
+    "_parentId": "64d362a8d9db5173efdc241d",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "Summary",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 16,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "b-9",
+    "_parentId": "64d362a8d9db5173efdc241d",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 17,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "64d362b5d9db5173efdc2422",
+    "_parentId": "64d362b5d9db5173efdc2421",
+    "_type": "block",
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 19,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "64d363abd9db5173efdc2430",
+    "_parentId": "64d363abd9db5173efdc242f",
+    "_type": "block",
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 20,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "64d363b7d9db5173efdc2434",
+    "_parentId": "64d363b7d9db5173efdc2433",
+    "_type": "block",
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 21,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "64d363bfd9db5173efdc2438",
+    "_parentId": "64d363bfd9db5173efdc2437",
+    "_type": "block",
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 22,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "64d363f2d9db5173efdc243c",
+    "_parentId": "64d363f2d9db5173efdc243b",
+    "_type": "block",
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 23,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "64d363fcd9db5173efdc2440",
+    "_parentId": "64d363fcd9db5173efdc243f",
+    "_type": "block",
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 24,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "64d36406d9db5173efdc2444",
+    "_parentId": "64d36406d9db5173efdc2443",
+    "_type": "block",
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 25,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "64d3640ed9db5173efdc2448",
+    "_parentId": "64d3640ed9db5173efdc2447",
+    "_type": "block",
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Increasing the utility of data, whilst protecting individual rights",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 26,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m4-o2-anon-data-b-1",
+    "_parentId": "64d3638bd9db5173efdc2429",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "Anonymisation in 7-steps",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 27,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m4-o2-anon-data-b-2",
+    "_parentId": "64d3638bd9db5173efdc2429",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "STEP 1: Establish the lawful and ethical basis",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 28,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m4-o2-anon-data-b-3",
+    "_parentId": "64d3638bd9db5173efdc2429",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "STEP 2: Set objectives",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 29,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m4-o2-anon-data-b-4",
+    "_parentId": "64d3638bd9db5173efdc2429",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "STEP 3: Assess risk",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 30,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m4-o2-anon-data-b-5",
+    "_parentId": "64d3638bd9db5173efdc2429",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "STEP 4: Anonymise personal data",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 31,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m4-o2-anon-data-b-6",
+    "_parentId": "64d3638bd9db5173efdc2429",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "STEP 5: Testing resilience",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 32,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m4-o2-anon-data-b-7",
+    "_parentId": "64d3638bd9db5173efdc2429",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "STEP 6: Write a plan to mitigate risk",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 33,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m4-o2-anon-data-b-8",
+    "_parentId": "64d3638bd9db5173efdc2429",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "STEP 7: Publish the data, anonymisation details and risk assessment",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 34,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m4-o2-anon-data-b-9",
+    "_parentId": "64d3638bd9db5173efdc2429",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "Hands-on: Data anonymisation",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 35,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m4-o2-anon-data-b-10",
+    "_parentId": "64d3638bd9db5173efdc2429",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "STEP 1: Establish the lawful and ethical basis",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 36,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m4-o2-anon-data-b-11",
+    "_parentId": "64d3638bd9db5173efdc2429",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "STEP 2: Set objectives",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 37,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m4-o2-anon-data-b-12",
+    "_parentId": "64d3638bd9db5173efdc2429",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "STEP 3: Assess risk",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 38,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m4-o2-anon-data-b-13",
+    "_parentId": "64d3638bd9db5173efdc2429",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "Which data points are Personal Data and what is the risk level of each data point?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 39,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m4-o2-anon-data-b-14",
+    "_parentId": "64d3638bd9db5173efdc2429",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "What is the risk level of each data point?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 40,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m4-o2-anon-data-b-15",
+    "_parentId": "64d3638bd9db5173efdc2429",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "STEP 4: Anonymise the data",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 41,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m4-o2-anon-data-b-16",
+    "_parentId": "64d3638bd9db5173efdc2429",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "Application to our example dataset",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 42,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m4-o2-anon-data-b-17",
+    "_parentId": "64d3638bd9db5173efdc2429",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "Reviewing the model",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 43,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m4-o2-anon-data-b-18",
+    "_parentId": "64d3638bd9db5173efdc2429",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "There is no right or wrong - it depends on the data set",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 44,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m4-o2-anon-data-b-19",
+    "_parentId": "64d3638bd9db5173efdc2429",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "Synthetic data",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 45,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m4-o2-anon-data-b-20",
+    "_parentId": "64d3638bd9db5173efdc2429",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "Synthetic data as training data for AI",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 46,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m4-o2-anon-data-b-21",
+    "_parentId": "64d3638bd9db5173efdc2429",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "Diagnosing the NHS: SynÆ",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 47,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m4-o2-anon-data-b-22",
+    "_parentId": "64d3638bd9db5173efdc2429",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "Data protection and anonymised/synthetic data",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 48,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m4-o2-anon-data-b-23",
+    "_parentId": "64d3638bd9db5173efdc2429",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "STEP 5: Testing resilience",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 49,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m4-o2-anon-data-b-24",
+    "_parentId": "64d3638bd9db5173efdc2429",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "STEP 6: Write a plan to mitigate risk",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 50,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m4-o2-anon-data-b-25",
+    "_parentId": "64d3638bd9db5173efdc2429",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "STEP 7: Publish the data, anonymisation details and risk assessment",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 51,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m4-o2-anon-data-b-26",
+    "_parentId": "64d3638bd9db5173efdc2429",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "Supporting tools and guides",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 52,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m4-o2-anon-data-b-27",
+    "_parentId": "64d3638bd9db5173efdc2429",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "Summary",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 53,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m4-o2-anon-data-b-28",
+    "_parentId": "64d3638bd9db5173efdc2429",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  }
+]

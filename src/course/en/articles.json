@@ -631,10 +631,10 @@
     }
   },
   {
-    "title": "New Article Title",
+    "title": "Anonymising data",
     "displayTitle": "",
     "body": "",
-    "_classes": "",
+    "_classes": "color-one invert-even",
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
