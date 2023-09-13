@@ -54,7 +54,7 @@
     }
   },
   {
-    "title": "New Component Title",
+    "title": "Introduction",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -66,45 +66,629 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "64d34a4dd9db5173efdc23f9",
+    "_id": "aide-m3-o2-exploring-de-regulations-b-1",
     "_parentId": "64d34a4dd9db5173efdc23f8",
     "_type": "block",
-    "_trickle": {
+    "_onScreen": {
       "_isEnabled": false,
-      "_isInherited": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_completionAttribute": "_isComplete",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_showEndOfPage": true,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "ariaLabel": "Continue",
-        "startText": "Begin",
-        "startAriaLabel": "Begin",
-        "finalText": "Finish",
-        "finalAriaLabel": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
+      "_classes": "",
+      "_percentInviewVertical": 50
     },
     "_assessment": {
       "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "Key regulations in the digital, data, and AI spaces.",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 3,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m3-o2-exploring-de-regulations-b-2",
+    "_parentId": "64d34a4dd9db5173efdc23f8",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "General regulations",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 4,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m3-o2-exploring-de-regulations-b-3",
+    "_parentId": "64d34a4dd9db5173efdc23f8",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "Human rights",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 5,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m3-o2-exploring-de-regulations-b-4",
+    "_parentId": "64d34a4dd9db5173efdc23f8",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "Data Protection and Privacy Laws",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 6,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m3-o2-exploring-de-regulations-b-5",
+    "_parentId": "64d34a4dd9db5173efdc23f8",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "Intellectual Property Rights ",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 7,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m3-o2-exploring-de-regulations-b-6",
+    "_parentId": "64d34a4dd9db5173efdc23f8",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "What regulations will impact the following?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 8,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m3-o2-exploring-de-regulations-b-7",
+    "_parentId": "64d34a4dd9db5173efdc23f8",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "What regulations will impact the following?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 9,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m3-o2-exploring-de-regulations-b-8",
+    "_parentId": "64d34a4dd9db5173efdc23f8",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "What regulations will impact the following?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 10,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m3-o2-exploring-de-regulations-b-9",
+    "_parentId": "64d34a4dd9db5173efdc23f8",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "Sector-Specific Regulations",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 11,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m3-o2-exploring-de-regulations-b-10",
+    "_parentId": "64d34a4dd9db5173efdc23f8",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "Technology-centric Regulations: Moving From Ethics to Regulations in AI",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 12,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m3-o2-exploring-de-regulations-b-11",
+    "_parentId": "64d34a4dd9db5173efdc23f8",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "New regulations in AI (the EU AI Act)",
+    "displayTitle": "New regulations in AI (the EU AI Act",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 13,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m3-o2-exploring-de-regulations-b-12",
+    "_parentId": "64d34a4dd9db5173efdc23f8",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "The AI act risk categories",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 14,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m3-o2-exploring-de-regulations-b-13",
+    "_parentId": "64d34a4dd9db5173efdc23f8",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "Complying with the AI act (High risk applications)",
+    "displayTitle": "Complying with the AI act (High risk applications",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 15,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m3-o2-exploring-de-regulations-b-14",
+    "_parentId": "64d34a4dd9db5173efdc23f8",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "Monitoring and applications of penalties",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 16,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m3-o2-exploring-de-regulations-b-15",
+    "_parentId": "64d34a4dd9db5173efdc23f8",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "Can you identify the risk level?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 17,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m3-o2-exploring-de-regulations-b-16",
+    "_parentId": "64d34a4dd9db5173efdc23f8",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "Further reading",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 19,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m3-o2-exploring-de-regulations-b-18",
+    "_parentId": "64d34a4dd9db5173efdc23f8",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "Ethical Challenges in Evolving Regulations",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 20,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m3-o2-exploring-de-regulations-b-19",
+    "_parentId": "64d34a4dd9db5173efdc23f8",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "Strategies for Addressing Ethical Challenges",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 21,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m3-o2-exploring-de-regulations-b-20",
+    "_parentId": "64d34a4dd9db5173efdc23f8",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "Transparency and trust?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 22,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m3-o2-exploring-de-regulations-b-21",
+    "_parentId": "64d34a4dd9db5173efdc23f8",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "The Role of Transparency in Maintaining Trust",
+    "displayTitle": "The Role of Transparency in Maintaining Trust",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 23,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m3-o2-exploring-de-regulations-b-22",
+    "_parentId": "64d34a4dd9db5173efdc23f8",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "Summary",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 24,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m3-o2-exploring-de-regulations-b-23",
+    "_parentId": "64d34a4dd9db5173efdc23f8",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
     }
   },
   {
@@ -112,7 +696,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 3,
+    "_trackingId": 25,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -166,7 +750,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 4,
+    "_trackingId": 26,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -220,7 +804,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 5,
+    "_trackingId": 27,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -274,7 +858,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 6,
+    "_trackingId": 28,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -328,7 +912,7 @@
     "displayTitle": "Why is data ethics important?",
     "body": "",
     "_classes": "",
-    "_trackingId": 7,
+    "_trackingId": 29,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -357,7 +941,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 8,
+    "_trackingId": 30,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -386,7 +970,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 9,
+    "_trackingId": 31,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -415,7 +999,7 @@
     "displayTitle": "The Data Lifecycle and the changing nature of data ethics",
     "body": "",
     "_classes": "",
-    "_trackingId": 10,
+    "_trackingId": 32,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -444,7 +1028,7 @@
     "displayTitle": "Why is data ethics important?",
     "body": "",
     "_classes": "",
-    "_trackingId": 11,
+    "_trackingId": 33,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -473,7 +1057,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 12,
+    "_trackingId": 34,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -502,7 +1086,7 @@
     "displayTitle": "So, why is data ethics important?",
     "body": "",
     "_classes": "",
-    "_trackingId": 13,
+    "_trackingId": 35,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -531,7 +1115,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 14,
+    "_trackingId": 36,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -560,7 +1144,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 15,
+    "_trackingId": 37,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -589,7 +1173,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 16,
+    "_trackingId": 38,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -618,7 +1202,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 17,
+    "_trackingId": 39,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -672,7 +1256,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 19,
+    "_trackingId": 40,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -726,7 +1310,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 20,
+    "_trackingId": 41,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -780,7 +1364,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 21,
+    "_trackingId": 42,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -834,7 +1418,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 22,
+    "_trackingId": 43,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -888,7 +1472,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 23,
+    "_trackingId": 44,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -942,7 +1526,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 24,
+    "_trackingId": 45,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -996,7 +1580,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 25,
+    "_trackingId": 46,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1050,7 +1634,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 26,
+    "_trackingId": 47,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1079,7 +1663,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 27,
+    "_trackingId": 48,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1108,7 +1692,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 28,
+    "_trackingId": 49,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1137,7 +1721,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 29,
+    "_trackingId": 50,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1166,7 +1750,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 30,
+    "_trackingId": 51,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1195,7 +1779,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 31,
+    "_trackingId": 52,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1224,7 +1808,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 32,
+    "_trackingId": 53,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1253,7 +1837,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 33,
+    "_trackingId": 54,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1282,7 +1866,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 34,
+    "_trackingId": 55,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1311,7 +1895,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 35,
+    "_trackingId": 56,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1340,7 +1924,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 36,
+    "_trackingId": 57,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1369,7 +1953,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 37,
+    "_trackingId": 58,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1398,7 +1982,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 38,
+    "_trackingId": 59,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1427,7 +2011,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 39,
+    "_trackingId": 60,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1456,7 +2040,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 40,
+    "_trackingId": 61,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1485,7 +2069,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 41,
+    "_trackingId": 62,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1514,7 +2098,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 42,
+    "_trackingId": 63,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1543,7 +2127,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 43,
+    "_trackingId": 64,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1572,7 +2156,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 44,
+    "_trackingId": 65,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1601,7 +2185,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 45,
+    "_trackingId": 66,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1630,7 +2214,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 46,
+    "_trackingId": 67,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1659,7 +2243,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 47,
+    "_trackingId": 68,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1688,7 +2272,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 48,
+    "_trackingId": 69,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1717,7 +2301,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 49,
+    "_trackingId": 70,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1746,7 +2330,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 50,
+    "_trackingId": 71,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1775,7 +2359,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 51,
+    "_trackingId": 72,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1804,7 +2388,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 52,
+    "_trackingId": 73,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1833,7 +2417,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 53,
+    "_trackingId": 74,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,

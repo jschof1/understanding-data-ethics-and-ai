@@ -337,8 +337,8 @@
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "https://via.placeholder.com/600x400",
-      "small": "https://via.placeholder.com/600x400",
+      "large": "https://via.placeholder.com/600x600",
+      "small": "https://via.placeholder.com/600x600",
       "attribution": "Copyright © 2019",
       "_url": "",
       "_target": ""
@@ -575,47 +575,1194 @@
       }
     }
   },
-  {
-    "_component": "blank",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "New Component Title",
-    "displayTitle": "New Component Title",
-    "body": "",
-    "_id": "64d362c2d9db5173efdc2424",
-    "_parentId": "64d34a4dd9db5173efdc23f9",
-    "_type": "component",
-    "_layout": "full",
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
+    {
+      "_id": "aide-m3-o2-exploring-de-regulations-c-1",
+      "_parentId": "aide-m3-o2-exploring-de-regulations-b-1",
+      "_type": "component",
+      "_component": "text",
       "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      "_layout": "left",
+      "title": "Introduction",
+      "displayTitle": "Introduction",
+      "body": "<p>In the complex intersection of digital interactions, data usage, and ethical considerations, compliance with regulations serves as a pivotal foundation. This module delves into the intricate landscape of existing and emerging regulations within the realms of digital, data, and AI. By highlighting the impact of regulations on the ethical evaluation process, we explore the crucial role compliance plays in navigating ethical boundaries. By examining the blurred lines between legality and ethics, learners will gain insights into the multifaceted landscape that underpins responsible and ethical digital practices.</p><p>In this module we explore:</p><ul>\n<li>Key regulations in the digital, data, and AI spaces.</li>\n<li>The relationship between ethics and compliance</li>\n<li>Emerging regulations in the AI space&nbsp;</li>\n<li>Ethical Challenges in Evolving Regulations and the strategies for addressing these.</li>\n<li>The Role of Transparency in Maintaining Trust</li>\n</ul>",
+      "instruction": "",
+      "_pageLevelProgress": {
+        "_isEnabled": false
       }
     },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_graphicExpand": {
-      "_isEnabled": false,
-      "_selector": "",
-      "_button": {
-        "buttonText": "",
-        "ariaLabel": "",
-        "iconClass": "icon-expand_1"
+    {
+      "_id": "aide-m3-o2-exploring-de-regulations-c-2",
+      "_parentId": "aide-m3-o2-exploring-de-regulations-b-2",
+      "_type": "component",
+      "_component": "text",
+      "_classes": "",
+      "_layout": "full",
+      "title": "Key regulations in the digital, data, and AI spaces.",
+      "displayTitle": "Key regulations in the digital, data, and AI spaces.",
+      "body": "<p>In the rapidly evolving digital era, a complex network of regulations shapes the landscape of data and AI. These regulations emerge to safeguard individual rights, ensure ethical data practices, and foster responsible technological advancements.&nbsp;</p><p>Navigating this landscape can be complex. The regulations that impact AI technologies span various categories, including sector-specific, application-specific, and general regulations. These categories reflect the multifaceted nature of AI and the diverse contexts in which it is applied.</p><hr>  <p><strong> Let's break down these categories further:</strong></p> </div> <div class=\"sub-header\"> <p class=\"bold-color-text\">1. General Regulations:</p> </div> <p class=\"callout-border-bold-list\"> Broad regulations that apply across various sectors and industries, aiming to set fundamental standards for ethical and responsible AI use. These regulations often touch on data and intellectual property protection, privacy, transparency, fairness, non-discrimination and fundamental human rights.</p> <div class=\"sub-header\"> <p class=\"bold-color-text\">2. Sector-Specific Regulations:</p> </div> <p class=\"callout-border-bold-list\">Regulations tailored to specific industries or sectors, such as healthcare, finance, transportation, and more.&nbsp;</p> <div class=\"sub-header\"> <p class=\"bold-color-text\">3. Technology-centric Regulations:</p> </div> <p class=\"callout-border-bold-list\">Regulations that focus on specific applications of AI, regardless of the industry. For example, regulations governing the use of AI or facial recognition systems, such as the AI act emerging from the EU.</p>",
+      "instruction": "",
+      "_pageLevelProgress": {
+        "_isEnabled": false
       }
-    }
-  },
+    },
+    {
+      "_id": "aide-m3-o2-exploring-de-regulations-c-3",
+      "_parentId": "aide-m3-o2-exploring-de-regulations-b-3",
+      "_type": "component",
+      "_component": "text",
+      "_classes": "",
+      "_layout": "left",
+      "title": "General regulations",
+      "displayTitle": "General regulations",
+      "body": "<p>This category encompasses various types of regulations, many building upon fundamental human rights that establish the basic entitlements of all individuals. Key aspects of human rights, in relation to data and AI, include safeguarding the right to privacy and ensuring protection against discrimination. Data protection and privacy laws, such as the General Data Protection Regulation (GDPR), apply whenever personal data is processed. Other legislative measures, such as the ePrivacy directive and <span style=\"color: #4d5156;\">Privacy and Electronic Communications Regulations (PECR)</span>, extend their scope to encompass the handling and transmission of information, even if it doesn't identify individuals personally.&nbsp;</p><p>Moreover, intellectual property rights informs how data can potentially be utilised, influencing data analysis and the training of AI systems that might inadvertently infringe copyright through their outputs.&nbsp;</p><p>These overarching regulations collectively form a vital framework, delineating ethical and responsible parameters for the development and utilisation of AI and data technologies.</p>",
+      "instruction": "",
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    {
+      "_id": "aide-m3-o2-exploring-de-regulations-c-4",
+      "_parentId": "aide-m3-o2-exploring-de-regulations-b-4",
+      "_type": "component",
+      "_component": "accordion",
+      "_classes": "",
+      "_layout": "full",
+      "title": "Human rights",
+      "displayTitle": "Human rights",
+      "body": "<p><strong>Video 1 - </strong>Key regulations in the digital, data, and AI spaces Part 1: General Regulations - Human Rights</p><h2>Video script</h2>",
+      "instruction": "Select the headings to find out more.",
+      "_shouldCollapseItems": true,
+      "_shouldExpandFirstItem": false,
+      "_setCompletionOn": "allItems",
+      "_items": [
+        {
+          "title": "Video script",
+          "body": "<p>Human rights laws hold immense significance in the realm of data and AI due to their foundational role in safeguarding individual dignity, privacy, and fairness. As technology becomes increasingly integrated into our lives, these laws serve as a moral compass, ensuring that data and AI applications respect fundamental human values. The right to privacy becomes particularly crucial in an age of data-driven innovations, preventing unauthorised intrusion into personal lives. Moreover, protection against discrimination upholds the principle of fairness, guarding against biassed algorithms that could perpetuate inequalities. By adhering to human rights laws, data and AI technologies can not only be ethically developed but also contribute positively to a just and equitable society.</p><p>The modern concept of human rights emerged in the aftermath of World War II, catalysed by the Universal Declaration of Human Rights (UDHR) adopted by the United Nations in 1948. The UDHR set a universal standard for the inherent rights and freedoms to which all individuals are entitled. Over time, these principles have been enshrined in various international treaties, including the International Covenant on Civil and Political Rights (ICCPR) and the International Covenant on Economic, Social, and Cultural Rights (ICESCR).</p><p>Nations around the world have recognised the significance of human rights, incorporating them into their legal systems. These rights address crucial aspects of human existence, including the right to privacy, non-discrimination, and freedom of expression. For instance, Europe's Convention for the Protection of Human Rights and Fundamental Freedoms (ECHR) has become a cornerstone in the protection of individual rights across europe.</p><p>In the context of AI and data ethics, human rights provide a solid ethical foundation. They remind us that technological advancements must not compromise individual freedoms, fairness, or dignity. By embracing human rights principles, the development and deployment of data and AI technologies can contribute to a world where innovation harmoniously coexists with respect for human values.</p>",
+          "_imageAlignment": "full",
+          "_graphic": {
+            "src": "course/en/images/example.jpg",
+            "alt": "",
+            "attribution": "Copyright © 2019"
+          },
+          "_classes": ""
+        }
+      ],
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+      "_id": "aide-m3-o2-exploring-de-regulations-c-5",
+      "_parentId": "aide-m3-o2-exploring-de-regulations-b-5",
+      "_type": "component",
+      "_component": "accordion",
+      "_classes": "",
+      "_layout": "full",
+      "title": "Data Protection and Privacy Laws",
+      "displayTitle": "Data Protection and Privacy Laws",
+      "body": "<p>Video 2: Key regulations in the digital, data, and AI spaces Part 2: General Regulations - Data Protection and Privacy Laws</p><h2>Video script</h2>",
+      "instruction": "Select the headings to find out more.",
+      "_shouldCollapseItems": true,
+      "_shouldExpandFirstItem": false,
+      "_setCompletionOn": "allItems",
+      "_items": [
+        {
+          "title": "Video script",
+          "body": "<p>Data protection laws play a pivotal role in safeguarding individuals' rights and upholding their privacy in an increasingly data-driven world. These laws, closely tied to the principles of human rights, ensure that personal data is collected, processed, and shared responsibly. Prominent examples include the General Data Protection Regulation (GDPR) in the European Union and the California Consumer Privacy Act (CCPA) in the United States.</p><p>In the context of data and AI, data protection laws hold significant importance. While they encompass various lawful bases for processing personal data beyond explicit consent, they also include provisions that specifically impact AI applications. For instance, the GDPR grants individuals the right to not be subject to automated decision-making and profiling, offering safeguards against the potential biases and discrimination that can arise from AI algorithms.&nbsp;</p><p>By emphasising individuals' rights over personal data and how, and where it can be processed, data protection laws provide a strong foundation for AI development. These regulations encourage transparency, accountability, and fairness in AI systems, fostering a landscape where innovation coexists harmoniously with respect for individuals' privacy and rights.&nbsp;</p><p><strong>ePrivacy and cookie laws&nbsp;</strong></p><p>ePrivacy and “cookie laws” play a vital role in the modern digital landscape by addressing the intricacies of communication and data transmission. Notable examples include the EU ePrivacy Directive and subsequent implementations including the Privacy and Electronic Communications Regulations (PECR) in the UK.</p><p>Such laws are all-encompassing, applying to a wide array of electronic communications, spanning emails, messages, and more. These regulations also extend their reach to tracking technologies, including the ubiquitous use of cookies.&nbsp;</p><p><strong>What are cookies?</strong></p><p>Cookies (think of them as small bits of information, like breadcrumbs) enable websites to personalise the user experience. For example, ecommerce websites use cookies to know what merchandise users have placed in their shopping carts, even before any identification or authentication. They are essentially a short term memory for a web browser that helps remember a user's choices. At the ODI we think of this as behavioural data. It may not be personal, but evidence shows that as you collect more of it, <a href=\"https://howthey.watch/you/\" target=\"_blank\" rel=\"noopener\">identification becomes easier</a> and how it can be used unethically becomes clearer.&nbsp;</p><p>For data and AI, the impact of these laws is significant. They ensure that individuals retain control over their online experiences, granting them the right to decide which tracking technologies they consent to. Even in cases where data collected might not be tied to an individual's identity, these regulations emphasise the importance of transparency and choice. This becomes particularly crucial as AI systems analyse a diverse range of data, some of which might not appear personal at first glance. The ethical framework thus established aligns with the overarching principles of fairness, accountability, and respect for user autonomy, reinforcing the integral connection between data ethics and regulatory compliance.</p>",
+          "_imageAlignment": "full",
+          "_graphic": {
+            "src": "course/en/images/example.jpg",
+            "alt": "",
+            "attribution": "Copyright © 2019"
+          },
+          "_classes": ""
+        }
+      ],
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+      "_id": "aide-m3-o2-exploring-de-regulations-c-6",
+      "_parentId": "aide-m3-o2-exploring-de-regulations-b-6",
+      "_type": "component",
+      "_component": "accordion",
+      "_classes": "",
+      "_layout": "full",
+      "title": "Intellectual Property Rights ",
+      "displayTitle": "Intellectual Property Rights ",
+      "body": "<p>Video 3 - Key regulations in the digital, data, and AI spaces Part 3: General Regulations - Intellectual Property</p><h2>Video script</h2>",
+      "instruction": "Select the headings to find out more.",
+      "_shouldCollapseItems": true,
+      "_shouldExpandFirstItem": false,
+      "_setCompletionOn": "allItems",
+      "_items": [
+        {
+          "title": "Video script",
+          "body": "<p>Intellectual property rights play a pivotal role in the digital landscape, encompassing legal protections for creative works, innovations, and proprietary data. These rights are instrumental in fostering innovation by granting creators and innovators exclusive control over their creations. Patents, copyrights, trademarks, and trade secrets are common forms of intellectual property rights that encourage inventors, artists, and companies to invest in new ideas and technologies.&nbsp;</p><p>In the context of data and AI, intellectual property rights can involve ownership over datasets, algorithms, and AI models. These rights dictate how data can be used, reused, and shared. Ethical considerations arise when striking a balance between proprietary interests and the broader societal benefits that arise from shared data and knowledge. Integrating intellectual property rights with data ethics ensures that innovation is fostered while guarding against the misuse or monopolisation of data and AI technologies.</p><p>Navigating these global laws is essential to ensuring ethical and compliant data and AI practices. Organisations must remain vigilant in their adherence to these regulations to safeguard individuals' rights and uphold ethical standards in technology development and usage.</p>",
+          "_imageAlignment": "full",
+          "_graphic": {
+            "src": "course/en/images/example.jpg",
+            "alt": "",
+            "attribution": "Copyright © 2019"
+          },
+          "_classes": ""
+        }
+      ],
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+      "_id": "aide-m3-o2-exploring-de-regulations-c-7",
+      "_parentId": "aide-m3-o2-exploring-de-regulations-b-7",
+      "_type": "component",
+      "_component": "mcq",
+      "_classes": "",
+      "_layout": "left",
+      "title": "What regulations will impact the following?",
+      "displayTitle": "What regulations will impact the following?",
+      "body": "<p> Training an AI system on publicly accessible information and data. </p>",
+      "instruction": "Choose one option then select Submit.",
+      "ariaQuestion": "Question text specifically for screen readers.",
+      "_attempts": 1,
+      "_shouldDisplayAttempts": false,
+      "_isRandom": false,
+      "_hasItemScoring": false,
+      "_questionWeight": 1,
+      "_selectable": 1,
+      "_canShowModelAnswer": true,
+      "_canShowFeedback": true,
+      "_canShowMarking": true,
+      "_recordInteraction": true,
+      "_items": [
+        {
+          "text": "Human Rights",
+          "_shouldBeSelected": false,
+          "_isPartlyCorrect": false
+        },
+        {
+          "text": "Data Protection and Privacy Laws",
+          "_shouldBeSelected": true,
+          "_isPartlyCorrect": false
+        },
+        {
+          "text": "ePrivacy and cookie laws",
+          "_shouldBeSelected": false,
+          "_isPartlyCorrect": false
+        },
+        {
+          "text": "Intellectual Property Rights",
+          "_shouldBeSelected": true,
+          "_isPartlyCorrect": false
+        },
+        {
+          "text": "All of the above",
+          "_shouldBeSelected": false,
+          "_isPartlyCorrect": false
+        }
+      ],
+      "_feedback": {
+        "correct": "<p><strong>That's right!</p></strong></p><p>When considering the training of AI systems on publicly accessible information and data, the key regulations that come into play include Data Protection and Privacy Laws and Intellectual Property Rights. While it might not be obvious that publicly available data is subject to Data Protection regulations, it becomes a lot clearer when thinking about social network data and forums. Just because data is publicly accessible does not mean that it is not subject to copyright restrictions. While Human Rights and ePrivacy/Cookie Laws are important, they may not directly apply to the training. Understanding and adhering to these regulations is essential for responsible and ethical AI development.</p>",
+        "_incorrect": {
+          "notFinal": "<p><strong>Are you sure about that?</p></strong></p><p>When considering the training of AI systems on publicly accessible information and data, the key regulations that come into play include Data Protection and Privacy Laws and Intellectual Property Rights. While it might not be obvious that publicly available data is subject to Data Protection regulations, it becomes a lot clearer when thinking about social network data and forums. Just because data is publicly accessible does not mean that it is not subject to copyright restrictions. While Human Rights and ePrivacy/Cookie Laws are important, they may not directly apply to the training. Understanding and adhering to these regulations is essential for responsible and ethical AI development.</p>",
+          "final": "<p><strong>Are you sure about that?</p></strong></p><p>When considering the training of AI systems on publicly accessible information and data, the key regulations that come into play include Data Protection and Privacy Laws and Intellectual Property Rights. While it might not be obvious that publicly available data is subject to Data Protection regulations, it becomes a lot clearer when thinking about social network data and forums. Just because data is publicly accessible does not mean that it is not subject to copyright restrictions. While Human Rights and ePrivacy/Cookie Laws are important, they may not directly apply to the training. Understanding and adhering to these regulations is essential for responsible and ethical AI development.</p>"
+        }
+      },
+      "_comment": "You only need to include _buttons if you want to override the button labels that are set in course.json",
+      "_buttons": {
+        "_submit": {
+          "buttonText": "Submit",
+          "ariaLabel": "Select here to submit your answer."
+        },
+        "_reset": {
+          "buttonText": "Reset",
+          "ariaLabel": ""
+        },
+        "_showCorrectAnswer": {
+          "buttonText": "Correct Answer",
+          "ariaLabel": ""
+        },
+        "_hideCorrectAnswer": {
+          "buttonText": "My Answer",
+          "ariaLabel": ""
+        },
+        "_showFeedback": {
+          "buttonText": "Show feedback",
+          "ariaLabel": ""
+        },
+        "remainingAttemptsText": "attempts remaining",
+        "remainingAttemptText": "final attempt"
+      },
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    {
+      "_id": "aide-m3-o2-exploring-de-regulations-c-8",
+      "_parentId": "aide-m3-o2-exploring-de-regulations-b-8",
+      "_type": "component",
+      "_component": "mcq",
+      "_classes": "",
+      "_layout": "right",
+      "title": "What regulations will impact the following?",
+      "displayTitle": "What regulations will impact the following?",
+      "body": "<p>Developing a website that collects user interactions data to personalise content and experiences</p>",
+      "instruction": "Choose one option then select Submit.",
+      "ariaQuestion": "Question text specifically for screen readers.",
+      "_attempts": 1,
+      "_shouldDisplayAttempts": false,
+      "_isRandom": false,
+      "_hasItemScoring": false,
+      "_questionWeight": 1,
+      "_selectable": 1,
+      "_canShowModelAnswer": true,
+      "_canShowFeedback": true,
+      "_canShowMarking": true,
+      "_recordInteraction": true,
+      "_items": [
+        {
+          "text": "Human Rights",
+          "_shouldBeSelected": false,
+          "_isPartlyCorrect": false
+        },
+        {
+          "text": "Data Protection and Privacy Laws",
+          "_shouldBeSelected": true,
+          "_isPartlyCorrect": false
+        },
+        {
+          "text": "ePrivacy and cookie laws",
+          "_shouldBeSelected": true,
+          "_isPartlyCorrect": false
+        },
+        {
+          "text": "Intellectual Property Rights",
+          "_shouldBeSelected": false,
+          "_isPartlyCorrect": false
+        },
+        {
+          "text": "All of the above",
+          "_shouldBeSelected": false,
+          "_isPartlyCorrect": false
+        }
+      ],
+      "_feedback": {
+        "correct": "<p><strong>That's right!</p></strong></p><p>In this scenario of developing a mobile app that collects user data through cookies, the key regulations are that of Data Protection and Cookie Laws. Even if the data collection can be anonymised upon collection, the fact that behavioural and interaction data is collected and processed is subject to ePrivacy and Cookie Laws. In this scenario Intellectual Property Rights are likely to be much less of an issue as the data collected will be owned by the website owner.</p>",
+        "_incorrect": {
+          "notFinal": "<p><strong>Are you sure about that?</p></strong></p><p>In this scenario of developing a mobile app that collects user data through cookies, the key regulations are that of Data Protection and Cookie Laws. Even if the data collection can be anonymised upon collection, the fact that behavioural and interaction data is collected and processed is subject to ePrivacy and Cookie Laws. In this scenario Intellectual Property Rights are likely to be much less of an issue as the data collected will be owned by the website owner.</p>",
+          "final": "<p><strong>Are you sure about that?</p></strong></p><p>In this scenario of developing a mobile app that collects user data through cookies, the key regulations are that of Data Protection and Cookie Laws. Even if the data collection can be anonymised upon collection, the fact that behavioural and interaction data is collected and processed is subject to ePrivacy and Cookie Laws. In this scenario Intellectual Property Rights are likely to be much less of an issue as the data collected will be owned by the website owner.</p>"
+        }
+      },
+      "_comment": "You only need to include _buttons if you want to override the button labels that are set in course.json",
+      "_buttons": {
+        "_submit": {
+          "buttonText": "Submit",
+          "ariaLabel": "Select here to submit your answer."
+        },
+        "_reset": {
+          "buttonText": "Reset",
+          "ariaLabel": ""
+        },
+        "_showCorrectAnswer": {
+          "buttonText": "Correct Answer",
+          "ariaLabel": ""
+        },
+        "_hideCorrectAnswer": {
+          "buttonText": "My Answer",
+          "ariaLabel": ""
+        },
+        "_showFeedback": {
+          "buttonText": "Show feedback",
+          "ariaLabel": ""
+        },
+        "remainingAttemptsText": "attempts remaining",
+        "remainingAttemptText": "final attempt"
+      },
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    {
+      "_id": "aide-m3-o2-exploring-de-regulations-c-9",
+      "_parentId": "aide-m3-o2-exploring-de-regulations-b-9",
+      "_type": "component",
+      "_component": "mcq",
+      "_classes": "",
+      "_layout": "left",
+      "title": "What regulations will impact the following?",
+      "displayTitle": "What regulations will impact the following?",
+      "body": "<p>Developing an AI system to establish the age of someone from an image of their face and other biometric data.</p>",
+      "instruction": "Choose one option then select Submit.",
+      "ariaQuestion": "Question text specifically for screen readers.",
+      "_attempts": 1,
+      "_shouldDisplayAttempts": false,
+      "_isRandom": false,
+      "_hasItemScoring": false,
+      "_questionWeight": 1,
+      "_selectable": 1,
+      "_canShowModelAnswer": true,
+      "_canShowFeedback": true,
+      "_canShowMarking": true,
+      "_recordInteraction": true,
+      "_items": [
+        {
+          "text": "Human Rights",
+          "_shouldBeSelected": true,
+          "_isPartlyCorrect": false
+        },
+        {
+          "text": "Data Protection and Privacy Laws",
+          "_shouldBeSelected": true,
+          "_isPartlyCorrect": false
+        },
+        {
+          "text": "ePrivacy and cookie laws",
+          "_shouldBeSelected": false,
+          "_isPartlyCorrect": false
+        },
+        {
+          "text": "Intellectual Property Rights",
+          "_shouldBeSelected": false,
+          "_isPartlyCorrect": false
+        },
+        {
+          "text": "All of the above",
+          "_shouldBeSelected": false,
+          "_isPartlyCorrect": false
+        }
+      ],
+      "_feedback": {
+        "correct": "<p><strong>That's right!</p></strong></p><p>Although this started as a <a href=\"https://www.theverge.com/2015/4/30/8522649/microsoft-how-old-do-i-look\" target=\"_blank\" rel=\"noopener\">fun, if creepy, experiment by Microsoft</a>, the use of biometric data to determine the age of someone can have huge implications on their rights. This is highlighted in the area of immigration and asylum where age is linked to support received including access to education welfare services in the case of a child. It is of paramount importance then to consider the limitations of AI when considering the development and in particular the deployment of such technologies in these settings especially as there is no evidence that AI techniques are any better than the current highly subjective methods, but they still get <a href=\"https://researchbriefings.files.parliament.uk/documents/POST-PN-0666/POST-PN-0666.pdf\" target=\"_blank\" rel=\"noopener\">considered</a>.</p>",
+        "_incorrect": {
+          "notFinal": "<p><strong>Are you sure about that?</p></strong></p><p>Although this started as a <a href=\"https://www.theverge.com/2015/4/30/8522649/microsoft-how-old-do-i-look\" target=\"_blank\" rel=\"noopener\">fun, if creepy, experiment by Microsoft</a>, the use of biometric data to determine the age of someone can have huge implications on their rights. This is highlighted in the area of immigration and asylum where age is linked to support received including access to education welfare services in the case of a child. It is of paramount importance then to consider the limitations of AI when considering the development and in particular the deployment of such technologies in these settings especially as there is no evidence that AI techniques are any better than the current highly subjective methods, but they still get <a href=\"https://researchbriefings.files.parliament.uk/documents/POST-PN-0666/POST-PN-0666.pdf\" target=\"_blank\" rel=\"noopener\">considered</a>.</p>",
+          "final": "<p><strong>Are you sure about that?</p></strong></p><p>Although this started as a <a href=\"https://www.theverge.com/2015/4/30/8522649/microsoft-how-old-do-i-look\" target=\"_blank\" rel=\"noopener\">fun, if creepy, experiment by Microsoft</a>, the use of biometric data to determine the age of someone can have huge implications on their rights. This is highlighted in the area of immigration and asylum where age is linked to support received including access to education welfare services in the case of a child. It is of paramount importance then to consider the limitations of AI when considering the development and in particular the deployment of such technologies in these settings especially as there is no evidence that AI techniques are any better than the current highly subjective methods, but they still get <a href=\"https://researchbriefings.files.parliament.uk/documents/POST-PN-0666/POST-PN-0666.pdf\" target=\"_blank\" rel=\"noopener\">considered</a>.</p>"
+        }
+      },
+      "_comment": "You only need to include _buttons if you want to override the button labels that are set in course.json",
+      "_buttons": {
+        "_submit": {
+          "buttonText": "Submit",
+          "ariaLabel": "Select here to submit your answer."
+        },
+        "_reset": {
+          "buttonText": "Reset",
+          "ariaLabel": ""
+        },
+        "_showCorrectAnswer": {
+          "buttonText": "Correct Answer",
+          "ariaLabel": ""
+        },
+        "_hideCorrectAnswer": {
+          "buttonText": "My Answer",
+          "ariaLabel": ""
+        },
+        "_showFeedback": {
+          "buttonText": "Show feedback",
+          "ariaLabel": ""
+        },
+        "remainingAttemptsText": "attempts remaining",
+        "remainingAttemptText": "final attempt"
+      },
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    {
+      "_id": "aide-m3-o2-exploring-de-regulations-c-10",
+      "_parentId": "aide-m3-o2-exploring-de-regulations-b-10",
+      "_type": "component",
+      "_component": "text",
+      "_classes": "",
+      "_layout": "right",
+      "title": "Sector-Specific Regulations",
+      "displayTitle": "Sector-Specific Regulations",
+      "body": "<p>In the ever-evolving landscape of technology, sector-specific regulations emerge to address the unique challenges and ethical considerations within distinct industries. These regulations provide crucial guidance for responsible development and deployment of AI technologies, ensuring that specific societal and safety aspects are appropriately addressed.&nbsp;</p><p>Watch the video for a brief summary of the regulations that govern healthcare, financial services, autonomous vehicles and medical devices.</p><p>[video 4 - sector-specific regulations]</p>",
+      "instruction": "",
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    {
+      "_id": "aide-m3-o2-exploring-de-regulations-c-11",
+      "_parentId": "aide-m3-o2-exploring-de-regulations-b-11",
+      "_type": "component",
+      "_component": "text",
+      "_classes": "",
+      "_layout": "full",
+      "title": "Technology-centric Regulations: Moving From Ethics to Regulations in AI",
+      "displayTitle": "Technology-centric Regulations: Moving From Ethics to Regulations in AI",
+      "body": "<p>As of 2023,&nbsp; there are not currently any regulations specifically focussed on the use of AI, but various international organisations, such as the <span class=\"bold-color-text\">Organisation for Economic Co-operation and Development (OECD)</span> and <span class=\"bold-color-text\">Institute of Electrical and Electronics Engineers (IEEE)</span>, have released ethical guidelines for the development and deployment of AI. These provide principles to ensure AI aligns with human values and benefits society.&nbsp;</p> <div class=\"highlight-white-light\"> <p>With the formalisation of many of these via the EU AI act, there will soon be regulations that govern AI development and deployment.&nbsp;&nbsp;</p> </div> <div class=\"orange-caution-callout\"> <p>Regardless of regulations being in place, there are many examples where compliant organisations have experienced breaches, and even received financial punishments for their lack of due diligence. The video below summarises the considerations for organisations and the importance of going beyond simple compliance.&nbsp;&nbsp;</p> </div> <div class=\"sub-header video-title\"> <p class=\"highlight-white-light\">[Video 5: Key regulations in the digital, data, and AI spaces Part 2: Sector-Specific Regulations]</p> </div>",
+      "instruction": "",
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    {
+      "_id": "aide-m3-o2-exploring-de-regulations-c-12",
+      "_parentId": "aide-m3-o2-exploring-de-regulations-b-12",
+      "_type": "component",
+      "_component": "text",
+      "_classes": "",
+      "_layout": "right",
+      "title": "New regulations in AI (the EU AI Act)",
+      "displayTitle": "",
+      "body": "<p>Although still a proposal (as of writing in August 2023), the EU AI act is aiming to be the first AI regulation. </p><p> The<a href=\"https://www.mhc.ie/hubs/legislation/the-eu-artificial-intelligence-act\" target=\"_blank\" rel=\"noopener\"> EU AI Act</a> is designed to regulate AI systems on a sliding scale of risk, with four risk categories: </p> <ul class=\"styled-links\"> <li class=\"callout-border-bold-list\">Unacceptable risk</li> <li class=\"callout-border-bold-list\">High risk</li> <li class=\"callout-border-bold-list\">Limited risk</li> <li class=\"callout-border-bold-list\">Minimal or no risk</li> </ul> <p class=\"highlight-white-light\"> By recognising the different levels of risk that apply to different applications of AI, the act is attempting to level the playing field for applications of AI while applying regulatory requirements that are proportional to the level of risk.&nbsp; </p>",
+      "instruction": "",
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    {
+      "_id": "aide-m3-o2-exploring-de-regulations-c-13",
+      "_parentId": "aide-m3-o2-exploring-de-regulations-b-13",
+      "_type": "component",
+      "_component": "text",
+      "_classes": "",
+      "_layout": "full",
+      "title": "The AI act risk categories",
+      "displayTitle": "The AI act risk categories",
+      "body": "<div><h3 class=\"border-bottom bold-color-text\">Unacceptable risk</h3> <p> Unacceptable risk AI systems are systems considered a threat to people and will be banned. Examples include: </p> <ul class=\"styled-links\"> <li class=\"callout-border-bold-list\"> Cognitive behavioural manipulation of people or specific vulnerable groups: for example voice-activated toys that encourage dangerous behaviour in children </li> <li class=\"callout-border-bold-list\"> Social scoring: classifying people based on behaviour, socio-economic status or personal characteristics </li> <li class=\"callout-border-bold-list\"> Real-time and remote biometric identification systems, such as facial recognition, including the untargeted scraping of facial images from the internet or CCTV footage to create facial recognition databases. </li> </ul> <p class=\"highlight-white-light\"> Some exceptions may be allowed: For instance, “post” remote biometric identification systems where identification occurs after a significant delay will be allowed to prosecute serious crimes but only after court approval. </p> </div> <div  style=\"margin-top:10px;\"> <h3 class=\"border-bottom bold-color-text\">High risk</h3> <p> The AI Act broadly splits high-risk AI uses into two categories – one for physical products and the other for more software based things. </p> <p> Annex II contains the list of products, which also fall under <a href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02001L0095-20100101\" target=\"_blank\" rel=\"noopener\" class=\"inline-links\"> the EU’s product safety legislation</a>. This includes toys, aviation, cars, medical devices and lifts. </p> <p class=\"color-box\" style=\"padding: 10px\">Annex III expands this to include:</p> <ul class=\"two-by-two-grid\"> <li class=\"blue-caution-callout\" style=\"list-style-type:none; font-weight: font-weight: 600;\"> critical infrastructures (e.g. transport), that could put the life and health of citizens at risk </li> <li class=\"blue-caution-callout\" style=\"list-style-type:none; font-weight: font-weight: 600;\"> educational or vocational training, that may determine the access to education and professional course of someone’s life (e.g. scoring of exams) </li> <li class=\"blue-caution-callout\" style=\"list-style-type:none; font-weight: font-weight: 600;\"> safety components of products (e.g. AI application in robot-assisted surgery) </li> <li class=\"blue-caution-callout\" style=\"list-style-type:none; font-weight: font-weight: 600;\"> employment, management of workers and access to self-employment (e.g. CV-sorting software for recruitment procedures) </li> <li class=\"blue-caution-callout\" style=\"list-style-type:none; font-weight: font-weight: 600;\"> essential private and public services (e.g. credit scoring denying citizens opportunity to obtain a loan) </li> <li class=\"blue-caution-callout\" style=\"list-style-type:none; font-weight: font-weight: 600;\"> law enforcement that may interfere with people’s fundamental rights (e.g. evaluation of the reliability of evidence) </li> <li class=\"blue-caution-callout\" style=\"list-style-type:none; font-weight: font-weight: 600;\"> migration, asylum and border control management (e.g. verification of authenticity of travel documents) </li> <li class=\"blue-caution-callout\" style=\"list-style-type:none; font-weight: font-weight: 600;\"> administration of justice and democratic processes (e.g. applying the law to a concrete set of facts). </li> </ul> <p class=\"blue-caution-callout\"> [image: <a href=\"https://docs.google.com/presentation/d/1oPTINAxl5ogZfvrMp79r-IsiKFIw4aq8OboTC1ASLFs/edit#slide=id.p\" target=\"_blank\" rel=\"noopener\">2 Adapt layout idea - EU AI Act High Risk Uses</a>] - graphic </p> <hr> <p class=\"highlight-white-light\"> Before these high-risk AI systems can be put on the EU market, they are subject to strict ‘conformity assessments’, which determine whether the system will meet all requirements in the Act. While those listed in Annex II will report to existing regulatory bodies, providers of those covered in Annex III will, for now, self-assess to the same requirements.&nbsp; </p> <h3 class=\"sub-header\"> </h3><h3 class=\"bold-color-text\"> Some examples of the requirements within the AI act include: </h3> <ul> <li class=\"small-quote\">adequate risk assessment and mitigation systems</li> <li class=\"small-quote\"> high quality of the datasets feeding the system to minimise risks and discriminatory outcomes </li> <li class=\"small-quote\"> logging of activity to ensure traceability of results </li> <li class=\"small-quote\"> detailed documentation providing all information necessary on the system and its purpose for authorities to assess its compliance </li> <li class=\"small-quote\">clear and adequate information to the user</li> <li class=\"small-quote\"> appropriate human oversight measures to minimise risk </li> <li class=\"small-quote\"> high level of robustness, security and accuracy. </li> </ul> <p> While those who already report to regulatory bodies will be familiar with these requirements and experience dealing with a notified body and conformity assessments, this is likely going to be very new to the technology section and as a result require investment, resources and expertise.&nbsp; </p>",
+      "instruction": "",
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    {
+      "_id": "aide-m3-o2-exploring-de-regulations-c-14",
+      "_parentId": "aide-m3-o2-exploring-de-regulations-b-14",
+      "_type": "component",
+      "_component": "text",
+      "_classes": "",
+      "_layout": "right",
+      "title": "Complying with the AI act (High risk applications)",
+      "displayTitle": "",
+      "body": "<p>The creation of a high-risk system demands a substantial commitment to ensure compliance, entailing the necessity to undergo comprehensive conformity assessments and register with a designated notified body. This procedure mirrors the similar practice of endorsing physical electronic goods and other products before their market release, illustrating the analogous process applicable to high-risk AI systems.</p>",
+      "instruction": "",
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    {
+      "_id": "aide-m3-o2-exploring-de-regulations-c-15",
+      "_parentId": "aide-m3-o2-exploring-de-regulations-b-15",
+      "_type": "component",
+      "_component": "text",
+      "_classes": "",
+      "_layout": "full",
+      "title": "Monitoring and applications of penalties",
+      "displayTitle": "Monitoring and applications of penalties",
+      "body": "<p>Once an&nbsp; AI system is on the market, authorities are in charge of market surveillance, users ensure human oversight and monitoring, and providers have a post-market monitoring system in place. Providers and users will also report serious incidents and malfunctioning. </p> <p> For notified bodies (applications listed in Annex II) infringements are subject to fines of up to 20 million Euro or 4% of total worldwide annual turnover (whichever is greater) and for those listed in Annex III 30 million Euro or 6% of worldwide annual turnover (3% for SMEs and startups). These fall approximately in line with the penalties set out under the EU GDPR. </p> <hr> <div class=\"sub-header\"> <h3 class=\"bold-color-text\" style=\"color: #0077b6\">Limited risk</h3> </div> <div class=\"callout-border-point\" style=\"border-left-color: #d43f00\"> <p> AI systems falling into the Limited Risk category include those that generate or manipulate text, image, audio or video content, for example deepfakes. Limited risk AI systems should comply with minimal transparency requirements that would allow users to make informed decisions. After interacting with the applications, the user can then decide whether they want to continue using it. Users should be made aware when they are interacting with AI. </p> </div> <div class=\"blue-caution-callout\"> <p> Even though labelled as limited risk, it is intriguing that the EU AI act currently bunches these technologies into the limited risks category, especially as such technologies could be used for a purpose considered unacceptable or high risk. However the opposite is not sure. Any application of these technologies will be subject to the regulation.&nbsp; </p> </div> <hr> <div class=\"sub-header\"> <h3 class=\"bold-color-text\" style=\"color: #0077b6\">Minimal or no risk</h3> </div> <p> The act allows the free use of minimal-risk AI. This includes applications such as AI-enabled video games or spam filters. The vast majority of AI systems currently used in the EU fall into this category. </p>",
+      "instruction": "",
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    {
+      "_id": "aide-m3-o2-exploring-de-regulations-c-16",
+      "_parentId": "aide-m3-o2-exploring-de-regulations-b-16",
+      "_type": "component",
+      "_component": "matching",
+      "_classes": "",
+      "_layout": "left",
+      "title": "Can you identify the risk level?",
+      "displayTitle": "Can you identify the risk level?",
+      "body": "",
+      "instruction": "Choose one option then select Submit.",
+      "ariaQuestion": "Question text specifically for screen readers.",
+      "_attempts": 1,
+      "_shouldDisplayAttempts": false,
+      "_isRandom": false,
+      "_hasItemScoring": false,
+      "_questionWeight": 1,
+      "_selectable": 1,
+      "_canShowModelAnswer": true,
+      "_canShowFeedback": true,
+      "_canShowMarking": true,
+      "_recordInteraction": true,
+      "_items": [
+        {
+          "text": "Untargeted scraping of facial images from the internet or CCTV footage to create facial recognition databases.",
+         "_options" : [
+          {
+            "text": "Unacceptable",
+            "isCorrect": true
+          },
+          {
+            "text": "High",
+            "isCorrect": false
+          },
+          {
+            "text": "Limited",
+            "isCorrect": false
+          },
+          {
+            "text": "Minimal",
+            "isCorrect": false
+          }
+         ]
+        },
+        {
+          "text": "Use of AI to evaluate and select candidates from CVs",
+          "_options" : [
+            {
+              "text": "Unacceptable",
+              "isCorrect": false
+            },
+            {
+              "text": "High",
+              "isCorrect": true
+            },
+            {
+              "text": "Limited",
+              "isCorrect": false
+            },
+            {
+              "text": "Minimal",
+              "isCorrect": false
+            }
+           ]
+        },
+        {
+          "text": "Scoring of exams",
+          "_options" : [
+            {
+              "text": "Unacceptable",
+              "isCorrect": false
+            },
+            {
+              "text": "High",
+              "isCorrect": true
+            },
+            {
+              "text": "Limited",
+              "isCorrect": false
+            },
+            {
+              "text": "Minimal",
+              "isCorrect": false
+            }
+           ]
+        },
+        {
+          "text": "AI enhanced Chat bots (e.g. using ChatGPT) - Limited",
+          "_options" : [
+            {
+              "text": "Unacceptable",
+              "isCorrect": false
+            },
+            {
+              "text": "High",
+              "isCorrect": false
+            },
+            {
+              "text": "Limited",
+              "isCorrect": true
+            },
+            {
+              "text": "Minimal",
+              "isCorrect": false
+            }
+           ]
+        },
+        {
+          "text": "Scanning email to improve spam filtering - Minimal",
+          "_options" : [
+            {
+              "text": "Unacceptable",
+              "isCorrect": false
+            },
+            {
+              "text": "High",
+              "isCorrect": false
+            },
+            {
+              "text": "Limited",
+              "isCorrect": false
+            },
+            {
+              "text": "Minimal",
+              "isCorrect": true
+            }
+           ]
+        }
+      ],
+      "_feedback": {
+        "correct": "<p><strong>That's right!</p></strong><p>In the November 2022 draft the risk categorisations are as follows:<\/p> <ul> <li><strong>Unacceptable Risk:<\/strong><\/li> <ul> <li>Untargeted scraping of facial images from the internet or CCTV footage to create facial recognition databases.<\/li> <\/ul> <li><strong>High Risk:<\/strong><\/li> <ul> <li>Use of AI to evaluate and select candidates from CVs.<\/li> <li>Scoring exams.<\/li> <\/ul> <li><strong>Limited Risk:<\/strong><\/li> <ul> <li>AI-enhanced Chat bots (e.g., using ChatGPT).<\/li> <\/ul> <li><strong>Minimal Risk:<\/strong><\/li> <ul> <li>Scanning email to improve spam filtering.<\/li> <\/ul> <\/ul> <h1>It's intriguing to observe the delicate equilibrium between the advantages and potential risks associated with different scenarios, prompting us to ponder the interplay between novel and well-established technologies. While the untargeted scanning of emails for spam filtering is an accepted practice, the creation of facial recognition databases raises significant concerns. The use of AI to sort CVs and score exams is a thought-provoking prospect, particularly when considering the existing biases in these processes. Could AI contribute to reducing these biases? As technology and regulations evolve, certain practices might indeed become more ethically viable. However, a recurring theme across all these applications is the principle of proportionality. While AI holds the promise to assist and even address biases, it's imperative that its implementation aligns with the level of benefit and minimises potential harm. This delicate balance underscores the importance of ethical considerations and responsible deployment in the AI landscape.<\/h1>",
+        "_incorrect": {
+          "notFinal": "<p><strong>Are you sure about that?</p></strong><p>In the November 2022 draft the risk categorisations are as follows:<\/p> <ul> <li><strong>Unacceptable Risk:<\/strong><\/li> <ul> <li>Untargeted scraping of facial images from the internet or CCTV footage to create facial recognition databases.<\/li> <\/ul> <li><strong>High Risk:<\/strong><\/li> <ul> <li>Use of AI to evaluate and select candidates from CVs.<\/li> <li>Scoring exams.<\/li> <\/ul> <li><strong>Limited Risk:<\/strong><\/li> <ul> <li>AI-enhanced Chat bots (e.g., using ChatGPT).<\/li> <\/ul> <li><strong>Minimal Risk:<\/strong><\/li> <ul> <li>Scanning email to improve spam filtering.<\/li> <\/ul> <\/ul> <h1>It's intriguing to observe the delicate equilibrium between the advantages and potential risks associated with different scenarios, prompting us to ponder the interplay between novel and well-established technologies. While the untargeted scanning of emails for spam filtering is an accepted practice, the creation of facial recognition databases raises significant concerns. The use of AI to sort CVs and score exams is a thought-provoking prospect, particularly when considering the existing biases in these processes. Could AI contribute to reducing these biases? As technology and regulations evolve, certain practices might indeed become more ethically viable. However, a recurring theme across all these applications is the principle of proportionality. While AI holds the promise to assist and even address biases, it's imperative that its implementation aligns with the level of benefit and minimises potential harm. This delicate balance underscores the importance of ethical considerations and responsible deployment in the AI landscape.<\/h1>",
+          "final": "<p><strong>Are you sure about that?</p></strong><p>In the November 2022 draft the risk categorisations are as follows:<\/p> <ul> <li><strong>Unacceptable Risk:<\/strong><\/li> <ul> <li>Untargeted scraping of facial images from the internet or CCTV footage to create facial recognition databases.<\/li> <\/ul> <li><strong>High Risk:<\/strong><\/li> <ul> <li>Use of AI to evaluate and select candidates from CVs.<\/li> <li>Scoring exams.<\/li> <\/ul> <li><strong>Limited Risk:<\/strong><\/li> <ul> <li>AI-enhanced Chat bots (e.g., using ChatGPT).<\/li> <\/ul> <li><strong>Minimal Risk:<\/strong><\/li> <ul> <li>Scanning email to improve spam filtering.<\/li> <\/ul> <\/ul> <h1>It's intriguing to observe the delicate equilibrium between the advantages and potential risks associated with different scenarios, prompting us to ponder the interplay between novel and well-established technologies. While the untargeted scanning of emails for spam filtering is an accepted practice, the creation of facial recognition databases raises significant concerns. The use of AI to sort CVs and score exams is a thought-provoking prospect, particularly when considering the existing biases in these processes. Could AI contribute to reducing these biases? As technology and regulations evolve, certain practices might indeed become more ethically viable. However, a recurring theme across all these applications is the principle of proportionality. While AI holds the promise to assist and even address biases, it's imperative that its implementation aligns with the level of benefit and minimises potential harm. This delicate balance underscores the importance of ethical considerations and responsible deployment in the AI landscape.<\/h1>"
+        }
+      },
+      "_comment": "You only need to include _buttons if you want to override the button labels that are set in course.json",
+      "_buttons": {
+        "_submit": {
+          "buttonText": "Submit",
+          "ariaLabel": "Select here to submit your answer."
+        },
+        "_reset": {
+          "buttonText": "Reset",
+          "ariaLabel": ""
+        },
+        "_showCorrectAnswer": {
+          "buttonText": "Correct Answer",
+          "ariaLabel": ""
+        },
+        "_hideCorrectAnswer": {
+          "buttonText": "My Answer",
+          "ariaLabel": ""
+        },
+        "_showFeedback": {
+          "buttonText": "Show feedback",
+          "ariaLabel": ""
+        },
+        "remainingAttemptsText": "attempts remaining",
+        "remainingAttemptText": "final attempt"
+      },
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    {
+      "_id": "aide-m3-o2-exploring-de-regulations-c-18",
+      "_parentId": "aide-m3-o2-exploring-de-regulations-b-18",
+      "_type": "component",
+      "_component": "text",
+      "_classes": "",
+      "_layout": "full",
+      "title": "Further reading",
+      "displayTitle": "Further reading",
+      "body": "<p><em> Click the links to discover more about regulatory frameworks </em> <ul class=\"styled-links\"><li><a href=\"https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai\" target=\"_blank\" rel=\"noopener\">Regulatory framework proposal on artificial intelligence</a></li><li><a href=\"https://www.europarl.europa.eu/news/en/headlines/society/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence\" target=\"_blank\" rel=\"noopener\">EU AI Act: first regulation on artificial intelligence</a></li><li><a href=\"https://www.mhc.ie/hubs/the-eu-artificial-intelligence-act/eu-ai-act-risk-categories\" target=\"_blank\" rel=\"noopener\">EU AI Act: Risk Categories</a></li>",
+      "instruction": "",
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    {
+      "_id": "aide-m3-o2-exploring-de-regulations-c-19",
+      "_parentId": "aide-m3-o2-exploring-de-regulations-b-19",
+      "_type": "component",
+      "_component": "text",
+      "_classes": "",
+      "_layout": "full",
+      "title": "Ethical Challenges in Evolving Regulations",
+      "displayTitle": "Ethical Challenges in Evolving Regulations",
+      "body": "<p class=\"highlight-white-light\">While regulations aim to provide a structured approach to managing technological advancements, they may lag behind the pace of innovation, resulting in unforeseen ethical quandaries. Emerging technologies, such as AI and blockchain, frequently outpace the establishment of comprehensive regulations. This can create a gap wherein the ethical considerations are less codified. Organisations navigating this terrain often grapple with ethical challenges that arise when regulatory guidance is either lacking or inadequate. For example, while data protection regulations are clear, how to address algorithmic bias is not codified in law.&nbsp;</p> <div class=\"sub-header\"> <h3 class=\"bold-color-text\">As organisations navigate this landscape, they should:</h3> </div> <ul class=\"styled-links\"> <li class=\"callout-border-bold-list\"><strong>Evaluate Alignment:</strong> Assess how existing ethical principles align with regulatory requirements. Recognise areas where regulations provide clarity and where ethical considerations offer additional insights.</li> <li class=\"callout-border-bold-list\"><strong>Hold ethics in the same regard as compliance:</strong> Incorporate ethical considerations into decision-making processes alongside compliance assessments. This ensures that choices reflect both legal mandates and moral imperatives.</li> <li class=\"callout-border-bold-list\"><strong>Adaptation and Evolution:</strong> Recognise that regulatory landscapes evolve, and new ethical challenges may arise. Continuously update ethical frameworks and compliance strategies to stay aligned with shifting norms and be ready in advance of new regulations.</li> <li class=\"callout-border-bold-list\"><strong>Transparency and Accountability:</strong> Embrace transparency by communicating ethical approaches and compliance efforts to stakeholders. This fosters trust and demonstrates commitment to responsible practices.</li> </ul> ",
+      "instruction": "",
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    {
+      "_id": "aide-m3-o2-exploring-de-regulations-c-20",
+      "_parentId": "aide-m3-o2-exploring-de-regulations-b-20",
+      "_type": "component",
+      "_component": "text",
+      "_classes": "",
+      "_layout": "full",
+      "title": "Strategies for Addressing Ethical Challenges",
+      "displayTitle": "Strategies for Addressing Ethical Challenges",
+      "body": "<p class=\"highlight-white-light\">Amid these challenges, organisations can adopt strategies to navigate this complex intersection of ethics and evolving regulations:</p> <div class=\"two-by-two-grid\"> <div class=\"color-box span-2-grid-item\" style=\"background-color:#E8EAF6; color: black; list-style-type: none; margin-left: 0;\"> <strong class=\"bold-color-text\">Ethics by Design:</strong></br> Embed ethical considerations into technological development from the outset, ensuring alignment between innovation and responsible practices. </div> <div class=\"color-box\" style=\"padding: 1em; background-color:#F8E1E8; color: black; list-style-type: none; margin-left: 0;\"> <strong class=\"bold-color-text\">Ethics Committees:</strong> </br>Establish cross-functional ethics committees to evaluate emerging technologies and determine their ethical alignment. </div> <div class=\"color-box\" style=\"padding: 1em; background-color:#FDEED9; color: black; list-style-type: none; margin-left: 0;\"> <strong class=\"bold-color-text\">Ethical Risk Assessments:</strong> </br>Conduct comprehensive assessments to identify potential ethical challenges, enabling informed decisions that adhere to evolving regulations. </div> <div class=\"color-box span-2-grid-item\" style=\"background-color:#E1F3E3; color: black; list-style-type: none; margin-left: 0;\"> <strong class=\"bold-color-text\">Collaborative Advocacy:</strong> </br>Engage with regulators, industry peers, and stakeholders to advocate for comprehensive regulatory frameworks that encompass ethical dimensions. </div> <div class=\"color-box span-2-grid-item\" style=\"background-color:#E1E9F1; color: black; list-style-type: none; margin-left: 0;\"> <strong class=\"bold-color-text\">Continuous Education:</strong> </br>Equip personnel with a deep understanding of both evolving regulations and ethical principles to make well-informed decisions. </div> ",
+      "instruction": "",
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    {
+      "_id": "aide-m3-o2-exploring-de-regulations-c-21",
+      "_parentId": "aide-m3-o2-exploring-de-regulations-b-21",
+      "_type": "component",
+      "_component": "mcq",
+      "_classes": "",
+      "_layout": "left",
+      "title": "Transparency and trust?",
+      "displayTitle": "Transparency and trust?",
+      "body": "",
+      "instruction": "Choose one option then select Submit.",
+      "ariaQuestion": "Question text specifically for screen readers.",
+      "_attempts": 1,
+      "_shouldDisplayAttempts": false,
+      "_isRandom": false,
+      "_hasItemScoring": false,
+      "_questionWeight": 1,
+      "_selectable": 1,
+      "_canShowModelAnswer": true,
+      "_canShowFeedback": true,
+      "_canShowMarking": true,
+      "_recordInteraction": true,
+      "_items": [
+        {
+          "text": "It guarantees that people will trust those systems and proves they are ethical.",
+          "_shouldBeSelected": false,
+          "_isPartlyCorrect": false
+        },
+        {
+          "text": "It increases their commercial value and your income",
+          "_shouldBeSelected": false,
+          "_isPartlyCorrect": false
+        },
+        {
+          "text": "It helps build a culture of trustworthiness and prepares organisations for evolving regulations.",
+          "_shouldBeSelected": true,
+          "_isPartlyCorrect": false
+        }
+      ],
+      "_feedback": {
+        "correct": "<p><strong>That's right!</p></strong></p><p>While transparency is crucial in building trust and maintaining ethical practices, it cannot guarantee that people will automatically trust AI systems or view them as ethical. Trust is a complex interplay of various factors. Similarly, while transparency can positively impact revenue by enhancing reputation, it doesn't inherently increase commercial value or income.&nbsp;</p><p>Transparency helps build a culture of trustworthiness and prepares organisations for evolving regulations. Transparency fosters an environment where organisations can demonstrate their commitment to openness and accountability, which in turn contributes to the responsible development of AI systems and ensures compliance with emerging regulations.</p>",
+        "_incorrect": {
+          "notFinal": "<p><strong>Are you sure about that?</p></strong></p><p>While transparency is crucial in building trust and maintaining ethical practices, it cannot guarantee that people will automatically trust AI systems or view them as ethical. Trust is a complex interplay of various factors. Similarly, while transparency can positively impact revenue by enhancing reputation, it doesn't inherently increase commercial value or income.&nbsp;</p><p>Transparency helps build a culture of trustworthiness and prepares organisations for evolving regulations. Transparency fosters an environment where organisations can demonstrate their commitment to openness and accountability, which in turn contributes to the responsible development of AI systems and ensures compliance with emerging regulations.</p>",
+          "final": "<p><strong>Are you sure about that?</p></strong></p><p>While transparency is crucial in building trust and maintaining ethical practices, it cannot guarantee that people will automatically trust AI systems or view them as ethical. Trust is a complex interplay of various factors. Similarly, while transparency can positively impact revenue by enhancing reputation, it doesn't inherently increase commercial value or income.&nbsp;</p><p>Transparency helps build a culture of trustworthiness and prepares organisations for evolving regulations. Transparency fosters an environment where organisations can demonstrate their commitment to openness and accountability, which in turn contributes to the responsible development of AI systems and ensures compliance with emerging regulations.</p>"
+        }
+      },
+      "_comment": "You only need to include _buttons if you want to override the button labels that are set in course.json",
+      "_buttons": {
+        "_submit": {
+          "buttonText": "Submit",
+          "ariaLabel": "Select here to submit your answer."
+        },
+        "_reset": {
+          "buttonText": "Reset",
+          "ariaLabel": ""
+        },
+        "_showCorrectAnswer": {
+          "buttonText": "Correct Answer",
+          "ariaLabel": ""
+        },
+        "_hideCorrectAnswer": {
+          "buttonText": "My Answer",
+          "ariaLabel": ""
+        },
+        "_showFeedback": {
+          "buttonText": "Show feedback",
+          "ariaLabel": ""
+        },
+        "remainingAttemptsText": "attempts remaining",
+        "remainingAttemptText": "final attempt"
+      },
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    {
+      "_id": "aide-m3-o2-exploring-de-regulations-c-22",
+      "_parentId": "aide-m3-o2-exploring-de-regulations-b-22",
+      "_type": "component",
+      "_component": "text",
+      "_classes": "",
+      "_layout": "right",
+      "title": "The Role of Transparency in Maintaining Trust",
+      "displayTitle": "",
+      "body": "<p>In an era where data breaches and ethical lapses can have far-reaching consequences, transparency stands as a cornerstone for upholding trust between organisations and stakeholders. Regulations, such as GDPR, are increasingly punitive not only due to the occurrence of a data breach but also due to evident inadequacies in processes, lack of transparency, and weak governance. Even organisations with exemplary security measures can face breaches stemming from rapidly evolving cyber threats. Embracing transparency in data handling practices and technological advancements not only cultivates a culture of trustworthiness but also equips organisations for upcoming regulations that demand heightened reporting, implementation of risk management processes, and enhanced transparency.</p>",
+      "instruction": "",
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    {
+      "_id": "aide-m3-o2-exploring-de-regulations-c-23",
+      "_parentId": "aide-m3-o2-exploring-de-regulations-b-23",
+      "_type": "component",
+      "_component": "text",
+      "_classes": "",
+      "_layout": "left",
+      "title": "Summary",
+      "displayTitle": "Summary",
+      "body": "<p>Throughout this module, we delved into the intricate landscape of digital, data, and AI regulations. We examined both general and sector-specific regulations, shedding light on their complexities. Exploring the interplay between ethics and regulations in AI, we spotlighted emerging laws like the EU AI Act. Ethical challenges were dissected, along with strategies for resolution. Emphasising transparency's pivotal role, this module equips learners to navigate these intricate realms responsibly.</p>",
+      "instruction": "",
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    {
+      "_id": "aide-m3-o2-exploring-de-regulations-g-1",
+      "_parentId": "aide-m3-o2-exploring-de-regulations-b-1",
+      "_type": "component",
+      "_component": "graphic",
+      "_classes": "",
+      "_layout": "right",
+      "title": "graphic for Introduction",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "",
+      "_graphic": {
+        "alt": "",
+        "longdescription": "",
+        "large": "https://via.placeholder.com/600x600",
+        "small": "https://via.placeholder.com/600x600",
+        "attribution": "NO ATTRIBUTION",
+        "_url": "",
+        "_target": ""
+      },
+      "_isScrollable": false,
+      "_defaultScrollPercent": 0,
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+      "_id": "aide-m3-o2-exploring-de-regulations-g-3",
+      "_parentId": "aide-m3-o2-exploring-de-regulations-b-3",
+      "_type": "component",
+      "_component": "graphic",
+      "_classes": "",
+      "_layout": "right",
+      "title": "graphic for General regulations",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "",
+      "_graphic": {
+        "alt": "",
+        "longdescription": "",
+        "large": "https://via.placeholder.com/600x600",
+        "small": "https://via.placeholder.com/600x600",
+        "attribution": "NO ATTRIBUTION",
+        "_url": "",
+        "_target": ""
+      },
+      "_isScrollable": false,
+      "_defaultScrollPercent": 0,
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+      "_id": "aide-m3-o2-exploring-de-regulations-g-4",
+      "_parentId": "aide-m3-o2-exploring-de-regulations-b-4",
+      "_type": "component",
+      "_component": "graphic",
+      "_classes": "",
+      "_layout": "left",
+      "title": "graphic for Human rights",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "",
+      "_graphic": {
+        "alt": "",
+        "longdescription": "",
+        "large": "https://via.placeholder.com/600x600",
+        "small": "https://via.placeholder.com/600x600",
+        "attribution": "NO ATTRIBUTION",
+        "_url": "",
+        "_target": ""
+      },
+      "_isScrollable": false,
+      "_defaultScrollPercent": 0,
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+      "_id": "aide-m3-o2-exploring-de-regulations-g-5",
+      "_parentId": "aide-m3-o2-exploring-de-regulations-b-5",
+      "_type": "component",
+      "_component": "graphic",
+      "_classes": "",
+      "_layout": "right",
+      "title": "graphic for Data Protection and Privacy Laws",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "",
+      "_graphic": {
+        "alt": "",
+        "longdescription": "",
+        "large": "https://via.placeholder.com/600x600",
+        "small": "https://via.placeholder.com/600x600",
+        "attribution": "NO ATTRIBUTION",
+        "_url": "",
+        "_target": ""
+      },
+      "_isScrollable": false,
+      "_defaultScrollPercent": 0,
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+      "_id": "aide-m3-o2-exploring-de-regulations-g-6",
+      "_parentId": "aide-m3-o2-exploring-de-regulations-b-6",
+      "_type": "component",
+      "_component": "graphic",
+      "_classes": "",
+      "_layout": "left",
+      "title": "graphic for Intellectual Property Rights ",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "",
+      "_graphic": {
+        "alt": "",
+        "longdescription": "",
+        "large": "https://via.placeholder.com/600x600",
+        "small": "https://via.placeholder.com/600x600",
+        "attribution": "NO ATTRIBUTION",
+        "_url": "",
+        "_target": ""
+      },
+      "_isScrollable": false,
+      "_defaultScrollPercent": 0,
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+      "_id": "aide-m3-o2-exploring-de-regulations-g-7",
+      "_parentId": "aide-m3-o2-exploring-de-regulations-b-7",
+      "_type": "component",
+      "_component": "graphic",
+      "_classes": "",
+      "_layout": "right",
+      "title": "graphic for What regulations will impact the following?",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "",
+      "_graphic": {
+        "alt": "",
+        "longdescription": "",
+        "large": "https://via.placeholder.com/600x600",
+        "small": "https://via.placeholder.com/600x600",
+        "attribution": "NO ATTRIBUTION",
+        "_url": "",
+        "_target": ""
+      },
+      "_isScrollable": false,
+      "_defaultScrollPercent": 0,
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+      "_id": "aide-m3-o2-exploring-de-regulations-g-8",
+      "_parentId": "aide-m3-o2-exploring-de-regulations-b-8",
+      "_type": "component",
+      "_component": "graphic",
+      "_classes": "",
+      "_layout": "left",
+      "title": "graphic for What regulations will impact the following?",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "",
+      "_graphic": {
+        "alt": "",
+        "longdescription": "",
+        "large": "https://via.placeholder.com/600x600",
+        "small": "https://via.placeholder.com/600x600",
+        "attribution": "NO ATTRIBUTION",
+        "_url": "",
+        "_target": ""
+      },
+      "_isScrollable": false,
+      "_defaultScrollPercent": 0,
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+      "_id": "aide-m3-o2-exploring-de-regulations-g-9",
+      "_parentId": "aide-m3-o2-exploring-de-regulations-b-9",
+      "_type": "component",
+      "_component": "graphic",
+      "_classes": "",
+      "_layout": "right",
+      "title": "graphic for What regulations will impact the following?",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "",
+      "_graphic": {
+        "alt": "",
+        "longdescription": "",
+        "large": "https://via.placeholder.com/600x600",
+        "small": "https://via.placeholder.com/600x600",
+        "attribution": "NO ATTRIBUTION",
+        "_url": "",
+        "_target": ""
+      },
+      "_isScrollable": false,
+      "_defaultScrollPercent": 0,
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+      "_id": "aide-m3-o2-exploring-de-regulations-g-10",
+      "_parentId": "aide-m3-o2-exploring-de-regulations-b-10",
+      "_type": "component",
+      "_component": "graphic",
+      "_classes": "",
+      "_layout": "left",
+      "title": "graphic for Sector-Specific Regulations",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "",
+      "_graphic": {
+        "alt": "",
+        "longdescription": "",
+        "large": "https://via.placeholder.com/600x600",
+        "small": "https://via.placeholder.com/600x600",
+        "attribution": "NO ATTRIBUTION",
+        "_url": "",
+        "_target": ""
+      },
+      "_isScrollable": false,
+      "_defaultScrollPercent": 0,
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+      "_id": "aide-m3-o2-exploring-de-regulations-g-12",
+      "_parentId": "aide-m3-o2-exploring-de-regulations-b-12",
+      "_type": "component",
+      "_component": "graphic",
+      "_classes": "",
+      "_layout": "left",
+      "title": "graphic for New regulations in AI (the EU AI Act)",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "",
+      "_graphic": {
+        "alt": "",
+        "longdescription": "",
+        "large": "https://via.placeholder.com/600x600",
+        "small": "https://via.placeholder.com/600x600",
+        "attribution": "NO ATTRIBUTION",
+        "_url": "",
+        "_target": ""
+      },
+      "_isScrollable": false,
+      "_defaultScrollPercent": 0,
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+      "_id": "aide-m3-o2-exploring-de-regulations-g-14",
+      "_parentId": "aide-m3-o2-exploring-de-regulations-b-14",
+      "_type": "component",
+      "_component": "graphic",
+      "_classes": "",
+      "_layout": "left",
+      "title": "graphic for Complying with the AI act (High risk applications)",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "",
+      "_graphic": {
+        "alt": "",
+        "longdescription": "",
+        "large": "https://via.placeholder.com/600x600",
+        "small": "https://via.placeholder.com/600x600",
+        "attribution": "NO ATTRIBUTION",
+        "_url": "",
+        "_target": ""
+      },
+      "_isScrollable": false,
+      "_defaultScrollPercent": 0,
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+      "_id": "aide-m3-o2-exploring-de-regulations-g-16",
+      "_parentId": "aide-m3-o2-exploring-de-regulations-b-16",
+      "_type": "component",
+      "_component": "graphic",
+      "_classes": "",
+      "_layout": "left",
+      "title": "graphic for Can you identify the risk level?",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "",
+      "_graphic": {
+        "alt": "",
+        "longdescription": "",
+        "large": "https://via.placeholder.com/600x600",
+        "small": "https://via.placeholder.com/600x600",
+        "attribution": "NO ATTRIBUTION",
+        "_url": "",
+        "_target": ""
+      },
+      "_isScrollable": false,
+      "_defaultScrollPercent": 0,
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+      "_id": "aide-m3-o2-exploring-de-regulations-g-21",
+      "_parentId": "aide-m3-o2-exploring-de-regulations-b-21",
+      "_type": "component",
+      "_component": "graphic",
+      "_classes": "",
+      "_layout": "right",
+      "title": "graphic for Transparency and trust?",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "",
+      "_graphic": {
+        "alt": "",
+        "longdescription": "",
+        "large": "https://via.placeholder.com/600x600",
+        "small": "https://via.placeholder.com/600x600",
+        "attribution": "NO ATTRIBUTION",
+        "_url": "",
+        "_target": ""
+      },
+      "_isScrollable": false,
+      "_defaultScrollPercent": 0,
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+      "_id": "aide-m3-o2-exploring-de-regulations-g-22",
+      "_parentId": "aide-m3-o2-exploring-de-regulations-b-22",
+      "_type": "component",
+      "_component": "graphic",
+      "_classes": "",
+      "_layout": "left",
+      "title": "graphic for The Role of Transparency in Maintaining Trust",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "",
+      "_graphic": {
+        "alt": "",
+        "longdescription": "",
+        "large": "https://via.placeholder.com/600x600",
+        "small": "https://via.placeholder.com/600x600",
+        "attribution": "NO ATTRIBUTION",
+        "_url": "",
+        "_target": ""
+      },
+      "_isScrollable": false,
+      "_defaultScrollPercent": 0,
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+      "_id": "aide-m3-o2-exploring-de-regulations-g-23",
+      "_parentId": "aide-m3-o2-exploring-de-regulations-b-23",
+      "_type": "component",
+      "_component": "graphic",
+      "_classes": "",
+      "_layout": "right",
+      "title": "graphic for Summary",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "",
+      "_graphic": {
+        "alt": "",
+        "longdescription": "",
+        "large": "https://via.placeholder.com/600x600",
+        "small": "https://via.placeholder.com/600x600",
+        "attribution": "NO ATTRIBUTION",
+        "_url": "",
+        "_target": ""
+      },
+      "_isScrollable": false,
+      "_defaultScrollPercent": 0,
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
   {
     "_component": "blank",
     "_classes": "",
@@ -1861,8 +3008,8 @@
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "https://via.placeholder.com/600x400",
-      "small": "https://via.placeholder.com/600x400",
+      "large": "https://via.placeholder.com/600x600",
+      "small": "https://via.placeholder.com/600x600",
       "attribution": "NO ATTRIBUTION",
       "_url": "",
       "_target": ""
@@ -1887,8 +3034,8 @@
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "https://via.placeholder.com/600x400",
-      "small": "https://via.placeholder.com/600x400",
+      "large": "https://via.placeholder.com/600x600",
+      "small": "https://via.placeholder.com/600x600",
       "attribution": "NO ATTRIBUTION",
       "_url": "",
       "_target": ""
@@ -1914,8 +3061,8 @@
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "https://via.placeholder.com/600x400",
-      "small": "https://via.placeholder.com/600x400",
+      "large": "https://via.placeholder.com/600x600",
+      "small": "https://via.placeholder.com/600x600",
       "attribution": "NO ATTRIBUTION",
       "_url": "",
       "_target": ""
@@ -1940,8 +3087,8 @@
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "https://via.placeholder.com/600x400",
-      "small": "https://via.placeholder.com/600x400",
+      "large": "https://via.placeholder.com/600x600",
+      "small": "https://via.placeholder.com/600x600",
       "attribution": "NO ATTRIBUTION",
       "_url": "",
       "_target": ""
@@ -1966,8 +3113,8 @@
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "https://via.placeholder.com/600x400",
-      "small": "https://via.placeholder.com/600x400",
+      "large": "https://via.placeholder.com/600x600",
+      "small": "https://via.placeholder.com/600x600",
       "attribution": "NO ATTRIBUTION",
       "_url": "",
       "_target": ""
@@ -1992,8 +3139,8 @@
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "https://via.placeholder.com/600x400",
-      "small": "https://via.placeholder.com/600x400",
+      "large": "https://via.placeholder.com/600x600",
+      "small": "https://via.placeholder.com/600x600",
       "attribution": "NO ATTRIBUTION",
       "_url": "",
       "_target": ""
@@ -2018,8 +3165,8 @@
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "https://via.placeholder.com/600x400",
-      "small": "https://via.placeholder.com/600x400",
+      "large": "https://via.placeholder.com/600x600",
+      "small": "https://via.placeholder.com/600x600",
       "attribution": "NO ATTRIBUTION",
       "_url": "",
       "_target": ""
@@ -2044,8 +3191,8 @@
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "https://via.placeholder.com/600x400",
-      "small": "https://via.placeholder.com/600x400",
+      "large": "https://via.placeholder.com/600x600",
+      "small": "https://via.placeholder.com/600x600",
       "attribution": "NO ATTRIBUTION",
       "_url": "",
       "_target": ""
@@ -2070,8 +3217,8 @@
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "https://via.placeholder.com/600x400",
-      "small": "https://via.placeholder.com/600x400",
+      "large": "https://via.placeholder.com/600x600",
+      "small": "https://via.placeholder.com/600x600",
       "attribution": "NO ATTRIBUTION",
       "_url": "",
       "_target": ""
@@ -2096,8 +3243,8 @@
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "https://via.placeholder.com/600x400",
-      "small": "https://via.placeholder.com/600x400",
+      "large": "https://via.placeholder.com/600x600",
+      "small": "https://via.placeholder.com/600x600",
       "attribution": "NO ATTRIBUTION",
       "_url": "",
       "_target": ""
