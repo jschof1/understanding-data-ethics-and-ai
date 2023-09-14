@@ -1,7 +1,7 @@
 [
   {
     "title": "Trialogue",
-    "displayTitle": "",
+    "displayTitle": "Trialogue",
     "body": "",
     "_classes": "",
     "_trackingId": 1,
@@ -55,7 +55,7 @@
   },
   {
     "title": "Introduction",
-    "displayTitle": "",
+    "displayTitle": "Introduction",
     "body": "",
     "_classes": "",
     "_trackingId": 2,
@@ -84,7 +84,7 @@
   },
   {
     "title": "Key regulations in the digital, data, and AI spaces.",
-    "displayTitle": "",
+    "displayTitle": "Key regulations in the digital, data, and AI spaces.",
     "body": "",
     "_classes": "",
     "_trackingId": 3,
@@ -113,7 +113,7 @@
   },
   {
     "title": "General regulations",
-    "displayTitle": "",
+    "displayTitle": "General regulations",
     "body": "",
     "_classes": "",
     "_trackingId": 4,
@@ -142,7 +142,7 @@
   },
   {
     "title": "Human rights",
-    "displayTitle": "",
+    "displayTitle": "Human rights",
     "body": "",
     "_classes": "",
     "_trackingId": 5,
@@ -171,7 +171,7 @@
   },
   {
     "title": "Data Protection and Privacy Laws",
-    "displayTitle": "",
+    "displayTitle": "Data Protection and Privacy Laws",
     "body": "",
     "_classes": "",
     "_trackingId": 6,
@@ -200,7 +200,7 @@
   },
   {
     "title": "Intellectual Property Rights ",
-    "displayTitle": "",
+    "displayTitle": "Intellectual Property Rights ",
     "body": "",
     "_classes": "",
     "_trackingId": 7,
@@ -229,7 +229,7 @@
   },
   {
     "title": "What regulations will impact the following?",
-    "displayTitle": "",
+    "displayTitle": "What regulations will impact the following?",
     "body": "",
     "_classes": "",
     "_trackingId": 8,
@@ -258,7 +258,7 @@
   },
   {
     "title": "What regulations will impact the following?",
-    "displayTitle": "",
+    "displayTitle": "What regulations will impact the following?",
     "body": "",
     "_classes": "",
     "_trackingId": 9,
@@ -287,7 +287,7 @@
   },
   {
     "title": "What regulations will impact the following?",
-    "displayTitle": "",
+    "displayTitle": "What regulations will impact the following?",
     "body": "",
     "_classes": "",
     "_trackingId": 10,
@@ -316,7 +316,7 @@
   },
   {
     "title": "Sector-Specific Regulations",
-    "displayTitle": "",
+    "displayTitle": "Sector-Specific Regulations",
     "body": "",
     "_classes": "",
     "_trackingId": 11,
@@ -345,7 +345,7 @@
   },
   {
     "title": "Technology-centric Regulations: Moving From Ethics to Regulations in AI",
-    "displayTitle": "",
+    "displayTitle": "Technology-centric Regulations: Moving From Ethics to Regulations in AI",
     "body": "",
     "_classes": "",
     "_trackingId": 12,
@@ -374,7 +374,7 @@
   },
   {
     "title": "New regulations in AI (the EU AI Act)",
-    "displayTitle": "New regulations in AI (the EU AI Act",
+    "displayTitle": "New regulations in AI (the EU AI Act)",
     "body": "",
     "_classes": "",
     "_trackingId": 13,
@@ -403,7 +403,7 @@
   },
   {
     "title": "The AI act risk categories",
-    "displayTitle": "",
+    "displayTitle": "The AI act risk categories",
     "body": "",
     "_classes": "",
     "_trackingId": 14,
@@ -432,7 +432,7 @@
   },
   {
     "title": "Complying with the AI act (High risk applications)",
-    "displayTitle": "Complying with the AI act (High risk applications",
+    "displayTitle": "Complying with the AI act (High risk applications)",
     "body": "",
     "_classes": "",
     "_trackingId": 15,
@@ -461,7 +461,7 @@
   },
   {
     "title": "Monitoring and applications of penalties",
-    "displayTitle": "",
+    "displayTitle": "Monitoring and applications of penalties",
     "body": "",
     "_classes": "",
     "_trackingId": 16,
@@ -490,7 +490,7 @@
   },
   {
     "title": "Can you identify the risk level?",
-    "displayTitle": "",
+    "displayTitle": "Can you identify the risk level?",
     "body": "",
     "_classes": "",
     "_trackingId": 17,
@@ -519,7 +519,7 @@
   },
   {
     "title": "Further reading",
-    "displayTitle": "",
+    "displayTitle": "Further reading",
     "body": "",
     "_classes": "",
     "_trackingId": 19,
@@ -548,7 +548,7 @@
   },
   {
     "title": "Ethical Challenges in Evolving Regulations",
-    "displayTitle": "",
+    "displayTitle": "Ethical Challenges in Evolving Regulations",
     "body": "",
     "_classes": "",
     "_trackingId": 20,
@@ -577,7 +577,7 @@
   },
   {
     "title": "Strategies for Addressing Ethical Challenges",
-    "displayTitle": "",
+    "displayTitle": "Strategies for Addressing Ethical Challenges",
     "body": "",
     "_classes": "",
     "_trackingId": 21,
@@ -606,7 +606,7 @@
   },
   {
     "title": "Transparency and trust?",
-    "displayTitle": "",
+    "displayTitle": "Transparency and trust?",
     "body": "",
     "_classes": "",
     "_trackingId": 22,
@@ -664,7 +664,7 @@
   },
   {
     "title": "Summary",
-    "displayTitle": "",
+    "displayTitle": "Summary",
     "body": "",
     "_classes": "",
     "_trackingId": 24,
@@ -676,7 +676,7 @@
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
     "_id": "aide-m3-o2-exploring-de-regulations-b-23",
-    "_parentId": "64d34a4dd9db5173efdc23f8",
+    "_parentId": "summary-64d34a4dd9db5173efdc23f8",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -693,7 +693,7 @@
   },
   {
     "title": "New Component Title",
-    "displayTitle": "",
+    "displayTitle": "New Component Title",
     "body": "",
     "_classes": "",
     "_trackingId": 25,
@@ -747,7 +747,7 @@
   },
   {
     "title": "New Component Title",
-    "displayTitle": "",
+    "displayTitle": "New Component Title",
     "body": "",
     "_classes": "",
     "_trackingId": 26,
@@ -801,7 +801,7 @@
   },
   {
     "title": "New Component Title",
-    "displayTitle": "",
+    "displayTitle": "New Component Title",
     "body": "",
     "_classes": "",
     "_trackingId": 27,
@@ -855,7 +855,7 @@
   },
   {
     "title": "New Component Title",
-    "displayTitle": "",
+    "displayTitle": "New Component Title",
     "body": "",
     "_classes": "",
     "_trackingId": 28,
@@ -909,39 +909,10 @@
   },
   {
     "title": "Introduction",
-    "displayTitle": "Why is data ethics important?",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 29,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "b-1",
-    "_parentId": "64d362a8d9db5173efdc241d",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": true
-    }
-  },
-  {
-    "title": "LO's",
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 30,
+    "_trackingId": 1020,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -949,210 +920,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "b-20",
-    "_parentId": "64d362a8d9db5173efdc241d",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": true
-    }
-  },
-  {
-    "title": "What is data ethics?",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 31,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "b-2",
-    "_parentId": "64d362a8d9db5173efdc241d",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": true
-    }
-  },
-  {
-    "title": "The Data Lifecycle and the changing nature of data ethics",
-    "displayTitle": "The Data Lifecycle and the changing nature of data ethics",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 32,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "b-3",
-    "_parentId": "64d362a8d9db5173efdc241d",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": true
-    }
-  },
-  {
-    "title": "Why is data ethics important?",
-    "displayTitle": "Why is data ethics important?",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 33,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "b-4",
-    "_parentId": "64d362a8d9db5173efdc241d",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": true
-    }
-  },
-  {
-    "title": "Accordion",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 34,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "b-5",
-    "_parentId": "64d362a8d9db5173efdc241d",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": true
-    }
-  },
-  {
-    "title": "So, why is data ethics important?",
-    "displayTitle": "So, why is data ethics important?",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 35,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "b-6",
-    "_parentId": "64d362a8d9db5173efdc241d",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": true
-    }
-  },
-  {
-    "title": "Accordion",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 36,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "b-7",
-    "_parentId": "64d362a8d9db5173efdc241d",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": true
-    }
-  },
-  {
-    "title": "Is data ethics important, or is it critical?",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 37,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "b-8",
+    "_id": "64f1c12b94389ef9d9f95552",
     "_parentId": "64d362a8d9db5173efdc241d",
     "_type": "block",
     "_onScreen": {
@@ -1173,7 +941,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 38,
+    "_trackingId": 1021,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1181,7 +949,148 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "b-9",
+    "_id": "64f1e10f94389ef9d9f95574",
+    "_parentId": "64d362a8d9db5173efdc241b",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Why is data ethics important?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 1022,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "64f1c12b94389ef9d9f95553",
+    "_parentId": "64d362a8d9db5173efdc241d",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Intended and unintended consequences",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 1023,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "64f1c12b94389ef9d9f95554",
+    "_parentId": "64d362a8d9db5173efdc241d",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Data ethics in practice (..or not)",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 1024,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "64f1c12b94389ef9d9f95555",
     "_parentId": "64d362a8d9db5173efdc241d",
     "_type": "block",
     "_onScreen": {
@@ -1198,8 +1107,265 @@
     }
   },
   {
-    "title": "New Component Title",
+    "title": "Is data ethics only a consideration when handling personal data?",
     "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 1025,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "64f1c12b94389ef9d9f95556",
+    "_parentId": "64d362a8d9db5173efdc241d",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "Is data ethics important, or is it critical?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 1026,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "64f1c12b94389ef9d9f95557",
+    "_parentId": "64d362a8d9db5173efdc241d",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Is data ethics only a consideration when handling personal data?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 1027,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "64f1c12b94389ef9d9f95558",
+    "_parentId": "64d362a8d9db5173efdc241d",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "Data ethics across the data lifecycle?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 1028,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "64f1c12c94389ef9d9f95559",
+    "_parentId": "64d362a8d9db5173efdc241d",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "Asking the right questions?",
+    "displayTitle": "Asking the right questions?",
+    "body": "<p>There are different considerations to be made across each stage of the data lifecycle. Regardless of the stage you are working at, when doing an ethical evaluation it is always important to ask the opposite question in order to provide balance. Such questions can also provide greater clarity on the ethical consequences. It is also important to ask the opposite questions of the ones usually posed.</p>",
+    "_classes": "",
+    "_trackingId": 1029,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "64f1c12c94389ef9d9f9555a",
+    "_parentId": "64d362a8d9db5173efdc241d",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Reflecting on your own ethical practice",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 1030,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "64f1c12c94389ef9d9f9555b",
+    "_parentId": "64d362a8d9db5173efdc241d",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "title": "Quote",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 1031,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "64f1c12c94389ef9d9f9555c",
+    "_parentId": "64d362a8d9db5173efdc241d",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
     "body": "",
     "_classes": "",
     "_trackingId": 39,
@@ -1253,7 +1419,7 @@
   },
   {
     "title": "New Component Title",
-    "displayTitle": "",
+    "displayTitle": "New Component Title",
     "body": "",
     "_classes": "",
     "_trackingId": 40,
@@ -1307,7 +1473,7 @@
   },
   {
     "title": "New Component Title",
-    "displayTitle": "",
+    "displayTitle": "New Component Title",
     "body": "",
     "_classes": "",
     "_trackingId": 41,
@@ -1361,7 +1527,7 @@
   },
   {
     "title": "New Component Title",
-    "displayTitle": "",
+    "displayTitle": "New Component Title",
     "body": "",
     "_classes": "",
     "_trackingId": 42,
@@ -1415,7 +1581,7 @@
   },
   {
     "title": "New Component Title",
-    "displayTitle": "",
+    "displayTitle": "New Component Title",
     "body": "",
     "_classes": "",
     "_trackingId": 43,
@@ -1469,7 +1635,7 @@
   },
   {
     "title": "New Component Title",
-    "displayTitle": "",
+    "displayTitle": "New Component Title",
     "body": "",
     "_classes": "",
     "_trackingId": 44,
@@ -1523,7 +1689,7 @@
   },
   {
     "title": "New Component Title",
-    "displayTitle": "",
+    "displayTitle": "New Component Title",
     "body": "",
     "_classes": "",
     "_trackingId": 45,
@@ -1577,7 +1743,7 @@
   },
   {
     "title": "New Component Title",
-    "displayTitle": "",
+    "displayTitle": "New Component Title",
     "body": "",
     "_classes": "",
     "_trackingId": 46,
@@ -1630,8 +1796,713 @@
     }
   },
   {
-    "title": "Increasing the utility of data, whilst protecting individual rights",
+    "title": "Ethics and personal data",
+    "displayTitle": "Ethics and personal data",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 1,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "64f881ec94389ef9d9f955e8",
+    "_parentId": "64f881ec94389ef9d9f955e4",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Techniques to reduce the risks of handling personal data",
+    "displayTitle": "Techniques to reduce the risks of handling personal data",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 2,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "64f881ec94389ef9d9f955e9",
+    "_parentId": "64f881ec94389ef9d9f955e6",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Summary",
     "displayTitle": "",
+    "body": "",
+    "_classes": "footer inverted",
+    "_trackingId": 3,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "64f881ec94389ef9d9f955ea",
+    "_parentId": "64f881ec94389ef9d9f955e7",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "The rights of individuals over personal data",
+    "displayTitle": "The rights of individuals over personal data",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 4,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "64f881ec94389ef9d9f955ed",
+    "_parentId": "64f881ec94389ef9d9f955e5",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Topics",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 5,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "64f881ec94389ef9d9f955ec",
+    "_parentId": "64f881ec94389ef9d9f955e4",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "The role of data protection regulations",
+    "displayTitle": "The role of data protection regulations",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 6,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "64f881ec94389ef9d9f955f0",
+    "_parentId": "64f881ec94389ef9d9f955e5",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Classifying personal and sensitive data",
+    "displayTitle": "Classifying personal and sensitive data",
+    "body": "<p>See if you can classify the following types of data into <strong>personal</strong>, <strong>sensitive personal</strong>, <strong>sensitive commercial</strong> or <strong>neither personal or sensitive&nbsp;commercial</strong>.</p>",
+    "_classes": "",
+    "_trackingId": 7,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "64f881ec94389ef9d9f955ef",
+    "_parentId": "64f881ec94389ef9d9f955e4",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "The rights of individuals over personal data",
+    "displayTitle": "The rights of individuals over personal data",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 8,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "64f9ee0394389ef9d9f9563c",
+    "_parentId": "64f881ec94389ef9d9f955e5",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Defining personal, sensitive personal and sensitive commercial data",
+    "displayTitle": "Defining personal, sensitive personal and sensitive commercial data",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 9,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "64f881ec94389ef9d9f955f1",
+    "_parentId": "64f881ec94389ef9d9f955e4",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "The rights of individuals over personal data",
+    "displayTitle": "The rights of individuals over personal data",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 10,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "64f9edb194389ef9d9f95638",
+    "_parentId": "64f881ec94389ef9d9f955e5",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Who owns personal data?",
+    "displayTitle": "Who owns personal data?",
+    "body": "<p>To understand what rights people have over personal data, it is important to first understand who owns it.</p><p>When you put intellectual effort (thought) into creating something, you own that work and you have certain <strong>intellectual property rights</strong>. It is critically important to understand what intellectual property rights are when you are seeking to collect, use and share data.</p>",
+    "_classes": "",
+    "_trackingId": 11,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "64f881ec94389ef9d9f955f3",
+    "_parentId": "64f881ec94389ef9d9f955e4",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Establishing the lawful basis for processing personal data",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 12,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "64f881ec94389ef9d9f955f4",
+    "_parentId": "64f881ec94389ef9d9f955e5",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "The importance of understanding who owns personal data",
+    "displayTitle": "The importance of understanding who owns personal data",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 13,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "64f881ec94389ef9d9f955f5",
+    "_parentId": "64f881ec94389ef9d9f955e4",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Establishing the lawful basis for processing personal data",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 14,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "64f9eebf94389ef9d9f95645",
+    "_parentId": "64f881ec94389ef9d9f955e5",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Establishing a lawful basis for the ethical collection, use and sharing of (personal) data",
+    "displayTitle": "Establishing a lawful basis for the ethical collection, use and sharing of (personal) data",
+    "body": "<p>Regardless of whether data is personal, it is still worthwhile considering the basis under which it is collected, used and shared.</p>",
+    "_classes": "",
+    "_trackingId": 15,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "64f881ec94389ef9d9f955f6",
+    "_parentId": "64f881ec94389ef9d9f955e5",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Increasing the utility of data, whilst protecting individual rights",
+    "displayTitle": "Increasing the utility of data, whilst protecting individual rights",
     "body": "",
     "_classes": "",
     "_trackingId": 47,
@@ -1660,7 +2531,7 @@
   },
   {
     "title": "Anonymisation in 7-steps",
-    "displayTitle": "",
+    "displayTitle": "Anonymisation in 7-steps",
     "body": "",
     "_classes": "",
     "_trackingId": 48,
@@ -1689,7 +2560,7 @@
   },
   {
     "title": "STEP 1: Establish the lawful and ethical basis",
-    "displayTitle": "",
+    "displayTitle": "STEP 1: Establish the lawful and ethical basis",
     "body": "",
     "_classes": "",
     "_trackingId": 49,
@@ -1718,7 +2589,7 @@
   },
   {
     "title": "STEP 2: Set objectives",
-    "displayTitle": "",
+    "displayTitle": "STEP 2: Set objectives",
     "body": "",
     "_classes": "",
     "_trackingId": 50,
@@ -1747,7 +2618,7 @@
   },
   {
     "title": "STEP 3: Assess risk",
-    "displayTitle": "",
+    "displayTitle": "STEP 3: Assess risk",
     "body": "",
     "_classes": "",
     "_trackingId": 51,
@@ -1776,7 +2647,7 @@
   },
   {
     "title": "STEP 4: Anonymise personal data",
-    "displayTitle": "",
+    "displayTitle": "STEP 4: Anonymise personal data",
     "body": "",
     "_classes": "",
     "_trackingId": 52,
@@ -1805,7 +2676,7 @@
   },
   {
     "title": "STEP 5: Testing resilience",
-    "displayTitle": "",
+    "displayTitle": "STEP 5: Testing resilience",
     "body": "",
     "_classes": "",
     "_trackingId": 53,
@@ -1834,7 +2705,7 @@
   },
   {
     "title": "STEP 6: Write a plan to mitigate risk",
-    "displayTitle": "",
+    "displayTitle": "STEP 6: Write a plan to mitigate risk",
     "body": "",
     "_classes": "",
     "_trackingId": 54,
@@ -1863,7 +2734,7 @@
   },
   {
     "title": "STEP 7: Publish the data, anonymisation details and risk assessment",
-    "displayTitle": "",
+    "displayTitle": "STEP 7: Publish the data, anonymisation details and risk assessment",
     "body": "",
     "_classes": "",
     "_trackingId": 55,
@@ -1892,7 +2763,7 @@
   },
   {
     "title": "Hands-on: Data anonymisation",
-    "displayTitle": "",
+    "displayTitle": "Hands-on: Data anonymisation",
     "body": "",
     "_classes": "",
     "_trackingId": 56,
@@ -1921,7 +2792,7 @@
   },
   {
     "title": "STEP 1: Establish the lawful and ethical basis",
-    "displayTitle": "",
+    "displayTitle": "STEP 1: Establish the lawful and ethical basis",
     "body": "",
     "_classes": "",
     "_trackingId": 57,
@@ -1950,7 +2821,7 @@
   },
   {
     "title": "STEP 2: Set objectives",
-    "displayTitle": "",
+    "displayTitle": "STEP 2: Set objectives",
     "body": "",
     "_classes": "",
     "_trackingId": 58,
@@ -1979,7 +2850,7 @@
   },
   {
     "title": "STEP 3: Assess risk",
-    "displayTitle": "",
+    "displayTitle": "STEP 3: Assess risk",
     "body": "",
     "_classes": "",
     "_trackingId": 59,
@@ -2008,7 +2879,7 @@
   },
   {
     "title": "Which data points are Personal Data and what is the risk level of each data point?",
-    "displayTitle": "",
+    "displayTitle": "Which data points are Personal Data and what is the risk level of each data point?",
     "body": "",
     "_classes": "",
     "_trackingId": 60,
@@ -2037,7 +2908,7 @@
   },
   {
     "title": "What is the risk level of each data point?",
-    "displayTitle": "",
+    "displayTitle": "What is the risk level of each data point?",
     "body": "",
     "_classes": "",
     "_trackingId": 61,
@@ -2066,7 +2937,7 @@
   },
   {
     "title": "STEP 4: Anonymise the data",
-    "displayTitle": "",
+    "displayTitle": "STEP 4: Anonymise the data",
     "body": "",
     "_classes": "",
     "_trackingId": 62,
@@ -2095,7 +2966,7 @@
   },
   {
     "title": "Application to our example dataset",
-    "displayTitle": "",
+    "displayTitle": "Application to our example dataset",
     "body": "",
     "_classes": "",
     "_trackingId": 63,
@@ -2124,7 +2995,7 @@
   },
   {
     "title": "Reviewing the model",
-    "displayTitle": "",
+    "displayTitle": "Reviewing the model",
     "body": "",
     "_classes": "",
     "_trackingId": 64,
@@ -2153,7 +3024,7 @@
   },
   {
     "title": "There is no right or wrong - it depends on the data set",
-    "displayTitle": "",
+    "displayTitle": "There is no right or wrong - it depends on the data set",
     "body": "",
     "_classes": "",
     "_trackingId": 65,
@@ -2182,7 +3053,7 @@
   },
   {
     "title": "Synthetic data",
-    "displayTitle": "",
+    "displayTitle": "Synthetic data",
     "body": "",
     "_classes": "",
     "_trackingId": 66,
@@ -2211,7 +3082,7 @@
   },
   {
     "title": "Synthetic data as training data for AI",
-    "displayTitle": "",
+    "displayTitle": "Synthetic data as training data for AI",
     "body": "",
     "_classes": "",
     "_trackingId": 67,
@@ -2240,7 +3111,7 @@
   },
   {
     "title": "Diagnosing the NHS: SynÆ",
-    "displayTitle": "",
+    "displayTitle": "Diagnosing the NHS: SynÆ",
     "body": "",
     "_classes": "",
     "_trackingId": 68,
@@ -2269,7 +3140,7 @@
   },
   {
     "title": "Data protection and anonymised/synthetic data",
-    "displayTitle": "",
+    "displayTitle": "Data protection and anonymised/synthetic data",
     "body": "",
     "_classes": "",
     "_trackingId": 69,
@@ -2298,7 +3169,7 @@
   },
   {
     "title": "STEP 5: Testing resilience",
-    "displayTitle": "",
+    "displayTitle": "STEP 5: Testing resilience",
     "body": "",
     "_classes": "",
     "_trackingId": 70,
@@ -2327,7 +3198,7 @@
   },
   {
     "title": "STEP 6: Write a plan to mitigate risk",
-    "displayTitle": "",
+    "displayTitle": "STEP 6: Write a plan to mitigate risk",
     "body": "",
     "_classes": "",
     "_trackingId": 71,
@@ -2356,7 +3227,7 @@
   },
   {
     "title": "STEP 7: Publish the data, anonymisation details and risk assessment",
-    "displayTitle": "",
+    "displayTitle": "STEP 7: Publish the data, anonymisation details and risk assessment",
     "body": "",
     "_classes": "",
     "_trackingId": 72,
@@ -2385,7 +3256,7 @@
   },
   {
     "title": "Supporting tools and guides",
-    "displayTitle": "",
+    "displayTitle": "Supporting tools and guides",
     "body": "",
     "_classes": "",
     "_trackingId": 73,
@@ -2414,7 +3285,7 @@
   },
   {
     "title": "Summary",
-    "displayTitle": "",
+    "displayTitle": "Summary",
     "body": "",
     "_classes": "",
     "_trackingId": 74,
@@ -2426,7 +3297,7 @@
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
     "_id": "aide-m4-o2-anon-data-b-28",
-    "_parentId": "64d3638bd9db5173efdc2429",
+    "_parentId": "summary-64d3638bd9db5173efdc2429",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,

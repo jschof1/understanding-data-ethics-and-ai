@@ -40,6 +40,7 @@
 @import 'src/components/adapt-list/less/list.less';
 @import 'src/components/adapt-matchingGraphic/less/matching-graphic.less';
 @import 'src/components/adapt-trialogue/less/trialogue.less';
+@import 'src/components/adapt-vimeo/less/vimeo.less';
 @import 'src/extensions/adapt-contrib-aboutPage/less/aboutPage.less';
 @import 'src/extensions/adapt-contrib-pageLevelProgress/less/pageLevelProgress.less';
 @import 'src/extensions/adapt-contrib-pageLevelProgress/less/pageLevelProgressIndicator.less';

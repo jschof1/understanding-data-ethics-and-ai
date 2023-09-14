@@ -6,7 +6,7 @@
   "description": "",
   "instruction": "",
   "_htmlClasses": "",
-  "_latestTrackingId": 1019,
+  "_latestTrackingId": 1031,
   "_buttons": {
     "_submit": {
       "buttonText": "Submit",
@@ -221,6 +221,10 @@
       },
       "_trialogue": {
         "ariaRegion": ""
+      },
+      "_vimeo": {
+        "ariaRegion": "This is a media component which displays a Vimeo video. Select the play / pause button to watch it.",
+        "skipToTranscript": "Skip to transcript"
       }
     },
     "_menu": {
