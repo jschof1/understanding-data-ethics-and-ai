@@ -801,10 +801,10 @@
     }
   },
   {
-    "title": "New Article Title",
+    "title": "Steps to Ethical Decision Making",
     "displayTitle": "",
     "body": "",
-    "_classes": "",
+    "_classes": "color-one invert-even",
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,

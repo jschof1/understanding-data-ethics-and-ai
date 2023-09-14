@@ -707,47 +707,7 @@
       "_isCompletionIndicatorEnabled": false
     }
   },
-  {
-    "_component": "blank",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "",
-    "_id": "64d362bbd9db5173efdc2423",
-    "_parentId": "64d362b5d9db5173efdc2422",
-    "_type": "component",
-    "_layout": "full",
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_graphicExpand": {
-      "_isEnabled": false,
-      "_selector": "",
-      "_button": {
-        "buttonText": "",
-        "ariaLabel": "",
-        "iconClass": "icon-expand_1"
-      }
-    }
-  },
+
   {
     "_id": "aide-m3-o2-exploring-de-regulations-c-1",
     "_parentId": "aide-m3-o2-exploring-de-regulations-b-1",
@@ -813,7 +773,7 @@
         "body": "<p>Human rights laws hold immense significance in the realm of data and AI due to their foundational role in safeguarding individual dignity, privacy, and fairness. As technology becomes increasingly integrated into our lives, these laws serve as a moral compass, ensuring that data and AI applications respect fundamental human values. The right to privacy becomes particularly crucial in an age of data-driven innovations, preventing unauthorised intrusion into personal lives. Moreover, protection against discrimination upholds the principle of fairness, guarding against biassed algorithms that could perpetuate inequalities. By adhering to human rights laws, data and AI technologies can not only be ethically developed but also contribute positively to a just and equitable society.</p><p>The modern concept of human rights emerged in the aftermath of World War II, catalysed by the Universal Declaration of Human Rights (UDHR) adopted by the United Nations in 1948. The UDHR set a universal standard for the inherent rights and freedoms to which all individuals are entitled. Over time, these principles have been enshrined in various international treaties, including the International Covenant on Civil and Political Rights (ICCPR) and the International Covenant on Economic, Social, and Cultural Rights (ICESCR).</p><p>Nations around the world have recognised the significance of human rights, incorporating them into their legal systems. These rights address crucial aspects of human existence, including the right to privacy, non-discrimination, and freedom of expression. For instance, Europe's Convention for the Protection of Human Rights and Fundamental Freedoms (ECHR) has become a cornerstone in the protection of individual rights across europe.</p><p>In the context of AI and data ethics, human rights provide a solid ethical foundation. They remind us that technological advancements must not compromise individual freedoms, fairness, or dignity. By embracing human rights principles, the development and deployment of data and AI technologies can contribute to a world where innovation harmoniously coexists with respect for human values.</p>",
         "_imageAlignment": "full",
         "_graphic": {
-          "src": "course/en/images/example.jpg",
+          "src": "",
           "alt": "",
           "attribution": "Copyright © 2019"
         },
@@ -844,7 +804,7 @@
         "body": "<p>Data protection laws play a pivotal role in safeguarding individuals' rights and upholding their privacy in an increasingly data-driven world. These laws, closely tied to the principles of human rights, ensure that personal data is collected, processed, and shared responsibly. Prominent examples include the General Data Protection Regulation (GDPR) in the European Union and the California Consumer Privacy Act (CCPA) in the United States.</p><p>In the context of data and AI, data protection laws hold significant importance. While they encompass various lawful bases for processing personal data beyond explicit consent, they also include provisions that specifically impact AI applications. For instance, the GDPR grants individuals the right to not be subject to automated decision-making and profiling, offering safeguards against the potential biases and discrimination that can arise from AI algorithms.&nbsp;</p><p>By emphasising individuals' rights over personal data and how, and where it can be processed, data protection laws provide a strong foundation for AI development. These regulations encourage transparency, accountability, and fairness in AI systems, fostering a landscape where innovation coexists harmoniously with respect for individuals' privacy and rights.&nbsp;</p><p><strong>ePrivacy and cookie laws&nbsp;</strong></p><p>ePrivacy and “cookie laws” play a vital role in the modern digital landscape by addressing the intricacies of communication and data transmission. Notable examples include the EU ePrivacy Directive and subsequent implementations including the Privacy and Electronic Communications Regulations (PECR) in the UK.</p><p>Such laws are all-encompassing, applying to a wide array of electronic communications, spanning emails, messages, and more. These regulations also extend their reach to tracking technologies, including the ubiquitous use of cookies.&nbsp;</p><p><strong>What are cookies?</strong></p><p>Cookies (think of them as small bits of information, like breadcrumbs) enable websites to personalise the user experience. For example, ecommerce websites use cookies to know what merchandise users have placed in their shopping carts, even before any identification or authentication. They are essentially a short term memory for a web browser that helps remember a user's choices. At the ODI we think of this as behavioural data. It may not be personal, but evidence shows that as you collect more of it, <a href=\"https://howthey.watch/you/\" target=\"_blank\" rel=\"noopener\">identification becomes easier</a> and how it can be used unethically becomes clearer.&nbsp;</p><p>For data and AI, the impact of these laws is significant. They ensure that individuals retain control over their online experiences, granting them the right to decide which tracking technologies they consent to. Even in cases where data collected might not be tied to an individual's identity, these regulations emphasise the importance of transparency and choice. This becomes particularly crucial as AI systems analyse a diverse range of data, some of which might not appear personal at first glance. The ethical framework thus established aligns with the overarching principles of fairness, accountability, and respect for user autonomy, reinforcing the integral connection between data ethics and regulatory compliance.</p>",
         "_imageAlignment": "full",
         "_graphic": {
-          "src": "course/en/images/example.jpg",
+          "src": "",
           "alt": "",
           "attribution": "Copyright © 2019"
         },
@@ -875,7 +835,7 @@
         "body": "<p>Intellectual property rights play a pivotal role in the digital landscape, encompassing legal protections for creative works, innovations, and proprietary data. These rights are instrumental in fostering innovation by granting creators and innovators exclusive control over their creations. Patents, copyrights, trademarks, and trade secrets are common forms of intellectual property rights that encourage inventors, artists, and companies to invest in new ideas and technologies.&nbsp;</p><p>In the context of data and AI, intellectual property rights can involve ownership over datasets, algorithms, and AI models. These rights dictate how data can be used, reused, and shared. Ethical considerations arise when striking a balance between proprietary interests and the broader societal benefits that arise from shared data and knowledge. Integrating intellectual property rights with data ethics ensures that innovation is fostered while guarding against the misuse or monopolisation of data and AI technologies.</p><p>Navigating these global laws is essential to ensuring ethical and compliant data and AI practices. Organisations must remain vigilant in their adherence to these regulations to safeguard individuals' rights and uphold ethical standards in technology development and usage.</p>",
         "_imageAlignment": "full",
         "_graphic": {
-          "src": "course/en/images/example.jpg",
+          "src": "",
           "alt": "",
           "attribution": "Copyright © 2019"
         },
@@ -5642,7 +5602,7 @@
         "body": "<p>Suppression simply involves removing data from the dataset, such as any identifier or person’s name. Suppression is best applied on any direct identifiers. It is important to carefully consider the use cases before simply deleting data, otherwise, the overuse of suppression is highly likely to reduce the utility of data.</p>",
         "_imageAlignment": "full",
         "_graphic": {
-          "src": "course/en/images/example.jpg",
+          "src": "",
           "alt": "",
           "attribution": "Copyright © 2019"
         },
@@ -5653,7 +5613,7 @@
         "body": "<p>This approach consists of generalising or diluting the attributes of data by modifying the respective scale or order of magnitude (that is, a region rather than a city, a month rather than a week).</p><p>While generalisation can be effective to prevent re-identification, it does not allow effective anonymisation in all cases; in particular, it requires specific and sophisticated quantitative approaches to prevent linkability and inference.</p>",
         "_imageAlignment": "full",
         "_graphic": {
-          "src": "course/en/images/example.jpg",
+          "src": "",
           "alt": "",
           "attribution": "Copyright © 2019"
         },
@@ -5664,7 +5624,7 @@
         "body": "<p>This method adds randomness to data while keeping it useful for analysis by maintaining statistical significance. For instance, in age data, randomisation means adding a random number to each person's age. This way, data stays useful but doesn't reveal exact details about individuals.&nbsp;</p>",
         "_imageAlignment": "full",
         "_graphic": {
-          "src": "course/en/images/example.jpg",
+          "src": "",
           "alt": "",
           "attribution": "Copyright © 2019"
         },
@@ -5675,7 +5635,7 @@
         "body": "<p>This involves replacing sensitive data with pseudonyms or fake identifiers. Unlike other techniques, where data is made completely unidentifiable, pseudonymisation allows for reversible transformation. This means that the original data can be linked back to the pseudonyms using a special key or method known only to authorised users.&nbsp;</p><p>Pseudonymisation helps protect personal data while still allowing for data analysis and processing, making it a useful approach for balancing privacy and data usability. However, it’s important to note that pseudonymised data carries a higher risk of re-identification and therefore may not necessarily be the most appropriate practice for protecting an individual's privacy.&nbsp;</p>",
         "_imageAlignment": "full",
         "_graphic": {
-          "src": "course/en/images/example.jpg",
+          "src": "",
           "alt": "",
           "attribution": "Copyright © 2019"
         },
@@ -5721,7 +5681,7 @@
         "body": "<p>&nbsp;(we’ve removed the column entirely)</p>",
         "_imageAlignment": "full",
         "_graphic": {
-          "src": "course/en/images/example.jpg",
+          "src": "",
           "alt": "",
           "attribution": "Copyright © 2019"
         },
@@ -5732,7 +5692,7 @@
         "body": "<p>by removing street names and home numbers, as well as the post code which now identifies an area of the UK, but not a specific street.&nbsp;</p>",
         "_imageAlignment": "full",
         "_graphic": {
-          "src": "course/en/images/example.jpg",
+          "src": "",
           "alt": "",
           "attribution": "Copyright © 2019"
         },
@@ -5743,7 +5703,7 @@
         "body": "<p>You’ll see that only the job role of the mayor has been updated. Student, Retired, Gardener and Professor were deemed to be sufficiently broad. However, it is likely there will only be one mayor in an area and therefore this may lead to identification. You may have chosen to generalise these job roles, or remove them entirely as they are not directly related to our objective.&nbsp;</p>",
         "_imageAlignment": "full",
         "_graphic": {
-          "src": "course/en/images/example.jpg",
+          "src": "",
           "alt": "",
           "attribution": "Copyright © 2019"
         },
@@ -5754,7 +5714,7 @@
         "body": "<p>In this example, we’ve used 0-18, 19-69 and 70-120. These are very broad categorisations. We could expand these into further groups to support a more granular analysis.&nbsp;</p>",
         "_imageAlignment": "full",
         "_graphic": {
-          "src": "course/en/images/example.jpg",
+          "src": "",
           "alt": "",
           "attribution": "Copyright © 2019"
         },
@@ -8388,5 +8348,1503 @@
     },
     "_isScrollable": false,
     "_defaultScrollPercent": 0
-  }
+  },
+    {
+      "_id": "m2-07-ethical-dm-c-1",
+      "_parentId": "m2-07-ethical-dm-b-1",
+      "_type": "component",
+      "_component": "text",
+      "_classes": "",
+      "_layout": "left",
+      "title": "Introduction",
+      "displayTitle": "Introduction",
+      "body": "<p>This module serves as an exploration into the rich array of ethical frameworks and tools that underpin effective decision-making, particularly within the context of technology integration. We close this module by introducing the SAD (Situation, Analysis, Decision) model. This model serves to provide a sustainable approach to ethical decision making and the nuanced variations within the frameworks.&nbsp;</p><p>Applying this model to real-world scenarios, including Amazon's AI-driven recruiting tool, provides structure for each phase, identifying&nbsp; their inherent strengths, vulnerabilities, and the pivotal role of principles like transparency, accountability, and fairness.&nbsp;</p><p>Extending the SAD model to encompass Action and Monitoring (SAD-AM) amplifies the significance of moving beyond mere decisions, emphasising the responsibility to cultivate trust in decisions and the continuous monitoring of their repercussions.</p>",
+      "instruction": "",
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    {
+      "_id": "m2-07-ethical-dm-c-2",
+      "_parentId": "m2-07-ethical-dm-b-2",
+      "_type": "component",
+      "_component": "accordion",
+      "_classes": "",
+      "_layout": "right",
+      "title": "SAD can make you happy",
+      "displayTitle": "SAD can make you happy",
+      "body": "<p>The SAD model is a concise, high-level model that sets out three main phases in ethical decision making.&nbsp;</p>",
+      "instruction": "Select the headings to find out more.",
+      "_shouldCollapseItems": true,
+      "_shouldExpandFirstItem": false,
+      "_setCompletionOn": "allItems",
+      "_items": [
+        {
+          "title": "Situation ",
+          "body": "<p>This phase involves identifying and understanding the ethical dilemma at hand. It might not always be obvious what the ethical dilemma is, but considering the duality of data - for both good and bad - means that in the majority of circumstances ethics will need considering, just as data compliance and security is.</p>",
+          "_imageAlignment": "full",
+          "_graphic": {
+            "src": "",
+            "alt": "",
+            "attribution": "Copyright © 2019"
+          },
+          "_classes": ""
+        },
+        {
+          "title": "Analysis:",
+          "body": "<p>Once you know the situation to be analysed, then comes the hard work of gathering knowledge, evidence, views, potential harms, potential options and analysing each against existing legal, regulatory and ethical frameworks.</p>",
+          "_imageAlignment": "full",
+          "_graphic": {
+            "src": "",
+            "alt": "",
+            "attribution": "Copyright © 2019"
+          },
+          "_classes": ""
+        },
+        {
+          "title": "Decision:",
+          "body": "<p>After a thorough analysis comes the tough part of making a decision.</p><p>One of the challenges with the SAD model is that it does not promote the ongoing monitoring of the decision to see if it was, and still is, the best course of action. SAD can make you happy in the short term but it takes more than this to ensure ethical decisions are still relevant.&nbsp;</p>",
+          "_imageAlignment": "full",
+          "_graphic": {
+            "src": "",
+            "alt": "",
+            "attribution": "Copyright © 2019"
+          },
+          "_classes": ""
+        }
+      ],
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+      "_id": "m2-07-ethical-dm-c-3",
+      "_parentId": "m2-07-ethical-dm-b-3",
+      "_type": "component",
+      "_component": "accordion",
+      "_classes": "",
+      "_layout": "left",
+      "title": "To add to the acronym then lets expand to SAD-AM.",
+      "displayTitle": "To add to the acronym then lets expand to SAD-AM.",
+      "body": "",
+      "instruction": "Select the headings to find out more.",
+      "_shouldCollapseItems": true,
+      "_shouldExpandFirstItem": false,
+      "_setCompletionOn": "allItems",
+      "_items": [
+        {
+          "title": "Action: ",
+          "body": "<p>Take action to implement the decision, communicate clearly to stakeholders.</p>",
+          "_imageAlignment": "full",
+          "_graphic": {
+            "src": "",
+            "alt": "",
+            "attribution": "Copyright © 2019"
+          },
+          "_classes": ""
+        },
+        {
+          "title": "Monitor: ",
+          "body": "<p>Ethical decision-making must be cyclical in nature. It is essential to monitor the impact of your decision to ensure the desired outcomes are achieved and additional unintended consequences are identified and reviewed. If there are unintended consequences, these could possibly be new <strong>situations</strong> and the SAD-AM cycle begins again.</p>",
+          "_imageAlignment": "full",
+          "_graphic": {
+            "src": "",
+            "alt": "",
+            "attribution": "Copyright © 2019"
+          },
+          "_classes": ""
+        }
+      ],
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+      "_id": "m2-07-ethical-dm-c-30-new",
+      "_parentId": "m2-07-ethical-dm-b-30-new",
+      "_type": "component",
+      "_component": "matching",
+      "_classes": "",
+      "_layout": "full",
+      "title": "Matching",
+      "displayTitle": "Matching",
+      "body": "<p>The four examples below are intended to be situations that are proposed for discussion on a company ethics panel.</p><p>Imagine you were sitting on this ethics panel.</p> Which two situations are poorly defined, and which two are more clearly defined and therefore easier to evaluate?</p>",
+      "instruction": "Choose an option from each dropdown list and select Submit.",
+      "ariaQuestion": "Question text specifically for screen readers.",
+      "_attempts": 1,
+      "_shouldDisplayAttempts": false,
+      "_shouldResetAllAnswers": false,
+      "_isRandom": false,
+      "_isRandomQuestionOrder": false,
+      "_questionWeight": 1,
+      "_canShowModelAnswer": true,
+      "_canShowFeedback": true,
+      "_canShowMarking": true,
+      "_recordInteraction": true,
+      "placeholder": "Please select an option",
+      "_allowOnlyUniqueAnswers": false,
+      "_hasItemScoring": false,
+      "_items": [
+          {
+              "text": "Using large language models in the banking sector",
+              "_options": [
+                  {
+                      "text": "Good",
+                      "_isCorrect": false,
+                      "_score": 0
+                  },
+                  {
+                      "text": "Bad",
+                      "_isCorrect": true,
+                      "_score": 1
+                  }
+              ]
+          },
+          {
+              "text": "Using data about people to improve their experiences on our website",
+              "_options": [
+                  {
+                      "text": "Good",
+                      "_isCorrect": false,
+                      "_score": 0
+                  },
+                  {
+                      "text": "Bad",
+                      "_isCorrect": true,
+                      "_score": 0
+                  },
+                  {
+                      "text": "Option three (correct)",
+                      "_isCorrect": true,
+                      "_score": 1
+                  }
+              ]
+          },
+          {
+              "text": " Implementing Facial Recognition for Secure Access to Company Facilities",
+              "_options": [
+                  {
+                      "text": "Good",
+                      "_isCorrect": true,
+                      "_score": 1
+                  },
+                  {
+                      "text": "Bad",
+                      "_isCorrect": false,
+                      "_score": 0
+                  }
+              ] 
+          },
+          {
+            "text": "Applying Large Language Models for Automated Code Refactoring in Legacy Systems",
+            "_options": [
+                {
+                    "text": "Good",
+                    "_isCorrect": true,
+                    "_score": 1
+                },
+                {
+                    "text": "Bad",
+                    "_isCorrect": false,
+                    "_score": 0
+                }
+            ]
+          } 
+      ],
+            "_feedback": {
+                "title": "Feedback",
+                "altTitle": "Alt feedback title text",
+                "correct": "<strong>That’s right!</strong><p>It's crucial to have well-defined scenarios as a foundation for making ethical decisions. How many services do you know who state that “we use information collected to improve our services”? This is very generic and lacks a clearly defined focus for discussion. As a result it is not possible to make an informed decision, which means that the provided may actually be non-compliant. The same is true of ethical decision-making. Care needs to be taken to carefully define the situation so an informed decision can be made. </p>",
+                "_incorrect": {
+                    "notFinal": "",
+                    "final": "Are you sure about that?><p>It's crucial to have well-defined scenarios as a foundation for making ethical decisions. How many services do you know who state that “we use information collected to improve our services”? This is very generic and lacks a clearly defined focus for discussion. As a result it is not possible to make an informed decision, which means that the provided may actually be non-compliant. The same is true of ethical decision-making. Care needs to be taken to carefully define the situation so an informed decision can be made.</p>"
+                },
+                "_partlyCorrect": {
+                    "notFinal": "",
+                    "final": "This feedback will appear if you answered part of the question correctly."
+                }
+            },
+            "_comment": "You only need to include _buttons if you want to override the button labels that are set in course.json",
+            "_buttons": {
+                "_submit": {
+                    "buttonText": "Submit",
+                    "ariaLabel": "Select here to submit your answer."
+                },
+                "_reset": {
+                    "buttonText": "Reset",
+                    "ariaLabel": ""
+                },
+                "_showCorrectAnswer": {
+                    "buttonText": "Correct Answer",
+                    "ariaLabel": ""
+                },
+                "_hideCorrectAnswer": {
+                    "buttonText": "My Answer",
+                    "ariaLabel": ""
+                },
+                "_showFeedback": {
+                    "buttonText": "Show feedback",
+                    "ariaLabel": ""
+                },
+                "remainingAttemptsText": "attempts remaining",
+                "remainingAttemptText": "final attempt"
+            },
+            "_pageLevelProgress": {
+                "_isEnabled": true
+            }
+        },
+    {
+      "_id": "m2-07-ethical-dm-c-4",
+      "_parentId": "m2-07-ethical-dm-b-4",
+      "_type": "component",
+      "_component": "text",
+      "_classes": "",
+      "_layout": "full",
+      "title": "Situation",
+      "displayTitle": "Situation",
+      "body": "<p>Establishing a clear definition of the situation to be analysed</p><p>Being clear on the \"Situation\" is a fundamental step in ethical decision-making as it sets the foundation for the entire process. This phase involves identifying and understanding the ethical dilemma at hand. Clarity in defining the situation is crucial for several reasons:</p><ol>\n<li><strong>Contextual Understanding</strong>: Clearly defining the situation provides context and background information. It helps stakeholders understand the specific circumstances, parties involved, and the nature of the ethical challenge.</li>\n\n<li><strong>Stakeholder Identification</strong>: By clarifying the situation, you can identify all parties who may be affected by the decision. This includes individuals, groups, organisations, or communities that have a stake in the outcome.</li>\n\n<li><strong>Scope Delimitation</strong>: A well-defined situation helps establish the scope of the ethical evaluation. It outlines the boundaries of the ethical dilemma and prevents ambiguity that can lead to irrelevant considerations.</li>\n\n<li><strong>Issue Recognition</strong>: Clear definition of the situation enables the identification of the core ethical issue. This helps avoid confusion and ensures that the ethical evaluation remains focused on the essential aspects.</li>\n\n<li><strong>Informed Analysis</strong>: An accurately described situation provides the necessary information for ethical analysis. Ethical theories and principles can be applied more effectively when the situation is well-understood.</li>\n\n<li><strong>Ethical Implications</strong>: A precise understanding of the situation allows for a more comprehensive exploration of potential ethical implications. It helps uncover the different angles, consequences, and considerations associated with the dilemma.</li>\n\n<li><strong>Objective Decision-Making</strong>: Clarity in the situation promotes objective decision-making. A well-defined situation reduces the risk of bias or misinterpretation influencing the ethical evaluation.</li>\n\n<li><strong>Communication and Transparency</strong>: A clear description of the situation enables effective communication with stakeholders. Transparent communication builds trust and helps stakeholders understand the rationale behind the decisions made.</li>\n</ol><p>In essence, being clear on the situation is akin to laying the groundwork for a solid ethical evaluation. It ensures that all subsequent steps in the ethical decision-making process are rooted in a well-understood context, promoting thorough analysis, informed choices, and ethical integrity.</p>",
+      "instruction": "",
+      "_shouldCollapseItems": true,
+      "_shouldExpandFirstItem": false,
+      "_setCompletionOn": "allItems",
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+      "_id": "m2-07-ethical-dm-c-5",
+      "_parentId": "m2-07-ethical-dm-b-5",
+      "_type": "component",
+      "_component": "accordion",
+      "_classes": "",
+      "_layout": "left",
+      "title": "More examples of badly scoped situations",
+      "displayTitle": "",
+      "body": "<p>Badly scoped situations lack specificity. This hinders a clear understanding of the scope, objectives, and applications of the technologies being discussed, making it challenging to thoroughly assess ethical implications and potential outcomes. Other examples include:</p>",
+      "instruction": "Select the headings to find out more.",
+      "_shouldCollapseItems": true,
+      "_shouldExpandFirstItem": false,
+      "_setCompletionOn": "allItems",
+      "_items": [
+        {
+          "title": "Implementing Blockchain in Supply Chain Management",
+          "body": "<p>For what purpose? This scenario lacks detail on how blockchain technology is being integrated into supply chain management, like tracking products, ensuring transparency, or preventing counterfeiting.</p>",
+          "_imageAlignment": "full",
+          "_graphic": {
+            "src": "",
+            "alt": "",
+            "attribution": "Copyright © 2019"
+          },
+          "_classes": ""
+        },
+        {
+          "title": "Using IoT for Smart Cities",
+          "body": "<p>For what purpose? This scenario doesn't specify the particular applications of the Internet of Things (IoT) within smart cities, such as traffic management, waste collection optimization, or energy consumption monitoring.</p>",
+          "_imageAlignment": "full",
+          "_graphic": {
+            "src": "",
+            "alt": "",
+            "attribution": "Copyright © 2019"
+          },
+          "_classes": ""
+        },
+        {
+          "title": "Introducing Renewable Energy Technologies",
+          "body": "<p>Sounds great from an environmental standpoint, but what type and where, who (or what) might be impacted?</p><p>In these broader examples, the lack of specificity hinders a clear understanding of the scope, objectives, and applications of the technologies being discussed, making it challenging to thoroughly assess ethical implications and potential outcomes.</p>",
+          "_imageAlignment": "full",
+          "_graphic": {
+            "src": "",
+            "alt": "",
+            "attribution": "Copyright © 2019"
+          },
+          "_classes": ""
+        }
+      ],
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+      "_id": "m2-07-ethical-dm-c-6",
+      "_parentId": "m2-07-ethical-dm-b-6",
+      "_type": "component",
+      "_component": "choose",
+      "_classes": "",
+      "_layout": "left",
+      "title": "Fill in the missing part of the sentence to improve these scenarios",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "Choose one option then select Submit.",
+      "ariaQuestion": "Question text specifically for screen readers.",
+      "_attempts": 1,
+      "_shouldDisplayAttempts": false,
+      "_isRandom": false,
+      "_hasItemScoring": false,
+      "_questionWeight": 1,
+      "_selectable": 1,
+      "_canShowModelAnswer": true,
+      "_canShowFeedback": true,
+      "_canShowMarking": true,
+      "_recordInteraction": true,
+      "_spaceSize": 25,
+      "_items": [
+        {
+          "text": "in Healthcare []",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          },
+          "_options": [
+            {
+              "text": "In breast cancer diagnosis",
+              "_graphic": {
+                "alt": "",
+                "large": "",
+                "small": ""
+              },
+              "_isCorrect": true
+            }
+          ]
+        },
+        {
+          "text": "options: []",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          },
+          "_options": [
+            {
+              "text": "To interpret mammograms to assist in breast cancer diagnosis",
+              "_graphic": {
+                "alt": "",
+                "large": "",
+                "small": ""
+              },
+              "_isCorrect": true
+            }
+          ]
+        },
+        {
+          "text": "In Education []",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          },
+          "_options": [
+            {
+              "text": "to support learner engagement through increased interactions with the platform",
+              "_graphic": {
+                "alt": "",
+                "large": "",
+                "small": ""
+              },
+              "_isCorrect": true
+            },
+            {
+              "text": "provide learner feedback during engagement and interaction with the platform",
+              "_graphic": {
+                "alt": "",
+                "large": "",
+                "small": ""
+              },
+              "_isCorrect": false
+            }
+          ]
+        }
+      ],
+      "_feedback": {
+        "title": "Feedback",
+        "correct": "<strong>That’s right! </strong> Remember, a lack of specificity hinders a clear understanding of the scope, objectives, and applications of the technologies being discussed, making it challenging to thoroughly assess ethical implications and potential outcomes.",
+        "_incorrect": {
+          "notFinal": "<strong>Are you sure?</strong><p>Remember, a lack of specificity hinders a clear understanding of the scope, objectives, and applications of the technologies being discussed, making it challenging to thoroughly assess ethical implications and potential outcomes.</p>",
+          "final": "<strong>Are you sure?</strong><p>Remember, a lack of specificity hinders a clear understanding of the scope, objectives, and applications of the technologies being discussed, making it challenging to thoroughly assess ethical implications and potential outcomes.</p>"
+        },
+        "_partlyCorrect": {
+          "notFinal": "",
+          "final": "This feedback will appear if you answered part of the question correctly."
+        }
+      },
+      "_comment": "You only need to include _buttons if you want to override the button labels that are set in course.json",
+      "_buttons": {
+        "_submit": {
+          "buttonText": "Submit",
+          "ariaLabel": "Select here to submit your answer."
+        },
+        "_reset": {
+          "buttonText": "Reset",
+          "ariaLabel": ""
+        },
+        "_showCorrectAnswer": {
+          "buttonText": "Correct Answer",
+          "ariaLabel": ""
+        },
+        "_hideCorrectAnswer": {
+          "buttonText": "My Answer",
+          "ariaLabel": ""
+        },
+        "_showFeedback": {
+          "buttonText": "Show feedback",
+          "ariaLabel": ""
+        },
+        "remainingAttemptsText": "attempts remaining",
+        "remainingAttemptText": "final attempt"
+      },
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    {
+      "_id": "m2-07-ethical-dm-c-7",
+      "_parentId": "m2-07-ethical-dm-b-7",
+      "_type": "component",
+      "_component": "text",
+      "_classes": "",
+      "_layout": "full",
+      "title": "Thinking strategically",
+      "displayTitle": "Thinking strategically",
+      "body": "<p>Strategic thinking plays a pivotal role in scoping ethical situations by providing a structured and comprehensive approach to understanding the various dimensions of a scenario. It involves considering the \"what,\" \"why,\" and \"how\" aspects of the situation:</p><p><strong>What</strong>: This involves defining the specific circumstances and elements of the situation. What are the key components, stakeholders, and factors involved? By clarifying the elements, strategic thinking ensures a clear understanding of the context and scope.</p><p><strong>Why</strong>: Strategic thinking delves into the underlying motivations and reasons behind the situation. Why is this situation arising? What are the objectives and goals at play? By uncovering the motivations, ethical considerations become more transparent, enabling a more thorough analysis.</p><p><strong>How</strong>: This focuses on the methods, processes, and potential outcomes associated with the situation. How did this situation come about, how might it unfold, and might we approach solving it? Strategic thinking helps anticipate potential consequences and understand the pathways leading to various outcomes.</p><p>In ethical decision-making, strategic thinking enables a comprehensive assessment of the ethical implications within a given context. It aids in identifying potential biases, assumptions, and gaps in understanding, allowing for a more nuanced evaluation of the ethical dimensions. By breaking down the situation into its components and exploring the underlying motivations and potential outcomes, strategic thinking facilitates a holistic approach to ethical analysis and decision-making.</p>",
+      "instruction": "",
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    {
+      "_id": "m2-07-ethical-dm-c-8",
+      "_parentId": "m2-07-ethical-dm-b-8",
+      "_type": "component",
+      "_component": "text",
+      "_classes": "",
+      "_layout": "full",
+      "title": "Analysis",
+      "displayTitle": "Analysis",
+      "body": "<p>This is the longest stage and can consist of many core aspects including, but certainly not limited to:</p><p><strong>1. Legal and Compliance Checking:</strong></p><ul>\n<li><strong>Situation Analysis:</strong> Determine if the proposed action complies with relevant laws and regulations.</li>\n<li><strong>Analytical Process:</strong> Consult legal experts, review statutes, and analyse the legal implications of the situation.</li>\n<li><strong>Expected Outcome:</strong> Ensure that the potential action is within legal boundaries, mitigating potential legal risks.</li>\n</ul><p><strong>2. Compliance with Professional Standards and Ethical Codes:</strong></p><ul>\n<li><strong>Situation Analysis:</strong> Examine if the situation aligns with the ethical standards and codes of the relevant profession.</li>\n<li><strong>Analytical Process:</strong> Refer to established professional codes of ethics, engage with industry experts, and assess whether the situation conforms to recognized norms.</li>\n<li><strong>Expected Outcome:</strong> Ensure that the situation maintains professional integrity and credibility.</li>\n</ul><p><strong>3. Compliance with Organisational Codes of Conduct and Ethical Standards:</strong></p><ul>\n<li><strong>Situation Analysis:</strong> Evaluate if the situation conforms to the ethical guidelines set by the organisation.</li>\n<li><strong>Analytical Process:</strong> Review the organisation's codes of conduct, engage with ethics committees, and assess if the situation aligns with the organisation's values.</li>\n<li><strong>Expected Outcome:</strong> Uphold the organisation's reputation and values while considering ethical considerations in the situation.</li>\n</ul><p><strong>4. Compliance with Stakeholder Values:</strong></p><ul>\n<li><strong>Situation Analysis:</strong> Determine if the situation respects the values and interests of stakeholders.</li>\n<li><strong>Analytical Process:</strong> Identify and engage with stakeholders, conduct surveys or focus groups, and analyse feedback to ensure alignment with stakeholder values.</li>\n<li><strong>Expected Outcome:</strong> Foster stakeholder trust and loyalty through considerations that reflect their interests in the given situation.</li>\n</ul><p><strong>5. Consequence Scanning:</strong></p><ul>\n<li><strong>Situation Analysis:</strong> Assess both positive and negative outcomes of the situation.</li>\n<li><strong>Analytical Process:</strong> Conduct scenario analysis, evaluate short-term and long-term effects, and identify unintended consequences.</li>\n<li><strong>Expected Outcome:</strong> Gain insights into potential impacts to make informed decisions that maximise positive outcomes and minimise harm.</li>\n</ul><p><strong>6. Establishing the Limitations of Data, Technologies, Algorithms, and Models:</strong></p><ul>\n<li><strong>Situation Analysis:</strong> Recognize the limitations of the tools and data related to the situation.</li>\n<li><strong>Analytical Process:</strong> Includes evaluating the origins of the data, targets and incentives surrounding its collection and bias identification. Analyse the data quality, evaluate algorithm biases, and consider potential inaccuracies in the models.</li>\n<li><strong>Expected Outcome:</strong> Gain insights into potential sources of errors or biases, ensuring responsible use of technologies as the situation unfolds.</li>\n</ul><p><strong>7. Cross-Examination of Alternatives:</strong></p><ul>\n<li><strong>Situation Analysis:</strong> Evaluate multiple alternatives based upon the same criteria as above.</li>\n<li><strong>Analytical Process:</strong> Compare alternatives', weigh potential benefits and harms, establish pros and cons.</li>\n<li><strong>Expected Outcome:</strong> Determine the alternative that best aligns with ethical considerations in the given situation, facilitating ethical decision-making.</li>\n</ul>",
+      "instruction": "",
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    {
+      "_id": "m2-07-ethical-dm-c-9",
+      "_parentId": "m2-07-ethical-dm-b-9",
+      "_type": "component",
+      "_component": "text",
+      "_classes": "",
+      "_layout": "left",
+      "title": "Making a decision",
+      "displayTitle": "Making a decision",
+      "body": "<p>In the intricate landscape of ethical decision-making, where diverse perspectives, complex scenarios, and conflicting interests often intersect, the choice of best way forward is a tough one. However, considering a set of guiding principles that more focus on the implications of the choice can help.&nbsp;</p>",
+      "instruction": "",
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    {
+      "_id": "m2-07-ethical-dm-c-10",
+      "_parentId": "m2-07-ethical-dm-b-10",
+      "_type": "component",
+      "_component": "accordion",
+      "_classes": "",
+      "_layout": "left",
+      "title": "Guiding principles in ethical decision-making",
+      "displayTitle": "",
+      "body": "<p>Guiding principles can serve as beacons, illuminating the path towards decisions that are not only morally sound but also reflective of a commitment to ethical conduct and responsible action.</p><p>Such principles often include:</p>",
+      "instruction": "Select the headings to find out more.",
+      "_shouldCollapseItems": true,
+      "_shouldExpandFirstItem": false,
+      "_setCompletionOn": "allItems",
+      "_items": [
+        {
+          "title": "Transparency",
+          "body": "<p>Transparency refers to the openness and clarity in processes, decisions, and actions. In ethical evaluation, transparency involves ensuring that the intentions, methods, and consequences of a decision or action are clear and understandable to all stakeholders. Transparency promotes trust and credibility by allowing others to assess the fairness and validity of the decision-making process. It prevents hidden agendas, biases, and unethical practices from influencing outcomes.</p>",
+          "_imageAlignment": "full",
+          "_graphic": {
+            "src": "",
+            "alt": "",
+            "attribution": "Copyright © 2019"
+          },
+          "_classes": ""
+        },
+        {
+          "title": "Accountability",
+          "body": "<p>Accountability involves taking responsibility for one's decisions and actions. In ethical evaluation, accountability means acknowledging the potential impacts of a decision and being willing to answer for its consequences. It ensures that individuals and organisations are held responsible for their choices and the effects those choices have on various stakeholders. Accountability reinforces the commitment to ethical conduct and encourages corrective measures when unintended negative outcomes occur.</p>",
+          "_imageAlignment": "full",
+          "_graphic": {
+            "src": "",
+            "alt": "",
+            "attribution": "Copyright © 2019"
+          },
+          "_classes": ""
+        },
+        {
+          "title": "Fairness",
+          "body": "<p>Fairness refers to treating all individuals and groups impartially and justly. In ethical evaluation, fairness means ensuring that decisions and actions do not result in unjust advantages or disadvantages for any party. Fairness involves considering diverse perspectives, avoiding discrimination, and distributing benefits and burdens equitably. Fairness upholds the principles of equality and non-discrimination.</p>",
+          "_imageAlignment": "full",
+          "_graphic": {
+            "src": "",
+            "alt": "",
+            "attribution": "Copyright © 2019"
+          },
+          "_classes": ""
+        }
+      ],
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+      "_id": "m2-07-ethical-dm-c-11",
+      "_parentId": "m2-07-ethical-dm-b-11",
+      "_type": "component",
+      "_component": "text",
+      "_classes": "",
+      "_layout": "right",
+      "title": "Integration of Principles",
+      "displayTitle": "Integration of Principles",
+      "body": "<p>Transparency, accountability, and fairness are interconnected principles that reinforce each other in ethical evaluation. Transparency enhances accountability by making actions visible and accountable. Accountability, in turn, supports fairness by ensuring that consequences are addressed and corrected if necessary. Fairness is reinforced by transparency, which allows stakeholders to assess whether decisions were made openly and impartially.</p><p>In ethical evaluation, these principles collectively create a foundation for responsible decision-making that considers the interests of all stakeholders and upholds ethical standards. By integrating transparency, accountability, and fairness, ethical evaluations are ultimately aiming to build trust in the decision taken.</p>",
+      "instruction": "",
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    {
+      "_id": "m2-07-ethical-dm-c-12",
+      "_parentId": "m2-07-ethical-dm-b-12",
+      "_type": "component",
+      "_component": "text",
+      "_classes": "",
+      "_layout": "full",
+      "title": "Losing trust",
+      "displayTitle": "Losing trust",
+      "body": "<p>Distrust is a corrosive force that can erode relationships, hinder collaboration, and undermine the foundations of ethical decision-making. Care should be taken to not fall into bad habit that will erode trust including:</p><ol>\n<li><strong>Lack of Transparency:</strong> When organisations or individuals withhold information, intentions, or actions, it can lead to suspicions and undermine trust. The absence of clear communication and openness can breed uncertainty among stakeholders. It is not always deliberate, but taking the time early to prioritise transparency will pay back dividends later.</li>\n<li><strong>Blame Culture:</strong> In environments where blame is disproportionately assigned rather than problems being collectively addressed, trust erodes. This culture discourages individuals from taking ownership and fosters a sense of insecurity and ultimately results in a lack of accountability, one of the key guiding principles.</li>\n<li><strong>Inconsistent Messaging:</strong> When messages or actions contradict each other, it can create confusion and scepticism. Inconsistent communication undermines trust in the authenticity of intentions.</li>\n<li><strong>Unaccountable Behaviour:</strong> When individuals or entities avoid taking responsibility for their actions and consequences, it diminishes trust. Unaccountable behaviour erodes confidence in the reliability of promises.</li>\n<li><strong>Hidden Agendas:</strong> Concealed motives or undisclosed interests can lead to suspicions of ulterior motives. When stakeholders perceive hidden agendas, it weakens trust in the integrity of decisions.</li>\n<li><strong>Unequal Treatment:</strong> When favouritism or unequal treatment becomes evident, trust in fairness is compromised. This can manifest as preferential treatment based on personal connections rather than merit.</li>\n<li><strong>Lack of Inclusivity:</strong> Exclusion or lack of involvement of stakeholders in decision-making processes can generate feelings of mistrust. When individuals are excluded, it implies that their perspectives are not valued.</li>\n<li><strong>Inaction on Feedback:</strong> Ignoring or dismissing feedback from stakeholders suggests a disregard for their opinions and needs. This inaction can breed mistrust as stakeholders feel unheard.</li>\n<li><strong>Secrecy Surrounding Decisions:</strong> When decisions are made behind closed doors without transparency or input, it can foster scepticism and mistrust about the motives and rationale behind those decisions.</li>\n<li><strong>Consistent Ethical Violations:</strong> Frequent ethical violations or a pattern of unethical behaviour can erode trust over time. Stakeholders may doubt an organisation's commitment to ethical conduct.</li>\n</ol>",
+      "instruction": "",
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    {
+      "_id": "m2-07-ethical-dm-c-13",
+      "_parentId": "m2-07-ethical-dm-b-13",
+      "_type": "component",
+      "_component": "text",
+      "_classes": "",
+      "_layout": "left",
+      "title": "Taking Action and Monitoring",
+      "displayTitle": "Taking Action and Monitoring",
+      "body": "<p>The culmination of the ethical decision-making process marks the beginning of a journey filled with responsibilities and commitments. Once a decision is made, it initiates a series of actions that go beyond mere implementation. These actions are driven by the guiding principles, in this case transparency, accountability, and fairness. These actions help ensure that the decision is not an isolated event but a continuous demonstration of ethical conduct.</p><p>Incorporating these commitments into the post-decision phase ensures that the ethical evaluation process is not confined to a single point in time but extends into the future. Ethical decision-making becomes a dynamic cycle, guided by principles of transparency, accountability, and fairness. By diligently planning and allocating resources for these actions, organisations uphold their ethical responsibilities and contribute to building a culture of ethical conduct that resonates with stakeholders and society at large.&nbsp;</p><p>[DIAGRAM of SAD-AM model]</p>",
+      "instruction": "",
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    {
+      "_id": "m2-07-ethical-dm-c-14",
+      "_parentId": "m2-07-ethical-dm-b-14",
+      "_type": "component",
+      "_component": "text",
+      "_classes": "",
+      "_layout": "right",
+      "title": "Taking Action",
+      "displayTitle": "Taking Action",
+      "body": "<p><strong>Transparency and Communication:</strong></p><ul>\n<li><strong>Commitment to Transparency:</strong> Organisations commit to transparently communicating the decision, its rationale, and anticipated outcomes to stakeholders. This openness builds trust and enables stakeholders to understand the reasons behind the decision.</li>\n</ul><p><strong>Mitigation and Corrective Measures:</strong></p><ul>\n<li><strong>Mitigating Negative Impacts:</strong> Ethical decisions acknowledge potential negative consequences and commit to mitigating these impacts. Organisations develop strategies to minimise harm and rectify unintended outcomes.</li>\n</ul><p><strong>Resource Allocation:</strong></p><ul>\n<li><strong>Allocating Resources:</strong> Organisations allocate necessary resources to implement the decision effectively. This includes financial resources, personnel, technology, and other assets required for successful execution.</li>\n</ul>",
+      "instruction": "",
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    {
+      "_id": "m2-07-ethical-dm-c-15",
+      "_parentId": "m2-07-ethical-dm-b-15",
+      "_type": "component",
+      "_component": "text",
+      "_classes": "",
+      "_layout": "full",
+      "title": "Monitoring",
+      "displayTitle": "Monitoring",
+      "body": "<p><strong>Accountability for Outcomes:</strong></p><ul>\n<li><strong>Monitoring and Reporting:</strong> Organisations establish mechanisms to monitor the outcomes of the decision. They hold themselves accountable for ensuring that the anticipated positive outcomes are achieved and that any negative effects are addressed promptly.</li>\n</ul><p><strong>Continuous Review and Adaptation:</strong></p><ul>\n<li><strong>Adapting to Changing Contexts:</strong> Ethical decisions are not static. Organisations commit to regularly reviewing the decision's effectiveness and adapting to changes in the external environment or new information that may arise. Such changes could include changes to legal, compliance and ethical frameworks, changes in the data or the models used to process it, or anything else considered as part of the analysis stage.</li>\n</ul><p><strong>Addressing Stakeholder Concerns:</strong></p><ul>\n<li><strong>Engaging with Stakeholders:</strong> Organisations commit to engaging with stakeholders who may have concerns or questions about the decision. Addressing these concerns fosters an environment of open dialogue and inclusivity.</li>\n</ul><p><strong>Learning and Improvement:</strong></p><ul>\n<li><strong>Learning from Experience:</strong> Organisations commit to learning from the decision-making process. This includes reflecting on the decision's outcomes, analysing the decision-making process, and identifying opportunities for improvement.</li>\n</ul><p><strong>Long-Term Impact Assessment:</strong></p><ul>\n<li><strong>Assessing Long-Term Effects:</strong> Ethical decisions extend beyond immediate outcomes. Organisations commit to assessing the long-term impact of the decision on stakeholders, society, and the environment.</li>\n</ul>",
+      "instruction": "",
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    {
+      "_id": "m2-07-ethical-dm-c-16",
+      "_parentId": "m2-07-ethical-dm-b-16",
+      "_type": "component",
+      "_component": "text",
+      "_classes": "",
+      "_layout": "full",
+      "title": "Existing Ethical Decision-Making and Data Ethics Frameworks",
+      "displayTitle": "Existing Ethical Decision-Making and Data Ethics Frameworks",
+      "body": "<p>In the realm of ethical decision-making and data ethics, various frameworks have been developed to provide structured approaches for navigating complex ethical dilemmas. These frameworks offer valuable insights and methodologies to complement the generic ethical evaluation process introduced earlier in this module. Let's explore some of these frameworks, highlighting their unique approaches and contributions:</p><p><a href=\"https://www.pmi.org/-/media/pmi/documents/public/pdf/ethics/ethical-decision-making-framework.pdf\" target=\"_blank\" rel=\"noopener\"><strong>Ethical Decision-Making Framework (EDMF)</strong></a></p><ul>\n<li><strong>Approach:</strong> The EDMF offers a structured methodology encompassing six stages: Information Gathering, Developing Options, Testing, Application and Action. It emphasises a systematic approach to aligning decisions with ethical principles and codes of conduct.</li>\n<li><strong>Contribution:</strong> The EDMF provides a comprehensive step-by-step process, integrating legal, professional, and ethical considerations. It facilitates thorough analysis, stakeholder engagement, and continuous learning ultimately asking if you are willing to accept responsibility for your decision?</li>\n</ul><p><a href=\"https://www.gov.uk/government/publications/data-ethics-framework/data-ethics-framework-2020\" target=\"_blank\" rel=\"noopener\"><strong>UK Government Digital Service (GDS) Framework</strong></a><strong>:</strong></p><ul>\n<li><strong>Approach:</strong> The GDS framework focuses on ethical considerations related to digital services and technology. It emphasises user-centricity, transparency, and accountability in design and delivery.</li>\n<li><strong>Contribution:</strong> The GDS framework introduces ethical considerations at the design stage, aligning technology development with user needs. It underscores the importance of user trust and clear communication.</li>\n</ul><p><a href=\"https://www.pdpc.gov.sg/help-and-resources/2020/01/model-ai-governance-framework\" target=\"_blank\" rel=\"noopener\"><strong>Singapore's Model Artificial Intelligence Governance Framework</strong></a></p><ul>\n<li><strong>Approach:</strong> Singapore's framework for AI governance focuses on accountability, transparency, fairness, and robustness. It promotes responsible AI development and deployment to ensure societal benefits.</li>\n<li><strong>Contribution:</strong> This framework aligns with the overarching principles of transparency, accountability, and fairness, while also addressing the challenges posed by AI technologies.</li>\n</ul><p><a href=\"https://standards.ieee.org/wp-content/uploads/import/documents/other/ead1e.pdf\" target=\"_blank\" rel=\"noopener\"><strong>IEEE Ethically Aligned Design (EAD) Framework</strong></a></p><ul>\n<li><strong>Approach:</strong> The IEEE EAD framework addresses a wide range of ethical considerations in technology design, including data ethics, privacy, and security. It emphasises the integration of ethics into the design process.</li>\n<li><strong>Contribution:</strong> The EAD sets forth scientific analysis and resources, high-level principles, and actionable recommendations. It offers specific guidance for standards, certification, regulation or legislation for design, manufacture, and use of A/IS that provably aligns with and improves holistic societal well-being.</li>\n</ul><p><a href=\"https://www.theodi.org/article/the-data-ethics-canvas-2021/\" target=\"_blank\" rel=\"noopener\"><strong>Open Data Institute's Data Ethics Canvas</strong></a></p><ul>\n<li><strong>Approach:</strong> The Data Ethics Canvas is a tool that helps organisations consider ethical implications and identify potential risks when working with data. It prompts critical questions related to data collection, use, and sharing.</li>\n<li><strong>Contribution:</strong> The Data Ethics Canvas offers a practical approach to data ethics, enabling organisations to visualise and address ethical concerns throughout the data lifecycle. It includes elements of the legal, wider ethical and consequence scanning activities, but definition and use of guiding principles is left to the organisation applying the canvas to a particular scenario. So in this way it is more of a tool to dig into the details of data ethics during the analysis stage rather than an overarching framework for ethical decision making.</li>\n</ul><p>These frameworks enhance the generic ethical evaluation process by providing specialised methodologies and insights tailored to specific contexts. Incorporating elements from these frameworks empowers individuals and organisations to navigate the nuances of data ethics, AI governance, and other domains with a well-informed and comprehensive approach.</p>",
+      "instruction": "",
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    {
+      "_id": "m2-07-ethical-dm-c-17",
+      "_parentId": "m2-07-ethical-dm-b-17",
+      "_type": "component",
+      "_component": "text",
+      "_classes": "",
+      "_layout": "full",
+      "title": "Applied ethical decision making",
+      "displayTitle": "Applied ethical decision making",
+      "body": "<p><strong>Situation</strong></p><p>In the mid 2010s, a team at Amazon had been investigating the use of machine learning and AI to review job applicants’ resumes with the aim of mechanising the search for top talent. This AI-driven endeavour aimed to streamline the screening process and identify the most promising candidates, offering a potential solution to the company's recruitment challenges.</p><p><strong>Analysis</strong></p><p>Amazon's initiative to develop an AI-powered recruitment tool reflects their proactive approach to grappling with the complexities of handling a large number of applications. By utilising AI algorithms to automate preliminary screening, the company intended to optimise the hiring process, improve efficiency, and allocate human resources more effectively. It was noted at this stage that the tool was biased toward men and ultimately this led to the decision following being an easy one to make. However, a notable weakness during the analysis was a failure to recognise legal and ethical challenges relating to the use of personal data in resumes submitted over a 10-year period to train the tool.</p><p><strong>Decision</strong></p><p>Upon critical examination of the AI system's outcomes, Amazon chose not to employ the technology for final hiring decisions due to identified gender bias concerns. However, the company opted to leverage some components of the tool for ancillary functions, revealing their adaptability and commitment to refining their approach based on the ethical implications that emerged during analysis. Even though this is a somewhat positive outcome, Amazon's decision to keep the AI project and the associated data's use confidential to this point was their undoing.</p><p><strong>Action and Monitoring</strong></p><p>Amazon's action to not use the tool does offer some hope of them taking ethical responsibility. Despite choosing not to proceed with the tool for hiring decisions, they found value in repurposing it to filter out duplicates and ensure basic application criteria alignment. However, the secretive nature of the project and the use of personal data without explicit consent eroded trust, casting a shadow over the entire initiative. Although Amazon claimed never to have used the tool, the lack of transparency surrounding both the project and the data used for training fueled scepticism and undermined the company's reputation. This clearly demonstrates that the ethical decision-making process marks the beginning of a journey filled with responsibilities and commitments and should start before any analysis or application.&nbsp;</p><p>In this context, Amazon's venture into AI-driven recruitment highlights the intricate interplay between technology, ethics, and transparency. While the initiative demonstrated Amazon's commitment to ethical decision-making by discontinuing biassed AI usage, the secrecy surrounding the development and data usage led to a loss of trust. This scenario underscores the importance of open communication, transparency, and safeguarding individual data privacy when implementing AI solutions to address complex challenges, even if you don’t end up using them.</p>",
+      "instruction": "",
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    {
+      "_id": "m2-07-ethical-dm-c-18",
+      "_parentId": "m2-07-ethical-dm-b-18",
+      "_type": "component",
+      "_component": "text",
+      "_classes": "",
+      "_layout": "full",
+      "title": "How SAD are you?",
+      "displayTitle": "How SAD are you?",
+      "body": "<p>How much can you remember about the model, test your knowledge with our short quiz.</p>",
+      "instruction": "",
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    {
+      "_id": "m2-07-ethical-dm-c-19",
+      "_parentId": "m2-07-ethical-dm-b-19",
+      "_type": "component",
+      "_component": "mcq",
+      "_classes": "",
+      "_layout": "left",
+      "title": "Q1) Defining situations",
+      "displayTitle": "Q1) Defining situations",
+      "body": "",
+      "instruction": "Choose one option then select Submit.",
+      "ariaQuestion": "Question text specifically for screen readers.",
+      "_attempts": 1,
+      "_shouldDisplayAttempts": false,
+      "_isRandom": false,
+      "_hasItemScoring": false,
+      "_questionWeight": 1,
+      "_selectable": 1,
+      "_canShowModelAnswer": true,
+      "_canShowFeedback": true,
+      "_canShowMarking": true,
+      "_recordInteraction": true,
+      "_items": [
+        {
+          "text": "Clear context",
+          "_shouldBeSelected": true,
+          "_isPartlyCorrect": false
+        },
+        {
+          "text": "Clear objective",
+          "_shouldBeSelected": true,
+          "_isPartlyCorrect": false
+        },
+        {
+          "text": "Clear on the data/technology being considered",
+          "_shouldBeSelected": true,
+          "_isPartlyCorrect": false
+        },
+        {
+          "text": "Short",
+          "_shouldBeSelected": false,
+          "_isPartlyCorrect": false
+        },
+        {
+          "text": "Focus on new technologies",
+          "_shouldBeSelected": false,
+          "_isPartlyCorrect": false
+        }
+      ],
+      "_feedback": {
+        "correct": "<p><strong>That's right!</p></strong></p><p>In ethical evaluation, well-scoped scenarios are crucial as they define the boundaries, stakeholders, data types, intended outcomes, and contexts of use. This specificity enables a more thorough and meaningful assessment of ethical implications, potential risks, and considerations.</p>",
+        "_incorrect": {
+          "notFinal": "<p><strong>Are you sure about that?</p></strong></p><p>In ethical evaluation, well-scoped scenarios are crucial as they define the boundaries, stakeholders, data types, intended outcomes, and contexts of use. This specificity enables a more thorough and meaningful assessment of ethical implications, potential risks, and considerations.</p>",
+          "final": "<p><strong>Are you sure about that?</p></strong></p><p>In ethical evaluation, well-scoped scenarios are crucial as they define the boundaries, stakeholders, data types, intended outcomes, and contexts of use. This specificity enables a more thorough and meaningful assessment of ethical implications, potential risks, and considerations.</p>"
+        }
+      },
+      "_comment": "You only need to include _buttons if you want to override the button labels that are set in course.json",
+      "_buttons": {
+        "_submit": {
+          "buttonText": "Submit",
+          "ariaLabel": "Select here to submit your answer."
+        },
+        "_reset": {
+          "buttonText": "Reset",
+          "ariaLabel": ""
+        },
+        "_showCorrectAnswer": {
+          "buttonText": "Correct Answer",
+          "ariaLabel": ""
+        },
+        "_hideCorrectAnswer": {
+          "buttonText": "My Answer",
+          "ariaLabel": ""
+        },
+        "_showFeedback": {
+          "buttonText": "Show feedback",
+          "ariaLabel": ""
+        },
+        "remainingAttemptsText": "attempts remaining",
+        "remainingAttemptText": "final attempt"
+      },
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    {
+      "_id": "m2-07-ethical-dm-c-20",
+      "_parentId": "m2-07-ethical-dm-b-20",
+      "_type": "component",
+      "_component": "mcq",
+      "_classes": "",
+      "_layout": "left",
+      "title": "Q2) Performing analysis?",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "Choose one option then select Submit.",
+      "ariaQuestion": "Question text specifically for screen readers.",
+      "_attempts": 1,
+      "_shouldDisplayAttempts": false,
+      "_isRandom": false,
+      "_hasItemScoring": false,
+      "_questionWeight": 1,
+      "_selectable": 1,
+      "_canShowModelAnswer": true,
+      "_canShowFeedback": true,
+      "_canShowMarking": true,
+      "_recordInteraction": true,
+      "_items": [
+        {
+          "text": "To solely align with the values of the organisation ",
+          "_shouldBeSelected": false,
+          "_isPartlyCorrect": false
+        },
+        {
+          "text": "To ensure total agreement among stakeholders ",
+          "_shouldBeSelected": false,
+          "_isPartlyCorrect": false
+        },
+        {
+          "text": "To understand different perspectives and potential conflicts ",
+          "_shouldBeSelected": false,
+          "_isPartlyCorrect": false
+        },
+        {
+          "text": "To avoid legal consequences",
+          "_shouldBeSelected": false,
+          "_isPartlyCorrect": false
+        }
+      ],
+      "_feedback": {
+        "correct": "<p><strong>That's right!</p></strong></p><p>In the analysis stage of the SAD model, engaging stakeholders is essential to comprehensively explore the ethical situation and obtain various viewpoints, identify potential conflicts of interest, and gain insight into differing values and concerns. You will never achieve a situation where everyone agrees and engagement is not there to ensure there are no legal challenges.&nbsp;</p>",
+        "_incorrect": {
+          "notFinal": "<p><strong>Are you sure about that?</p></strong></p><p>In the analysis stage of the SAD model, engaging stakeholders is essential to comprehensively explore the ethical situation and obtain various viewpoints, identify potential conflicts of interest, and gain insight into differing values and concerns. You will never achieve a situation where everyone agrees and engagement is not there to ensure there are no legal challenges.&nbsp;</p>",
+          "final": "<p><strong>Are you sure about that?</p></strong></p><p>In the analysis stage of the SAD model, engaging stakeholders is essential to comprehensively explore the ethical situation and obtain various viewpoints, identify potential conflicts of interest, and gain insight into differing values and concerns. You will never achieve a situation where everyone agrees and engagement is not there to ensure there are no legal challenges.&nbsp;</p>"
+        }
+      },
+      "_comment": "You only need to include _buttons if you want to override the button labels that are set in course.json",
+      "_buttons": {
+        "_submit": {
+          "buttonText": "Submit",
+          "ariaLabel": "Select here to submit your answer."
+        },
+        "_reset": {
+          "buttonText": "Reset",
+          "ariaLabel": ""
+        },
+        "_showCorrectAnswer": {
+          "buttonText": "Correct Answer",
+          "ariaLabel": ""
+        },
+        "_hideCorrectAnswer": {
+          "buttonText": "My Answer",
+          "ariaLabel": ""
+        },
+        "_showFeedback": {
+          "buttonText": "Show feedback",
+          "ariaLabel": ""
+        },
+        "remainingAttemptsText": "attempts remaining",
+        "remainingAttemptText": "final attempt"
+      },
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    {
+      "_id": "m2-07-ethical-dm-c-21",
+      "_parentId": "m2-07-ethical-dm-b-21",
+      "_type": "component",
+      "_component": "mcq",
+      "_classes": "",
+      "_layout": "left",
+      "title": "Q3) How to decide?",
+      "displayTitle": "Q3) How to decide?",
+      "body": "",
+      "instruction": "Choose one option then select Submit.",
+      "ariaQuestion": "Question text specifically for screen readers.",
+      "_attempts": 1,
+      "_shouldDisplayAttempts": false,
+      "_isRandom": false,
+      "_hasItemScoring": false,
+      "_questionWeight": 1,
+      "_selectable": 1,
+      "_canShowModelAnswer": true,
+      "_canShowFeedback": true,
+      "_canShowMarking": true,
+      "_recordInteraction": true,
+      "_items": [
+        {
+          "text": "They guarantee a positive outcome in every situation ",
+          "_shouldBeSelected": false,
+          "_isPartlyCorrect": false
+        },
+        {
+          "text": "They provide a checklist to quickly complete decision-making ",
+          "_shouldBeSelected": false,
+          "_isPartlyCorrect": false
+        },
+        {
+          "text": "They help ensure a commitment to ethical conduct and responsible action.",
+          "_shouldBeSelected": true,
+          "_isPartlyCorrect": false
+        },
+        {
+          "text": "They help alignment with organisational strategy",
+          "_shouldBeSelected": false,
+          "_isPartlyCorrect": false
+        }
+      ],
+      "_feedback": {
+        "correct": "<p><strong>That's right!</p></strong></p><p>Integrating guiding principles, such as transparency, accountability, and fairness, into ethical decision-making ensures that decisions are well-rounded and ethically sound. These principles provide a framework for considering multiple viewpoints, minimising biases, and addressing potential conflicts of interest. While guiding principles do not guarantee a specific outcome in every situation, they go beyond a mere checklist and encourage thoughtful consideration. Additionally, although some regulatory frameworks mandate ethical practices, the primary purpose of integrating guiding principles is to demonstrate commitment to ethical conduct and responsible action.</p>",
+        "_incorrect": {
+          "notFinal": "<p><strong>Are you sure about that?</p></strong></p><p>Integrating guiding principles, such as transparency, accountability, and fairness, into ethical decision-making ensures that decisions are well-rounded and ethically sound. These principles provide a framework for considering multiple viewpoints, minimising biases, and addressing potential conflicts of interest. While guiding principles do not guarantee a specific outcome in every situation, they go beyond a mere checklist and encourage thoughtful consideration. Additionally, although some regulatory frameworks mandate ethical practices, the primary purpose of integrating guiding principles is to demonstrate commitment to ethical conduct and responsible action.</p>",
+          "final": "<p><strong>Are you sure about that?</p></strong></p><p>Integrating guiding principles, such as transparency, accountability, and fairness, into ethical decision-making ensures that decisions are well-rounded and ethically sound. These principles provide a framework for considering multiple viewpoints, minimising biases, and addressing potential conflicts of interest. While guiding principles do not guarantee a specific outcome in every situation, they go beyond a mere checklist and encourage thoughtful consideration. Additionally, although some regulatory frameworks mandate ethical practices, the primary purpose of integrating guiding principles is to demonstrate commitment to ethical conduct and responsible action.</p>"
+        }
+      },
+      "_comment": "You only need to include _buttons if you want to override the button labels that are set in course.json",
+      "_buttons": {
+        "_submit": {
+          "buttonText": "Submit",
+          "ariaLabel": "Select here to submit your answer."
+        },
+        "_reset": {
+          "buttonText": "Reset",
+          "ariaLabel": ""
+        },
+        "_showCorrectAnswer": {
+          "buttonText": "Correct Answer",
+          "ariaLabel": ""
+        },
+        "_hideCorrectAnswer": {
+          "buttonText": "My Answer",
+          "ariaLabel": ""
+        },
+        "_showFeedback": {
+          "buttonText": "Show feedback",
+          "ariaLabel": ""
+        },
+        "remainingAttemptsText": "attempts remaining",
+        "remainingAttemptText": "final attempt"
+      },
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    {
+      "_id": "m2-07-ethical-dm-c-1",
+      "_parentId": "m2-07-ethical-dm-b-1",
+      "_type": "component",
+      "_component": "mcq",
+      "_classes": "",
+      "_layout": "left",
+      "title": "Q4) Taking action?",
+      "displayTitle": "Q4) Taking action?",
+      "body": "",
+      "instruction": "Choose one option then select Submit.",
+      "ariaQuestion": "Question text specifically for screen readers.",
+      "_attempts": 1,
+      "_shouldDisplayAttempts": false,
+      "_isRandom": false,
+      "_hasItemScoring": false,
+      "_questionWeight": 1,
+      "_selectable": 1,
+      "_canShowModelAnswer": true,
+      "_canShowFeedback": true,
+      "_canShowMarking": true,
+      "_recordInteraction": true,
+      "_items": [
+        {
+          "text": "Ensuring that no changes are made to the current processes ",
+          "_shouldBeSelected": false,
+          "_isPartlyCorrect": false
+        },
+        {
+          "text": "Allocating necessary resources and identifying responsible parties ",
+          "_shouldBeSelected": true,
+          "_isPartlyCorrect": false
+        },
+        {
+          "text": "Finalising the decision without further consideration ",
+          "_shouldBeSelected": false,
+          "_isPartlyCorrect": false
+        },
+        {
+          "text": "Not proceeding if any negative consequences are anticipated",
+          "_shouldBeSelected": false,
+          "_isPartlyCorrect": false
+        }
+      ],
+      "_feedback": {
+        "correct": "<p><strong>That's right!</p></strong></p><p>During the \"Action\" stage of ethical decision-making, the focus is on turning the chosen decision into a practical plan. This involves allocating the required resources, such as time, budget, and personnel, and identifying the individuals or teams responsible for carrying out the plan. This stage is crucial for ensuring the decision's successful implementation, as it translates ethical considerations into actionable steps. The other options overlook the need for adaptability, dismisses further consideration or mean nothing is ever done resulting in loss of any benefit.</p>",
+        "_incorrect": {
+          "notFinal": "<p><strong>Are you sure about that?</p></strong></p><p>During the \"Action\" stage of ethical decision-making, the focus is on turning the chosen decision into a practical plan. This involves allocating the required resources, such as time, budget, and personnel, and identifying the individuals or teams responsible for carrying out the plan. This stage is crucial for ensuring the decision's successful implementation, as it translates ethical considerations into actionable steps. The other options overlook the need for adaptability, dismisses further consideration or mean nothing is ever done resulting in loss of any benefit.</p>",
+          "final": "<p><strong>Are you sure about that?</p></strong></p><p>During the \"Action\" stage of ethical decision-making, the focus is on turning the chosen decision into a practical plan. This involves allocating the required resources, such as time, budget, and personnel, and identifying the individuals or teams responsible for carrying out the plan. This stage is crucial for ensuring the decision's successful implementation, as it translates ethical considerations into actionable steps. The other options overlook the need for adaptability, dismisses further consideration or mean nothing is ever done resulting in loss of any benefit.</p>"
+        }
+      },
+      "_comment": "You only need to include _buttons if you want to override the button labels that are set in course.json",
+      "_buttons": {
+        "_submit": {
+          "buttonText": "Submit",
+          "ariaLabel": "Select here to submit your answer."
+        },
+        "_reset": {
+          "buttonText": "Reset",
+          "ariaLabel": ""
+        },
+        "_showCorrectAnswer": {
+          "buttonText": "Correct Answer",
+          "ariaLabel": ""
+        },
+        "_hideCorrectAnswer": {
+          "buttonText": "My Answer",
+          "ariaLabel": ""
+        },
+        "_showFeedback": {
+          "buttonText": "Show feedback",
+          "ariaLabel": ""
+        },
+        "remainingAttemptsText": "attempts remaining",
+        "remainingAttemptText": "final attempt"
+      },
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    {
+      "_id": "m2-07-ethical-dm-c-23",
+      "_parentId": "m2-07-ethical-dm-b-23",
+      "_type": "component",
+      "_component": "mcq",
+      "_classes": "",
+      "_layout": "left",
+      "title": "Q5) Why monitor?",
+      "displayTitle": "Q5) Why monitor?",
+      "body": "",
+      "instruction": "Choose one option then select Submit.",
+      "ariaQuestion": "Question text specifically for screen readers.",
+      "_attempts": 1,
+      "_shouldDisplayAttempts": false,
+      "_isRandom": false,
+      "_hasItemScoring": false,
+      "_questionWeight": 1,
+      "_selectable": 1,
+      "_canShowModelAnswer": true,
+      "_canShowFeedback": true,
+      "_canShowMarking": true,
+      "_recordInteraction": true,
+      "_items": [
+        {
+          "text": "To find someone to blame in case of negative outcomes ",
+          "_shouldBeSelected": false,
+          "_isPartlyCorrect": false
+        },
+        {
+          "text": "To confirm that the decision was correct ",
+          "_shouldBeSelected": false,
+          "_isPartlyCorrect": false
+        },
+        {
+          "text": "To assess the decision's effectiveness and make necessary modifications ",
+          "_shouldBeSelected": false,
+          "_isPartlyCorrect": false
+        },
+        {
+          "text": "To avoid any changes or adjustments to the decision once it's implemented",
+          "_shouldBeSelected": false,
+          "_isPartlyCorrect": false
+        }
+      ],
+      "_feedback": {
+        "correct": "<p><strong>That's right!</p></strong></p><p>The monitoring stage is a critical aspect of ethical decision-making as it allows for ongoing assessment of the decision's outcomes in real-world scenarios. This assessment ensures that the decision is achieving its intended goals and identifies any discrepancies between the expected and actual results. By doing so, organisations can gather valuable insights, detect any unintended consequences, and make adjustments as needed to enhance the decision's impact. The other options are incorrect because they either focus on assigning blame, assuming the decision is always correct or avoiding any changes altogether.</p>",
+        "_incorrect": {
+          "notFinal": "<p><strong>Are you sure about that?</p></strong></p><p>The monitoring stage is a critical aspect of ethical decision-making as it allows for ongoing assessment of the decision's outcomes in real-world scenarios. This assessment ensures that the decision is achieving its intended goals and identifies any discrepancies between the expected and actual results. By doing so, organisations can gather valuable insights, detect any unintended consequences, and make adjustments as needed to enhance the decision's impact. The other options are incorrect because they either focus on assigning blame, assuming the decision is always correct or avoiding any changes altogether.</p>",
+          "final": "<p><strong>Are you sure about that?</p></strong></p><p>The monitoring stage is a critical aspect of ethical decision-making as it allows for ongoing assessment of the decision's outcomes in real-world scenarios. This assessment ensures that the decision is achieving its intended goals and identifies any discrepancies between the expected and actual results. By doing so, organisations can gather valuable insights, detect any unintended consequences, and make adjustments as needed to enhance the decision's impact. The other options are incorrect because they either focus on assigning blame, assuming the decision is always correct or avoiding any changes altogether.</p>"
+        }
+      },
+      "_comment": "You only need to include _buttons if you want to override the button labels that are set in course.json",
+      "_buttons": {
+        "_submit": {
+          "buttonText": "Submit",
+          "ariaLabel": "Select here to submit your answer."
+        },
+        "_reset": {
+          "buttonText": "Reset",
+          "ariaLabel": ""
+        },
+        "_showCorrectAnswer": {
+          "buttonText": "Correct Answer",
+          "ariaLabel": ""
+        },
+        "_hideCorrectAnswer": {
+          "buttonText": "My Answer",
+          "ariaLabel": ""
+        },
+        "_showFeedback": {
+          "buttonText": "Show feedback",
+          "ariaLabel": ""
+        },
+        "remainingAttemptsText": "attempts remaining",
+        "remainingAttemptText": "final attempt"
+      },
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    {
+      "_id": "m2-07-ethical-dm-c-25",
+      "_parentId": "m2-07-ethical-dm-b-25",
+      "_type": "component",
+      "_component": "text",
+      "_classes": "",
+      "_layout": "left",
+      "title": "Summary",
+      "displayTitle": "Summary",
+      "body": "<p>This learning module aimed to provide a comprehensive journey through the intricate landscape of ethical decision-making and data ethics. It introduced a structured approach based on an expanded SAD model (SAD-AM):&nbsp;</p><ul>\n<li>Situation: emphasis on clear scoping, well defined situations that capture complexities in context</li>\n<li>Analysis: guided by the principles of transparency, accountability and fairness to foster trust, responsibility and equitable outcomes</li>\n<li>Decision: acting on relevant legal and compliance checking, and according to professional standards and appropriate ethical codes</li>\n<li>Action: clearly defined actions, with applied responsibilities that are communicated clearly and effectively</li>\n<li>Monitoring: appreciation for the cyclical nature of ethical activities, responding to changes in the landscape and reacting proportionally to diverse perspectives, complex scenarios and conflicts of interests</li>\n</ul><p>In the intricate landscape of ethical decision-making, making decisions and taking actions is tough. The processes this module has introduced lay the foundations to help with ethical decision making.&nbsp;</p>",
+      "instruction": "",
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    {
+      "_id": "m2-07-ethical-dm-g-1",
+      "_parentId": "m2-07-ethical-dm-b-1",
+      "_type": "component",
+      "_component": "graphic",
+      "_classes": "",
+      "_layout": "right",
+      "title": "graphic for Introduction",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "",
+      "_graphic": {
+        "alt": "",
+        "longdescription": "",
+        "large": "course/en/assets/ed8c41138dc38e9d42c4c464ef200a62b430716e.png",
+      "small": "course/en/assets/ed8c41138dc38e9d42c4c464ef200a62b430716e.png",
+      "attribution": "<a href=\"http://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>",
+        "_url": "",
+        "_target": ""
+      },
+      "_isScrollable": false,
+      "_defaultScrollPercent": 0,
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+      "_id": "m2-07-ethical-dm-g-2",
+      "_parentId": "m2-07-ethical-dm-b-2",
+      "_type": "component",
+      "_component": "graphic",
+      "_classes": "",
+      "_layout": "left",
+      "title": "graphic for SAD can make you happy",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "",
+      "_graphic": {
+        "alt": "",
+        "longdescription": "",
+        "large": "https://via.placeholder.com/600x400",
+        "small": "https://via.placeholder.com/600x400",
+        "attribution": "NO ATTRIBUTION",
+        "_url": "",
+        "_target": ""
+      },
+      "_isScrollable": false,
+      "_defaultScrollPercent": 0,
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+      "_id": "m2-07-ethical-dm-g-3",
+      "_parentId": "m2-07-ethical-dm-b-3",
+      "_type": "component",
+      "_component": "graphic",
+      "_classes": "",
+      "_layout": "right",
+      "title": "graphic for To add to the acronym then lets expand to SAD-AM.",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "",
+      "_graphic": {
+        "alt": "",
+        "longdescription": "",
+        "large": "https://via.placeholder.com/600x400",
+        "small": "https://via.placeholder.com/600x400",
+        "attribution": "NO ATTRIBUTION",
+        "_url": "",
+        "_target": ""
+      },
+      "_isScrollable": false,
+      "_defaultScrollPercent": 0,
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+      "_id": "m2-07-ethical-dm-g-5",
+      "_parentId": "m2-07-ethical-dm-b-5",
+      "_type": "component",
+      "_component": "graphic",
+      "_classes": "",
+      "_layout": "right",
+      "title": "graphic for More examples of badly scoped situations",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "",
+      "_graphic": {
+        "alt": "",
+        "longdescription": "",
+        "large": "https://via.placeholder.com/600x400",
+        "small": "https://via.placeholder.com/600x400",
+        "attribution": "NO ATTRIBUTION",
+        "_url": "",
+        "_target": ""
+      },
+      "_isScrollable": false,
+      "_defaultScrollPercent": 0,
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+      "_id": "m2-07-ethical-dm-g-6",
+      "_parentId": "m2-07-ethical-dm-b-6",
+      "_type": "component",
+      "_component": "graphic",
+      "_classes": "",
+      "_layout": "left",
+      "title": "graphic for Fill in the missing part of the sentence to improve these scenarios?",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "",
+      "_graphic": {
+        "alt": "",
+        "longdescription": "",
+        "large": "https://via.placeholder.com/600x400",
+        "small": "https://via.placeholder.com/600x400",
+        "attribution": "NO ATTRIBUTION",
+        "_url": "",
+        "_target": ""
+      },
+      "_isScrollable": false,
+      "_defaultScrollPercent": 0,
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+      "_id": "m2-07-ethical-dm-g-9",
+      "_parentId": "m2-07-ethical-dm-b-9",
+      "_type": "component",
+      "_component": "graphic",
+      "_classes": "",
+      "_layout": "right",
+      "title": "graphic for Making a decision",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "",
+      "_graphic": {
+        "alt": "",
+        "longdescription": "",
+        "large": "https://via.placeholder.com/600x400",
+        "small": "https://via.placeholder.com/600x400",
+        "attribution": "NO ATTRIBUTION",
+        "_url": "",
+        "_target": ""
+      },
+      "_isScrollable": false,
+      "_defaultScrollPercent": 0,
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+      "_id": "m2-07-ethical-dm-g-10",
+      "_parentId": "m2-07-ethical-dm-b-10",
+      "_type": "component",
+      "_component": "graphic",
+      "_classes": "",
+      "_layout": "left",
+      "title": "graphic for Guiding principles in ethical decision-making",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "",
+      "_graphic": {
+        "alt": "",
+        "longdescription": "",
+        "large": "https://via.placeholder.com/600x400",
+        "small": "https://via.placeholder.com/600x400",
+        "attribution": "NO ATTRIBUTION",
+        "_url": "",
+        "_target": ""
+      },
+      "_isScrollable": false,
+      "_defaultScrollPercent": 0,
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+      "_id": "m2-07-ethical-dm-g-11",
+      "_parentId": "m2-07-ethical-dm-b-11",
+      "_type": "component",
+      "_component": "graphic",
+      "_classes": "",
+      "_layout": "left",
+      "title": "graphic for Integration of Principles",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "",
+      "_graphic": {
+        "alt": "",
+        "longdescription": "",
+        "large": "https://via.placeholder.com/600x400",
+        "small": "https://via.placeholder.com/600x400",
+        "attribution": "NO ATTRIBUTION",
+        "_url": "",
+        "_target": ""
+      },
+      "_isScrollable": false,
+      "_defaultScrollPercent": 0,
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+      "_id": "m2-07-ethical-dm-g-13",
+      "_parentId": "m2-07-ethical-dm-b-13",
+      "_type": "component",
+      "_component": "graphic",
+      "_classes": "",
+      "_layout": "right",
+      "title": "graphic for Taking Action and Monitoring",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "",
+      "_graphic": {
+        "alt": "",
+        "longdescription": "",
+        "large": "https://via.placeholder.com/600x400",
+        "small": "https://via.placeholder.com/600x400",
+        "attribution": "NO ATTRIBUTION",
+        "_url": "",
+        "_target": ""
+      },
+      "_isScrollable": false,
+      "_defaultScrollPercent": 0,
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+      "_id": "m2-07-ethical-dm-g-14",
+      "_parentId": "m2-07-ethical-dm-b-14",
+      "_type": "component",
+      "_component": "graphic",
+      "_classes": "",
+      "_layout": "left",
+      "title": "graphic for Taking Action",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "",
+      "_graphic": {
+        "alt": "",
+        "longdescription": "",
+        "large": "https://via.placeholder.com/600x400",
+        "small": "https://via.placeholder.com/600x400",
+        "attribution": "NO ATTRIBUTION",
+        "_url": "",
+        "_target": ""
+      },
+      "_isScrollable": false,
+      "_defaultScrollPercent": 0,
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+      "_id": "m2-07-ethical-dm-g-19",
+      "_parentId": "m2-07-ethical-dm-b-19",
+      "_type": "component",
+      "_component": "graphic",
+      "_classes": "",
+      "_layout": "right",
+      "title": "graphic for Q1) Defining situations?",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "",
+      "_graphic": {
+        "alt": "",
+        "longdescription": "",
+        "large": "https://via.placeholder.com/600x400",
+        "small": "https://via.placeholder.com/600x400",
+        "attribution": "NO ATTRIBUTION",
+        "_url": "",
+        "_target": ""
+      },
+      "_isScrollable": false,
+      "_defaultScrollPercent": 0,
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+      "_id": "m2-07-ethical-dm-g-20",
+      "_parentId": "m2-07-ethical-dm-b-20",
+      "_type": "component",
+      "_component": "graphic",
+      "_classes": "",
+      "_layout": "left",
+      "title": "graphic for Q2) Performing analysis?",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "",
+      "_graphic": {
+        "alt": "",
+        "longdescription": "",
+        "large": "https://via.placeholder.com/600x400",
+        "small": "https://via.placeholder.com/600x400",
+        "attribution": "NO ATTRIBUTION",
+        "_url": "",
+        "_target": ""
+      },
+      "_isScrollable": false,
+      "_defaultScrollPercent": 0,
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+      "_id": "m2-07-ethical-dm-g-21",
+      "_parentId": "m2-07-ethical-dm-b-21",
+      "_type": "component",
+      "_component": "graphic",
+      "_classes": "",
+      "_layout": "right",
+      "title": "graphic for Q3) How to decide?",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "",
+      "_graphic": {
+        "alt": "",
+        "longdescription": "",
+        "large": "https://via.placeholder.com/600x400",
+        "small": "https://via.placeholder.com/600x400",
+        "attribution": "NO ATTRIBUTION",
+        "_url": "",
+        "_target": ""
+      },
+      "_isScrollable": false,
+      "_defaultScrollPercent": 0,
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+      "_id": "m2-07-ethical-dm-g-22",
+      "_parentId": "m2-07-ethical-dm-b-22",
+      "_type": "component",
+      "_component": "graphic",
+      "_classes": "",
+      "_layout": "left",
+      "title": "graphic for Q4) Taking action",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "",
+      "_graphic": {
+        "alt": "",
+        "longdescription": "",
+        "large": "https://via.placeholder.com/600x400",
+        "small": "https://via.placeholder.com/600x400",
+        "attribution": "NO ATTRIBUTION",
+        "_url": "",
+        "_target": ""
+      },
+      "_isScrollable": false,
+      "_defaultScrollPercent": 0,
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+      "_id": "m2-07-ethical-dm-g-23",
+      "_parentId": "m2-07-ethical-dm-b-23",
+      "_type": "component",
+      "_component": "graphic",
+      "_classes": "",
+      "_layout": "right",
+      "title": "graphic for Q5) Why monitor?",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "",
+      "_graphic": {
+        "alt": "",
+        "longdescription": "",
+        "large": "https://via.placeholder.com/600x400",
+        "small": "https://via.placeholder.com/600x400",
+        "attribution": "NO ATTRIBUTION",
+        "_url": "",
+        "_target": ""
+      },
+      "_isScrollable": false,
+      "_defaultScrollPercent": 0,
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+      "_id": "m2-07-ethical-dm-g-25",
+      "_parentId": "m2-07-ethical-dm-b-25",
+      "_type": "component",
+      "_component": "graphic",
+      "_classes": "clipboard",
+      "_layout": "right",
+      "title": "graphic for Summary",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "",
+      "_graphic": {
+        "alt": "",
+        "large": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
+        "small": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
+        "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+      },
+      "_isScrollable": false,
+      "_defaultScrollPercent": 0,
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    }
 ]
