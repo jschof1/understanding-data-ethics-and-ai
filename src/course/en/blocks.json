@@ -696,7 +696,6 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 105,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -736,14 +735,14 @@
         "_small": null
       },
       "_isDividerBlock": false
-    }
+    },
+    "_trackingId": 23
   },
   {
     "title": "Obtaining rights to reuse third party data",
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 106,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -783,14 +782,14 @@
         "_small": null
       },
       "_isDividerBlock": false
-    }
+    },
+    "_trackingId": 24
   },
   {
     "title": "Summary",
     "displayTitle": "",
     "body": "",
     "_classes": "footer inverted",
-    "_trackingId": 107,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -830,14 +829,14 @@
         "_small": null
       },
       "_isDividerBlock": false
-    }
+    },
+    "_trackingId": 25
   },
   {
     "title": "Working with data from third party sources",
     "displayTitle": "Working with data from third party sources",
     "body": "",
     "_classes": "intro",
-    "_trackingId": 108,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -877,14 +876,14 @@
         "_small": null
       },
       "_isDividerBlock": false
-    }
+    },
+    "_trackingId": 26
   },
   {
     "title": "Identifying open, shared and closed data",
     "displayTitle": "Identifying open, shared and closed data",
     "body": "<p>Can you match the descriptions below to the types of data on the spectrum.</p>",
     "_classes": "",
-    "_trackingId": 109,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -924,14 +923,14 @@
         "_small": null
       },
       "_isDividerBlock": false
-    }
+    },
+    "_trackingId": 27
   },
   {
     "title": "Topics",
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 110,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -971,14 +970,14 @@
         "_small": null
       },
       "_isDividerBlock": false
-    }
+    },
+    "_trackingId": 28
   },
   {
     "title": "Decision flowchart",
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 112,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1018,14 +1017,14 @@
         "_small": null
       },
       "_isDividerBlock": false
-    }
+    },
+    "_trackingId": 29
   },
   {
     "title": "The value of reusing data from third party sources",
     "displayTitle": "The value of reusing data from third party sources",
     "body": "",
     "_classes": "",
-    "_trackingId": 113,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1065,14 +1064,14 @@
         "_small": null
       },
       "_isDividerBlock": false
-    }
+    },
+    "_trackingId": 30
   },
   {
     "title": "Common data licences",
     "displayTitle": "Common data licences",
     "body": "",
     "_classes": "",
-    "_trackingId": 115,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1112,14 +1111,14 @@
         "_small": null
       },
       "_isDividerBlock": false
-    }
+    },
+    "_trackingId": 31
   },
   {
     "title": "The importance of rights and permissions in data",
     "displayTitle": "The importance of rights and permissions in data",
     "body": "",
     "_classes": "",
-    "_trackingId": 116,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1159,14 +1158,14 @@
         "_small": null
       },
       "_isDividerBlock": false
-    }
+    },
+    "_trackingId": 32
   },
   {
     "title": "CreDo – A bespoke licence",
     "displayTitle": "CreDo – A bespoke licence",
     "body": "",
     "_classes": "",
-    "_trackingId": 117,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1206,14 +1205,14 @@
         "_small": null
       },
       "_isDividerBlock": false
-    }
+    },
+    "_trackingId": 33
   },
   {
     "title": "What to do when things are unclear",
     "displayTitle": "What to do when things are unclear",
     "body": "",
     "_classes": "",
-    "_trackingId": 118,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1253,14 +1252,14 @@
         "_small": null
       },
       "_isDividerBlock": false
-    }
+    },
+    "_trackingId": 34
   },
   {
     "title": "Copyright: a delicate balance",
     "displayTitle": "Copyright: a delicate balance",
     "body": "",
     "_classes": "",
-    "_trackingId": 11833,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1300,14 +1299,14 @@
         "_small": null
       },
       "_isDividerBlock": false
-    }
+    },
+    "_trackingId": 35
   },
   {
     "title": "Considerations when working with data from multiple third parties",
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 119,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1347,14 +1346,14 @@
         "_small": null
       },
       "_isDividerBlock": false
-    }
+    },
+    "_trackingId": 36
   },
   {
     "title": "Establishing the suitability of data prior to access and reuse",
     "displayTitle": "Establishing the suitability of data prior to access and reuse",
     "body": "<p>As a user of the third-party data, beyond obtaining permission to reuse the data, you will need to check the practical reusability of the data.</p><p>This is a complex phase that could take a significant amount of time. Before acquiring the data it may well be possible to ascertain some of the ethical risks relating to the data including:</p>",
     "_classes": "",
-    "_trackingId": 120,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1394,61 +1393,8 @@
         "_small": null
       },
       "_isDividerBlock": false
-    }
-  },
-  {
-    "title": "New Component Title",
-    "displayTitle": "New Component Title",
-    "body": "",
-    "_classes": "",
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64d34ce4d9db5173efdc2417",
-    "_parentId": "64d34ce4d9db5173efdc2416",
-    "_type": "block",
-    "_trickle": {
-      "_isEnabled": false,
-      "_isInherited": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_completionAttribute": "_isComplete",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_showEndOfPage": true,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "ariaLabel": "Continue",
-        "startText": "Begin",
-        "startAriaLabel": "Begin",
-        "finalText": "Finish",
-        "finalAriaLabel": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
     },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_trackingId": 31
+    "_trackingId": 37
   },
   {
     "title": "New Component Title",
@@ -1502,7 +1448,7 @@
     "_assessment": {
       "_quizBankID": 1
     },
-    "_trackingId": 41
+    "_trackingId": 38
   },
   {
     "title": "Introduction",
@@ -1531,10 +1477,10 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": true
     },
-    "_trackingId": 43
+    "_trackingId": 39
   },
   {
-    "title": "Summary",
+    "title": "What is data ethics?",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -1545,44 +1491,55 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "64f1e10f94389ef9d9f95574",
-    "_parentId": "64d362a8d9db5173efdc241b",
+    "_id": "b-2",
+    "_parentId": "64d362a8d9db5173efdc241d",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_assessment": {
+      "_quizBankID": 1
+    },
     "_pageLevelProgress": {
       "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
+      "_isCompletionIndicatorEnabled": true
+    },
+    "_trackingId": 40
+  },
+  {
+    "title": "The Data Lifecycle and the changing nature of data ethics",
+    "displayTitle": "The Data Lifecycle and the changing nature of data ethics",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "b-3",
+    "_parentId": "64d362a8d9db5173efdc241d",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
     },
     "_assessment": {
       "_quizBankID": 1
     },
-    "_odi-theme": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_isDividerBlock": false
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
     },
-    "_trackingId": 44
+    "_trackingId": 41
   },
   {
     "title": "Why is data ethics important?",
-    "displayTitle": "",
+    "displayTitle": "Why is data ethics important?",
     "body": "",
     "_classes": "",
     "instruction": "",
@@ -1592,7 +1549,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "64f1c12b94389ef9d9f95553",
+    "_id": "b-4",
     "_parentId": "64d362a8d9db5173efdc241d",
     "_type": "block",
     "_onScreen": {
@@ -1600,79 +1557,14 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": true
-    },
     "_assessment": {
       "_quizBankID": 1
-    },
-    "_odi-theme": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_isDividerBlock": false
-    },
-    "_trackingId": 45
-  },
-  {
-    "title": "Intended and unintended consequences",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64f1c12b94389ef9d9f95554",
-    "_parentId": "64d362a8d9db5173efdc241d",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": true
     },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_odi-theme": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_isDividerBlock": false
-    },
-    "_trackingId": 46
+    "_trackingId": 42
   },
   {
     "title": "Data ethics in practice (..or not)",
@@ -1701,7 +1593,36 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": true
     },
-    "_trackingId": 47
+    "_trackingId": 43
+  },
+  {
+    "title": "So, why is data ethics important?",
+    "displayTitle": "So, why is data ethics important?",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "b-6",
+    "_parentId": "64d362a8d9db5173efdc241d",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "_trackingId": 44
   },
   {
     "title": "Is data ethics only a consideration when handling personal data?",
@@ -1730,7 +1651,7 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": true
     },
-    "_trackingId": 48
+    "_trackingId": 45
   },
   {
     "title": "Is data ethics important, or is it critical?",
@@ -1777,10 +1698,10 @@
       },
       "_isDividerBlock": false
     },
-    "_trackingId": 49
+    "_trackingId": 46
   },
   {
-    "title": "Is data ethics only a consideration when handling personal data?",
+    "title": "Quote",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -1791,25 +1712,43 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "64f1c12b94389ef9d9f95558",
-    "_parentId": "64d362a8d9db5173efdc241d",
+    "_id": "64f1c12c94389ef9d9f9555c",
+    "_parentId": "64d362a8d9db5173efdc241b",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_assessment": {
-      "_quizBankID": 1
-    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": true
     },
-    "_trackingId": 50
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    },
+    "_trackingId": 47
   },
   {
-    "title": "Data ethics across the data lifecycle?",
+    "title": "Summary",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -1820,37 +1759,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "64f1c12c94389ef9d9f95559",
-    "_parentId": "64d362a8d9db5173efdc241d",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": true
-    },
-    "_trackingId": 51
-  },
-  {
-    "title": "Asking the right questions?",
-    "displayTitle": "Asking the right questions?",
-    "body": "<p>There are different considerations to be made across each stage of the data lifecycle. Regardless of the stage you are working at, when doing an ethical evaluation it is always important to ask the opposite question in order to provide balance. Such questions can also provide greater clarity on the ethical consequences. It is also important to ask the opposite questions of the ones usually posed.</p>",
-    "_classes": "",
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64f1c12c94389ef9d9f9555a",
-    "_parentId": "64d362a8d9db5173efdc241d",
+    "_id": "64f1e10f94389ef9d9f95574",
+    "_parentId": "64d362a8d9db5173efdc241b",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -1882,83 +1792,7 @@
       },
       "_isDividerBlock": false
     },
-    "_trackingId": 52
-  },
-  {
-    "title": "Reflecting on your own ethical practice",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64f1c12c94389ef9d9f9555b",
-    "_parentId": "64d362a8d9db5173efdc241d",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": true
-    },
-    "_trackingId": 53
-  },
-  {
-    "title": "Quote",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64f1c12c94389ef9d9f9555c",
-    "_parentId": "64d362a8d9db5173efdc241d",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": true
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_odi-theme": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_isDividerBlock": false
-    },
-    "_trackingId": 54
+    "_trackingId": 48
   },
   {
     "title": "New Component Title",
@@ -2012,7 +1846,7 @@
     "_assessment": {
       "_quizBankID": 1
     },
-    "_trackingId": 55
+    "_trackingId": 49
   },
   {
     "title": "New Component Title",
@@ -2066,7 +1900,7 @@
     "_assessment": {
       "_quizBankID": 1
     },
-    "_trackingId": 56
+    "_trackingId": 50
   },
   {
     "title": "New Component Title",
@@ -2120,7 +1954,7 @@
     "_assessment": {
       "_quizBankID": 1
     },
-    "_trackingId": 57
+    "_trackingId": 51
   },
   {
     "title": "New Component Title",
@@ -2174,7 +2008,7 @@
     "_assessment": {
       "_quizBankID": 1
     },
-    "_trackingId": 58
+    "_trackingId": 52
   },
   {
     "title": "New Component Title",
@@ -2228,7 +2062,7 @@
     "_assessment": {
       "_quizBankID": 1
     },
-    "_trackingId": 59
+    "_trackingId": 53
   },
   {
     "title": "New Component Title",
@@ -2282,7 +2116,7 @@
     "_assessment": {
       "_quizBankID": 1
     },
-    "_trackingId": 60
+    "_trackingId": 54
   },
   {
     "title": "New Component Title",
@@ -2336,7 +2170,7 @@
     "_assessment": {
       "_quizBankID": 1
     },
-    "_trackingId": 61
+    "_trackingId": 55
   },
   {
     "title": "Ethics and personal data",
@@ -2383,7 +2217,7 @@
       },
       "_isDividerBlock": false
     },
-    "_trackingId": 62
+    "_trackingId": 56
   },
   {
     "title": "Techniques to reduce the risks of handling personal data",
@@ -2430,7 +2264,7 @@
       },
       "_isDividerBlock": false
     },
-    "_trackingId": 63
+    "_trackingId": 57
   },
   {
     "title": "Summary",
@@ -2477,7 +2311,7 @@
       },
       "_isDividerBlock": false
     },
-    "_trackingId": 64
+    "_trackingId": 58
   },
   {
     "title": "The rights of individuals over personal data",
@@ -2524,7 +2358,7 @@
       },
       "_isDividerBlock": false
     },
-    "_trackingId": 65
+    "_trackingId": 59
   },
   {
     "title": "Topics",
@@ -2571,7 +2405,7 @@
       },
       "_isDividerBlock": false
     },
-    "_trackingId": 66
+    "_trackingId": 60
   },
   {
     "title": "The role of data protection regulations",
@@ -2618,7 +2452,7 @@
       },
       "_isDividerBlock": false
     },
-    "_trackingId": 67
+    "_trackingId": 61
   },
   {
     "title": "Classifying personal and sensitive data",
@@ -2665,7 +2499,7 @@
       },
       "_isDividerBlock": false
     },
-    "_trackingId": 68
+    "_trackingId": 62
   },
   {
     "title": "The rights of individuals over personal data",
@@ -2712,7 +2546,7 @@
       },
       "_isDividerBlock": false
     },
-    "_trackingId": 69
+    "_trackingId": 63
   },
   {
     "title": "Defining personal, sensitive personal and sensitive commercial data",
@@ -2759,7 +2593,7 @@
       },
       "_isDividerBlock": false
     },
-    "_trackingId": 70
+    "_trackingId": 64
   },
   {
     "title": "The rights of individuals over personal data",
@@ -2806,7 +2640,7 @@
       },
       "_isDividerBlock": false
     },
-    "_trackingId": 71
+    "_trackingId": 65
   },
   {
     "title": "Who owns personal data?",
@@ -2853,7 +2687,7 @@
       },
       "_isDividerBlock": false
     },
-    "_trackingId": 72
+    "_trackingId": 66
   },
   {
     "title": "Establishing the lawful basis for processing personal data",
@@ -2900,7 +2734,7 @@
       },
       "_isDividerBlock": false
     },
-    "_trackingId": 73
+    "_trackingId": 67
   },
   {
     "title": "The importance of understanding who owns personal data",
@@ -2947,7 +2781,7 @@
       },
       "_isDividerBlock": false
     },
-    "_trackingId": 74
+    "_trackingId": 68
   },
   {
     "title": "Establishing the lawful basis for processing personal data",
@@ -2994,7 +2828,7 @@
       },
       "_isDividerBlock": false
     },
-    "_trackingId": 75
+    "_trackingId": 69
   },
   {
     "title": "Establishing a lawful basis for the ethical collection, use and sharing of (personal) data",
@@ -3041,7 +2875,7 @@
       },
       "_isDividerBlock": false
     },
-    "_trackingId": 76
+    "_trackingId": 70
   },
   {
     "title": "Increasing the utility of data, whilst protecting individual rights",
@@ -3070,7 +2904,7 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": true
     },
-    "_trackingId": 77
+    "_trackingId": 71
   },
   {
     "title": "Anonymisation in 7-steps",
@@ -3099,7 +2933,7 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": true
     },
-    "_trackingId": 78
+    "_trackingId": 72
   },
   {
     "title": "STEP 1: Establish the lawful and ethical basis",
@@ -3128,7 +2962,7 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": true
     },
-    "_trackingId": 79
+    "_trackingId": 73
   },
   {
     "title": "STEP 2: Set objectives",
@@ -3157,7 +2991,7 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": true
     },
-    "_trackingId": 80
+    "_trackingId": 74
   },
   {
     "title": "STEP 3: Assess risk",
@@ -3186,7 +3020,7 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": true
     },
-    "_trackingId": 81
+    "_trackingId": 75
   },
   {
     "title": "STEP 4: Anonymise personal data",
@@ -3215,7 +3049,7 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": true
     },
-    "_trackingId": 82
+    "_trackingId": 76
   },
   {
     "title": "STEP 5: Testing resilience",
@@ -3244,7 +3078,7 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": true
     },
-    "_trackingId": 83
+    "_trackingId": 77
   },
   {
     "title": "STEP 6: Write a plan to mitigate risk",
@@ -3273,7 +3107,7 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": true
     },
-    "_trackingId": 84
+    "_trackingId": 78
   },
   {
     "title": "STEP 7: Publish the data, anonymisation details and risk assessment",
@@ -3302,7 +3136,7 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": true
     },
-    "_trackingId": 85
+    "_trackingId": 79
   },
   {
     "title": "Hands-on: Data anonymisation",
@@ -3331,7 +3165,7 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": true
     },
-    "_trackingId": 86
+    "_trackingId": 80
   },
   {
     "title": "STEP 1: Establish the lawful and ethical basis",
@@ -3360,7 +3194,7 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": true
     },
-    "_trackingId": 87
+    "_trackingId": 81
   },
   {
     "title": "STEP 2: Set objectives",
@@ -3389,7 +3223,7 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": true
     },
-    "_trackingId": 88
+    "_trackingId": 82
   },
   {
     "title": "STEP 3: Assess risk",
@@ -3418,7 +3252,7 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": true
     },
-    "_trackingId": 89
+    "_trackingId": 83
   },
   {
     "title": "Which data points are Personal Data and what is the risk level of each data point?",
@@ -3447,7 +3281,7 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": true
     },
-    "_trackingId": 90
+    "_trackingId": 84
   },
   {
     "title": "What is the risk level of each data point?",
@@ -3476,7 +3310,7 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": true
     },
-    "_trackingId": 91
+    "_trackingId": 85
   },
   {
     "title": "STEP 4: Anonymise the data",
@@ -3505,7 +3339,7 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": true
     },
-    "_trackingId": 92
+    "_trackingId": 86
   },
   {
     "title": "Application to our example dataset",
@@ -3534,7 +3368,7 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": true
     },
-    "_trackingId": 93
+    "_trackingId": 87
   },
   {
     "title": "Reviewing the model",
@@ -3563,7 +3397,7 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": true
     },
-    "_trackingId": 94
+    "_trackingId": 88
   },
   {
     "title": "There is no right or wrong - it depends on the data set",
@@ -3592,7 +3426,7 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": true
     },
-    "_trackingId": 95
+    "_trackingId": 89
   },
   {
     "title": "Synthetic data",
@@ -3621,7 +3455,7 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": true
     },
-    "_trackingId": 96
+    "_trackingId": 90
   },
   {
     "title": "Synthetic data as training data for AI",
@@ -3650,7 +3484,7 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": true
     },
-    "_trackingId": 97
+    "_trackingId": 91
   },
   {
     "title": "Diagnosing the NHS: SynÆ",
@@ -3679,7 +3513,7 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": true
     },
-    "_trackingId": 98
+    "_trackingId": 92
   },
   {
     "title": "Data protection and anonymised/synthetic data",
@@ -3708,7 +3542,7 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": true
     },
-    "_trackingId": 99
+    "_trackingId": 93
   },
   {
     "title": "STEP 5: Testing resilience",
@@ -3737,7 +3571,7 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": true
     },
-    "_trackingId": 100
+    "_trackingId": 94
   },
   {
     "title": "STEP 6: Write a plan to mitigate risk",
@@ -3766,7 +3600,7 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": true
     },
-    "_trackingId": 101
+    "_trackingId": 95
   },
   {
     "title": "STEP 7: Publish the data, anonymisation details and risk assessment",
@@ -3795,7 +3629,7 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": true
     },
-    "_trackingId": 102
+    "_trackingId": 96
   },
   {
     "title": "Supporting tools and guides",
@@ -3824,7 +3658,7 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": true
     },
-    "_trackingId": 103
+    "_trackingId": 97
   },
   {
     "title": "Summary",
@@ -3853,6 +3687,946 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": true
     },
+    "_trackingId": 98
+  },
+  {
+    "title": "Maximising reuse of data through licensing and sharing",
+    "displayTitle": "Maximising reuse of data through licensing and sharing",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m3-o3-sharing-b-1",
+    "_parentId": "6408b2dfb38aaf6b93dd7d53",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    },
+    "_trackingId": 99
+  },
+  {
+    "title": "The difference between data licences and data sharing agreements",
+    "displayTitle": "The difference between data licences and data sharing agreements",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m3-o3-sharing-b-2",
+    "_parentId": "6408b2dfb38aaf6b93dd7d54",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    },
+    "_trackingId": 100
+  },
+  {
+    "title": "Building a data sharing agreement",
+    "displayTitle": "Building a data sharing agreement",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m3-o3-sharing-b-4",
+    "_parentId": "6408b2dfb38aaf6b93dd7d56",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    },
+    "_trackingId": 102
+  },
+  {
+    "title": "Building a data licence",
+    "displayTitle": "Building a data licence",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m3-o3-sharing-b-5",
+    "_parentId": "6408b2dfb38aaf6b93dd7d57",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    },
+    "_trackingId": 103
+  },
+  {
+    "title": "Summary",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m3-o3-sharing-b-6",
+    "_parentId": "6408b2dfb38aaf6b93dd7d58",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    },
     "_trackingId": 104
+  },
+  {
+    "title": "Outcomes",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m3-o3-sharing-b-7",
+    "_parentId": "6408b2dfb38aaf6b93dd7d53",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    },
+    "_trackingId": 105
+  },
+  {
+    "title": "Characteristics of data sharing agreements",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m3-o3-sharing-b-8",
+    "_parentId": "6408b2dfb38aaf6b93dd7d54",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    },
+    "_trackingId": 106
+  },
+  {
+    "title": "Q1-3",
+    "displayTitle": "Choosing between using a data sharing agreement and a data licence",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m3-o3-sharing-b-9",
+    "_parentId": "6408b2dfb38aaf6b93dd7d55",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    },
+    "_trackingId": 107
+  },
+  {
+    "title": "Data sharing agreements in practice",
+    "displayTitle": "Data sharing agreements in practice",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m3-o3-sharing-b-10",
+    "_parentId": "6408b2dfb38aaf6b93dd7d56",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    },
+    "_trackingId": 108
+  },
+  {
+    "title": "Common licences for data sharing",
+    "displayTitle": "Common licences for data sharing",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m3-o3-sharing-b-11",
+    "_parentId": "6408b2dfb38aaf6b93dd7d57",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    },
+    "_trackingId": 109
+  },
+  {
+    "title": "The benefits of data sharing to the data publisher",
+    "displayTitle": "The benefits of data sharing to the data publisher",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m3-o3-sharing-b-12",
+    "_parentId": "6408b2dfb38aaf6b93dd7d53",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    },
+    "_trackingId": 110
+  },
+  {
+    "title": "The benefits of data sharing to the data publisher",
+    "displayTitle": "The benefits of data sharing to the data publisher",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m3-o3-sharing-b-40",
+    "_parentId": "6408b2dfb38aaf6b93dd7d53",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    },
+    "_trackingId": 111
+  },
+  {
+    "title": "Characteristics of data licences",
+    "displayTitle": "Characteristics of data licences",
+    "body": "<p>A <strong>data licence</strong> describes the ways that data can be used without any of the organisations involved having to enter into a formal agreement.</p>",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m3-o3-sharing-b-13",
+    "_parentId": "6408b2dfb38aaf6b93dd7d54",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    },
+    "_trackingId": 112
+  },
+  {
+    "title": "Q3-6",
+    "displayTitle": "Choosing between using a data sharing agreement and a data licence",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m3-o3-sharing-b-14",
+    "_parentId": "6408b2dfb38aaf6b93dd7d55",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    },
+    "_trackingId": 113
+  },
+  {
+    "title": "Creative commons marks and licenses",
+    "displayTitle": "Creative commons marks and licenses",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m3-o3-sharing-b-15",
+    "_parentId": "6408b2dfb38aaf6b93dd7d57",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    },
+    "_trackingId": 114
+  },
+  {
+    "title": "Why data sharing agreements and licences are important?",
+    "displayTitle": "Why data sharing agreements and licences are important?",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m3-o3-sharing-b-16",
+    "_parentId": "6408b2dfb38aaf6b93dd7d53",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    },
+    "_trackingId": 115
+  },
+  {
+    "title": "Open government licenses",
+    "displayTitle": "Open government licenses",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m3-o3-sharing-b-17",
+    "_parentId": "6408b2dfb38aaf6b93dd7d57",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    },
+    "_trackingId": 116
+  },
+  {
+    "title": "Data licenses in practice",
+    "displayTitle": "Data licenses in practice",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m3-o3-sharing-b-18",
+    "_parentId": "6408b2dfb38aaf6b93dd7d57",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    },
+    "_trackingId": 117
+  },
+  {
+    "title": "COVID 19 & Data Sharing",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m3-o3-sharing-b-19",
+    "_parentId": "6408b2dfb38aaf6b93dd7d53",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    },
+    "_trackingId": 118
+  },
+  {
+    "title": "Choosing a license for data sharing",
+    "displayTitle": "Choosing a license for data sharing",
+    "body": "<p>For the following scenarios, which license would be the appropriate choice?</p>",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "aide-m3-o3-sharing-b-20",
+    "_parentId": "6408b2dfb38aaf6b93dd7d57",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    },
+    "_trackingId": 119
   }
 ]

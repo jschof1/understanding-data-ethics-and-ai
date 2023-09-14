@@ -11,7 +11,7 @@
     "_disableAccessibilityState": false,
     "title": "Why is data ethics important?",
     "displayTitle": "Why is data ethics important?",
-    "body": "<p>In our modern digital age, data has become an invaluable resource, driving innovation and shaping every facet of society. However, unethical data practices can lead to discrimination, unintended harmful consequences, and exacerbate societal inequalities. This can lead to people losing trust in data and the products and services that use it.</p><p>In this module we explore why data ethics is important, and examine real-world examples of what can happen when data ethics is not considered and the challenges this creates. In this module you will:</p><ul dir=\"ltr\"><li>Explore the impact of unethical data practices</li><li>Develop your understanding of data ethics and how it applies across the data lifecycle</li><li>Reflect on your own professional practice, and examine how data ethics applies in your context</li></ul>",
+    "body": "<p>In our modern digital age, data has become an invaluable resource, driving innovation and shaping every facet of society. However, unethical data practices can lead to discrimination, unintended harmful consequences, and exacerbate societal inequalities. This can lead to people losing trust in data and the products and services that use it.</p> <p>But it isn&rsquo;t all bad news. Understanding the dual potential of data &mdash; for both benefit and harm &mdash; is a crucial step to ensuring the delivery of impactful and valuable data centric solutions. Delving into the ethical dimensions amidst rapid technological advancements is imperative to ensure that our strides in AI and tech-driven solutions are both effective and equitable.</p> <p>Data ethics is essential to ensure that data is wielded responsibly, keeping harmful impacts to a minimum.&nbsp;</p> <p>In this module we explore why data ethics is important, and examine real-world examples of what can happen when data ethics is not considered and the challenges this creates. In this module you will:</p> <ul> <li>Develop your understanding of data ethics</li> <li>Explore the impact of unethical data practices</li> <li>Consider the intersections of data ethics and data governance</li> <li>Examine the differences in data ethics considerations across the data lifecycle</li> </ul>",
     "_id": "64f1c12c94389ef9d9f9555d",
     "_parentId": "64f1c12b94389ef9d9f95552",
     "_type": "component",
@@ -47,26 +47,73 @@
     "instruction": ""
   },
   {
+    "_id": "c-2",
+    "_parentId": "b-2",
+    "_type": "component",
     "_component": "text",
     "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Intended and unintended consequences",
-    "displayTitle": "Intended and unintended consequences",
-    "body": "<p>When we collect, share, and use data, there is always an intended consequence. It’s the driving purpose that underpins the products and services we create. That purpose has value - and through these products we are seeking to realise that value. However, just as there are deliberate benefits we seek, there lurk risks of unintended consequences.</p><p>Data ethics plays a pivotal role in navigating this delicate balance. By adhering to ethical principles, we can mitigate these unforeseen risks and ensure that data is used in a manner consistent with societal norms and values. This not only safeguards individuals and communities from potential harm but also reinforces trust. When users and stakeholders perceive that data is being managed with integrity and respect, they are more likely to engage with and endorse the products and services on offer. In essence, data ethics becomes a cornerstone for fostering trust. By transparently addressing concerns and demonstrating a commitment to ethical practices, organisations can build stronger, trust-based relationships with their customers, enhancing both their reputation and the overall effectiveness of their data centric endeavours.</p>",
-    "_id": "64f1c12c94389ef9d9f9555f",
-    "_parentId": "64f1c12b94389ef9d9f95554",
-    "_type": "component",
     "_layout": "full",
+    "title": "What is data ethics?",
+    "displayTitle": "What is data ethics?",
+    "body": " The ODI defines data ethics as:<blockquote><p dir=\"ltr\" style=\"text-align:center\"><em>“A branch of ethics that evaluates data practices with the potential to adversely impact people and society — in data collection, sharing and use.”</blockquote></p></em>\n<p>Through this definition the ODI draws focus to the evaluation techniques that can be applied to data practices in order to ascertain the extent of the potential impact (both positive and negative) so that we can decide on the appropriate action to take forward. \n</p><p>By informing ourselves of the potential impact of the data we collect, share and use, we create opportunities to perform a balancing test and determine our next steps, whether that is to continue, to perform remediations and mitigative action, or to stop altogether.</p> \n",
+    "instruction": "",
     "_pageLevelProgress": {
       "_isEnabled": false
+    }
+  },
+  {
+    "_id": "c-3",
+    "_parentId": "b-3",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "The Data Lifecycle and the changing nature of data ethics",
+    "displayTitle": "",
+    "body": "<p>Depending on your objective, you will be using data at any point, and possibly multiple points across the data lifecycle.&nbsp;</p> <p>Each stage in the data lifecycle involves different data practices against which ethics should be evaluated. The process of examining our impact is not always clear, or straightforward.</p><p>Understanding where we are on the data lifecycle is important to determining our immediate data practices. However, we must also recognise what this means for what happened before, and what happens after.&nbsp;</p>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "g-3",
+    "_parentId": "b-3",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "full",
+    "title": "The Data Lifecycle and the changing nature of data ethics",
+    "displayTitle": "",
+    "body": "<p>Understanding where we are on the data lifecycle is important to determining our immediate data practices. However, we must also recognise what this means for what happened before, and what happens after.</p>",
+    "instruction": " ",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/data-lifecycle.png",
+      "small": "course/en/assets/data-lifecycle.png",
+      "attribution": "<a href=\"theodi.org\" target=\"_blank\">ODI</a> <span class=\"assetLicence\">[CC0]</span>",
+      "_url": "",
+      "_target": ""
     },
-    "instruction": ""
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "c-4",
+    "_parentId": "b-4",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Why is data ethics important?",
+    "displayTitle": "",
+    "body": "<p>When we collect, share, and use data, there is always an intended consequence. It&rsquo;s the driving purpose that underpins the products and services we create. That purpose has value - and through these products we are seeking to realise that value. However, just as there are deliberate benefits we seek, there lurk risks of unintended consequences.</p> <p>Data ethics plays a pivotal role in navigating this delicate balance. By adhering to ethical principles, we can mitigate these unforeseen risks and ensure that data is used in a manner consistent with societal norms and values. This not only safeguards individuals and communities from potential harm but also reinforces trust. When users and stakeholders perceive that data is being managed with integrity and respect, they are more likely to engage with and endorse the products and services on offer. In essence, data ethics becomes a cornerstone for fostering trust. By transparently addressing concerns and demonstrating a commitment to ethical practices, organisations can build stronger, trust-based relationships with their customers, enhancing both their reputation and the overall effectiveness of their data centric endeavours.</p><p>Let&rsquo;s explore some examples.</p>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
   },
   {
     "_component": "accordion",
@@ -118,7 +165,7 @@
       },
       {
         "title": "Skin cancer diagnosis",
-        "body": "<p>Early diagnosis is crucial for positive health results in diseases like skin cancer. For instance, if Melanoma is diagnosed early, an individual has a 100% chance of surviving over 1 year. However, this drops to 53% if diagnosed at a later stage. Notably, people with non-white skin, though less prone to skin cancer, exhibit lower 5-year survival rates (70%) compared to white individuals (92%) [1].\n\nThis highlights issues within our healthcare systems, but also an issue for those organisations who are developing technologies that utilise machine learning to support diagnosis. The video below explores this example in more depth and introduces the First Derm [2] dataset as an example.\n\n<iframe src=\"https://player.vimeo.com/video/817240774?h=1cdc6f2d90&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" width=\"100%\" height=\"400\" title=\"why is data ethics important\"></iframe>\n\n<p>Broadly, there are two proposed approaches to mitigating this bias:</p>\r\n<ol>\r\n<li>Increasing the variety of the data to build a more representative dataset</li>\r\n<li>Train a different system on a dataset of 90% non-white images to maintain higher accuracy</li>\r\n</ol>\r\n<p>Both approaches require different considerations for the creation and use of data, and whilst both have merit as approaches to mitigation there are still further considerations to be taken into account to address future challenges.</p>\r\n<h3>Further Reading</h3>\r\n<p>It is not just non-white people who are excluded from medical research. In her book &ldquo;<a href=\"https://carolinecriadoperez.com/book/invisible-women/\" target=\"_blank\" rel=\"noopener\">Invisible women</a>&rdquo; Caroline Criado Perez looks at how much of the world has been designed for men. Among other examples, Caroline reveals how women are 47% more likely to be seriously injured in a car accident due to the seatbelt design.&nbsp;</p>\r\n<h3>References</h3>\r\n<p>[1] Gupta, A. K., Bharadwaj, M., &amp; Mehrotra, R. (2016). Skin Cancer Concerns in People of Color: Risk Factors and Prevention. Asian Pacific journal of cancer prevention, 17(12), 5257&ndash;5264. Retrieved from https://doi.org/10.22034/APJCP.2016.17.12.5257</p>\r\n<p>[2] Kamulegeya, L., Okello , M., Bwanika, J., Musinguzi, D., Lubega, W., Rusoke, D., &amp; Nassiwa, F. (2019). Using artificial intelligence on dermatology conditions in Uganda: A case for diversity in training data sets for machine learning. bioRxiv</p>",
+        "body": "<p>Early diagnosis is crucial for positive health results in diseases like skin cancer. For instance, if Melanoma is diagnosed early, an individual has a 100% chance of surviving over 1 year. However, this drops to 53% if diagnosed at a later stage. Notably, people with non-white skin, though less prone to skin cancer, exhibit lower 5-year survival rates (70%) compared to white individuals (92%) [1].\n\nThis highlights issues within our healthcare systems, but also an issue for those organisations who are developing technologies that utilise machine learning to support diagnosis. The video below explores this example in more depth and introduces the First Derm [2] dataset as an example.\n\n<iframe src=\"https://player.vimeo.com/video/817240774?h=1cdc6f2d90&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" width=\"100%\" height=\"400\" title=\"why is data ethics important\"></iframe>\n\n<p>Broadly, there are two proposed approaches to mitigating this bias:</p>\r\n<ol>\r\n<li>Increasing the variety of the data to build a more representative dataset</li>\r\n<li>Train a different system on a dataset of 90% non-white images to maintain higher accuracy</li>\r\n</ol>\r\n<p>Both approaches require different considerations for the creation and use of data, and whilst both have merit as approaches to mitigation there are still further considerations to be taken into account to address future challenges.</p>\r\n<h3>Further Reading</h3>\r\n<p>It is not just non-white people who are excluded from medical research. In her book &ldquo;<a href=\"https://carolinecriadoperez.com/book/invisible-women/\" target=\"_blank\" rel=\"noopener\">Invisible women</a>&rdquo; Caroline Criado Perez looks at how much of the world has been designed for men. Among other examples, Caroline reveals how women are 47% more likely to be seriously injured in a car accident due to the seatbelt design.&nbsp;</p>\r\n<h3>References</h3>\r\n<p style=\"font-size: small; font-weight: 600;\">[1] Gupta, A. K., Bharadwaj, M., &amp; Mehrotra, R. (2016). Skin Cancer Concerns in People of Color: Risk Factors and Prevention. Asian Pacific journal of cancer prevention, 17(12), 5257&ndash;5264. Retrieved from https://doi.org/10.22034/APJCP.2016.17.12.5257</p>\r\n<p style=\"font-size: small; font-weight: 600;\">>[2] Kamulegeya, L., Okello , M., Bwanika, J., Musinguzi, D., Lubega, W., Rusoke, D., &amp; Nassiwa, F. (2019). Using artificial intelligence on dermatology conditions in Uganda: A case for diversity in training data sets for machine learning. bioRxiv</p>",
         "_imageAlignment": "full",
         "_graphic": {
           "src": "",
@@ -129,7 +176,29 @@
       },
       {
         "title": "Criminal profile analysis",
-        "body": "<p>In November 2016, engineering researchers Xiaolin Wu and Xi Zhang shared an article titled \"Automated Inference on Criminality using Face Images\" on a popular research paper platform called arXiv. In their study, Wu and Zhang delved into using machine learning to identify facial traits linked to \"criminality.\" They asserted that their algorithms could accurately differentiate between criminals and non-criminals using basic headshot images.</p>\r\n<p>Wu and Zhang&rsquo;s claim?</p>\r\n<p>&ldquo;Unlike a human examiner/judge, a computer vision algorithm or classifier has absolutely no subjective baggages [sic], having no emotions, no biases whatsoever due to past experience, race, religion, political doctrine, gender, age, etc., no mental fatigue, no preconditioning of a bad sleep or meal. The automated inference on criminality eliminates the variable meta-accuracy (the competence of the human judge/examiner) all together&rdquo;</p>\r\n<p>In short, they stated that the computer is entirely objective. Do you agree? Let&rsquo;s explore this idea in more detail:</p>\n\n<iframe src=\"https://player.vimeo.com/video/817271706?h=ff16aca3bd&badge=0&autopause=0&player_id=0&app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" width=\"100%\" height=\"400\" title=\"Data Ethics - Criminal Faces\"></iframe>\n\n<p>Machines have been proven over and over to emphasise bias, not decrease it. The one thing machines are good at is consistency. So they will be concisely biassed and don&rsquo;t flit about like humans are prone to.&nbsp;</p>\r\n<p>Biases in images and image recognition systems result from how these systems have been trained. Understanding this history of image recognition training data can go a long way to tell us why newer systems are showing biases. If your dataset contains images of people smiling (the non-criminals) and those who aren&rsquo;t (the criminals), you do exactly what Wu and Zhang did - you build a smile detector.&nbsp;</p>\r\n<h3>References</h3>\r\n<p>Wu, X., &amp; Zhang, X. (2016). Automated Inference on Criminality using Face Images. ArXiv, abs/1611.04135.</p>\r\n<p><a href=\"https://www.callingbullshit.org/case_studies/case_study_criminal_machine_learning.html\" target=\"_blank\" rel=\"noopener\">Case Study &mdash; Criminal Machine Learning</a></p>\r\n<p><a href=\"http://onlinelibrary.wiley.com/doi/10.1002/bsl.939/abstract\" target=\"_blank\" rel=\"noopener\">When emotionality trumps reason: A study of individual processing style and juror bias - Gunnell - 2010 - Behavioral Sciences &amp; the Law - Wiley Online Library</a></p>",
+        "body": "<p>Human rights say that everyone is entitled to a fair trial in crime and justice. Rating a risk of future crime is often done in conjunction with an evaluation of rehabilitation needs to ensure that aspects such as jail term and type of prison match the likelihood of reoffense. But is using an algorithm to predict risk of recidivism a good idea?&nbsp;<\/p>\r\n<p>Let&rsquo;s explore how data is helping (or hindering) crime and justice:<\/p>\n\n<iframe src=\"https://player.vimeo.com/video/817271706?h=ff16aca3bd&badge=0&autopause=0&player_id=0&app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" width=\"100%\" height=\"400\" title=\"Data Ethics - Criminal Faces\"></iframe><p>In this example, we explored the cases of Vernon Prater and Brisha Borden. The risk scores applied to these individuals is highly problematic, and as explained, demonstrates how the use of data can lead to remarkably unreliable results.&nbsp;<\/p>\r\n<p>Overall, Northpointe&rsquo;s assessment tool (COMPAS) correctly predicts recidivism 61 percent of the time. But there are major issues in the risk scores calculated:<\/p>\r\n<ul>\r\n<li>Black people are almost twice as likely as white people to be labelled a higher risk, but not actually re-offend<\/li>\r\n<li>White people are more likely to be labelled as lower risk, but more likely to go on to commit other crimes<\/li>\r\n<\/ul>\r\n<p>Northpointe argued that the COMPAS tool was accurate under its own measures of fairness. Where ProPublica&rsquo;s study challenged the models, classification and measures, Northpointe claimed that ProPublica failed to take into account &ldquo;the different base rates of recidivism for Blacks and Whites&rdquo;.&nbsp;<\/p>\r\n<p>This argument is an example of the complexities in the provenance of data and the common issues of large-scale use of algorithms. Since data is often tainted with historic and structural biases, usage of such data in training perpetuates a &lsquo;runaway feedback loop&rsquo; or the &lsquo;garbage in &mdash; garbage out&rsquo; phenomenon in future predictions by that algorithm. This obstructs progress and keeps societies trapped in their own mirror image of status quo. Even in cases where discriminatory factors are not used in algorithms, other factors can serve as proxies for discriminatory factors.<\/p>\r\n<h3>References<\/h3>\r\n<p><a href=\"https:\/\/www.propublica.org\/article\/machine-bias-risk-assessments-in-criminal-sentencing\" target=\"_blank\" rel=\"noopener\"><strong>Machine Bias &mdash; ProPublica<\/strong><\/a><strong> <\/strong><\/p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },   
+      {
+        "title": "Insurance quotes",
+        "body": "<p>One area that has to balance fairness and risk is insurance. In 2018, it was discovered that car insurance companies in the UK were discriminating against people due to their name, and in some cases, raising their prices by three times.</p>\n\n<iframe src=\"https://player.vimeo.com/video/817016312?h=8f9d3741d5&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" width=\"100%\" height=\"400\" title=\"Data Ethics - Car Insurance\"></iframe><p>Note that the only difference in the quotes discussed is the name. All other details entered were the same: the address, the car, mileage, job and nationality were all exactly the same.&nbsp;<\/p>\r\n<p>Since then, independent studies have found not much has changed and that there is still a large &lsquo;ethnicity penalty&rsquo; in the UK insurance market.&nbsp;<\/p>\r\n<h3>References<\/h3>\r\n<p><a href=\"https:\/\/www.thesun.co.uk\/motors\/5393978\/insurance-race-row-john-mohammed\/\" target=\"_blank\" rel=\"noopener\">Motorists fork out &pound;1,000 more to insure their cars if their name is Mohammed | The Sun<\/a><\/p>\r\n<p><a href=\"https:\/\/www.bbc.co.uk\/news\/business-43011882\" target=\"_blank\" rel=\"noopener\">Insurers 'risk breaking racism laws' - BBC News<\/a><\/p>\r\n<p><a href=\"https:\/\/www.citizensadvice.org.uk\/Global\/CitizensAdvice\/Consumer%20publications\/Report%20cover\/Citizens%20Advice%20-%20Discriminatory%20Pricing%20report%20(4).pdf\" target=\"_blank\" rel=\"noopener\">Citizens Advice - Discriminatory Pricing report<\/a><\/p>\r\n<p><a href=\"https:\/\/www.citizensadvice.org.uk\/about-us\/about-us1\/media\/press-releases\/people-of-colour-still-paying-250-more-on-car-insurance-per-year-than-white-people\/\" target=\"_blank\" rel=\"noopener\">People of colour still paying &pound;250 more on car insurance per year than white people - Citizens Advice<\/a><\/p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Criminal faces",
+        "body": "<p>In November 2016, engineering researchers Xiaolin Wu and Xi Zhang shared an article titled \"Automated Inference on Criminality using Face Images\" on a popular research paper platform called arXiv. In their study, Wu and Zhang delved into using machine learning to identify facial traits linked to \"criminality.\" They asserted that their algorithms could accurately differentiate between criminals and non-criminals using basic headshot images.<\/p>\r\n<p>Wu and Zhang&rsquo;s claim?<\/p>\r\n<p>&ldquo;Unlike a human examiner\/judge, a computer vision algorithm or classifier has absolutely no subjective baggages [sic], having no emotions, no biases whatsoever due to past experience, race, religion, political doctrine, gender, age, etc., no mental fatigue, no preconditioning of a bad sleep or meal. The automated inference on criminality eliminates the variable meta-accuracy (the competence of the human judge\/examiner) all together&rdquo;<\/p>\r\n<p>In short, the computer is entirely objective. Let&rsquo;s explore the idea in more detail.<\/p>\r\n<iframe src=\"https:player.vimeo.com/video/817016569?h=e7f41bbb34&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" width=\"100%\" height=\"400\" title=\"Data Ethics - criminal faces\"><\/iframe>\r\n<p>Machines have been proven over and over to emphasise bias, not decrease it. The one thing machines are good at is consistency. So they will be concisely biassed and don&rsquo;t flit about like humans are prone to.&nbsp;<\/p>\r\n<p>Biases in images and image recognition systems result from how these systems have been trained. Understanding this history of image recognition training data can go a long way to tell us why newer systems are showing biases. If your dataset contains images of people smiling (the non-criminals) and those who aren&rsquo;t (the criminals), you do exactly what Wu and Zhang did - you build a smile detector.&nbsp;<\/p>\r\n<h3>References<\/h3>\r\n<p>Wu, X., &amp; Zhang, X. (2016). Automated Inference on Criminality using Face Images. ArXiv, abs\/1611.04135.<\/p>\r\n<p><a href=\"https:\/\/www.callingbullshit.org\/case_studies\/case_study_criminal_machine_learning.html\" target=\"_blank\" rel=\"noopener\">Case Study &mdash; Criminal Machine Learning<\/a><\/p>\r\n<p><a href=\"http:\/\/onlinelibrary.wiley.com\/doi\/10.1002\/bsl.939\/abstract\" target=\"_blank\" rel=\"noopener\"><strong>When emotionality trumps reason: A study of individual processing style and juror bias - Gunnell - 2010 - Behavioral Sciences &amp; the Law - Wiley Online Library<\/strong><\/a><strong> <\/strong><\/p>",
         "_imageAlignment": "full",
         "_graphic": {
           "src": "",
@@ -139,6 +208,21 @@
         "_classes": ""
       }
     ]
+  },
+  {
+    "_id": "c-6",
+    "_parentId": "b-6",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "So, why is data ethics important?",
+    "displayTitle": "",
+    "body": " <p>Data is everywhere and being used to make decisions that have an impact on people and broader society, and as these examples show, it&rsquo;s not just personal data we need to be careful with.&nbsp;</p><p>So what do we do to improve? The most important thing is to realise that data can tell us the biases that we humans have and help us to see our weaknesses. Ignoring the data will only serve to perpetuate human bias. This is particularly important with new technologies, such as AI, where decisions are automated and have the potential to scale exponentially.</p>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
   },
   {
     "_component": "accordion",
@@ -191,421 +275,6 @@
     ]
   },
   {
-    "_component": "mcq",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Data ethics and personal data",
-    "displayTitle": "Data ethics and personal data",
-    "body": "<p>Is data ethics only a consideration when handling personal data?</p>",
-    "_id": "64f1c12d94389ef9d9f95563",
-    "_parentId": "64f1c12b94389ef9d9f95558",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_graphicExpand": {
-      "_isEnabled": false,
-      "_selector": "",
-      "_button": {
-        "buttonText": "",
-        "ariaLabel": "",
-        "iconClass": "icon-expand_1"
-      }
-    },
-    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
-    "ariaQuestion": "Question text specifically for screen readers.",
-    "_items": [
-      {
-        "text": "Yes!",
-        "_shouldBeSelected": false,
-        "_isPartlyCorrect": false
-      },
-      {
-        "text": "No!",
-        "_shouldBeSelected": true,
-        "_isPartlyCorrect": false,
-        "feedback": "",
-        "_score": 0
-      }
-    ],
-    "_attempts": 1,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": true,
-    "_canShowMarking": true,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": false,
-    "_recordInteraction": true,
-    "_hasItemScoring": false,
-    "_questionWeight": 1,
-    "_selectable": 1,
-    "_feedback": {
-      "title": "Feedback",
-      "correct": "<p><strong>That’s right!</strong></p><p>A common misconception is that data ethics is a layer on top of data protection regulations. This is false. As defined, data ethics is a branch of ethics that evaluates data practices with the potential to adversely impact people and society. This harm does not have to originate from the collection and processing of personal data.</p><p>As we discovered in the examples, the processing of non personal data, such as the classification of images using historical datasets can still result in outcomes that discriminate against large groups of people.&nbsp;</p>",
-      "_incorrect": {
-        "final": "<p><strong>Are you sure about that?</strong></p><p>A common misconception is that data ethics is a layer on top of data protection regulations. This is false. As defined, data ethics is a branch of ethics that evaluates data practices with the potential to adversely impact people and society. This harm does not have to originate from the collection and processing of personal data.</p><p>As we discovered in the examples, the processing of non personal data, such as the classification of images using historical datasets can still result in outcomes that discriminate against large groups of people.&nbsp;</p><p>.</p>",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "Submit",
-        "ariaLabel": "Select here to submit your answer."
-      },
-      "_reset": {
-        "buttonText": "Reset",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "Correct Answer",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "My Answer",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "Show feedback",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "attempts remaining",
-      "remainingAttemptText": "final attempt"
-    }
-  },
-  {
-    "_component": "mcq",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Data ethics across the data lifecycle",
-    "displayTitle": "Data ethics across the data lifecycle",
-    "body": "<p>At what point during the lifecycle of data should data ethics be considered?</p>",
-    "_id": "64f1c12d94389ef9d9f95564",
-    "_parentId": "64f1c12c94389ef9d9f95559",
-    "_type": "component",
-    "_layout": "left",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_graphicExpand": {
-      "_isEnabled": false,
-      "_selector": "",
-      "_button": {
-        "buttonText": "",
-        "ariaLabel": "",
-        "iconClass": "icon-expand_1"
-      }
-    },
-    "instruction": "Choose one option then select Submit.",
-    "ariaQuestion": "Question text specifically for screen readers.",
-    "_items": [
-      {
-        "text": "When the data is collected.",
-        "_isCorrect": "false",
-        "_shouldBeSelected": false,
-        "_isPartlyCorrect": false
-      },
-      {
-        "text": "When the data is used.",
-        "_isCorrect": "false",
-        "_shouldBeSelected": false,
-        "_isPartlyCorrect": false
-      },
-      {
-        "text": "When the data is shared.",
-        "_isCorrect": "false",
-        "_shouldBeSelected": false,
-        "_isPartlyCorrect": false
-      },
-      {
-        "text": "All of the above and more.",
-        "_shouldBeSelected": true,
-        "_isPartlyCorrect": false,
-        "feedback": "",
-        "_score": 0
-      }
-    ],
-    "_attempts": 1,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": true,
-    "_canShowMarking": true,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": false,
-    "_recordInteraction": true,
-    "_hasItemScoring": false,
-    "_questionWeight": 1,
-    "_selectable": 1,
-    "_feedback": {
-      "title": "",
-      "correct": "<p><strong>That’s right!</strong></p><p>There is a perception that data risks are predominantly related to mis-use or the risks related to regulatory infringement or changes to regulation. Collecting and storing huge amounts of data is easy, but doesn’t make it ethical to do so.&nbsp; As we have discovered in the case studies, collecting, modelling and even the lack of sharing of data all have ethical implications that need to be considered. A common misconception is that using data that was curated, rather than created, absolves you of responsibility for the impact. If we don’t examine the provenance of data, we cannot fully comprehend the potential for harm.</p>",
-      "_incorrect": {
-        "final": "<p><strong>Are you sure about that?</strong></p><p>There is a perception that data risks are predominantly related to mis-use or the risks related to regulatory infringement or changes to regulation. Collecting and storing huge amounts of data is easy, but doesn’t make it ethical to do so.&nbsp; As we have discovered in the case studies, collecting, modelling and even the lack of sharing of data all have ethical implications that need to be considered. A common misconception is that using data that was curated, rather than created, absolves you of responsibility for the impact. If we don’t examine the provenance of data, we cannot fully comprehend the potential for harm.</p>",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "<p>This feedback will appear if you answered the question correctly.</p>",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "Submit",
-        "ariaLabel": "Select here to submit your answer."
-      },
-      "_reset": {
-        "buttonText": "Reset",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "Correct Answer",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "My Answer",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "Show feedback",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "attempts remaining",
-      "remainingAttemptText": "final attempt"
-    }
-  },
-  {
-    "_component": "matching",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Asking the right questions",
-    "displayTitle": "",
-    "body": "<p>See if you can match the following questions to their opposites?</p>",
-    "_id": "64f1c12d94389ef9d9f95565",
-    "_parentId": "64f1c12c94389ef9d9f9555a",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_graphicExpand": {
-      "_isEnabled": false,
-      "_selector": "",
-      "_button": {
-        "buttonText": "",
-        "ariaLabel": "",
-        "iconClass": "icon-expand_1"
-      }
-    },
-    "instruction": "Choose an option from each dropdown list and select Submit.",
-    "ariaQuestion": "Question text specifically for screen readers.",
-    "_attempts": 1,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": true,
-    "_canShowMarking": true,
-    "_shouldResetAllAnswers": false,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": false,
-    "_isRandomQuestionOrder": false,
-    "_questionWeight": 1,
-    "_recordInteraction": true,
-    "_hasItemScoring": false,
-    "_allowOnlyUniqueAnswers": false,
-    "placeholder": "Please select an option",
-    "_items": [
-      {
-        "text": "Who should we include in an ethical discussion about our project?",
-        "_options": [
-          {
-            "text": "Who should we exclude?",
-            "_isCorrect": true,
-            "_score": 1
-          },
-          {
-            "text": "Who should we invite?",
-            "_isCorrect": false,
-            "_score": 0
-          },
-          {
-            "text": "Who should we consider?",
-            "_isCorrect": false,
-            "_score": 0
-          }
-        ]
-      },
-      {
-        "text": "What are the risks of sharing data?",
-        "_options": [
-          {
-            "text": "What are the risks of not sharing data?",
-            "_isCorrect": true,
-            "_score": 1
-          },
-          {
-            "text": "What commercial agreements will reduce risks?",
-            "_isCorrect": false,
-            "_score": 0
-          },
-          {
-            "text": "What checks are needed prior to sharing that reduce risks?",
-            "_isCorrect": false,
-            "_score": 0
-          }
-        ]
-      }
-    ],
-    "_feedback": {
-      "title": "",
-      "correct": "<p><strong>That’s right! </strong></p><p>These are two of the questions that people battle with most commonly when taking a closed approach to a data ethics challenge.&nbsp; At the Open Data Institute, we get asked a lot about who should be included in a data ethics workshop or other discussion. The answer to this question is always the same. Who are you going to exclude? This doesn’t mean we need everyone from an organisation, but it does force you to think carefully about inclusion.&nbsp; The same is true around data sharing practices. Many evaluate the risks associated with data becoming more open on our data spectrum. However, there are also ethical implications in choosing not to share data. Why not start with the opposite question and assume the data will be openly available and justify either legally or ethically why it shouldn’t be. This is also known as the “open by default” approach.</p>",
-      "_incorrect": {
-        "final": "<p><strong>Are you sure about that? </strong></p><p>These are two of the questions that people battle with most commonly when taking a closed approach to a data ethics challenge.&nbsp; At the Open Data Institute, we get asked a lot about who should be included in a data ethics workshop or other discussion. The answer to this question is always the same. Who are you going to exclude? This doesn’t mean we need everyone from an organisation, but it does force you to think carefully about inclusion.&nbsp; The same is true around data sharing practices. Many evaluate the risks associated with data becoming more open on our data spectrum. However, there are also ethical implications in choosing not to share data. Why not start with the opposite question and assume the data will be openly available and justify either legally or ethically why it shouldn’t be. This is also known as the “open by default” approach.</p>",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "<p>This feedback will appear if you answered part of the question correctly.</p>",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "Submit",
-        "ariaLabel": "Select here to submit your answer."
-      },
-      "_reset": {
-        "buttonText": "Reset",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "Correct Answer",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "My Answer",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "Show feedback",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "attempts remaining",
-      "remainingAttemptText": "final attempt"
-    }
-  },
-  {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Reflecting on your own ethical practice",
-    "displayTitle": "Reflecting on your own ethical practice",
-    "body": "<p>Consider what data you use in your professional practice. Do you build products, or deliver services? Maybe you collect and analyse data to share with a range of stakeholders?</p>\n\n<p><strong>Whatever your purpose is, the data you use has come from somewhere. Now, ask yourself, did you collect the data? If so:</strong></p>\n\n<ul>\n\t<li><em>What methods did you use for data collection?</em></li>\n\t<li><em>How confident are you in the accuracy and reliability of this data?</em></li>\n</ul>\n<hr>\n<p><strong>But, what if you didn’t directly collect the data. Instead, you may have collated that data from elsewhere. In which case, change the framing of the prompts:</strong></p>\n\n<ul>\n\t<li><em>Considering the data you've compiled:</em></li>\n\t<li><em>How do you ensure the accuracy and consistency of the aggregated data?</em></li>\n\t<li><em>Are there challenges in reconciling disparate data sources?</em></li>\n</ul>\n\n<p>With this in mind, are you fully aware of the potential risks associated with your data, whether that is how you use it, or the misuse of someone it has been shared with? Maybe there are unforeseen users who are delivering positive outcomes?</p>\n\n<hr>\n\n<p><em><strong>What will you do to promote positive outcomes, and mitigate potential harm?</strong></em></p>",
-    "_id": "64f1c12d94389ef9d9f95566",
-    "_parentId": "64f1c12c94389ef9d9f9555b",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_graphicExpand": {
-      "_isEnabled": false,
-      "_selector": "",
-      "_button": {
-        "buttonText": "",
-        "ariaLabel": "",
-        "iconClass": "icon-expand_1"
-      }
-    },
-    "instruction": ""
-  },
-  {
     "_component": "text",
     "_classes": "",
     "_isOptional": false,
@@ -651,244 +320,6 @@
       }
     },
     "instruction": ""
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "graphic for Is data ethics only a consideration when handling personal data?",
-    "displayTitle": "",
-    "body": "",
-    "_id": "64f1c12d94389ef9d9f95568",
-    "_parentId": "64f1c12b94389ef9d9f95558",
-    "_type": "component",
-    "_layout": "left",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_graphicExpand": {
-      "_isEnabled": false,
-      "_selector": "",
-      "_button": {
-        "buttonText": "",
-        "ariaLabel": "",
-        "iconClass": "icon-expand_1"
-      }
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/ea0e4c227c6031fd7d30211bc2b5ed98c400088a.jpg",
-      "small": "course/en/assets/ea0e4c227c6031fd7d30211bc2b5ed98c400088a.jpg",
-      "attribution": "<a href=\"https://elements.envato.com/businessman-using-fingerprint-identification-to-ac-2D38HVZ\" target=\"_blank\">thanmano</a> <span class='assetLicence'>[Envato Element Licence]</span>",
-      "_url": "",
-      "_target": null
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "graphic for Data ethics across the data lifecycle?",
-    "displayTitle": "",
-    "body": "",
-    "_id": "64f1c12d94389ef9d9f95569",
-    "_parentId": "64f1c12c94389ef9d9f95559",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_graphicExpand": {
-      "_isEnabled": false,
-      "_selector": "",
-      "_button": {
-        "buttonText": "",
-        "ariaLabel": "",
-        "iconClass": "icon-expand_1"
-      }
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/e68719240d8b66b3b087182332e049d4c4f33618.png",
-      "small": "course/en/assets/e68719240d8b66b3b087182332e049d4c4f33618.png",
-      "attribution": "<a href=\"theodi.org\" target=\"_blank\">ODI</a> <span class='assetLicence'>[CC0]</span>",
-      "_url": "",
-      "_target": null
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "graphic for Asking the right questions?",
-    "displayTitle": "",
-    "body": "",
-    "_id": "64f1c12d94389ef9d9f9556a",
-    "_parentId": "64f1c12c94389ef9d9f9555a",
-    "_type": "component",
-    "_layout": "left",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_graphicExpand": {
-      "_isEnabled": false,
-      "_selector": "",
-      "_button": {
-        "buttonText": "",
-        "ariaLabel": "",
-        "iconClass": "icon-expand_1"
-      }
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/35e7036f4703491b8c2e1fd7f23bedff84d46ef7.jpg",
-      "small": "course/en/assets/35e7036f4703491b8c2e1fd7f23bedff84d46ef7.jpg",
-      "attribution": "<a href=\"https://elements.envato.com/i-have-a-question-2A78VNF\" target=\"_blank\">gstockstudio</a> <span class='assetLicence'>[Envato Element Licence]</span>",
-      "_url": "",
-      "_target": null
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "vimeo",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Why is data ethics important?",
-    "displayTitle": "Why is data ethics important?",
-    "body": "<p>Data ethics is essential to ensure that data is wielded responsibly, keeping harmful impacts to a minimum.</p>",
-    "_id": "64f1c1ea94389ef9d9f9556b",
-    "_parentId": "64f1c12b94389ef9d9f95553",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_graphicExpand": {
-      "_isEnabled": false,
-      "_selector": "",
-      "_button": {
-        "buttonText": "",
-        "ariaLabel": "",
-        "iconClass": "icon-expand_1"
-      }
-    },
-    "instruction": "Select the play button to start the video.",
-    "_setCompletionOn": "play",
-    "_media": {
-      "_source": "https://player.vimeo.com/video/855033266?h=1a94a64e6a&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
-      "_autoplay": false,
-      "_loop": false,
-      "_pauseWhenOffScreen": false
-    },
-    "_transcript": {
-      "_setCompletionOnView": true,
-      "_inlineTranscript": false,
-      "_externalTranscript": false,
-      "inlineTranscriptButton": "",
-      "inlineTranscriptCloseButton": "",
-      "inlineTranscriptBody": "",
-      "transcriptLinkButton": "",
-      "transcriptLink": ""
-    }
   },
   {
     "_component": "vimeo",
@@ -1022,8 +453,8 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Remember",
-    "displayTitle": "Remember",
+    "title": "Summary",
+    "displayTitle": "",
     "body": "<blockquote><p dir=\"ltr\" style=\"text-align:center\"><em>“Data ethics is a branch of ethics that evaluates data practices with the potential to adversely impact people and society— in data collection, sharing and use”. </em></p></blockquote>",
     "_id": "64f1e12194389ef9d9f95576",
     "_parentId": "64f1c12c94389ef9d9f9555c",
@@ -4974,47 +4405,6 @@
     "instruction": ""
   },
   {
-    "_component": "blank",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "",
-    "_id": "64d362cbd9db5173efdc2425",
-    "_parentId": "64d34ce4d9db5173efdc2417",
-    "_type": "component",
-    "_layout": "full",
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_graphicExpand": {
-      "_isEnabled": false,
-      "_selector": "",
-      "_button": {
-        "buttonText": "",
-        "ariaLabel": "",
-        "iconClass": "icon-expand_1"
-      }
-    }
-  },
-  {
     "_component": "text",
     "_classes": "",
     "_isOptional": false,
@@ -6865,5 +6255,2138 @@
     "_pageLevelProgress": {
       "_isEnabled": true
     }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Introduction",
+    "displayTitle": "",
+    "body": "<p dir=\"ltr\">Value can be created from data when it is collected, accessed, used and shared. Maximising the value created from data can only be achieved when all of these aspects are considered. However this cycle is often broken as data is not shared and thus the same data cannot be collected and re-used by others. One the main reasons data is not shared is the lack of clear data sharing agreements or licences that can be used to safely share&nbsp;data while protecting the interests of the data owner.</p><p dir=\"ltr\">This module introduces the key role of data sharing agreements and data licences as ways to safely share data and maximise its reuse.</p>",
+    "_id": "6408b2dfb38aaf6b93dd7d6c",
+    "_parentId": "aide-m3-o3-sharing-b-1",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "intro-logo mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Introduction",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6408b2dfb38aaf6b93dd7d6d",
+    "_parentId": "aide-m3-o3-sharing-b-1",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/ed8c41138dc38e9d42c4c464ef200a62b430716e.png",
+      "small": "course/en/assets/ed8c41138dc38e9d42c4c464ef200a62b430716e.png",
+      "attribution": "<a href=\"http://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "ticks",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Outcomes",
+    "displayTitle": "",
+    "body": "<p>This module introduces:</p><ul><li>The benefits of data sharing to the data publisher</li><li>Why data sharing agreements and licences are important</li><li>The difference between data licences and data sharing agreements</li><li>Choosing between using a data sharing agreement and an data licence</li><li>How to build a data sharing agreement</li><li>How to build an open licence for data</li><li>Using existing open licences for data</li><li>Choosing a license for data sharing</li></ul>",
+    "_id": "6408b2dfb38aaf6b93dd7d6e",
+    "_parentId": "aide-m3-o3-sharing-b-7",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The benefits of data sharing to the data publisher",
+    "displayTitle": "",
+    "body": "<p>Which of the following are benefits of sharing data with others?</p>",
+    "_id": "6408b2dfb38aaf6b93dd7d6f",
+    "_parentId": "aide-m3-o3-sharing-b-12",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select your answer then click 'submit'",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "Increased reputation and collaboration opportunities",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Increased trust through transparency",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Potential for data to be enriched and improved by others",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "All of the above",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>There are many benefits of sharing data with others including:&nbsp;</p><ul><li>Increased reputation and collaboration opportunities</li><li>Increased trust through transparency</li><li>Potential for data to be enriched and improved by others</li><li>Potential economic growth and impact resulting from your data underpinning a commercial product.</li><li>Potential environmental &amp; societal benefit resulting from your data underpinning information and support services.</li><li>An enlarged ecosystem gives potential new skills, knowledge and uses of your data you didn’t know were possible.</li></ul>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>There are many benefits of sharing data with others including:&nbsp;</p><ul><li>Increased reputation and collaboration opportunities</li><li>Increased trust through transparency</li><li>Potential for data to be enriched and improved by others</li><li>Potential economic growth and impact resulting from your data underpinning a commercial product.</li><li>Potential environmental &amp; societal benefit resulting from your data underpinning information and support services.</li><li>An enlarged ecosystem gives potential new skills, knowledge and uses of your data you didn’t know were possible.</li></ul>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The benefits of data sharing to the data publisher",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6408b2dfb38aaf6b93dd7d70-q2g",
+    "_parentId": "aide-m3-o3-sharing-b-12",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/72f3131f367c6aacae6f60a5eb60d0ea3847989d.png",
+      "small": "course/en/assets/72f3131f367c6aacae6f60a5eb60d0ea3847989d.png",
+      "attribution": "<a href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The benefits of data sharing to the data publisher",
+    "displayTitle": "",
+    "body": "<p>Which of the following are benefits of sharing data with others?</p>",
+    "_id": "6408b2dfb38aaf6b93dd7d6f-q2",
+    "_parentId": "aide-m3-o3-sharing-b-40",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select 2 answers then click 'submit'",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "Helps compliance with regulations that require transparency",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Increases transparency and interpretability of how AI system are trained",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Will lead to unbiased decision making",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Guarantees people will view your practices as ethical",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "All of the above",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 2,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>Data sharing plays a crucial role in meeting regulatory requirements for transparency and accountability in AI systems. It also enhances the understanding of AI model training, making it easier to identify and address biases and ethical concerns. While data sharing can contribute to reducing biases, it alone cannot guarantee unbiased decision-making. Ethical data preprocessing and model design are also essential. Finally, while data sharing is an important ethical practice, it doesn't guarantee how others perceive your actions. Ethical data practices involve various aspects beyond data sharing.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Data sharing plays a crucial role in meeting regulatory requirements for transparency and accountability in AI systems. It also enhances the understanding of AI model training, making it easier to identify and address biases and ethical concerns. While data sharing can contribute to reducing biases, it alone cannot guarantee unbiased decision-making. Ethical data preprocessing and model design are also essential. Finally, while data sharing is an important ethical practice, it doesn't guarantee how others perceive your actions. Ethical data practices involve various aspects beyond data sharing.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The benefits of data sharing to the data publisher",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6408b2dfb38aaf6b93dd7d70",
+    "_parentId": "aide-m3-o3-sharing-b-40",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "https://placehold.co/400",
+      "small": "https://placehold.co/400",
+      "attribution": "<a href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Why data sharing agreements and licences are important?",
+    "displayTitle": "",
+    "body": "<p>Why are data sharing agreements and licences important?</p>",
+    "_id": "6408b2dfb38aaf6b93dd7d71",
+    "_parentId": "aide-m3-o3-sharing-b-16",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select two answers then click 'submit'",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "Give explicit and legal permissions to users of data",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Put in place clauses that protect and distance the data publisher from any potential risks",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Provide a highly lucrative way of making money from data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 2,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>Data sharing agreements and data licences provide permission for users (e.g. academics, businesses, governments and individuals) to innovate with data. Both provide users with certainty that the data can be used and shared for a wide range of purposes.&nbsp;</p><p>Without a licence or data sharing agreement, both users and publishers may find themselves in a legal grey area.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Data sharing agreements and data licences provide permission for users (e.g. academics, businesses, governments and individuals) to innovate with data. Both provide users with certainty that the data can be used and shared for a wide range of purposes.&nbsp;</p><p>Without a licence or data sharing agreement, both users and publishers may find themselves in a legal grey area.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Why data sharing agreements and licences are important?",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6408b2dfb38aaf6b93dd7d72",
+    "_parentId": "aide-m3-o3-sharing-b-16",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/853abf0ca65bf531062e63e6c42004154bff9385.png",
+      "small": "course/en/assets/853abf0ca65bf531062e63e6c42004154bff9385.png",
+      "attribution": "<a href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The difference between data licences and data sharing agreements",
+    "displayTitle": "",
+    "body": "<p>Data licences and data sharing agreements are essential tools in governing the use and reuse of data, particularly in the context of AI systems. While both approaches facilitate data access and collaboration, they have distinct advantages based on the specific requirements and intentions of the data usage.</p><p><strong>Data licences:</strong></p><ul><li><strong>Flexibility:</strong> Data licences provide a structured framework for data use, allowing organisations to define specific terms and conditions while maintaining flexibility in data utilisation.</li> <li><strong>Legal Clarity:</strong> Data licences are legally binding documents that clearly outline the rights and responsibilities of data users, minimising potential disputes over data usage.</li> <li><strong>Controlled Reuse:</strong> Organisations can tailor data licences to grant specific rights, such as limited reuse for AI training purposes while safeguarding sensitive information.</li> <li><strong>Risk Mitigation:</strong> Data licences can include clauses that outline liability and indemnification, reducing the risk of legal challenges and ensuring responsible data handling.</li> <li><strong>Intellectual Property Protection:</strong> Data licences may include provisions to protect intellectual property rights, preventing unauthorised use and promoting ethical data practices.</li> <li><strong>Machine-Readable:</strong> Common machine-readable licences enable AI systems to understand and respect the terms without human intervention, an essential aspect as AI systems become more autonomous.</li> </ul> <p><strong>Data Sharing Agreements:</strong></p> <ul> <li><strong>Complex Collaborations:</strong> Data sharing agreements are useful when multiple parties need to collaborate on data collection, analysis, and AI model development.</li> <li><strong>Sensitive Data:</strong> In cases where data contains sensitive personal or confidential information, a data sharing agreement can ensure proper handling and data security.</li> <li><strong>Unique Terms:</strong> Data sharing agreements allow for customised terms based on the specific needs of the data providers and users, addressing concerns that may not be covered by standard licences.</li> <li><strong>Temporary Sharing:</strong> When sharing data for a specific project or research initiative, a data sharing agreement can define the scope, duration, and purpose of data access.</li> </ul> <p>In summary, data licences offer a structured approach to data reuse for AI systems, granting flexibility, legal clarity, controlled reuse, and the ability for machine-readable comprehension. Data sharing agreements, on the other hand, are valuable when collaborating with multiple parties, handling sensitive data, or requiring unique terms. By choosing the appropriate approach, organisations can foster responsible data practices, enhance collaboration, and promote ethical AI development.</p>",
+    "_id": "6408b2dfb38aaf6b93dd7d73",
+    "_parentId": "aide-m3-o3-sharing-b-2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Characteristics of data sharing agreements",
+    "displayTitle": "Characteristics of data sharing agreements",
+    "body": "<p>Data sharing agreements are usually contracts that will have been signed between two or more organisations sharing data. They set out the purpose and legal basis for sharing data as well as setting out how, when, where and for how long data will be shared. &nbsp;</p><p>Data sharing agreements are most useful when organisations, of any kind, are sharing with detailed, binding rules about what each side may do and must do. This is useful in high-risk situations where the data is sensitive or personal, and is essential if one organisation is performing a task or contract for another and is being granted access to the data for that purpose. It helps everyone involved to be clear on their obligations and specifies roles and responsibilities.</p><p>Responsibilities could also include the requirement for organisations to make a version of the dataset available openly for others to use, setting requirements to remove or suppress sensitive and personal data before doing so.&nbsp;</p><p><a href=\"https://gatesopenresearch.org/documents/2-44\" target=\"_blank\">This checklist will help when designing data sharing agreements</a>.&nbsp;</p>",
+    "_id": "6408b2dfb38aaf6b93dd7d74",
+    "_parentId": "aide-m3-o3-sharing-b-8",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Characteristics of data licences",
+    "displayTitle": "",
+    "body": "<p>A <strong>data licence</strong> describes the ways that data can be used without any of the organisations involved having to enter into a formal agreement.</p> <p>It differs from data sharing agreements in the following ways:</p> <ul> <li>Permission is granted in advance, rather than when somebody asks for access.</li> <li>Permission is not time-limited - there is no start and end date.</li> <li>Rather than naming specific people or organisations, it applies to everyone (as long as they abide by the licence terms)</li> <li>A user does not typically sign an open data licence</li> </ul> <p>It usually contains at most three sets of conditions: 1) what must be done by the user, 2) what can be done by the user, and 3) what cannot be done by the user</p>",
+    "_id": "6408b2dfb38aaf6b93dd7d75",
+    "_parentId": "aide-m3-o3-sharing-b-13",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Characteristics of data licences",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6408b2dfb38aaf6b93dd7d76",
+    "_parentId": "aide-m3-o3-sharing-b-13",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/6cd6f2ec65797059c94ec65a349613dd893ecf19.png",
+      "small": "course/en/assets/6cd6f2ec65797059c94ec65a349613dd893ecf19.png",
+      "attribution": "<a href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Choosing between using a data sharing agreement and a data licence",
+    "displayTitle": "",
+    "body": "<p>Can you distinguish which is more appropriate in the following scenarios?</p>",
+    "_id": "6408b2dfb38aaf6b93dd7d79",
+    "_parentId": "aide-m3-o3-sharing-b-9",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "ariaQuestion": "",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_isRandomQuestionOrder": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_allowOnlyUniqueAnswers": false,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "I’m granting access but I want this to end after 12 months? ",
+        "_options": [
+          {
+            "text": "Data license",
+            "_isCorrect": false
+          },
+          {
+            "text": "Data sharing agreement",
+            "_isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "I’m hoping to support local developers to make apps? ",
+        "_options": [
+          {
+            "text": "Data license",
+            "_isCorrect": true
+          },
+          {
+            "text": "Data sharing agreement",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "I’m granting access so the user can do some work for me? ",
+        "_options": [
+          {
+            "text": "Data license",
+            "_isCorrect": false
+          },
+          {
+            "text": "Data sharing agreement",
+            "_isCorrect": true
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "<p dir=\"ltr\"><strong>That’s right!</strong></p><p dir=\"ltr\">If you are granting access to data under specific conditions, such as for a limited amount of time or for a very specific purpose then a data sharing agreement should be considered.&nbsp;</p><p dir=\"ltr\">Encouraging an ecosystem to emerge around your data, supporting developers and local communities with easily available data is best done with an open data license.</p>",
+      "_incorrect": {
+        "final": "<p dir=\"ltr\"><strong>Are you sure about that?</strong></p><p dir=\"ltr\">If you are granting access to data under specific conditions, such as for a limited amount of time or for a very specific purpose then a data sharing agreement should be considered.&nbsp;</p><p dir=\"ltr\">Encouraging an ecosystem to emerge around your data, supporting developers and local communities with easily available data is best done with an open data license.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Choosing between using a data sharing agreement and a data license",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6408b2dfb38aaf6b93dd7d7a",
+    "_parentId": "aide-m3-o3-sharing-b-9",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/a8e5bc047ad85165f52c92f73dadf02bf5dcdcf0.png",
+      "small": "course/en/assets/a8e5bc047ad85165f52c92f73dadf02bf5dcdcf0.png",
+      "attribution": "<a href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q4-6",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6408b2dfb38aaf6b93dd7d7b",
+    "_parentId": "aide-m3-o3-sharing-b-14",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "ariaQuestion": "",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_isRandomQuestionOrder": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_allowOnlyUniqueAnswers": false,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "This is sensitive/personal data that can’t be anonymised? ",
+        "_options": [
+          {
+            "text": "Data license",
+            "_isCorrect": false
+          },
+          {
+            "text": "Data sharing agreement",
+            "_isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "This data isn’t sensitive in any way and I don’t mind how people use it but I don't think they should make money from it? ",
+        "_options": [
+          {
+            "text": "Data license",
+            "_isCorrect": true
+          },
+          {
+            "text": "Data sharing agreement",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "I need to make sure I get the credit for collecting/sharing the data?",
+        "_options": [
+          {
+            "text": "Data license",
+            "_isCorrect": true
+          },
+          {
+            "text": "Data sharing agreement",
+            "_isCorrect": false
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "<p dir=\"ltr\"><strong>That’s right!</strong></p><p dir=\"ltr\">When sharing personal or sensitive data this is usually done under a formally signed contract such as a data sharing agreement. As well as setting out the legal terms relating to the data sharing the agreement will set our roles and responsibilities that both parties agree to.&nbsp;</p><p dir=\"ltr\">A data license is more suited for generic terms that can cover the non-commercial restriction on data usage and the requirement for any user to give credit to the rights holder.</p>",
+      "_incorrect": {
+        "final": "<p dir=\"ltr\"><strong>Are you sure about that?</strong></p><p dir=\"ltr\">When sharing personal or sensitive data this is usually done under a formally signed contract such as a data sharing agreement. As well as setting out the legal terms relating to the data sharing the agreement will set our roles and responsibilities that both parties agree to.&nbsp;</p><p dir=\"ltr\">A data license is more suited for generic terms that can cover the non-commercial restriction on data usage and the requirement for any user to give credit to the rights holder.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Choosing between using a data sharing agreement and a data license",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6408b2dfb38aaf6b93dd7d7c",
+    "_parentId": "aide-m3-o3-sharing-b-14",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/a1ce7f94fafdffa5a894aac7dfa28b55a87fdd10.png",
+      "small": "course/en/assets/a1ce7f94fafdffa5a894aac7dfa28b55a87fdd10.png",
+      "attribution": "<a href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Building a data sharing agreement",
+    "displayTitle": "",
+    "body": "<p>A <a href=\"https://gatesopenresearch.org/documents/2-44\" target=\"_blank\">data sharing agreement</a> sets out the purpose and legal basis for sharing data as well as setting out how, when, where and for how long data will be shared.&nbsp;</p><p>Each agreement will likely be bespoke and focussed on a particular application or domain or purpose.&nbsp;</p><p>Unlike a data license, a data sharing agreement will often go into much more detail on the scope and detail the characteristics of the data and how it should be used to fulfil a specific purpose.&nbsp;</p><p>Often data sharing agreements are set up due to the need to share personal data between a data controller and a data processor. Here the lawful basis for sharing data is dictated by data protection regulations and will be detailed in the data sharing agreement.&nbsp;</p><p>Finally, data sharing agreements are contracts so will require legal signatures from both parties.</p>",
+    "_id": "6408b2dfb38aaf6b93dd7d7d",
+    "_parentId": "aide-m3-o3-sharing-b-4",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Building a data sharing agreement",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6408b2dfb38aaf6b93dd7d7e",
+    "_parentId": "aide-m3-o3-sharing-b-4",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/4e3e3ded57de78f2e0adefe61e7772a7426e2750.png",
+      "small": "course/en/assets/4e3e3ded57de78f2e0adefe61e7772a7426e2750.png",
+      "attribution": "<a href=\"https://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Data sharing agreements in practice",
+    "displayTitle": "",
+    "body": "<h2>Collaborative Health Research</h2> <p>A common application of data sharing agreements is between parties in health research, particularly where sensitive patient data might be shared, for example in developing an AI model for disease prediction. A data sharing agreement ensures that both parties have a clear understanding of how the shared data will be used, including access rights, data security measures, and limitations on data sharing. This helps establish trust and accountability between the collaborators.</p> <h2>Fraud detection</h2> <p>Financial organisations are required to collaborate in order to maintain a stable market. One aspect of this is sharing data that assists the detection of fraudulent transactions, often using automated models. A data sharing agreement outlines the terms of data contribution, data access, and the responsibilities of each organisation in maintaining data privacy. It also defines the rights to use the resulting model and how any insights or improvements will be shared.</p> <h2>Species protection</h2> <p>AI is increasingly used to help build climate models that help predict the impact on our habitat. One key aspect of this is to model the threat to endangered species, data about which might include information about the location, behaviour, and habitat of these species. Sharing this data without proper controls could lead to poaching, habitat destruction, or disturbance to their ecosystems, endangering their survival further. By applying data sharing agreements in this context, AI can be used effectively to model species movement while respecting the ethical considerations and responsibilities associated with endangered species protection.</p>",
+    "_id": "6408b2dfb38aaf6b93dd7d7f",
+    "_parentId": "aide-m3-o3-sharing-b-10",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "dragndrop",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Building a data licence",
+    "displayTitle": "",
+    "body": "<p>A data licence grants up-front permission to use and reuse data, so long as the user complies with a specified set of terms. Many organisations and governments around the world are adopting open data licenses for sharing data.&nbsp;</p><p>See if you can sort the following conditions into the three boxes in order to build an open data licence.</p>",
+    "_id": "6408b2dfb38aaf6b93dd7d81",
+    "_parentId": "aide-m3-o3-sharing-b-5",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Drag your answers into each box and then click 'submit'",
+    "_items": [
+      {
+        "text": "A user can (with this data):",
+        "accepted": [
+          "Use in research",
+          "Modify",
+          "Share",
+          "Use commercially"
+        ]
+      },
+      {
+        "text": "A user must (if they do anything with the data)",
+        "accepted": [
+          "Attribute the data provider/owner"
+        ]
+      },
+      {
+        "text": "A user cannot",
+        "accepted": [
+          "Claim ownership of the data",
+          "Claim endorsement for the work",
+          "Seek damages for low quality data"
+        ]
+      }
+    ],
+    "dummyAnswers": [
+      "Misuse the data"
+    ],
+    "_attempts": 2,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": true,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_feedback": {
+      "correct": "<p><strong>That’s right!</strong></p><p>Open data licences provide users with certainty that the data can be accessed, used, modified and shared for a wide range of purposes.</p><p>For a licence to be an open one, it must give users explicit permission to use the data for both commercial and non-commercial purposes.</p><p>Publishers can require that users attribute the data provider or even share modifications to the data for others to benefit from.&nbsp;</p><p>A data user cannot claim ownership, endorsement or any damages from the data publisher that result from their use or analysis of the data, regardless of the quality of the data.&nbsp;</p><p>&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Open data licences provide users with certainty that the data can be accessed, used, modified and shared for a wide range of purposes.</p><p>For a licence to be an open one, it must give users explicit permission to use the data for both commercial and non-commercial purposes.</p><p>Publishers can require that users attribute the data provider or even share modifications to the data for others to benefit from.&nbsp;</p><p>A data user cannot claim ownership, endorsement or any damages from the data publisher that result from their use or analysis of the data, regardless of the quality of the data.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Submit",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "Reset",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "Show correct answer",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "Hide correct answer",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "Show feedback",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Common licenses for data sharing",
+    "displayTitle": "",
+    "body": "<p>The simpler the license, the better.</p><p>There are lots of different licenses. To maximise reuse, try to adopt a license standard that is already widely used - using an existing license can save you time and money and can help reusers understand what they can and cannot do via permissions written in standard wording that is widely used, therefore maximising the utility of data and potential value that can be unlocked.</p><p>There are a number of common licences available to freely use;&nbsp;explore the common ones below:</p>",
+    "_id": "6408b2dfb38aaf6b93dd7d82",
+    "_parentId": "aide-m3-o3-sharing-b-11",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Common licenses for data sharing",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6408b2dfb38aaf6b93dd7d83",
+    "_parentId": "aide-m3-o3-sharing-b-11",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/a349912e089d49be46d3e575ec6fbf171f54dc8e.png",
+      "small": "course/en/assets/a349912e089d49be46d3e575ec6fbf171f54dc8e.png",
+      "attribution": "<a href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Creative commons marks and licenses",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6408b2dfb38aaf6b93dd7d84",
+    "_parentId": "aide-m3-o3-sharing-b-15",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/f837931503ef7d28e7754d94ea91374df399fe63.png",
+      "small": "course/en/assets/f837931503ef7d28e7754d94ea91374df399fe63.png",
+      "attribution": "<a href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Open government licenses",
+    "displayTitle": "",
+    "body": "<p>Some publishers choose to adopt in-country government licenses. This has the advantage of being created and backed by local regulations.&nbsp;</p><p>In the majority of cases these are similar, to the point of being completely compatible with, creative commons licenses. The only difference in some cases is the name, logo and jurisdiction of laws that govern the license.&nbsp;</p><p>Some good examples of clear open government data licenses include:</p><ul><li><strong><a href=\"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\" target=\"_blank\">The UK Open Government license</a></strong></li><li><strong><a href=\"https://smartcities.data.gov.in/government-open-data-license-india\" target=\"_blank\">The Government Open Data License for India</a></strong></li></ul>",
+    "_id": "6408b2dfb38aaf6b93dd7d85",
+    "_parentId": "aide-m3-o3-sharing-b-17",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Open government licenses",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6408b2dfb38aaf6b93dd7d86",
+    "_parentId": "aide-m3-o3-sharing-b-17",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/6952e2940d891488fdc4be6d76343ca3d73c0b8c.png",
+      "small": "course/en/assets/6952e2940d891488fdc4be6d76343ca3d73c0b8c.png",
+      "attribution": "<a href=\"https://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Creative commons marks and licenses",
+    "displayTitle": "",
+    "body": "<p>Creative Commons marks and licenses are widely used for open content. Version 4.0 explicitly considers data licensing. You can choose a license (or mark) that works for you at the <a href=\"https://creativecommons.org/choose/\" target=\"_blank\">Creative Commons website</a>.&nbsp;</p><p>There are three Creative Commons marks and licenses that are open:</p>",
+    "_id": "6408b2dfb38aaf6b93dd7d87",
+    "_parentId": "aide-m3-o3-sharing-b-15",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Public domain: (CC0)",
+        "body": "<p>The <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">public domain mark</a> can be used by a copyright holder to waive all your rights over a piece of data, including copyright. This is particularly useful in the sharing of data and databases, since it otherwise may be unclear whether highly factual data and databases are restricted by copyright or other rights.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Attribution: (CC-BY v4.0)",
+        "body": "<p>The <a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">Creative Commons attribution license</a> gives users rights to access, use and share (even commercially) your content. The only restriction is that the user must give credit to the data publisher (rights holder).</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Attribution & share-alike: (CC-BY-SA v4.0)",
+        "body": "<p>The <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" target=\"_blank\">Creative Commons attribution &amp; share-alike license</a>&nbsp;is the same as the attribution license with the added restriction that the data user must share back any changes and modifications made to the data.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Choosing a license for data sharing",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6408b2dfb38aaf6b93dd7d88",
+    "_parentId": "aide-m3-o3-sharing-b-20",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "ariaQuestion": "",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_allowOnlyUniqueAnswers": false,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "I’m hoping to support local developers to make apps.",
+        "_options": [
+          {
+            "text": "CC0",
+            "_isCorrect": true
+          },
+          {
+            "text": "CC-BY",
+            "_isCorrect": true
+          },
+          {
+            "text": "CC-BY-SA",
+            "_isCorrect": false
+          },
+          {
+            "text": "CC-BY-NC",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Others can benefit from my data but I would like the data to remain as open as possible.",
+        "_options": [
+          {
+            "text": "CC0",
+            "_isCorrect": false
+          },
+          {
+            "text": "CC-BY",
+            "_isCorrect": false
+          },
+          {
+            "text": "CC-BY-SA",
+            "_isCorrect": true
+          },
+          {
+            "text": "CC-BY-NC",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "This data isn’t sensitive in any way and I don’t mind how people use it but I don't think they should make money from it.",
+        "_options": [
+          {
+            "text": "CC0",
+            "_isCorrect": false
+          },
+          {
+            "text": "CC-BY",
+            "_isCorrect": false
+          },
+          {
+            "text": "CC-BY-SA",
+            "_isCorrect": false
+          },
+          {
+            "text": "CC-BY-NC",
+            "_isCorrect": true
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "<p dir=\"ltr\"><strong>That’s right!</strong></p><p dir=\"ltr\">For data to be open and support the development of apps you should choose a CC-BY or CC-BY-SA license. Choosing a non-commercial license such as CC-BY-NC limits what can be done with the data and its ability to be enriched with other data. If you want to benefit from commercial use of data, then a CC-BY-SA license may actually be a more appropriate choice as this will require the company to share back any modifications or changes they have made to the data. Many governments avoid this license however as it can put many off from using the data.</p>",
+      "_incorrect": {
+        "final": "<p dir=\"ltr\"><strong>Are you sure about that?</strong></p><p dir=\"ltr\">For data to be open and support the development of apps you should choose a CC-BY or CC-BY-SA license. Choosing a non-commercial license such as CC-BY-NC limits what can be done with the data and its ability to be enriched with other data. If you want to benefit from commercial use of data, then a CC-BY-SA license may actually be a more appropriate choice as this will require the company to share back any modifications or changes they have made to the data. Many governments avoid this license however as it can put many off from using the data.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Choosing a license for data sharing",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6408b2dfb38aaf6b93dd7d89",
+    "_parentId": "aide-m3-o3-sharing-b-20",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/4984a2c07f5d1c9cf06162042639a1ff2f14ba12.png",
+      "small": "course/en/assets/4984a2c07f5d1c9cf06162042639a1ff2f14ba12.png",
+      "attribution": "<a href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " Summary",
+    "displayTitle": " Summary",
+    "body": "<p>Rights and permissions to access, use and share data are governed by a set of rules, policies, processes, legislation and community norms.&nbsp;</p> <p>To the end user however, rights and permissions most commonly exist in the forms of data licences and data sharing agreements.</p> <p>Data sharing agreements and licences provide permission for users (e.g. academics, businesses, governments and individuals) to access, use and otherwise evaluate data. Without them such rights are unclear and the full benefits of data cannot be realised.&nbsp;</p> <p>In relation to AI, wider sharing of data can help tackle the challenges including mitigating bias, increasing fairness and providing greater transparency and interpretability of models.</p> <p>Unless a data sharing agreement is required, best practice for sustainability is to license data. To maximise reuse, try to adopt a licence standard that is already widely used - using an existing licence can save you time and money and can help users quickly understand what they can and cannot do with data.</p>",
+    "_id": "6408b2dfb38aaf6b93dd7d8a",
+    "_parentId": "aide-m3-o3-sharing-b-6",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide clipboard",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6408b2dfb38aaf6b93dd7d8b",
+    "_parentId": "aide-m3-o3-sharing-b-6",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/3864c85c5f6909f280efba70e00fb9e95673620f.png",
+      "small": "course/en/assets/3864c85c5f6909f280efba70e00fb9e95673620f.png",
+      "attribution": "<a href=\"odi.org\" target=\"_blank\">ODI</a> <span class='assetLicence'>[CC0]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Data licenses in practice",
+    "displayTitle": "",
+    "body": "<p dir=\"ltr\">There are many examples of data licenses in practice, with some of the worlds biggest websites such as <a href=\"https://wikipedia.org/\" target=\"_blank\">wikipedia</a>, <a href=\"https://www.flickr.com/\" target=\"_blank\">flickr</a> and <a href=\"https://www.scribd.com/\" target=\"_blank\">scribd</a>. In the agricultural sector the Innovative Solutions for Decision Agriculture Soil platform has launched soil information maps at a resolution of 30 meters, encompassing 24 billion unique locations across Africa. All data is easily accessible through an easy to use and well documented API and all available under a Creative Commons Attribution (CC-BY v4.0) licence.&nbsp;</p><p dir=\"ltr\"><a class=\"button\" href=\"https://www.isda-africa.com/isdasoil/\" target=\"_blank\">Explore the iSDAsoil platform for yourself</a></p>",
+    "_id": "6408b2dfb38aaf6b93dd7d8d",
+    "_parentId": "aide-m3-o3-sharing-b-18",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Data licenses in practice",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6408b2dfb38aaf6b93dd7d8e",
+    "_parentId": "aide-m3-o3-sharing-b-18",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/0f561c7b70586d6a5ef11ac9398fd48aeed6527a.png",
+      "small": "course/en/assets/0f561c7b70586d6a5ef11ac9398fd48aeed6527a.png",
+      "attribution": "<a href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_id": "aide-m3-o3-sharing-c-19",
+    "_parentId": "aide-m3-o3-sharing-b-19",
+    "_type": "component",
+    "_component": "mcq",
+    "_classes": "",
+    "_layout": "left",
+    "title": "Choosing a licence for data sharing",
+    "displayTitle": "Choosing a licence for data sharing",
+    "body": "<p>For the following scenarios, which licence would be the appropriate choice?</p>",
+    "instruction": "Choose one option then select Submit.",
+    "ariaQuestion": "Question text specifically for screen readers.",
+    "_attempts": 1,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_recordInteraction": true,
+    "_items": [
+      {
+        "text": "I’m hoping to support the development of new AI models.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "Others can build new AI models from my data but I would like the data to remain as open as possible.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "This data isn’t sensitive in any way and I don’t mind how people use it but I don't think they should make money from it.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false
+      }
+    ],
+    "_feedback": {
+      "correct": "<p><strong>That's right!</p></strong></p><p>For data to be open and support the development of things like new AI models you should choose a CC-BY or CC-BY-SA licence. Choosing a non-commercial licence such as CC-BY-NC limits what can be done with the data and its ability to be enriched with other data. If you want to benefit from commercial use of data, then a CC-BY-SA licence may actually be a more appropriate choice as this will require the company to share back any modifications or changes they have made to the data. Many governments avoid this licence, however, as it can put many off from using the data.</p>",
+      "_incorrect": {
+        "notFinal": "<p><strong>Are you sure about that?</p></strong></p><p><p>For data to be open and support the development of things like new AI models you should choose a CC-BY or CC-BY-SA licence. Choosing a non-commercial licence such as CC-BY-NC limits what can be done with the data and its ability to be enriched with other data. If you want to benefit from commercial use of data, then a CC-BY-SA licence may actually be a more appropriate choice as this will require the company to share back any modifications or changes they have made to the data. Many governments avoid this licence, however, as it can put many off from using the data.</p></p>",
+        "final": "<p><strong>Are you sure about that?</p></strong></p><p><p>For data to be open and support the development of things like new AI models you should choose a CC-BY or CC-BY-SA licence. Choosing a non-commercial licence such as CC-BY-NC limits what can be done with the data and its ability to be enriched with other data. If you want to benefit from commercial use of data, then a CC-BY-SA licence may actually be a more appropriate choice as this will require the company to share back any modifications or changes they have made to the data. Many governments avoid this licence, however, as it can put many off from using the data.</p></p>"
+      }
+    },
+    "_comment": "You only need to include _buttons if you want to override the button labels that are set in course.json",
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Submit",
+        "ariaLabel": "Select here to submit your answer."
+      },
+      "_reset": {
+        "buttonText": "Reset",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "Correct Answer",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "My Answer",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "Show feedback",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "attempts remaining",
+      "remainingAttemptText": "final attempt"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6408b4a8b38aaf6b93dd7dbb",
+    "_parentId": "aide-m3-o3-sharing-b-19",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/f23585358a0af0742e16476eea1706566235d332.jpg",
+      "small": "course/en/assets/f23585358a0af0742e16476eea1706566235d332.jpg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/person-washing-his-hand-545014/\" target=\"_blank\">Burst</a> <span class='assetLicence'>[CC0]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
   }
 ]
