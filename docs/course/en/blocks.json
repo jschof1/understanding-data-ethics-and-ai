@@ -692,59 +692,757 @@
     }
   },
   {
-    "title": "New Component Title",
-    "displayTitle": "New Component Title",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 25,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64d34a4fd9db5173efdc23fc",
-    "_parentId": "64d34a4fd9db5173efdc23fb",
-    "_type": "block",
-    "_trickle": {
-      "_isEnabled": false,
-      "_isInherited": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_completionAttribute": "_isComplete",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_showEndOfPage": true,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "ariaLabel": "Continue",
-        "startText": "Begin",
-        "startAriaLabel": "Begin",
-        "finalText": "Finish",
-        "finalAriaLabel": "Finish",
-        "_component": "trickle-button"
+      "title": "A spectrum of data rights",
+      "displayTitle": "",
+      "body": "",
+      "_classes": "",
+      "_trackingId": 1,
+      "instruction": "",
+      "_isOptional": false,
+      "_isAvailable": true,
+      "_isHidden": false,
+      "_isVisible": true,
+      "_requireCompletionOf": -1,
+      "_ariaLevel": 0,
+      "_id": "aide-m3-o5-third-party-b-1",
+      "_parentId": "64d34a4fd9db5173efdc23fb",
+      "_type": "block",
+      "_onScreen": {
+        "_isEnabled": false,
+        "_classes": "",
+        "_percentInviewVertical": 50
       },
-      "_stepLocking": {
+      "_assessment": {
+        "_quizBankID": 1
+      },
+      "_pageLevelProgress": {
         "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
+        "_isCompletionIndicatorEnabled": false
+      },
+      "_odi-theme": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        },
+        "_isDividerBlock": false
       }
     },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
+    {
+      "title": "Obtaining rights to reuse third party data",
+      "displayTitle": "",
+      "body": "",
+      "_classes": "",
+      "_trackingId": 2,
+      "instruction": "",
+      "_isOptional": false,
+      "_isAvailable": true,
+      "_isHidden": false,
+      "_isVisible": true,
+      "_requireCompletionOf": -1,
+      "_ariaLevel": 0,
+      "_id": "aide-m3-o5-third-party-b-2",
+      "_parentId": "64d34a4fd9db5173efdc23fb",
+      "_type": "block",
+      "_onScreen": {
+        "_isEnabled": false,
+        "_classes": "",
+        "_percentInviewVertical": 50
+      },
+      "_pageLevelProgress": {
+        "_isEnabled": true,
+        "_isCompletionIndicatorEnabled": false
+      },
+      "_assessment": {
+        "_quizBankID": 1
+      },
+      "_odi-theme": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        },
+        "_isDividerBlock": false
+      }
     },
-    "_assessment": {
-      "_quizBankID": 1
-    }
-  },
+    {
+      "title": "Summary",
+      "displayTitle": "",
+      "body": "",
+      "_classes": "footer inverted",
+      "_trackingId": 3,
+      "instruction": "",
+      "_isOptional": false,
+      "_isAvailable": true,
+      "_isHidden": false,
+      "_isVisible": true,
+      "_requireCompletionOf": -1,
+      "_ariaLevel": 0,
+      "_id": "aide-m3-o5-third-party-b-3",
+      "_parentId": "summary-64d34a4fd9db5173efdc23fb",
+      "_type": "block",
+      "_onScreen": {
+        "_isEnabled": false,
+        "_classes": "",
+        "_percentInviewVertical": 50
+      },
+      "_pageLevelProgress": {
+        "_isEnabled": true,
+        "_isCompletionIndicatorEnabled": false
+      },
+      "_assessment": {
+        "_quizBankID": 1
+      },
+      "_odi-theme": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        },
+        "_isDividerBlock": false
+      }
+    },
+    {
+      "title": "Working with data from third party sources",
+      "displayTitle": "Working with data from third party sources",
+      "body": "",
+      "_classes": "intro",
+      "_trackingId": 4,
+      "instruction": "",
+      "_isOptional": false,
+      "_isAvailable": true,
+      "_isHidden": false,
+      "_isVisible": true,
+      "_requireCompletionOf": -1,
+      "_ariaLevel": 0,
+      "_id": "aide-m3-o5-third-party-b-4",
+      "_parentId": "6408b85eb38aaf6b93dd7dc2",
+      "_type": "block",
+      "_onScreen": {
+        "_isEnabled": false,
+        "_classes": "",
+        "_percentInviewVertical": 50
+      },
+      "_pageLevelProgress": {
+        "_isEnabled": true,
+        "_isCompletionIndicatorEnabled": false
+      },
+      "_assessment": {
+        "_quizBankID": 1
+      },
+      "_odi-theme": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        },
+        "_isDividerBlock": false
+      }
+    },
+    {
+      "title": "Identifying open, shared and closed data",
+      "displayTitle": "Identifying open, shared and closed data",
+      "body": "<p>Can you match the descriptions below to the types of data on the spectrum.</p>",
+      "_classes": "",
+      "_trackingId": 5,
+      "instruction": "",
+      "_isOptional": false,
+      "_isAvailable": true,
+      "_isHidden": false,
+      "_isVisible": true,
+      "_requireCompletionOf": -1,
+      "_ariaLevel": 0,
+      "_id": "aide-m3-o5-third-party-b-5",
+      "_parentId": "64d34a4fd9db5173efdc23fb",
+      "_type": "block",
+      "_onScreen": {
+        "_isEnabled": false,
+        "_classes": "",
+        "_percentInviewVertical": 50
+      },
+      "_pageLevelProgress": {
+        "_isEnabled": true,
+        "_isCompletionIndicatorEnabled": false
+      },
+      "_assessment": {
+        "_quizBankID": 1
+      },
+      "_odi-theme": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        },
+        "_isDividerBlock": false
+      }
+    },
+    {
+      "title": "Topics",
+      "displayTitle": "",
+      "body": "",
+      "_classes": "",
+      "_trackingId": 6,
+      "instruction": "",
+      "_isOptional": false,
+      "_isAvailable": true,
+      "_isHidden": false,
+      "_isVisible": true,
+      "_requireCompletionOf": -1,
+      "_ariaLevel": 0,
+      "_id": "aide-m3-o5-third-party-b-6",
+      "_parentId": "6408b85eb38aaf6b93dd7dc2",
+      "_type": "block",
+      "_onScreen": {
+        "_isEnabled": false,
+        "_classes": "",
+        "_percentInviewVertical": 50
+      },
+      "_pageLevelProgress": {
+        "_isEnabled": true,
+        "_isCompletionIndicatorEnabled": false
+      },
+      "_assessment": {
+        "_quizBankID": 1
+      },
+      "_odi-theme": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        },
+        "_isDividerBlock": false
+      }
+    },
+    {
+      "title": "Characteristics of data-sharing agreements",
+      "displayTitle": "Characteristics of data-sharing agreements",
+      "body": "",
+      "_classes": "",
+      "_trackingId": 7,
+      "instruction": "",
+      "_isOptional": false,
+      "_isAvailable": true,
+      "_isHidden": false,
+      "_isVisible": true,
+      "_requireCompletionOf": -1,
+      "_ariaLevel": 0,
+      "_id": "aide-m3-o5-third-party-b-7",
+      "_parentId": "64d34a4fd9db5173efdc23fb",
+      "_type": "block",
+      "_onScreen": {
+        "_isEnabled": false,
+        "_classes": "",
+        "_percentInviewVertical": 50
+      },
+      "_pageLevelProgress": {
+        "_isEnabled": true,
+        "_isCompletionIndicatorEnabled": false
+      },
+      "_assessment": {
+        "_quizBankID": 1
+      },
+      "_odi-theme": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        },
+        "_isDividerBlock": false
+      }
+    },
+    {
+      "title": "Decision flowchart",
+      "displayTitle": "",
+      "body": "",
+      "_classes": "",
+      "_trackingId": 8,
+      "instruction": "",
+      "_isOptional": false,
+      "_isAvailable": true,
+      "_isHidden": false,
+      "_isVisible": true,
+      "_requireCompletionOf": -1,
+      "_ariaLevel": 0,
+      "_id": "aide-m3-o5-third-party-b-8",
+      "_parentId": "6408b85eb38aaf6b93dd7dc5",
+      "_type": "block",
+      "_onScreen": {
+        "_isEnabled": false,
+        "_classes": "",
+        "_percentInviewVertical": 50
+      },
+      "_pageLevelProgress": {
+        "_isEnabled": true,
+        "_isCompletionIndicatorEnabled": false
+      },
+      "_assessment": {
+        "_quizBankID": 1
+      },
+      "_odi-theme": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        },
+        "_isDividerBlock": false
+      }
+    },
+    {
+      "title": "The value of reusing data from third party sources",
+      "displayTitle": "The value of reusing data from third party sources",
+      "body": "",
+      "_classes": "",
+      "_trackingId": 9,
+      "instruction": "",
+      "_isOptional": false,
+      "_isAvailable": true,
+      "_isHidden": false,
+      "_isVisible": true,
+      "_requireCompletionOf": -1,
+      "_ariaLevel": 0,
+      "_id": "aide-m3-o5-third-party-b-9",
+      "_parentId": "6408b85eb38aaf6b93dd7dc2",
+      "_type": "block",
+      "_onScreen": {
+        "_isEnabled": false,
+        "_classes": "",
+        "_percentInviewVertical": 50
+      },
+      "_pageLevelProgress": {
+        "_isEnabled": true,
+        "_isCompletionIndicatorEnabled": false
+      },
+      "_assessment": {
+        "_quizBankID": 1
+      },
+      "_odi-theme": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        },
+        "_isDividerBlock": false
+      }
+    },
+    {
+      "title": "Characteristics of data licences",
+      "displayTitle": "Characteristics of data licences",
+      "body": "",
+      "_classes": "",
+      "_trackingId": 10,
+      "instruction": "",
+      "_isOptional": false,
+      "_isAvailable": true,
+      "_isHidden": false,
+      "_isVisible": true,
+      "_requireCompletionOf": -1,
+      "_ariaLevel": 0,
+      "_id": "aide-m3-o5-third-party-b-10",
+      "_parentId": "64d34a4fd9db5173efdc23fb",
+      "_type": "block",
+      "_onScreen": {
+        "_isEnabled": false,
+        "_classes": "",
+        "_percentInviewVertical": 50
+      },
+      "_assessment": {
+        "_quizBankID": 1
+      },
+      "_pageLevelProgress": {
+        "_isEnabled": true,
+        "_isCompletionIndicatorEnabled": false
+      },
+      "_odi-theme": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        },
+        "_isDividerBlock": false
+      }
+    },
+    {
+      "title": "Common data licences",
+      "displayTitle": "Common data licences",
+      "body": "",
+      "_classes": "",
+      "_trackingId": 11,
+      "instruction": "",
+      "_isOptional": false,
+      "_isAvailable": true,
+      "_isHidden": false,
+      "_isVisible": true,
+      "_requireCompletionOf": -1,
+      "_ariaLevel": 0,
+      "_id": "aide-m3-o5-third-party-b-11",
+      "_parentId": "64d34a4fd9db5173efdc23fb",
+      "_type": "block",
+      "_onScreen": {
+        "_isEnabled": false,
+        "_classes": "",
+        "_percentInviewVertical": 50
+      },
+      "_pageLevelProgress": {
+        "_isEnabled": true,
+        "_isCompletionIndicatorEnabled": false
+      },
+      "_assessment": {
+        "_quizBankID": 1
+      },
+      "_odi-theme": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        },
+        "_isDividerBlock": false
+      }
+    },
+    {
+      "title": "The importance of rights and permissions in data",
+      "displayTitle": "The importance of rights and permissions in data",
+      "body": "",
+      "_classes": "",
+      "_trackingId": 12,
+      "instruction": "",
+      "_isOptional": false,
+      "_isAvailable": true,
+      "_isHidden": false,
+      "_isVisible": true,
+      "_requireCompletionOf": -1,
+      "_ariaLevel": 0,
+      "_id": "aide-m3-o5-third-party-b-12",
+      "_parentId": "6408b85eb38aaf6b93dd7dc2",
+      "_type": "block",
+      "_onScreen": {
+        "_isEnabled": false,
+        "_classes": "",
+        "_percentInviewVertical": 50
+      },
+      "_pageLevelProgress": {
+        "_isEnabled": true,
+        "_isCompletionIndicatorEnabled": false
+      },
+      "_assessment": {
+        "_quizBankID": 1
+      },
+      "_odi-theme": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        },
+        "_isDividerBlock": false
+      }
+    },
+    {
+      "title": "CreDo – A bespoke licence",
+      "displayTitle": "CreDo – A bespoke licence",
+      "body": "",
+      "_classes": "",
+      "_trackingId": 13,
+      "instruction": "",
+      "_isOptional": false,
+      "_isAvailable": true,
+      "_isHidden": false,
+      "_isVisible": true,
+      "_requireCompletionOf": -1,
+      "_ariaLevel": 0,
+      "_id": "aide-m3-o5-third-party-b-13",
+      "_parentId": "64d34a4fd9db5173efdc23fb",
+      "_type": "block",
+      "_onScreen": {
+        "_isEnabled": false,
+        "_classes": "",
+        "_percentInviewVertical": 50
+      },
+      "_pageLevelProgress": {
+        "_isEnabled": true,
+        "_isCompletionIndicatorEnabled": false
+      },
+      "_assessment": {
+        "_quizBankID": 1
+      },
+      "_odi-theme": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        },
+        "_isDividerBlock": false
+      }
+    },
+    {
+      "title": "What to do when things are unclear",
+      "displayTitle": "What to do when things are unclear",
+      "body": "",
+      "_classes": "",
+      "_trackingId": 14,
+      "instruction": "",
+      "_isOptional": false,
+      "_isAvailable": true,
+      "_isHidden": false,
+      "_isVisible": true,
+      "_requireCompletionOf": -1,
+      "_ariaLevel": 0,
+      "_id": "aide-m3-o5-third-party-b-14",
+      "_parentId": "64d34a4fd9db5173efdc23fb",
+      "_type": "block",
+      "_onScreen": {
+        "_isEnabled": false,
+        "_classes": "",
+        "_percentInviewVertical": 50
+      },
+      "_pageLevelProgress": {
+        "_isEnabled": true,
+        "_isCompletionIndicatorEnabled": false
+      },
+      "_assessment": {
+        "_quizBankID": 1
+      },
+      "_odi-theme": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        },
+        "_isDividerBlock": false
+      }
+    },
+    {
+      "title": "Considerations when working with data from multiple third parties",
+      "displayTitle": "",
+      "body": "",
+      "_classes": "",
+      "_trackingId": 15,
+      "instruction": "",
+      "_isOptional": false,
+      "_isAvailable": true,
+      "_isHidden": false,
+      "_isVisible": true,
+      "_requireCompletionOf": -1,
+      "_ariaLevel": 0,
+      "_id": "aide-m3-o5-third-party-b-15",
+      "_parentId": "64d34a4fd9db5173efdc23fb",
+      "_type": "block",
+      "_onScreen": {
+        "_isEnabled": false,
+        "_classes": "",
+        "_percentInviewVertical": 50
+      },
+      "_assessment": {
+        "_quizBankID": 1
+      },
+      "_pageLevelProgress": {
+        "_isEnabled": true,
+        "_isCompletionIndicatorEnabled": false
+      },
+      "_odi-theme": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        },
+        "_isDividerBlock": false
+      }
+    },
+    {
+      "title": "Establishing the suitability of data prior to access and reuse",
+      "displayTitle": "Establishing the suitability of data prior to access and reuse",
+      "body": "<p>As a user of the third-party data, beyond obtaining permission to reuse the data, you will need to check the practical reusability of the data.</p><p>This is a complex phase that could take a significant amount of time. Before acquiring the data it may well be possible to ascertain some of the ethical risks relating to the data including:</p>",
+      "_classes": "",
+      "_trackingId": 16,
+      "instruction": "",
+      "_isOptional": false,
+      "_isAvailable": true,
+      "_isHidden": false,
+      "_isVisible": true,
+      "_requireCompletionOf": -1,
+      "_ariaLevel": 0,
+      "_id": "aide-m3-o5-third-party-b-16",
+      "_parentId": "64d34a4fd9db5173efdc23fb",
+      "_type": "block",
+      "_onScreen": {
+        "_isEnabled": false,
+        "_classes": "",
+        "_percentInviewVertical": 50
+      },
+      "_assessment": {
+        "_quizBankID": 1
+      },
+      "_pageLevelProgress": {
+        "_isEnabled": true,
+        "_isCompletionIndicatorEnabled": false
+      },
+      "_odi-theme": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        },
+        "_isDividerBlock": false
+      }
+    },
   {
     "title": "New Component Title",
     "displayTitle": "New Component Title",
@@ -760,114 +1458,6 @@
     "_ariaLevel": 0,
     "_id": "64d34a50d9db5173efdc23ff",
     "_parentId": "64d34a50d9db5173efdc23fe",
-    "_type": "block",
-    "_trickle": {
-      "_isEnabled": false,
-      "_isInherited": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_completionAttribute": "_isComplete",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_showEndOfPage": true,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "ariaLabel": "Continue",
-        "startText": "Begin",
-        "startAriaLabel": "Begin",
-        "finalText": "Finish",
-        "finalAriaLabel": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    }
-  },
-  {
-    "title": "New Component Title",
-    "displayTitle": "New Component Title",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 27,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64d34ce4d9db5173efdc2417",
-    "_parentId": "64d34ce4d9db5173efdc2416",
-    "_type": "block",
-    "_trickle": {
-      "_isEnabled": false,
-      "_isInherited": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_completionAttribute": "_isComplete",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_showEndOfPage": true,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "ariaLabel": "Continue",
-        "startText": "Begin",
-        "startAriaLabel": "Begin",
-        "finalText": "Finish",
-        "finalAriaLabel": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    }
-  },
-  {
-    "title": "New Component Title",
-    "displayTitle": "New Component Title",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 28,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64d34cf8d9db5173efdc241a",
-    "_parentId": "64d34cf8d9db5173efdc2419",
     "_type": "block",
     "_trickle": {
       "_isEnabled": false,
@@ -1378,60 +1968,6 @@
     "_ariaLevel": 0,
     "_id": "64d362b5d9db5173efdc2422",
     "_parentId": "64d362b5d9db5173efdc2421",
-    "_type": "block",
-    "_trickle": {
-      "_isEnabled": false,
-      "_isInherited": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_completionAttribute": "_isComplete",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_showEndOfPage": true,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "ariaLabel": "Continue",
-        "startText": "Begin",
-        "startAriaLabel": "Begin",
-        "finalText": "Finish",
-        "finalAriaLabel": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    }
-  },
-  {
-    "title": "New Component Title",
-    "displayTitle": "New Component Title",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 40,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64d363abd9db5173efdc2430",
-    "_parentId": "64d363abd9db5173efdc242f",
     "_type": "block",
     "_trickle": {
       "_isEnabled": false,

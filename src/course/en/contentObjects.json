@@ -260,47 +260,7 @@
       }
     }
   },
-  {
-    "title": "New Menu/Page Title",
-    "displayTitle": "New Menu/Page Title",
-    "body": "",
-    "_classes": "",
-    "subtitle": "",
-    "pageBody": "",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64d34a4fd9db5173efdc23fa",
-    "_parentId": "64d34979d9db5173efdc23e8",
-    "_type": "page",
-    "_aboutPage": {
-      "aboutCredit": "",
-      "SL_text": "",
-      "_items": []
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_ODILicence": {
-      "_items": []
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    }
-  },
+
   {
     "title": "New Menu/Page Title",
     "displayTitle": "New Menu/Page Title",
@@ -425,8 +385,8 @@
     }
   },
   {
-    "title": "New Menu/Page Title",
-    "displayTitle": "New Menu/Page Title",
+    "title": "Anonymising Data",
+    "displayTitle": "Anonymising Data",
     "body": "",
     "_classes": "",
     "subtitle": "",
@@ -466,8 +426,8 @@
     }
   },
   {
-    "title": "New Menu/Page Title",
-    "displayTitle": "New Menu/Page Title",
+    "title": "Ethics and Personal Data",
+    "displayTitle": "Ethics and Personal Data",
     "body": "",
     "_classes": "",
     "subtitle": "",
@@ -485,7 +445,7 @@
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
     "_id": "64d363abd9db5173efdc242e",
-    "_parentId": "64d3499cd9db5173efdc23ea",
+    "_parentId": "64d36356d9db5173efdc2427",
     "_type": "page",
     "_aboutPage": {
       "aboutCredit": "",
@@ -1188,93 +1148,6 @@
     }
   },
   {
-    "title": "5. Ethics in data collection",
-    "displayTitle": "5. Ethics in data collection",
-    "body": "",
-    "_classes": "",
-    "subtitle": "",
-    "pageBody": "",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64d34979d9db5173efdc23e8",
-    "_parentId": "course",
-    "_type": "menu",
-    "_graphic": {
-      "alt": "",
-      "src": ""
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_aboutPage": {
-      "aboutCredit": "",
-      "SL_text": "",
-      "_items": []
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_ODILicence": {
-      "_items": []
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_responsiveClasses": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_backgroundImage": {
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": null,
-          "_backgroundSize": null,
-          "_backgroundPosition": null
-        },
-        "_minimumHeights": {
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
     "title": "6. Bias and fairness in data and Al",
     "displayTitle": "6. Bias and fairness in data and Al",
     "body": "",
@@ -1294,93 +1167,6 @@
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
     "_id": "64d3498fd9db5173efdc23e9",
-    "_parentId": "course",
-    "_type": "menu",
-    "_graphic": {
-      "alt": "",
-      "src": ""
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_aboutPage": {
-      "aboutCredit": "",
-      "SL_text": "",
-      "_items": []
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_ODILicence": {
-      "_items": []
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_responsiveClasses": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_backgroundImage": {
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": null,
-          "_backgroundSize": null,
-          "_backgroundPosition": null
-        },
-        "_minimumHeights": {
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
-    "title": "7. Transparency and explainability",
-    "displayTitle": "7. Transparency and explainability",
-    "body": "",
-    "_classes": "",
-    "subtitle": "",
-    "pageBody": "",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64d3499cd9db5173efdc23ea",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
