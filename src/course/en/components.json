@@ -8236,7 +8236,7 @@
           "_classes": ""
         },
         {
-          "title": "Analysis:",
+          "title": "Analysis",
           "body": "<p>Once you know the situation to be analysed, then comes the hard work of gathering knowledge, evidence, views, potential harms, potential options and analysing each against existing legal, regulatory and ethical frameworks.</p>",
           "_imageAlignment": "full",
           "_graphic": {
@@ -8247,7 +8247,7 @@
           "_classes": ""
         },
         {
-          "title": "Decision:",
+          "title": "Decision",
           "body": "<p>After a thorough analysis comes the tough part of making a decision.</p><p>One of the challenges with the SAD model is that it does not promote the ongoing monitoring of the decision to see if it was, and still is, the best course of action. SAD can make you happy in the short term but it takes more than this to ensure ethical decisions are still relevant.&nbsp;</p>",
           "_imageAlignment": "full",
           "_graphic": {
@@ -8278,7 +8278,7 @@
       "_setCompletionOn": "allItems",
       "_items": [
         {
-          "title": "Action: ",
+          "title": "Action",
           "body": "<p>Take action to implement the decision, communicate clearly to stakeholders.</p>",
           "_imageAlignment": "full",
           "_graphic": {
@@ -8289,7 +8289,7 @@
           "_classes": ""
         },
         {
-          "title": "Monitor: ",
+          "title": "Monitor ",
           "body": "<p>Ethical decision-making must be cyclical in nature. It is essential to monitor the impact of your decision to ensure the desired outcomes are achieved and additional unintended consequences are identified and reviewed. If there are unintended consequences, these could possibly be new <strong>situations</strong> and the SAD-AM cycle begins again.</p>",
           "_imageAlignment": "full",
           "_graphic": {
@@ -8311,8 +8311,8 @@
       "_component": "matching",
       "_classes": "",
       "_layout": "full",
-      "title": "Matching",
-      "displayTitle": "Matching",
+      "title": "Which of the following are well defined and badly defined situations for ethical analysis",
+      "displayTitle": "Which of the following are well defined and badly defined situations for ethical analysis",
       "body": "<p>The four examples below are intended to be situations that are proposed for discussion on a company ethics panel.</p><p>Imagine you were sitting on this ethics panel.</p> Which two situations are poorly defined, and which two are more clearly defined and therefore easier to evaluate?</p>",
       "instruction": "Choose an option from each dropdown list and select Submit.",
       "ariaQuestion": "Question text specifically for screen readers.",
@@ -8406,7 +8406,7 @@
                 },
                 "_partlyCorrect": {
                     "notFinal": "",
-                    "final": "This feedback will appear if you answered part of the question correctly."
+                    "final": "Are you sure about that?><p>It's crucial to have well-defined scenarios as a foundation for making ethical decisions. How many services do you know who state that “we use information collected to improve our services”? This is very generic and lacks a clearly defined focus for discussion. As a result it is not possible to make an informed decision, which means that the provided may actually be non-compliant. The same is true of ethical decision-making. Care needs to be taken to carefully define the situation so an informed decision can be made.</p>"
                 }
             },
             "_comment": "You only need to include _buttons if you want to override the button labels that are set in course.json",
@@ -8447,7 +8447,7 @@
       "_layout": "full",
       "title": "Situation",
       "displayTitle": "Situation",
-      "body": "<p>Establishing a clear definition of the situation to be analysed</p><p>Being clear on the \"Situation\" is a fundamental step in ethical decision-making as it sets the foundation for the entire process. This phase involves identifying and understanding the ethical dilemma at hand. Clarity in defining the situation is crucial for several reasons:</p><ol>\n<li><strong>Contextual Understanding</strong>: Clearly defining the situation provides context and background information. It helps stakeholders understand the specific circumstances, parties involved, and the nature of the ethical challenge.</li>\n\n<li><strong>Stakeholder Identification</strong>: By clarifying the situation, you can identify all parties who may be affected by the decision. This includes individuals, groups, organisations, or communities that have a stake in the outcome.</li>\n\n<li><strong>Scope Delimitation</strong>: A well-defined situation helps establish the scope of the ethical evaluation. It outlines the boundaries of the ethical dilemma and prevents ambiguity that can lead to irrelevant considerations.</li>\n\n<li><strong>Issue Recognition</strong>: Clear definition of the situation enables the identification of the core ethical issue. This helps avoid confusion and ensures that the ethical evaluation remains focused on the essential aspects.</li>\n\n<li><strong>Informed Analysis</strong>: An accurately described situation provides the necessary information for ethical analysis. Ethical theories and principles can be applied more effectively when the situation is well-understood.</li>\n\n<li><strong>Ethical Implications</strong>: A precise understanding of the situation allows for a more comprehensive exploration of potential ethical implications. It helps uncover the different angles, consequences, and considerations associated with the dilemma.</li>\n\n<li><strong>Objective Decision-Making</strong>: Clarity in the situation promotes objective decision-making. A well-defined situation reduces the risk of bias or misinterpretation influencing the ethical evaluation.</li>\n\n<li><strong>Communication and Transparency</strong>: A clear description of the situation enables effective communication with stakeholders. Transparent communication builds trust and helps stakeholders understand the rationale behind the decisions made.</li>\n</ol><p>In essence, being clear on the situation is akin to laying the groundwork for a solid ethical evaluation. It ensures that all subsequent steps in the ethical decision-making process are rooted in a well-understood context, promoting thorough analysis, informed choices, and ethical integrity.</p>",
+      "body": "<h3 class=\"bold-color-text\">Establishing a clear definition of the situation to be analysed</h3><p>Being clear on the \"Situation\" is a fundamental step in ethical decision-making as it sets the foundation for the entire process. This phase involves identifying and understanding the ethical dilemma at hand. Clarity in defining the situation is crucial for several reasons:</p><ol>\n<li><strong>Contextual Understanding</strong>: Clearly defining the situation provides context and background information. It helps stakeholders understand the specific circumstances, parties involved, and the nature of the ethical challenge.</li>\n\n<li><strong>Stakeholder Identification</strong>: By clarifying the situation, you can identify all parties who may be affected by the decision. This includes individuals, groups, organisations, or communities that have a stake in the outcome.</li>\n\n<li><strong>Scope Delimitation</strong>: A well-defined situation helps establish the scope of the ethical evaluation. It outlines the boundaries of the ethical dilemma and prevents ambiguity that can lead to irrelevant considerations.</li>\n\n<li><strong>Issue Recognition</strong>: Clear definition of the situation enables the identification of the core ethical issue. This helps avoid confusion and ensures that the ethical evaluation remains focused on the essential aspects.</li>\n\n<li><strong>Informed Analysis</strong>: An accurately described situation provides the necessary information for ethical analysis. Ethical theories and principles can be applied more effectively when the situation is well-understood.</li>\n\n<li><strong>Ethical Implications</strong>: A precise understanding of the situation allows for a more comprehensive exploration of potential ethical implications. It helps uncover the different angles, consequences, and considerations associated with the dilemma.</li>\n\n<li><strong>Objective Decision-Making</strong>: Clarity in the situation promotes objective decision-making. A well-defined situation reduces the risk of bias or misinterpretation influencing the ethical evaluation.</li>\n\n<li><strong>Communication and Transparency</strong>: A clear description of the situation enables effective communication with stakeholders. Transparent communication builds trust and helps stakeholders understand the rationale behind the decisions made.</li>\n</ol><p>In essence, being clear on the situation is akin to laying the groundwork for a solid ethical evaluation. It ensures that all subsequent steps in the ethical decision-making process are rooted in a well-understood context, promoting thorough analysis, informed choices, and ethical integrity.</p>",
       "instruction": "",
       "_shouldCollapseItems": true,
       "_shouldExpandFirstItem": false,
@@ -8865,9 +8865,9 @@
       "_type": "component",
       "_component": "mcq",
       "_classes": "",
-      "_layout": "left",
-      "title": "Q1) Defining situations",
-      "displayTitle": "Q1) Defining situations",
+      "_layout": "right",
+      "title": "Defining situations",
+      "displayTitle": "",
       "body": "",
       "instruction": "Choose one option then select Submit.",
       "ariaQuestion": "Question text specifically for screen readers.",
@@ -9030,9 +9030,9 @@
       "_type": "component",
       "_component": "mcq",
       "_classes": "",
-      "_layout": "left",
+      "_layout": "right",
       "title": "Q3) How to decide?",
-      "displayTitle": "Q3) How to decide?",
+      "displayTitle": "",
       "body": "",
       "instruction": "Choose one option then select Submit.",
       "ariaQuestion": "Question text specifically for screen readers.",
@@ -9105,8 +9105,8 @@
       }
     },
     {
-      "_id": "m2-07-ethical-dm-c-40",
-      "_parentId": "m2-07-ethical-dm-b-1",
+      "_id": "m2-07-ethical-dm-c-22",
+      "_parentId": "m2-07-ethical-dm-b-22",
       "_type": "component",
       "_component": "mcq",
       "_classes": "",
@@ -9190,9 +9190,9 @@
       "_type": "component",
       "_component": "mcq",
       "_classes": "",
-      "_layout": "left",
+      "_layout": "right",
       "title": "Q5) Why monitor?",
-      "displayTitle": "Q5) Why monitor?",
+      "displayTitle": "",
       "body": "",
       "instruction": "Choose one option then select Submit.",
       "ariaQuestion": "Question text specifically for screen readers.",
@@ -9545,7 +9545,7 @@
       "_type": "component",
       "_component": "graphic",
       "_classes": "",
-      "_layout": "right",
+      "_layout": "left",
       "title": "graphic for Q1) Defining situations?",
       "displayTitle": "",
       "body": "",
@@ -9597,7 +9597,7 @@
       "_type": "component",
       "_component": "graphic",
       "_classes": "",
-      "_layout": "right",
+      "_layout": "left",
       "title": "graphic for Q3) How to decide?",
       "displayTitle": "",
       "body": "",
@@ -9649,7 +9649,7 @@
       "_type": "component",
       "_component": "graphic",
       "_classes": "",
-      "_layout": "right",
+      "_layout": "left",
       "title": "graphic for Q5) Why monitor?",
       "displayTitle": "",
       "body": "",
