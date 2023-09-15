@@ -8357,13 +8357,8 @@
                       "text": "Bad",
                       "_isCorrect": true,
                       "_score": 0
-                  },
-                  {
-                      "text": "Option three (correct)",
-                      "_isCorrect": true,
-                      "_score": 1
                   }
-              ]
+                ]
           },
           {
               "text": " Implementing Facial Recognition for Secure Access to Company Facilities",
