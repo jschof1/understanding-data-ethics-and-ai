@@ -1806,11 +1806,11 @@
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "50cd2a8785a924e204ab876d46a71c045cb0f0fc.png",
-      "small": "50cd2a8785a924e204ab876d46a71c045cb0f0fc.png",
-      "attribution": "NO ATTRIBUTION",
+      "large": "course/en/assets/50cd2a8785a924e204ab876d46a71c045cb0f0fc.png",
+      "small": "course/en/assets/50cd2a8785a924e204ab876d46a71c045cb0f0fc.png",
+      "attribution": "<a href=\"theodi.org\" target=\"_blank\">ODI</a> <span class='assetLicence'>[All rights reserved]</span>",
       "_url": "",
-      "_target": ""
+      "_target": null
     },
     "_isScrollable": false,
     "_defaultScrollPercent": 0,
