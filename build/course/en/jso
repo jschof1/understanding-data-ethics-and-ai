@@ -1,0 +1,1131 @@
+[
+    {
+      "_id": "4c-1",
+      "_parentId": "4p-1",
+      "_type": "component",
+      "_component": "selectchoice",
+      "_classes": "",
+      "_layout": "full",
+      "title": "Select Choice",
+      "displayTitle": "Select Choice",
+      "body": "",
+      "instruction": "",
+      "_attempts": 1,
+      "_shouldDisplayAttempts": false,
+      "_shouldResetAllAnswers": false,
+      "_isRandom": false,
+      "_questionWeight": 1,
+      "_canShowModelAnswer": true,
+      "_canShowFeedback": true,
+      "_canShowMarking": true,
+      "_recordInteraction": true,
+      "_hasItemScoring": true,
+      "_choices": [
+        {
+          "text": "Very important",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        },
+        {
+          "text": "Secondary consideration",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        },
+        {
+          "text": "not important to me",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        }
+      ],
+      "_items": [
+        {
+          "text": "I would consider the potential consequences of confronting my coworker. If exposing the truth could harm the team's dynamics and jeopardise the project, I might choose to address the issue privately and encourage a collaborative approach going forward.",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          },
+          "_shouldBeSelected": 1
+        }
+      ],
+      "_feedback": {
+        "title": "",
+        "correct": "<p>A utilitarian approach might prioritise the overall well-being of the team and the project's success. The focus is on achieving the best outcome for everyone involved, even if it means avoiding direct confrontation.</p>",
+        "_incorrect": {
+          "notFinal": "",
+          "final": "<p>A utilitarian approach might prioritise the overall well-being of the team and the project's success. The focus is on achieving the best outcome for everyone involved, even if it means avoiding direct confrontation.</p>"
+        },
+        "_partlyCorrect": {
+          "notFinal": "",
+          "final": "<p>A utilitarian approach might prioritise the overall well-being of the team and the project's success. The focus is on achieving the best outcome for everyone involved, even if it means avoiding direct confrontation.</p>"
+        }
+      },
+      "_buttons": {
+        "_submit": {
+          "buttonText": "Submit",
+          "ariaLabel": "Select here to submit your answer."
+        },
+        "_reset": {
+          "buttonText": "Reset",
+          "ariaLabel": ""
+        },
+        "_showCorrectAnswer": {
+          "buttonText": "Correct Answer",
+          "ariaLabel": ""
+        },
+        "_hideCorrectAnswer": {
+          "buttonText": "My Answer",
+          "ariaLabel": ""
+        },
+        "_showFeedback": {
+          "buttonText": "Show feedback",
+          "ariaLabel": ""
+        },
+        "remainingAttemptsText": "attempts remaining",
+        "remainingAttemptText": "final attempt"
+      }
+    },
+    {
+      "_id": "4c-2",
+      "_type": "component",
+      "_component": "selectchoice",
+      "_classes": "",
+      "_layout": "full",
+      "title": "Select Choice",
+      "displayTitle": "Select Choice",
+      "body": "",
+      "instruction": "",
+      "_attempts": 1,
+      "_shouldDisplayAttempts": false,
+      "_shouldResetAllAnswers": false,
+      "_isRandom": false,
+      "_questionWeight": 1,
+      "_canShowModelAnswer": true,
+      "_canShowFeedback": true,
+      "_canShowMarking": true,
+      "_recordInteraction": true,
+      "_hasItemScoring": true,
+      "_choices": [
+        {
+          "text": "Very important",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        },
+        {
+          "text": "Secondary consideration",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        },
+        {
+          "text": "not important to me",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        }
+      ],
+      "_items": [
+        {
+          "text": "I would feel compelled to uphold the principle of honesty and fairness. I would confront my coworker privately and share my concerns with them, emphasising the importance of acknowledging the team's contributions accurately.",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          },
+          "_shouldBeSelected": 1
+        }
+      ],
+      "_feedback": {
+        "title": "",
+        "correct": "<p>A deontological approach places a strong emphasis on moral duties and principles, such as truthfulness and fairness, regardless of the potential consequences. Upholding the ethical rule of honesty is the primary driver of the decision.</p>",
+        "_incorrect": {
+          "notFinal": "",
+          "final": "<p>A deontological approach places a strong emphasis on moral duties and principles, such as truthfulness and fairness, regardless of the potential consequences. Upholding the ethical rule of honesty is the primary driver of the decision.</p>"
+        },
+        "_partlyCorrect": {
+          "notFinal": "",
+          "final": "<p>A deontological approach places a strong emphasis on moral duties and principles, such as truthfulness and fairness, regardless of the potential consequences. Upholding the ethical rule of honesty is the primary driver of the decision.</p>"
+        }
+      },
+      "_buttons": {
+        "_submit": {
+          "buttonText": "Submit",
+          "ariaLabel": "Select here to submit your answer."
+        },
+        "_reset": {
+          "buttonText": "Reset",
+          "ariaLabel": ""
+        },
+        "_showCorrectAnswer": {
+          "buttonText": "Correct Answer",
+          "ariaLabel": ""
+        },
+        "_hideCorrectAnswer": {
+          "buttonText": "My Answer",
+          "ariaLabel": ""
+        },
+        "_showFeedback": {
+          "buttonText": "Show feedback",
+          "ariaLabel": ""
+        },
+        "remainingAttemptsText": "attempts remaining",
+        "remainingAttemptText": "final attempt"
+      }
+    },
+    {
+      "_id": "4c-3",
+      "_type": "component",
+      "_component": "selectchoice",
+      "_classes": "",
+      "_layout": "full",
+      "title": "Select Choice",
+      "displayTitle": "Select Choice",
+      "body": "",
+      "instruction": "",
+      "_attempts": 1,
+      "_shouldDisplayAttempts": false,
+      "_shouldResetAllAnswers": false,
+      "_isRandom": false,
+      "_questionWeight": 1,
+      "_canShowModelAnswer": true,
+      "_canShowFeedback": true,
+      "_canShowMarking": true,
+      "_recordInteraction": true,
+      "_hasItemScoring": true,
+      "_choices": [
+        {
+          "text": "Very important",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        },
+        {
+          "text": "Secondary consideration",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        },
+        {
+          "text": "not important to me",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        }
+      ],
+      "_items": [
+        {
+          "text": "My instinct would be to address the issue openly and assertively while maintaining a calm and respectful demeanour. I believe in fostering a workplace environment built on integrity and open communication.",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          },
+          "_shouldBeSelected": 1
+        }
+      ],
+      "_feedback": {
+        "title": "",
+        "correct": "<p>A virtue ethics perspective focuses on developing positive character traits and virtues. The emphasis is on being honest, assertive, and fostering integrity in the workplace.</p>",
+        "_incorrect": {
+          "notFinal": "",
+          "final": "<p>A virtue ethics perspective focuses on developing positive character traits and virtues. The emphasis is on being honest, assertive, and fostering integrity in the workplace.</p>"
+        },
+        "_partlyCorrect": {
+          "notFinal": "",
+          "final": "<p>A virtue ethics perspective focuses on developing positive character traits and virtues. The emphasis is on being honest, assertive, and fostering integrity in the workplace.</p>"
+        }
+      },
+      "_buttons": {
+        "_submit": {
+          "buttonText": "Submit",
+          "ariaLabel": "Select here to submit your answer."
+        },
+        "_reset": {
+          "buttonText": "Reset",
+          "ariaLabel": ""
+        },
+        "_showCorrectAnswer": {
+          "buttonText": "Correct Answer",
+          "ariaLabel": ""
+        },
+        "_hideCorrectAnswer": {
+          "buttonText": "My Answer",
+          "ariaLabel": ""
+        },
+        "_showFeedback": {
+          "buttonText": "Show feedback",
+          "ariaLabel": ""
+        },
+        "remainingAttemptsText": "attempts remaining",
+        "remainingAttemptText": "final attempt"
+      }
+    },
+    {
+      "_id": "4c-4",
+      "_type": "component",
+      "_component": "selectchoice",
+      "_classes": "",
+      "_layout": "full",
+      "title": "Select Choice",
+      "displayTitle": "Select Choice",
+      "body": "",
+      "instruction": "",
+      "_attempts": 1,
+      "_shouldDisplayAttempts": false,
+      "_shouldResetAllAnswers": false,
+      "_isRandom": false,
+      "_questionWeight": 1,
+      "_canShowModelAnswer": true,
+      "_canShowFeedback": true,
+      "_canShowMarking": true,
+      "_recordInteraction": true,
+      "_hasItemScoring": true,
+      "_choices": [
+        {
+          "text": "Very important",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        },
+        {
+          "text": "Secondary consideration",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        },
+        {
+          "text": "not important to me",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        }
+      ],
+      "_items": [
+        {
+          "text": "I would discuss the situation with my coworker and supervisor to ensure that credit is fairly distributed among the team members.",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          },
+          "_shouldBeSelected": 1
+        }
+      ],
+      "_feedback": {
+        "title": "",
+        "correct": "<p>A <strong>justice and fairness</strong> focuses on fairness, addressing biases, and striving for equitable outcomes.</p>",
+        "_incorrect": {
+          "notFinal": "",
+          "final": "<p>A <strong>justice and fairness</strong> focuses on fairness, addressing biases, and striving for equitable outcomes.</p>"
+        },
+        "_partlyCorrect": {
+          "notFinal": "",
+          "final": "<p>A <strong>justice and fairness</strong> perspective focuses on fairness, addressing biases, and striving for equitable outcomes.</p>"
+        }
+      },
+      "_buttons": {
+        "_submit": {
+          "buttonText": "Submit",
+          "ariaLabel": "Select here to submit your answer."
+        },
+        "_reset": {
+          "buttonText": "Reset",
+          "ariaLabel": ""
+        },
+        "_showCorrectAnswer": {
+          "buttonText": "Correct Answer",
+          "ariaLabel": ""
+        },
+        "_hideCorrectAnswer": {
+          "buttonText": "My Answer",
+          "ariaLabel": ""
+        },
+        "_showFeedback": {
+          "buttonText": "Show feedback",
+          "ariaLabel": ""
+        },
+        "remainingAttemptsText": "attempts remaining",
+        "remainingAttemptText": "final attempt"
+      }
+    },
+    {
+      "_id": "4c-5",
+      "_type": "component",
+      "_component": "selectchoice",
+      "_classes": "",
+      "_layout": "full",
+      "title": "Select Choice",
+      "displayTitle": "Select Choice",
+      "body": "",
+      "instruction": "",
+      "_attempts": 1,
+      "_shouldDisplayAttempts": false,
+      "_shouldResetAllAnswers": false,
+      "_isRandom": false,
+      "_questionWeight": 1,
+      "_canShowModelAnswer": true,
+      "_canShowFeedback": true,
+      "_canShowMarking": true,
+      "_recordInteraction": true,
+      "_hasItemScoring": true,
+      "_choices": [
+        {
+          "text": "Very important",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        },
+        {
+          "text": "Secondary consideration",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        },
+        {
+          "text": "not important to me",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        }
+      ],
+      "_items": [
+        {
+          "text": "I would recognise that my coworker's actions undermine the rights of the team members who deserve credit for their work. I would stand up for their rights and advocate for proper recognition.",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          },
+          "_shouldBeSelected": 1
+        }
+      ],
+      "_feedback": {
+        "title": "",
+        "correct": "<p>A rights ethics approach centres on upholding individual rights and ensuring fairness. The focus is on advocating for the rights of team members who deserve proper acknowledgment.</p>",
+        "_incorrect": {
+          "notFinal": "",
+          "final": "<p>A rights ethics approach centres on upholding individual rights and ensuring fairness. The focus is on advocating for the rights of team members who deserve proper acknowledgment.</p>"
+        },
+        "_partlyCorrect": {
+          "notFinal": "",
+          "final": "<p>A rights ethics approach centres on upholding individual rights and ensuring fairness. The focus is on advocating for the rights of team members who deserve proper acknowledgment.</p>"
+        }
+      },
+      "_buttons": {
+        "_submit": {
+          "buttonText": "Submit",
+          "ariaLabel": "Select here to submit your answer."
+        },
+        "_reset": {
+          "buttonText": "Reset",
+          "ariaLabel": ""
+        },
+        "_showCorrectAnswer": {
+          "buttonText": "Correct Answer",
+          "ariaLabel": ""
+        },
+        "_hideCorrectAnswer": {
+          "buttonText": "My Answer",
+          "ariaLabel": ""
+        },
+        "_showFeedback": {
+          "buttonText": "Show feedback",
+          "ariaLabel": ""
+        },
+        "remainingAttemptsText": "attempts remaining",
+        "remainingAttemptText": "final attempt"
+      }
+    },
+    {
+      "_id": "4c-6",
+      "_type": "component",
+      "_component": "selectchoice",
+      "_classes": "",
+      "_layout": "full",
+      "title": "Select Choice",
+      "displayTitle": "Select Choice",
+      "body": "",
+      "instruction": "",
+      "_attempts": 1,
+      "_shouldDisplayAttempts": false,
+      "_shouldResetAllAnswers": false,
+      "_isRandom": false,
+      "_questionWeight": 1,
+      "_canShowModelAnswer": true,
+      "_canShowFeedback": true,
+      "_canShowMarking": true,
+      "_recordInteraction": true,
+      "_hasItemScoring": true,
+      "_choices": [
+        {
+          "text": "Very important",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        },
+        {
+          "text": "Secondary consideration",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        },
+        {
+          "text": "not important to me",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        }
+      ],
+      "_items": [
+        {
+          "text": "I would approach my coworker with empathy, aiming to understand their perspective while also expressing how the situation has affected the team's morale. Prioritising open dialogue and relationships guides my response.",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          },
+          "_shouldBeSelected": 1
+        }
+      ],
+      "_feedback": {
+        "title": "",
+        "correct": "An ethics of care perspective focuses on empathy, maintaining relationships, and considering the impact on team dynamics.</p>",
+        "_incorrect": {
+          "notFinal": "",
+          "final": "An ethics of care perspective focuses on empathy, maintaining relationships, and considering the impact on team dynamics.</p>"
+        },
+        "_partlyCorrect": {
+          "notFinal": "",
+          "final": "An ethics of care perspective focuses on empathy, maintaining relationships, and considering the impact on team dynamics.</p>"
+        }
+      },
+      "_buttons": {
+        "_submit": {
+          "buttonText": "Submit",
+          "ariaLabel": "Select here to submit your answer."
+        },
+        "_reset": {
+          "buttonText": "Reset",
+          "ariaLabel": ""
+        },
+        "_showCorrectAnswer": {
+          "buttonText": "Correct Answer",
+          "ariaLabel": ""
+        },
+        "_hideCorrectAnswer": {
+          "buttonText": "My Answer",
+          "ariaLabel": ""
+        },
+        "_showFeedback": {
+          "buttonText": "Show feedback",
+          "ariaLabel": ""
+        },
+        "remainingAttemptsText": "attempts remaining",
+        "remainingAttemptText": "final attempt"
+      }
+    },
+    {
+      "_id": "4c-7",
+      "_type": "component",
+      "_component": "selectchoice",
+      "_classes": "",
+      "_layout": "full",
+      "title": "Select Choice",
+      "displayTitle": "Select Choice",
+      "body": "",
+      "instruction": "",
+      "_attempts": 1,
+      "_shouldDisplayAttempts": false,
+      "_shouldResetAllAnswers": false,
+      "_isRandom": false,
+      "_questionWeight": 1,
+      "_canShowModelAnswer": true,
+      "_canShowFeedback": true,
+      "_canShowMarking": true,
+      "_recordInteraction": true,
+      "_hasItemScoring": true,
+      "_choices": [
+        {
+          "text": "Very important",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        },
+        {
+          "text": "Secondary consideration",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        },
+        {
+          "text": "not important to me",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        }
+      ],
+      "_items": [
+        {
+          "text": "I would weigh the potential environmental impact of reporting the violation against the job loss for my coworkers. If the environmental harm is severe and widespread, I might choose to report the violation to prevent further damage.",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          },
+          "_shouldBeSelected": 1
+        }
+      ],
+      "_feedback": {
+        "title": "",
+        "correct": "<p>A utilitarian approach prioritises the overall well-being and happiness of the affected community and the environment. The focus is on maximising positive outcomes for the greater good, even if it means some individuals might suffer negative consequences.</p>",
+        "_incorrect": {
+          "notFinal": "",
+          "final": "<p>A utilitarian approach prioritises the overall well-being and happiness of the affected community and the environment. The focus is on maximising positive outcomes for the greater good, even if it means some individuals might suffer negative consequences.</p>"
+        },
+        "_partlyCorrect": {
+          "notFinal": "",
+          "final": "<p>A utilitarian approach prioritises the overall well-being and happiness of the affected community and the environment. The focus is on maximising positive outcomes for the greater good, even if it means some individuals might suffer negative consequences.</p>"
+        }
+      },
+      "_buttons": {
+        "_submit": {
+          "buttonText": "Submit",
+          "ariaLabel": "Select here to submit your answer."
+        },
+        "_reset": {
+          "buttonText": "Reset",
+          "ariaLabel": ""
+        },
+        "_showCorrectAnswer": {
+          "buttonText": "Correct Answer",
+          "ariaLabel": ""
+        },
+        "_hideCorrectAnswer": {
+          "buttonText": "My Answer",
+          "ariaLabel": ""
+        },
+        "_showFeedback": {
+          "buttonText": "Show feedback",
+          "ariaLabel": ""
+        },
+        "remainingAttemptsText": "attempts remaining",
+        "remainingAttemptText": "final attempt"
+      }
+    },
+    {
+      "_id": "4c-8",
+      "_type": "component",
+      "_component": "selectchoice",
+      "_classes": "",
+      "_layout": "full",
+      "title": "Select Choice",
+      "displayTitle": "Select Choice",
+      "body": "",
+      "instruction": "",
+      "_attempts": 1,
+      "_shouldDisplayAttempts": false,
+      "_shouldResetAllAnswers": false,
+      "_isRandom": false,
+      "_questionWeight": 1,
+      "_canShowModelAnswer": true,
+      "_canShowFeedback": true,
+      "_canShowMarking": true,
+      "_recordInteraction": true,
+      "_hasItemScoring": true,
+      "_choices": [
+        {
+          "text": "Very important",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        },
+        {
+          "text": "Secondary consideration",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        },
+        {
+          "text": "not important to me",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        }
+      ],
+      "_items": [
+        {
+          "text": "My sense of duty would guide me to report the environmental violation regardless of the potential job loss. Upholding the principles of environmental stewardship and responsibility is of utmost importance to me.",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          },
+          "_shouldBeSelected": 1
+        }
+      ],
+      "_feedback": {
+        "title": "",
+        "correct": "<p>A deontological approach places a strong emphasis on moral duties and principles, such as environmental responsibility. Upholding these principles takes precedence over the potential job loss for coworkers.</p>",
+        "_incorrect": {
+          "notFinal": "",
+          "final": "<p>A deontological approach places a strong emphasis on moral duties and principles, such as environmental responsibility. Upholding these principles takes precedence over the potential job loss for coworkers.</p>"
+        },
+        "_partlyCorrect": {
+          "notFinal": "",
+          "final": "<p>A deontological approach places a strong emphasis on moral duties and principles, such as environmental responsibility. Upholding these principles takes precedence over the potential job loss for coworkers.</p>"
+        }
+      },
+      "_buttons": {
+        "_submit": {
+          "buttonText": "Submit",
+          "ariaLabel": "Select here to submit your answer."
+        },
+        "_reset": {
+          "buttonText": "Reset",
+          "ariaLabel": ""
+        },
+        "_showCorrectAnswer": {
+          "buttonText": "Correct Answer",
+          "ariaLabel": ""
+        },
+        "_hideCorrectAnswer": {
+          "buttonText": "My Answer",
+          "ariaLabel": ""
+        },
+        "_showFeedback": {
+          "buttonText": "Show feedback",
+          "ariaLabel": ""
+        },
+        "remainingAttemptsText": "attempts remaining",
+        "remainingAttemptText": "final attempt"
+      }
+    },
+    {
+      "_id": "4c-9",
+      "_type": "component",
+      "_component": "selectchoice",
+      "_classes": "",
+      "_layout": "full",
+      "title": "Select Choice",
+      "displayTitle": "Select Choice",
+      "body": "",
+      "instruction": "",
+      "_attempts": 1,
+      "_shouldDisplayAttempts": false,
+      "_shouldResetAllAnswers": false,
+      "_isRandom": false,
+      "_questionWeight": 1,
+      "_canShowModelAnswer": true,
+      "_canShowFeedback": true,
+      "_canShowMarking": true,
+      "_recordInteraction": true,
+      "_hasItemScoring": true,
+      "_choices": [
+        {
+          "text": "Very important",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        },
+        {
+          "text": "Secondary consideration",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        },
+        {
+          "text": "not important to me",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        }
+      ],
+      "_items": [
+        {
+          "text": "I would act out of a sense of environmental responsibility and courage. Reporting the violation aligns with my values of being a responsible steward of the environment and taking action for the greater good.",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          },
+          "_shouldBeSelected": 1
+        }
+      ],
+      "_feedback": {
+        "title": "",
+        "correct": "A virtue ethics perspective focuses on cultivating positive character traits and virtues. The emphasis is on displaying virtues such as environmental responsibility, courage, and a commitment to the greater good.",
+        "_incorrect": {
+          "notFinal": "",
+          "final": "A virtue ethics perspective focuses on cultivating positive character traits and virtues. The emphasis is on displaying virtues such as environmental responsibility, courage, and a commitment to the greater good."
+        },
+        "_partlyCorrect": {
+          "notFinal": "",
+          "final": "A virtue ethics perspective focuses on cultivating positive character traits and virtues. The emphasis is on displaying virtues such as environmental responsibility, courage, and a commitment to the greater good."
+        }
+      },
+      "_buttons": {
+        "_submit": {
+          "buttonText": "Submit",
+          "ariaLabel": "Select here to submit your answer."
+        },
+        "_reset": {
+          "buttonText": "Reset",
+          "ariaLabel": ""
+        },
+        "_showCorrectAnswer": {
+          "buttonText": "Correct Answer",
+          "ariaLabel": ""
+        },
+        "_hideCorrectAnswer": {
+          "buttonText": "My Answer",
+          "ariaLabel": ""
+        },
+        "_showFeedback": {
+          "buttonText": "Show feedback",
+          "ariaLabel": ""
+        },
+        "remainingAttemptsText": "attempts remaining",
+        "remainingAttemptText": "final attempt"
+      }
+    },
+    {
+      "_id": "4c-10",
+      "_type": "component",
+      "_component": "selectchoice",
+      "_classes": "",
+      "_layout": "full",
+      "title": "Select Choice",
+      "displayTitle": "Select Choice",
+      "body": "",
+      "instruction": "",
+      "_attempts": 1,
+      "_shouldDisplayAttempts": false,
+      "_shouldResetAllAnswers": false,
+      "_isRandom": false,
+      "_questionWeight": 1,
+      "_canShowModelAnswer": true,
+      "_canShowFeedback": true,
+      "_canShowMarking": true,
+      "_recordInteraction": true,
+      "_hasItemScoring": true,
+      "_choices": [
+        {
+          "text": "Very important",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        },
+        {
+          "text": "Secondary consideration",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        },
+        {
+          "text": "not important to me",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        }
+      ],
+      "_items": [
+        {
+          "text": "I might consider the cultural norms and attitudes towards environmental issues within the workplace and the broader community. If environmental concerns are not well-acknowledged, I might weigh the potential consequences differently.",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          },
+          "_shouldBeSelected": 1
+        }
+      ],
+      "_feedback": {
+        "title": "",
+        "correct": "<p>A relativist perspective takes into account the cultural context and norms surrounding environmental issues. The response considers the cultural attitudes toward environmental concerns and how they might influence the decision.</p>",
+        "_incorrect": {
+          "notFinal": "",
+          "final": "<p>A relativist perspective takes into account the cultural context and norms surrounding environmental issues. The response considers the cultural attitudes toward environmental concerns and how they might influence the decision.</p>"
+        },
+        "_partlyCorrect": {
+          "notFinal": "",
+          "final": "<p>A relativist perspective takes into account the cultural context and norms surrounding environmental issues. The response considers the cultural attitudes toward environmental concerns and how they might influence the decision.</p>"
+        }
+      },
+      "_buttons": {
+        "_submit": {
+          "buttonText": "Submit",
+          "ariaLabel": "Select here to submit your answer."
+        },
+        "_reset": {
+          "buttonText": "Reset",
+          "ariaLabel": ""
+        },
+        "_showCorrectAnswer": {
+          "buttonText": "Correct Answer",
+          "ariaLabel": ""
+        },
+        "_hideCorrectAnswer": {
+          "buttonText": "My Answer",
+          "ariaLabel": ""
+        },
+        "_showFeedback": {
+          "buttonText": "Show feedback",
+          "ariaLabel": ""
+        },
+        "remainingAttemptsText": "attempts remaining",
+        "remainingAttemptText": "final attempt"
+      }
+    },
+    {
+      "_id": "4c-11",
+      "_type": "component",
+      "_component": "selectchoice",
+      "_classes": "",
+      "_layout": "full",
+      "title": "Select Choice",
+      "displayTitle": "Select Choice",
+      "body": "",
+      "instruction": "",
+      "_attempts": 1,
+      "_shouldDisplayAttempts": false,
+      "_shouldResetAllAnswers": false,
+      "_isRandom": false,
+      "_questionWeight": 1,
+      "_canShowModelAnswer": true,
+      "_canShowFeedback": true,
+      "_canShowMarking": true,
+      "_recordInteraction": true,
+      "_hasItemScoring": true,
+      "_choices": [
+        {
+          "text": "Very important",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        },
+        {
+          "text": "Secondary consideration",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        },
+        {
+          "text": "not important to me",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        }
+      ],
+      "_items": [
+        {
+          "text": "I recognize that the environment has rights too, and preserving it is crucial for the well-being of present and future generations. I would report the violation to uphold the rights of the environment.",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          },
+          "_shouldBeSelected": 1
+        }
+      ],
+      "_feedback": {
+        "title": "",
+        "correct": "A rights ethics approach centres on upholding the rights of all beings, including the environment. The focus is on advocating for the rights of the environment and ensuring environmental justice.",
+        "_incorrect": {
+          "notFinal": "",
+          "final": "A rights ethics approach centres on upholding the rights of all beings, including the environment. The focus is on advocating for the rights of the environment and ensuring environmental justice."
+        },
+        "_partlyCorrect": {
+          "notFinal": "",
+          "final": "A rights ethics approach centres on upholding the rights of all beings, including the environment. The focus is on advocating for the rights of the environment and ensuring environmental justice."
+        }
+      },
+      "_buttons": {
+        "_submit": {
+          "buttonText": "Submit",
+          "ariaLabel": "Select here to submit your answer."
+        },
+        "_reset": {
+          "buttonText": "Reset",
+          "ariaLabel": ""
+        },
+        "_showCorrectAnswer": {
+          "buttonText": "Correct Answer",
+          "ariaLabel": ""
+        },
+        "_hideCorrectAnswer": {
+          "buttonText": "My Answer",
+          "ariaLabel": ""
+        },
+        "_showFeedback": {
+          "buttonText": "Show feedback",
+          "ariaLabel": ""
+        },
+        "remainingAttemptsText": "attempts remaining",
+        "remainingAttemptText": "final attempt"
+      }
+    },
+    {
+      "_id": "4c-12",
+      "_type": "component",
+      "_component": "selectchoice",
+      "_classes": "",
+      "_layout": "full",
+      "title": "Select Choice",
+      "displayTitle": "Select Choice",
+      "body": "",
+      "instruction": "",
+      "_attempts": 1,
+      "_shouldDisplayAttempts": false,
+      "_shouldResetAllAnswers": false,
+      "_isRandom": false,
+      "_questionWeight": 1,
+      "_canShowModelAnswer": true,
+      "_canShowFeedback": true,
+      "_canShowMarking": true,
+      "_recordInteraction": true,
+      "_hasItemScoring": true,
+      "_choices": [
+        {
+          "text": "Very important",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        },
+        {
+          "text": "Secondary consideration",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        },
+        {
+          "text": "not important to me",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        }
+      ],
+      "_items": [
+        {
+          "text": "I would approach my coworker with empathy, aiming to understand their perspective while also expressing how the situation has affected the team's morale. Prioritising open dialogue and relationships guides my response.",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          },
+          "_shouldBeSelected": 1
+        }
+      ],
+      "_feedback": {
+        "title": "",
+        "correct": "<p>A communitarian ethics perspective emphasises the well-being of the community and future generations. The focus is on preserving the common good, even if it means some individuals may face short-term hardships.</p>",
+        "_incorrect": {
+          "notFinal": "",
+          "final": "<p>A communitarian ethics perspective emphasises the well-being of the community and future generations. The focus is on preserving the common good, even if it means some individuals may face short-term hardships.</p>"
+        },
+        "_partlyCorrect": {
+          "notFinal": "",
+          "final": "<p>A communitarian ethics perspective emphasises the well-being of the community and future generations. The focus is on preserving the common good, even if it means some individuals may face short-term hardships.</p>"
+        }
+      },
+      "_buttons": {
+        "_submit": {
+          "buttonText": "Submit",
+          "ariaLabel": "Select here to submit your answer."
+        },
+        "_reset": {
+          "buttonText": "Reset",
+          "ariaLabel": ""
+        },
+        "_showCorrectAnswer": {
+          "buttonText": "Correct Answer",
+          "ariaLabel": ""
+        },
+        "_hideCorrectAnswer": {
+          "buttonText": "My Answer",
+          "ariaLabel": ""
+        },
+        "_showFeedback": {
+          "buttonText": "Show feedback",
+          "ariaLabel": ""
+        },
+        "remainingAttemptsText": "attempts remaining",
+        "remainingAttemptText": "final attempt"
+      }
+    }
+  ]

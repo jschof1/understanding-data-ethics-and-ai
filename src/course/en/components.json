@@ -11,7 +11,7 @@
     "_disableAccessibilityState": false,
     "title": "Why is data ethics important?",
     "displayTitle": "Why is data ethics important?",
-    "body": "<p>In our modern digital age, data has become an invaluable resource, driving innovation and shaping every facet of society. However, unethical data practices can lead to discrimination, unintended harmful consequences, and exacerbate societal inequalities. This can lead to people losing trust in data and the products and services that use it.</p> <p>But it isn&rsquo;t all bad news. Understanding the dual potential of data &mdash; for both benefit and harm &mdash; is a crucial step to ensuring the delivery of impactful and valuable data centric solutions. Delving into the ethical dimensions amidst rapid technological advancements is imperative to ensure that our strides in AI and tech-driven solutions are both effective and equitable.</p> <p>Data ethics is essential to ensure that data is wielded responsibly, keeping harmful impacts to a minimum.&nbsp;</p> <p>In this module we explore why data ethics is important, and examine real-world examples of what can happen when data ethics is not considered and the challenges this creates. In this module you will:</p> <ul> <li>Develop your understanding of data ethics</li> <li>Explore the impact of unethical data practices</li> <li>Consider the intersections of data ethics and data governance</li> <li>Examine the differences in data ethics considerations across the data lifecycle</li> </ul>",
+    "body": "<p>In our modern digital age, data has become an invaluable resource, driving innovation and shaping every facet of society. However, unethical-l data practices can lead to discrimination, unintended harmful consequences, and exacerbate societal inequalities. This can lead to people losing trust in data and the products and services that use it.</p> <p>But it isn&rsquo;t all bad news. Understanding the dual potential of data &mdash; for both benefit and harm &mdash; is a crucial step to ensuring the delivery of impactful and valuable data centric solutions. Delving into the ethical-l dimensions amidst rapid technological advancements is imperative to ensure that our strides in AI and tech-driven solutions are both effective and equitable.</p> <p>Data ethics is essential to ensure that data is wielded responsibly, keeping harmful impacts to a minimum.&nbsp;</p> <p>In this module we explore why data ethics is important, and examine real-world examples of what can happen when data ethics is not considered and the challenges this creates. In this module you will:</p> <ul> <li>Develop your understanding of data ethics</li> <li>Explore the impact of unethical-frameowrksl data practices</li> <li>Consider the intersections of data ethics and data governance</li> <li>Examine the differences in data ethics considerations across the data lifecycle</li> </ul>",
     "_id": "64f1c12c94389ef9d9f9555d",
     "_parentId": "64f1c12b94389ef9d9f95552",
     "_type": "component",
@@ -154,7 +154,7 @@
       },
       {
         "title": "Facebook soap dispenser",
-        "body": "In 2017, a Facebook employee in Nigeria shared footage of themselves that speaks to Tech’s larger diversity problem. In the video, a white man and a dark-skinned black man both try to get soap from a soap dispenser. The soap dispenses for the white man, but not the darker skinned man.\n\nThis video of the incident went viral, raising concerns about potential racial bias in technology. The lack of diversity in the training data is pointed out as a possible cause of the biassed outcome, emphasising the importance of using inclusive data sets for AI technology development.\n\nThe incident has sparked discussions on racial discrimination in AI algorithms and has amplified calls for greater awareness and responsibility in developing AI systems to avoid unintentional discrimination. Overall, it serves as a reminder of the need for ethical and diverse testing approaches to ensure fairness in AI technologies.\n\n<iframe src=\"https://player.vimeo.com/video/817030963?h=b9ef979956&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" width=\"100%\" height=\"400\" title=\"why is data ethics important\"></iframe>\n\nWhile soap dispensers are a more light-hearted example, this same problem has been documented in wearable fitness trackers and heart-rate monitors, and also in medical applications.",
+        "body": "In 2017, a Facebook employee in Nigeria shared footage of themselves that speaks to Tech’s larger diversity problem. In the video, a white man and a dark-skinned black man both try to get soap from a soap dispenser. The soap dispenses for the white man, but not the darker skinned man.\n\nThis video of the incident went viral, raising concerns about potential racial bias in technology. The lack of diversity in the training data is pointed out as a possible cause of the biassed outcome, emphasising the importance of using inclusive data sets for AI technology development.\n\nThe incident has sparked discussions on racial discrimination in AI algorithms and has amplified calls for greater awareness and responsibility in developing AI systems to avoid unintentional discrimination. Overall, it serves as a reminder of the need for ethical frameworks and diverse testing approaches to ensure fairness in AI technologies.\n\n<iframe src=\"https://player.vimeo.com/video/817030963?h=b9ef979956&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" width=\"100%\" height=\"400\" title=\"why is data ethics important\"></iframe>\n\nWhile soap dispensers are a more light-hearted example, this same problem has been documented in wearable fitness trackers and heart-rate monitors, and also in medical applications.",
         "_imageAlignment": "full",
         "_graphic": {
           "src": "",
@@ -5091,7 +5091,7 @@
     "_layout": "left",
     "title": "STEP 3: Assess risk",
     "displayTitle": "",
-    "body": "<div class=\"data-card\">\r\n\r\n    <div class=\"data-point\">\r\n        <span class=\"drop-cap\">I</span>t is important to understand that data protection does not require anonymisation to be completely risk free – you must be able to mitigate the risk of re-identification until it is sufficiently small.\r\n    </div>\r\n\r\n    <div class=\"data-point\">\r\n        <span class=\"drop-cap\">T</span>o do this, identify characteristics in your dataset that can directly or indirectly be used to identify a person: the personal data.\r\n    </div>\r\n\r\n    <div class=\"data-point\">\r\n        <span class=\"drop-cap\">F</span>ollowing this, you should determine which of these characteristics pose a potential threat to harm an individual and label them as either posing a ‘normal’ or ‘high’ risk.\r\n    </div>\r\n\r\n</div>\r\n",
+    "body": "<p>It is important to understand that data protection does not require anonymisation to be completely risk free &ndash; you must be able to mitigate the risk of re-identification until it is sufficiently small.</p> <p>To do this, identify characteristics in your dataset that can directly or indirectly be used to identify a person: the personal data.&nbsp;</p> <p>Following this, you should determine which of these characteristics pose a potential threat to harm an individual and label them as either posing a &lsquo;normal&rsquo; or &lsquo;high&rsquo; risk.</p>",
     "instruction": "",
     "_pageLevelProgress": {
       "_isEnabled": false
@@ -5106,7 +5106,7 @@
     "_layout": "full",
     "title": "STEP 4: Anonymise personal data",
     "displayTitle": "",
-    "body": "<div class=\"two-by-two-grid\">      <div class=\"large-card-box\">   There are several techniques that can be used to anonymise data. In the majority of cases, several techniques may need to be applied to lower the risks of re-identification.     </div>     <div class=\"large-card-box\">  Choosing the right combination of techniques will depend on both the intended use and the level of risk related to each characteristic in the dataset.     </div>      <div class=\"large-card-box\">   A record should be kept on how each technique is applied and the reasons for its choice.     </div>      <div class=\"large-card-box\">          The <span class=\"eu-reference\">EU Data Protection Working Party</span> has produced a useful report outlining anonymisation techniques, robustness and typical mistakes. We have summarised these techniques in the later hands-on section of Anonymising Data.     </div>  </div>",
+    "body": "<p>There are several techniques that can be used to anonymise data. In the majority of cases, several techniques may need to be applied to lower the risks of re-identification. Regardless of the technique applied, we must:</p> <ul class=\"blue-caution-callout\"> <li>Choosing the right combination of techniques will depend on both the intended use and the level of risk related to each characteristic in the dataset.</li> <li>A record should be kept on how each technique is applied and the reasons for its choice.</li> </ul> <p>The EU Data Protection Working Party has produced a useful report outlining anonymisation techniques, robustness and typical mistakes. We have summarised these techniques in the later hands-on section of Anonymising Data.</p>",
     "instruction": "",
     "_pageLevelProgress": {
       "_isEnabled": false
@@ -5344,51 +5344,186 @@
     "_canShowFeedback": true,
     "_canShowMarking": true,
     "_recordInteraction": true,
-    "_items": [
-      {
-        "text": "Site (low)",
-        "_shouldBeSelected": false,
-        "_isPartlyCorrect": false
+      "_items": [
+        {
+            "text": "Site",
+            "_options": [
+                {
+                    "text": "low",
+                    "_isCorrect": true,
+                    "_score": 1
+                },
+                {
+                    "text": "medium",
+                    "_isCorrect": false,
+                    "_score": 0
+                },
+                {
+                    "text": "high",
+                    "_isCorrect": false,
+                    "_score": 0
+                }
+            ]
+        },
+        {
+            "text": "Call date",
+            "_options": [
+                {
+                    "text": "low",
+                    "_isCorrect": true,
+                    "_score": 1
+                },
+                {
+                    "text": "medium",
+                    "_isCorrect": false,
+                    "_score": 0
+                },
+                {
+                    "text": "high",
+                    "_isCorrect": false,
+                    "_score": 0
+                }
+            ]
+        },
+        {
+            "text": "Name",
+            "_options": [
+                {
+                    "text": "low",
+                    "_isCorrect": false,
+                    "_score": 0
+                },
+                {
+                    "text": "medium",
+                    "_isCorrect": false,
+                    "_score": 0
+                },
+                {
+                    "text": "high",
+                    "_isCorrect": true,
+                    "_score": 1
+                }
+            ]
+        },
+        {
+            "text": "Sex",
+            "_options": [
+                {
+                    "text": "low",
+                    "_isCorrect": false,
+                    "_score": 0
+                },
+                {
+                    "text": "medium",
+                    "_isCorrect": true,
+                    "_score": 1
+                },
+                {
+                    "text": "high",
+                    "_isCorrect": false,
+                    "_score": 0
+                }
+            ]
+        },
+        {
+          "text": "Date of birth",
+          "_options": [
+              {
+                  "text": "low",
+                  "_isCorrect": false,
+                  "_score": 0
+              },
+              {
+                  "text": "medium",
+                  "_isCorrect": true,
+                  "_score": 1
+              },
+              {
+                  "text": "high",
+                  "_isCorrect": false,
+                  "_score": 0
+              }
+          ]
       },
       {
-        "text": "Call date (low)",
-        "_shouldBeSelected": false,
-        "_isPartlyCorrect": false
+          "text": "Address",
+          "_options": [
+              {
+                  "text": "low",
+                  "_isCorrect": false,
+                  "_score": 0
+              },
+              {
+                  "text": "medium",
+                  "_isCorrect": false,
+                  "_score": 0
+              },
+              {
+                  "text": "high",
+                  "_isCorrect": true,
+                  "_score": 1
+              }
+          ]
       },
       {
-        "text": "Name (high)",
-        "_shouldBeSelected": true,
-        "_isPartlyCorrect": false
+          "text": "Postcode",
+          "_options": [
+              {
+                  "text": "low",
+                  "_isCorrect": false,
+                  "_score": 0
+              },
+              {
+                  "text": "medium",
+                  "_isCorrect": true,
+                  "_score": 1
+              },
+              {
+                  "text": "high",
+                  "_isCorrect": false,
+                  "_score": 0
+              }
+          ]
       },
       {
-        "text": "Sex (medium)",
-        "_shouldBeSelected": true,
-        "_isPartlyCorrect": false
+          "text": "Profession",
+          "_options": [
+              {
+                  "text": "low",
+                  "_isCorrect": false,
+                  "_score": 0
+              },
+              {
+                  "text": "medium",
+                  "_isCorrect": true,
+                  "_score": 1
+              },
+              {
+                  "text": "high",
+                  "_isCorrect": false,
+                  "_score": 0
+              }
+          ]
       },
       {
-        "text": "Date of birth (medium)",
-        "_shouldBeSelected": true,
-        "_isPartlyCorrect": false
-      },
-      {
-        "text": "Address (high)",
-        "_shouldBeSelected": true,
-        "_isPartlyCorrect": false
-      },
-      {
-        "text": "Postcode (medium)",
-        "_shouldBeSelected": true,
-        "_isPartlyCorrect": false
-      },
-      {
-        "text": "Profession (medium)",
-        "_shouldBeSelected": false,
-        "_isPartlyCorrect": false
-      },
-      {
-        "text": "Severity (low)",
-        "_shouldBeSelected": false,
-        "_isPartlyCorrect": false
+          "text": "Severity",
+          "_options": [
+              {
+                  "text": "low",
+                  "_isCorrect": true,
+                  "_score": 1
+              },
+              {
+                  "text": "medium",
+                  "_isCorrect": false,
+                  "_score": 0
+              },
+              {
+                  "text": "high",
+                  "_isCorrect": false,
+                  "_score": 0
+              }
+          ]
       }
     ],
     "_feedback": {
@@ -5500,7 +5635,7 @@
     "_layout": "full",
     "title": "Application to our example dataset",
     "displayTitle": "",
-    "body": "<strong><p>If we were to suppress (remove) all the personal data, then this dataset would not be useful to fulfil any of our objectives. So, we need to consider other methods.</p></strong><p>It may be useful to consider what needs to be kept to fulfil our objectives:</p><div>\n<table>\n<tbody>\n<tr>\n<td>Personal data field</td>\n<td>Objective #1</td>\n<td>Objective #2</td>\n</tr>\n<tr>\n<td>Name</td>\n<td>No</td>\n<td>No</td>\n</tr>\n<tr>\n<td>Sex</td>\n<td>Potentially useful</td>\n<td>Potentially useful</td>\n</tr>\n<tr>\n<td>Date of birth</td>\n<td>No</td>\n<td>Yes</td>\n</tr>\n<tr>\n<td>Address</td>\n<td>Yes</td>\n<td>Yes</td>\n</tr>\n<tr>\n<td>Postcode</td>\n<td>Yes</td>\n<td>Yes</td>\n</tr>\n</tbody>\n</table>\n</div><p class=\"analysis\">From this, it is clear we can suppress the person’s name.</p><p>At this point, while the person is not directly identifiable, a combination of the other characteristics will allow people to be re-identified easily, therefore we haven’t finished yet.</p><hr><p class=\"highlighted\">The next most identifiable piece of information is probably the exact address, given that only a small number of people will live at a single address. We can aggregate this information to anonymise it:</p><div>\n<table>\n<tbody>\n<tr>\n<td>Address (original)</td>\n<td>Address (anonymised)</td>\n</tr>\n<tr>\n<td>12 Penn Street, Barking, London</td>\n<td>Barking, London</td>\n</tr>\n<tr>\n<td>27 Penelope Drive, Eastbourne</td>\n<td>Eastbourne</td>\n</tr>\n<tr>\n<td>19 Barber Close, Matlock, Derby</td>\n<td>Matlock, Derby</td>\n</tr>\n<tr>\n<td>27 Diagon Alley, Tower Hamlets, London</td>\n<td>Tower Hamlets, London</td>\n</tr>\n<tr>\n<td>155 Mount Park, Shrewsbury</td>\n<td>Shrewsbury</td>\n</tr>\n<tr>\n<td><span style=\"color: #1f1f1f;\">17 Prestige Place, Ringwood</span></td>\n<td>Ringwood</td>\n</tr>\n</tbody>\n</table>\n</div><p>We could&nbsp; also do the same with the postcode, removing the last three digits to just identify regions in a city, for example, W1, W2 etc.</p><p>Aggregation can also be used to translate the date of birth into an age range, for example. 0–18,19–69,70–120.</p><div>\n<table>\n<tbody>\n<tr>\n<td>Date of birth (original)</td>\n<td>Age band (anonymised)</td>\n</tr>\n<tr>\n<td>2005-06-03</td>\n<td>0–18 years</td>\n</tr>\n<tr>\n<td>1949-11-10</td>\n<td>70–120 years</td>\n</tr>\n<tr>\n<td>1981-10-08</td>\n<td>19–69 years</td>\n</tr>\n<tr>\n<td>1946-02-28</td>\n<td>70–120 years</td>\n</tr>\n<tr>\n<td>1922-03-15</td>\n<td>70–120 years</td>\n</tr>\n</tbody>\n</table>\n</div><div class=\"border-card-box\" style=\"margin: 2em\">     <p class=\"highlight-white-light\">By applying anonymisation techniques we are able to ensure that the data shared complies with the law, but maintains its utility. By recognising what personal data is contained within our datasets we can decide on the appropriate anonymisation technique that enables us to meet our objectives.</p>               <p>In this example, in order to meet our objective:</p>         <p class=\"small-quote\">“to report back on high level Covid infection statistics across county’s in the UK”,</p>         <p>we can apply anonymisation using suppression and simply remove identifiable data (i.e. the personal data) and generalise other data points by simplifying their location based data.</p>     </div>      <p class=\"blue-caution-callout\" style=\"padding: 1rem; margin-top: 1rem; font-weight:bold\">Apply anonymisation techniques to the NHS Synthetic Dataset. When you’re ready, review the model answer below.</p> </div>",
+    "body": "<strong><p>If we were to suppress (remove) all the personal data, then this dataset would not be useful to fulfil any of our objectives. So, we need to consider other methods.</p></strong><p>It may be useful to consider what needs to be kept to fulfil our objectives:</p><div>\n<table>\n<tbody>\n<tr>\n<td>Personal data field</td>\n<td>Objective #1</td>\n<td>Objective #2</td>\n</tr>\n<tr>\n<td>Name</td>\n<td>No</td>\n<td>No</td>\n</tr>\n<tr>\n<td>Sex</td>\n<td>Potentially useful</td>\n<td>Potentially useful</td>\n</tr>\n<tr>\n<td>Date of birth</td>\n<td>No</td>\n<td>Yes</td>\n</tr>\n<tr>\n<td>Address</td>\n<td>Yes</td>\n<td>Yes</td>\n</tr>\n<tr>\n<td>Postcode</td>\n<td>Yes</td>\n<td>Yes</td>\n</tr>\n</tbody>\n</table>\n</div><p class=\"analysis\">From this, it is clear we can suppress the person’s name.</p><p>At this point, while the person is not directly identifiable, a combination of the other characteristics will allow people to be re-identified easily, therefore we haven’t finished yet.</p><hr><p class=\"highlighted\">The next most identifiable piece of information is probably the exact address, given that only a small number of people will live at a single address. We can aggregate this information to anonymise it:</p><div>\n<table>\n<tbody>\n<tr>\n<th>Address (original)</th>\n<th>Address (anonymised)</td>\n</tr>\n<tr>\n<td>12 Penn Street, Barking, London</td>\n<td>Barking, London</td>\n</tr>\n<tr>\n<td>27 Penelope Drive, Eastbourne</td>\n<td>Eastbourne</td>\n</tr>\n<tr>\n<td>19 Barber Close, Matlock, Derby</td>\n<td>Matlock, Derby</td>\n</tr>\n<tr>\n<td>27 Diagon Alley, Tower Hamlets, London</td>\n<td>Tower Hamlets, London</td>\n</tr>\n<tr>\n<td>155 Mount Park, Shrewsbury</td>\n<td>Shrewsbury</td>\n</tr>\n<tr>\n<td><span style=\"color: #1f1f1f;\">17 Prestige Place, Ringwood</span></td>\n<td>Ringwood</td>\n</tr>\n</tbody>\n</table>\n</div><p>We could&nbsp; also do the same with the postcode, removing the last three digits to just identify regions in a city, for example, W1, W2 etc.</p><p>Aggregation can also be used to translate the date of birth into an age range, for example. 0–18,19–69,70–120.</p><div>\n<table>\n<tbody>\n<tr>\n<th>Date of birth (original)</th>\n<th>Age band (anonymised)</th>\n</tr>\n<tr>\n<td>2005-06-03</td>\n<td>0–18 years</td>\n</tr>\n<tr>\n<td>1949-11-10</td>\n<td>70–120 years</td>\n</tr>\n<tr>\n<td>1981-10-08</td>\n<td>19–69 years</td>\n</tr>\n<tr>\n<td>1946-02-28</td>\n<td>70–120 years</td>\n</tr>\n<tr>\n<td>1922-03-15</td>\n<td>70–120 years</td>\n</tr>\n</tbody>\n</table>\n</div><div class=\"border-card-box\" style=\"margin: 2em\">     <p class=\"highlight-white-light\">By applying anonymisation techniques we are able to ensure that the data shared complies with the law, but maintains its utility. By recognising what personal data is contained within our datasets we can decide on the appropriate anonymisation technique that enables us to meet our objectives.</p>               <p>In this example, in order to meet our objective:</p>         <p class=\"small-quote\">“to report back on high level Covid infection statistics across county’s in the UK”,</p>         <p>we can apply anonymisation using suppression and simply remove identifiable data (i.e. the personal data) and generalise other data points by simplifying their location based data.</p>     </div>      <p class=\"blue-caution-callout\" style=\"padding: 1rem; margin-top: 1rem; font-weight:bold\">Apply anonymisation techniques to the NHS Synthetic Dataset. When you’re ready, review the model answer below.</p> </div>",
     "instruction": "",
     "_pageLevelProgress": {
       "_isEnabled": false
@@ -5638,7 +5773,7 @@
     "_classes": "",
     "_layout": "left",
     "title": "Data protection and anonymised/synthetic data?",
-    "displayTitle": "",
+    "displayTitle": "Do data protection regulations apply to anonymised or synthetic data?",
     "body": "",
     "instruction": "Choose one option then select Submit.",
     "ariaQuestion": "Question text specifically for screen readers.",
@@ -9274,6 +9409,7 @@
         "_isEnabled": false
       }
     },
+
     {
       "_id": "m2-07-ethical-dm-g-1",
       "_parentId": "m2-07-ethical-dm-b-1",
@@ -9314,8 +9450,8 @@
       "_graphic": {
         "alt": "",
         "longdescription": "",
-        "large": "https://via.placeholder.com/600x400",
-        "small": "https://via.placeholder.com/600x400",
+        "large": "https://via.placeholder.com/400x400",
+        "small": "https://via.placeholder.com/400x400",
         "attribution": "NO ATTRIBUTION",
         "_url": "",
         "_target": ""
@@ -9340,8 +9476,8 @@
       "_graphic": {
         "alt": "",
         "longdescription": "",
-        "large": "https://via.placeholder.com/600x400",
-        "small": "https://via.placeholder.com/600x400",
+        "large": "https://via.placeholder.com/400x400",
+        "small": "https://via.placeholder.com/400x400",
         "attribution": "NO ATTRIBUTION",
         "_url": "",
         "_target": ""
@@ -9366,8 +9502,8 @@
       "_graphic": {
         "alt": "",
         "longdescription": "",
-        "large": "https://via.placeholder.com/600x400",
-        "small": "https://via.placeholder.com/600x400",
+        "large": "https://via.placeholder.com/400x400",
+        "small": "https://via.placeholder.com/400x400",
         "attribution": "NO ATTRIBUTION",
         "_url": "",
         "_target": ""
@@ -9392,8 +9528,8 @@
       "_graphic": {
         "alt": "",
         "longdescription": "",
-        "large": "https://via.placeholder.com/600x400",
-        "small": "https://via.placeholder.com/600x400",
+        "large": "https://via.placeholder.com/400x400",
+        "small": "https://via.placeholder.com/400x400",
         "attribution": "NO ATTRIBUTION",
         "_url": "",
         "_target": ""
@@ -9418,8 +9554,8 @@
       "_graphic": {
         "alt": "",
         "longdescription": "",
-        "large": "https://via.placeholder.com/600x400",
-        "small": "https://via.placeholder.com/600x400",
+        "large": "https://via.placeholder.com/400x400",
+        "small": "https://via.placeholder.com/400x400",
         "attribution": "NO ATTRIBUTION",
         "_url": "",
         "_target": ""
@@ -9444,8 +9580,8 @@
       "_graphic": {
         "alt": "",
         "longdescription": "",
-        "large": "https://via.placeholder.com/600x400",
-        "small": "https://via.placeholder.com/600x400",
+        "large": "https://via.placeholder.com/400x400",
+        "small": "https://via.placeholder.com/400x400",
         "attribution": "NO ATTRIBUTION",
         "_url": "",
         "_target": ""
@@ -9470,8 +9606,8 @@
       "_graphic": {
         "alt": "",
         "longdescription": "",
-        "large": "https://via.placeholder.com/600x400",
-        "small": "https://via.placeholder.com/600x400",
+        "large": "https://via.placeholder.com/400x400",
+        "small": "https://via.placeholder.com/400x400",
         "attribution": "NO ATTRIBUTION",
         "_url": "",
         "_target": ""
@@ -9496,8 +9632,8 @@
       "_graphic": {
         "alt": "",
         "longdescription": "",
-        "large": "https://via.placeholder.com/600x400",
-        "small": "https://via.placeholder.com/600x400",
+        "large": "https://via.placeholder.com/400x400",
+        "small": "https://via.placeholder.com/400x400",
         "attribution": "NO ATTRIBUTION",
         "_url": "",
         "_target": ""
@@ -9522,8 +9658,8 @@
       "_graphic": {
         "alt": "",
         "longdescription": "",
-        "large": "https://via.placeholder.com/600x400",
-        "small": "https://via.placeholder.com/600x400",
+        "large": "https://via.placeholder.com/400x400",
+        "small": "https://via.placeholder.com/400x400",
         "attribution": "NO ATTRIBUTION",
         "_url": "",
         "_target": ""
@@ -9548,8 +9684,8 @@
       "_graphic": {
         "alt": "",
         "longdescription": "",
-        "large": "https://via.placeholder.com/600x400",
-        "small": "https://via.placeholder.com/600x400",
+        "large": "https://via.placeholder.com/400x400",
+        "small": "https://via.placeholder.com/400x400",
         "attribution": "NO ATTRIBUTION",
         "_url": "",
         "_target": ""
@@ -9574,8 +9710,8 @@
       "_graphic": {
         "alt": "",
         "longdescription": "",
-        "large": "https://via.placeholder.com/600x400",
-        "small": "https://via.placeholder.com/600x400",
+        "large": "https://via.placeholder.com/400x400",
+        "small": "https://via.placeholder.com/400x400",
         "attribution": "NO ATTRIBUTION",
         "_url": "",
         "_target": ""
@@ -9600,8 +9736,8 @@
       "_graphic": {
         "alt": "",
         "longdescription": "",
-        "large": "https://via.placeholder.com/600x400",
-        "small": "https://via.placeholder.com/600x400",
+        "large": "https://via.placeholder.com/400x400",
+        "small": "https://via.placeholder.com/400x400",
         "attribution": "NO ATTRIBUTION",
         "_url": "",
         "_target": ""
@@ -9626,8 +9762,8 @@
       "_graphic": {
         "alt": "",
         "longdescription": "",
-        "large": "https://via.placeholder.com/600x400",
-        "small": "https://via.placeholder.com/600x400",
+        "large": "https://via.placeholder.com/400x400",
+        "small": "https://via.placeholder.com/400x400",
         "attribution": "NO ATTRIBUTION",
         "_url": "",
         "_target": ""
@@ -9652,8 +9788,8 @@
       "_graphic": {
         "alt": "",
         "longdescription": "",
-        "large": "https://via.placeholder.com/600x400",
-        "small": "https://via.placeholder.com/600x400",
+        "large": "https://via.placeholder.com/400x400",
+        "small": "https://via.placeholder.com/400x400",
         "attribution": "NO ATTRIBUTION",
         "_url": "",
         "_target": ""
@@ -9680,6 +9816,1909 @@
         "large": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
         "small": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
         "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+      },
+      "_isScrollable": false,
+      "_defaultScrollPercent": 0,
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+      "_id": "aide-m2-o3-ethical-frameworks-1c-1",
+      "_parentId": "aide-m2-o3-ethical-frameworks-1b-1",
+      "_type": "component",
+      "_component": "text",
+      "_classes": "",
+      "_layout": "left",
+      "title": "Introduction",
+      "displayTitle": "Introduction",
+      "body": "<p>In this module, we will explore the diverse landscape of ethical reasoning, examining how different frameworks shape our approach to challenges, guide our choices, and inform our understanding of complex situations. From the realm of artificial intelligence to real-world scenarios like the UK exam grading case study, we will delve into the principles, strengths, and weaknesses of various ethical frameworks. Additionally, we will investigate how ethical questions can be leveraged to enhance diversity and inclusion within ethics committees, fostering a comprehensive range of perspectives and enriching the decision-making process in organisations.</p><p>This module explores:</p><ul>\n<li>Your own approach to ethical decision-making</li>\n<li>The main ethical frameworks</li>\n<li>Ethical pluralism</li>\n<li>Building trust in ethical decision-making</li>\n<li>Improving ethical decision-making practices and diversity</li>\n</ul>",
+      "instruction": "",
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    {
+      "_id": "aide-m2-o3-ethical-frameworks-1c-2",
+      "_parentId": "aide-m2-o3-ethical-frameworks-1b-2",
+      "_type": "component",
+      "_component": "text",
+      "_classes": "",
+      "_layout": "right",
+      "title": "Self-Examination: Questioning Your Approach to Challenges",
+      "displayTitle": "Self-Examination: Questioning Your Approach to Challenges",
+      "body": "<p>As ethical decision-makers, it's crucial to understand our own perspectives and biases. We'll begin by asking introspective questions that prompt reflection on our innate tendencies and ethical inclinations. By examining our reactions to hypothetical scenarios, we'll uncover the values that underpin our choices and consider how these values align with different ethical frameworks.</p><p>You witness a coworker taking credit for your team's work. How would you respond, and what values are driving your reaction? Rate the following on a 3 point scale of “very important to me” to “not important at all”&nbsp; (very important, secondary considerations, not important to me)</p>",
+      "instruction": "",
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    {
+      "_id": "aide-m2-o3-ethical-frameworks-1c-3",
+      "_parentId": "aide-m2-o3-ethical-frameworks-1b-3",
+      "_type": "component",
+      "_component": "text",
+      "_classes": "",
+      "_layout": "left",
+      "title": "Scenario’s set 1",
+      "displayTitle": "Scenario’s set 1",
+      "body": "",
+      "instruction": "",
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    
+  {
+    "_id": "aide-m3-o5-third-party-b-2714833",
+    "_parentId": "aide-m3-o5-third-party-b-230",
+    "_type": "component",
+    "_component": "selectchoice",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Select Choice",
+      "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_attempts": 1,
+    "_shouldDisplayAttempts": false,
+    "_shouldResetAllAnswers": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": true,
+    "_choices": [
+      {
+        "text": "Very important",
+        "_graphic": {
+          "alt": "",
+          "large": "",
+          "small": ""
+        }
+      },
+      {
+        "text": "Secondary consideration",
+        "_graphic": {
+          "alt": "",
+          "large": "",
+          "small": ""
+        }
+      },
+      {
+        "text": "not important to me",
+        "_graphic": {
+          "alt": "",
+          "large": "",
+          "small": ""
+        }
+      }
+    ],
+    "_items": [
+      {
+        "text": "I would consider the potential consequences of confronting my coworker. If exposing the truth could harm the team's dynamics and jeopardise the project, I might choose to address the issue privately and encourage a collaborative approach going forward.",
+        "_graphic": {
+          "alt": "",
+          "large": "",
+          "small": ""
+        },
+        "_shouldBeSelected": 1
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "<p>A utilitarian approach might prioritise the overall well-being of the team and the project's success. The focus is on achieving the best outcome for everyone involved, even if it means avoiding direct confrontation.</p>",
+      "_incorrect": {
+        "notFinal": "",
+        "final": "<p>A utilitarian approach might prioritise the overall well-being of the team and the project's success. The focus is on achieving the best outcome for everyone involved, even if it means avoiding direct confrontation.</p>"
+      },
+      "_partlyCorrect": {
+        "notFinal": "",
+        "final": "<p>A utilitarian approach might prioritise the overall well-being of the team and the project's success. The focus is on achieving the best outcome for everyone involved, even if it means avoiding direct confrontation.</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Submit",
+        "ariaLabel": "Select here to submit your answer."
+      },
+      "_reset": {
+        "buttonText": "Reset",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "Correct Answer",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "My Answer",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "Show feedback",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "attempts remaining",
+      "remainingAttemptText": "final attempt"
+    }
+  },
+  {
+    "_id": "aide-m3-o5-third-party-b-2110490",
+    "_parentId": "aide-m3-o5-third-party-b-231",
+    "_type": "component",
+    "_component": "selectchoice",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Select Choice",
+      "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_attempts": 1,
+    "_shouldDisplayAttempts": false,
+    "_shouldResetAllAnswers": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": true,
+    "_choices": [
+      {
+        "text": "Very important",
+        "_graphic": {
+          "alt": "",
+          "large": "",
+          "small": ""
+        }
+      },
+      {
+        "text": "Secondary consideration",
+        "_graphic": {
+          "alt": "",
+          "large": "",
+          "small": ""
+        }
+      },
+      {
+        "text": "not important to me",
+        "_graphic": {
+          "alt": "",
+          "large": "",
+          "small": ""
+        }
+      }
+    ],
+    "_items": [
+      {
+        "text": "I would feel compelled to uphold the principle of honesty and fairness. I would confront my coworker privately and share my concerns with them, emphasising the importance of acknowledging the team's contributions accurately.",
+        "_graphic": {
+          "alt": "",
+          "large": "",
+          "small": ""
+        },
+        "_shouldBeSelected": 1
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "<p>A deontological approach places a strong emphasis on moral duties and principles, such as truthfulness and fairness, regardless of the potential consequences. Upholding the ethical rule of honesty is the primary driver of the decision.</p>",
+      "_incorrect": {
+        "notFinal": "",
+        "final": "<p>A deontological approach places a strong emphasis on moral duties and principles, such as truthfulness and fairness, regardless of the potential consequences. Upholding the ethical rule of honesty is the primary driver of the decision.</p>"
+      },
+      "_partlyCorrect": {
+        "notFinal": "",
+        "final": "<p>A deontological approach places a strong emphasis on moral duties and principles, such as truthfulness and fairness, regardless of the potential consequences. Upholding the ethical rule of honesty is the primary driver of the decision.</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Submit",
+        "ariaLabel": "Select here to submit your answer."
+      },
+      "_reset": {
+        "buttonText": "Reset",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "Correct Answer",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "My Answer",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "Show feedback",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "attempts remaining",
+      "remainingAttemptText": "final attempt"
+    }
+  },
+  {
+    "_id": "aide-m3-o5-third-party-b-2402622",
+    "_parentId": "aide-m3-o5-third-party-b-232",
+    "_type": "component",
+    "_component": "selectchoice",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Select Choice",
+      "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_attempts": 1,
+    "_shouldDisplayAttempts": false,
+    "_shouldResetAllAnswers": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": true,
+    "_choices": [
+      {
+        "text": "Very important",
+        "_graphic": {
+          "alt": "",
+          "large": "",
+          "small": ""
+        }
+      },
+      {
+        "text": "Secondary consideration",
+        "_graphic": {
+          "alt": "",
+          "large": "",
+          "small": ""
+        }
+      },
+      {
+        "text": "not important to me",
+        "_graphic": {
+          "alt": "",
+          "large": "",
+          "small": ""
+        }
+      }
+    ],
+    "_items": [
+      {
+        "text": "My instinct would be to address the issue openly and assertively while maintaining a calm and respectful demeanour. I believe in fostering a workplace environment built on integrity and open communication.",
+        "_graphic": {
+          "alt": "",
+          "large": "",
+          "small": ""
+        },
+        "_shouldBeSelected": 1
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "<p>A virtue ethics perspective focuses on developing positive character traits and virtues. The emphasis is on being honest, assertive, and fostering integrity in the workplace.</p>",
+      "_incorrect": {
+        "notFinal": "",
+        "final": "<p>A virtue ethics perspective focuses on developing positive character traits and virtues. The emphasis is on being honest, assertive, and fostering integrity in the workplace.</p>"
+      },
+      "_partlyCorrect": {
+        "notFinal": "",
+        "final": "<p>A virtue ethics perspective focuses on developing positive character traits and virtues. The emphasis is on being honest, assertive, and fostering integrity in the workplace.</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Submit",
+        "ariaLabel": "Select here to submit your answer."
+      },
+      "_reset": {
+        "buttonText": "Reset",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "Correct Answer",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "My Answer",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "Show feedback",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "attempts remaining",
+      "remainingAttemptText": "final attempt"
+    }
+  },
+  {
+    "_id": "aide-m3-o5-third-party-b-2856139",
+    "_parentId": "aide-m3-o5-third-party-b-233",
+    "_type": "component",
+    "_component": "selectchoice",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Select Choice",
+      "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_attempts": 1,
+    "_shouldDisplayAttempts": false,
+    "_shouldResetAllAnswers": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": true,
+    "_choices": [
+      {
+        "text": "Very important",
+        "_graphic": {
+          "alt": "",
+          "large": "",
+          "small": ""
+        }
+      },
+      {
+        "text": "Secondary consideration",
+        "_graphic": {
+          "alt": "",
+          "large": "",
+          "small": ""
+        }
+      },
+      {
+        "text": "not important to me",
+        "_graphic": {
+          "alt": "",
+          "large": "",
+          "small": ""
+        }
+      }
+    ],
+    "_items": [
+      {
+        "text": "I would discuss the situation with my coworker and supervisor to ensure that credit is fairly distributed among the team members.",
+        "_graphic": {
+          "alt": "",
+          "large": "",
+          "small": ""
+        },
+        "_shouldBeSelected": 1
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "<p>A <strong>justice and fairness</strong> focuses on fairness, addressing biases, and striving for equitable outcomes.</p>",
+      "_incorrect": {
+        "notFinal": "",
+        "final": "<p>A <strong>justice and fairness</strong> focuses on fairness, addressing biases, and striving for equitable outcomes.</p>"
+      },
+      "_partlyCorrect": {
+        "notFinal": "",
+        "final": "<p>A <strong>justice and fairness</strong> perspective focuses on fairness, addressing biases, and striving for equitable outcomes.</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Submit",
+        "ariaLabel": "Select here to submit your answer."
+      },
+      "_reset": {
+        "buttonText": "Reset",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "Correct Answer",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "My Answer",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "Show feedback",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "attempts remaining",
+      "remainingAttemptText": "final attempt"
+    }
+  },
+  {
+    "_id": "aide-m3-o5-third-party-b-2998365",
+    "_parentId": "aide-m3-o5-third-party-b-234",
+    "_type": "component",
+    "_component": "selectchoice",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Select Choice",
+      "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_attempts": 1,
+    "_shouldDisplayAttempts": false,
+    "_shouldResetAllAnswers": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": true,
+    "_choices": [
+      {
+        "text": "Very important",
+        "_graphic": {
+          "alt": "",
+          "large": "",
+          "small": ""
+        }
+      },
+      {
+        "text": "Secondary consideration",
+        "_graphic": {
+          "alt": "",
+          "large": "",
+          "small": ""
+        }
+      },
+      {
+        "text": "not important to me",
+        "_graphic": {
+          "alt": "",
+          "large": "",
+          "small": ""
+        }
+      }
+    ],
+    "_items": [
+      {
+        "text": "I would recognise that my coworker's actions undermine the rights of the team members who deserve credit for their work. I would stand up for their rights and advocate for proper recognition.",
+        "_graphic": {
+          "alt": "",
+          "large": "",
+          "small": ""
+        },
+        "_shouldBeSelected": 1
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "<p>A rights ethics approach centres on upholding individual rights and ensuring fairness. The focus is on advocating for the rights of team members who deserve proper acknowledgment.</p>",
+      "_incorrect": {
+        "notFinal": "",
+        "final": "<p>A rights ethics approach centres on upholding individual rights and ensuring fairness. The focus is on advocating for the rights of team members who deserve proper acknowledgment.</p>"
+      },
+      "_partlyCorrect": {
+        "notFinal": "",
+        "final": "<p>A rights ethics approach centres on upholding individual rights and ensuring fairness. The focus is on advocating for the rights of team members who deserve proper acknowledgment.</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Submit",
+        "ariaLabel": "Select here to submit your answer."
+      },
+      "_reset": {
+        "buttonText": "Reset",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "Correct Answer",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "My Answer",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "Show feedback",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "attempts remaining",
+      "remainingAttemptText": "final attempt"
+    }
+  },
+  {
+    "_id": "aide-m3-o5-third-party-b-2224256",
+    "_parentId": "aide-m3-o5-third-party-b-235",
+    "_type": "component",
+    "_component": "selectchoice",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Select Choice",
+      "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_attempts": 1,
+    "_shouldDisplayAttempts": false,
+    "_shouldResetAllAnswers": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": true,
+    "_choices": [
+      {
+        "text": "Very important",
+        "_graphic": {
+          "alt": "",
+          "large": "",
+          "small": ""
+        }
+      },
+      {
+        "text": "Secondary consideration",
+        "_graphic": {
+          "alt": "",
+          "large": "",
+          "small": ""
+        }
+      },
+      {
+        "text": "not important to me",
+        "_graphic": {
+          "alt": "",
+          "large": "",
+          "small": ""
+        }
+      }
+    ],
+    "_items": [
+      {
+        "text": "I would approach my coworker with empathy, aiming to understand their perspective while also expressing how the situation has affected the team's morale. Prioritising open dialogue and relationships guides my response.",
+        "_graphic": {
+          "alt": "",
+          "large": "",
+          "small": ""
+        },
+        "_shouldBeSelected": 1
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "An ethics of care perspective focuses on empathy, maintaining relationships, and considering the impact on team dynamics.</p>",
+      "_incorrect": {
+        "notFinal": "",
+        "final": "An ethics of care perspective focuses on empathy, maintaining relationships, and considering the impact on team dynamics.</p>"
+      },
+      "_partlyCorrect": {
+        "notFinal": "",
+        "final": "An ethics of care perspective focuses on empathy, maintaining relationships, and considering the impact on team dynamics.</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Submit",
+        "ariaLabel": "Select here to submit your answer."
+      },
+      "_reset": {
+        "buttonText": "Reset",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "Correct Answer",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "My Answer",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "Show feedback",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "attempts remaining",
+      "remainingAttemptText": "final attempt"
+    }
+  },
+
+    {
+      "_id": "aide-m2-o3-ethical-frameworks-1c-5",
+      "_parentId": "aide-m2-o3-ethical-frameworks-1b-5",
+      "_type": "component",
+      "_component": "text",
+      "_classes": "",
+      "_layout": "left",
+      "title": "Scenario’s set 2",
+      "displayTitle": "Scenario’s set 2",
+      "body": "<p>You have the opportunity to report an environmental violation committed by your employer, which might lead to job loss for some coworkers. How do you decide what action to take, and what principles do you consider? Rate these on the 3-point scale as very important to me, secondary considerations, not important to me.</p>",
+      "instruction": "",
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    {
+      "_id": "aide-m2-o3-ethical-frameworks-1c-6",
+      "_parentId": "aide-m2-o3-ethical-frameworks-1b-6",
+      "_type": "component",
+      "_component": "selectchoice",
+      "_classes": "",
+      "_layout": "full",
+      "title": "Select Choice",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "",
+      "_attempts": 1,
+      "_shouldDisplayAttempts": false,
+      "_shouldResetAllAnswers": false,
+      "_isRandom": false,
+      "_questionWeight": 1,
+      "_canShowModelAnswer": true,
+      "_canShowFeedback": true,
+      "_canShowMarking": true,
+      "_recordInteraction": true,
+      "_hasItemScoring": true,
+      "_choices": [
+        {
+          "text": "Very important",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        },
+    
+        {
+          "text": "Secondary consideration",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        },
+        {
+          "text": "not important to me",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        }
+      ],
+      "_items": [
+        {
+          "text": "I would weigh the potential environmental impact of reporting the violation against the job loss for my coworkers. If the environmental harm is severe and widespread, I might choose to report the violation to prevent further damage.",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          },
+          "_shouldBeSelected": 1
+        }
+    ],
+      "_feedback": {
+        "title": "",
+        "correct": "<p>A utilitarian approach prioritises the overall well-being and happiness of the affected community and the environment. The focus is on maximising positive outcomes for the greater good, even if it means some individuals might suffer negative consequences.</p>",
+        "_incorrect": {
+          "notFinal": "",
+          "final": "<p>A utilitarian approach prioritises the overall well-being and happiness of the affected community and the environment. The focus is on maximising positive outcomes for the greater good, even if it means some individuals might suffer negative consequences.</p>"
+        },
+        "_partlyCorrect": {
+          "notFinal": "",
+          "final": "<p>A utilitarian approach prioritises the overall well-being and happiness of the affected community and the environment. The focus is on maximising positive outcomes for the greater good, even if it means some individuals might suffer negative consequences.</p>"
+        }
+      },
+      "_buttons": {
+        "_submit": {
+          "buttonText": "Submit",
+          "ariaLabel": "Select here to submit your answer."
+        },
+        "_reset": {
+          "buttonText": "Reset",
+          "ariaLabel": ""
+        },
+        "_showCorrectAnswer": {
+          "buttonText": "Correct Answer",
+          "ariaLabel": ""
+        },
+        "_hideCorrectAnswer": {
+          "buttonText": "My Answer",
+          "ariaLabel": ""
+        },
+        "_showFeedback": {
+          "buttonText": "Show feedback",
+          "ariaLabel": ""
+        },
+        "remainingAttemptsText": "attempts remaining",
+        "remainingAttemptText": "final attempt"
+      }
+    },
+    {
+        "_id": "aide-m2-o3-ethical-frameworks-1c-7",
+        "_parentId": "aide-m2-o3-ethical-frameworks-1b-7",
+      "_type": "component",
+      "_component": "selectchoice",
+      "_classes": "",
+      "_layout": "full",
+      "title": "Select Choice",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "",
+      "_attempts": 1,
+      "_shouldDisplayAttempts": false,
+      "_shouldResetAllAnswers": false,
+      "_isRandom": false,
+      "_questionWeight": 1,
+      "_canShowModelAnswer": true,
+      "_canShowFeedback": true,
+      "_canShowMarking": true,
+      "_recordInteraction": true,
+      "_hasItemScoring": true,
+      "_choices": [
+        {
+          "text": "Very important",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        },
+    
+        {
+          "text": "Secondary consideration",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        },
+        {
+          "text": "not important to me",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        }
+      ],
+      "_items": [
+        {
+          "text": "My sense of duty would guide me to report the environmental violation regardless of the potential job loss. Upholding the principles of environmental stewardship and responsibility is of utmost importance to me.",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          },
+          "_shouldBeSelected": 1
+        }
+    ],
+      "_feedback": {
+        "title": "",
+        "correct": "<p>A deontological approach places a strong emphasis on moral duties and principles, such as environmental responsibility. Upholding these principles takes precedence over the potential job loss for coworkers.</p>",
+        "_incorrect": {
+          "notFinal": "",
+          "final": "<p>A deontological approach places a strong emphasis on moral duties and principles, such as environmental responsibility. Upholding these principles takes precedence over the potential job loss for coworkers.</p>"
+        },
+        "_partlyCorrect": {
+          "notFinal": "",
+          "final": "<p>A deontological approach places a strong emphasis on moral duties and principles, such as environmental responsibility. Upholding these principles takes precedence over the potential job loss for coworkers.</p>"
+        }
+      },
+      "_buttons": {
+        "_submit": {
+          "buttonText": "Submit",
+          "ariaLabel": "Select here to submit your answer."
+        },
+        "_reset": {
+          "buttonText": "Reset",
+          "ariaLabel": ""
+        },
+        "_showCorrectAnswer": {
+          "buttonText": "Correct Answer",
+          "ariaLabel": ""
+        },
+        "_hideCorrectAnswer": {
+          "buttonText": "My Answer",
+          "ariaLabel": ""
+        },
+        "_showFeedback": {
+          "buttonText": "Show feedback",
+          "ariaLabel": ""
+        },
+        "remainingAttemptsText": "attempts remaining",
+        "remainingAttemptText": "final attempt"
+      }
+    },
+    {
+      "_id": "aide-m2-o3-ethical-frameworks-1c-8",
+      "_parentId": "aide-m2-o3-ethical-frameworks-1b-8",
+      "_type": "component",
+      "_component": "selectchoice",
+      "_classes": "",
+      "_layout": "full",
+      "title": "Select Choice",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "",
+      "_attempts": 1,
+      "_shouldDisplayAttempts": false,
+      "_shouldResetAllAnswers": false,
+      "_isRandom": false,
+      "_questionWeight": 1,
+      "_canShowModelAnswer": true,
+      "_canShowFeedback": true,
+      "_canShowMarking": true,
+      "_recordInteraction": true,
+      "_hasItemScoring": true,
+      "_choices": [
+        {
+          "text": "Very important",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        },
+    
+        {
+          "text": "Secondary consideration",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        },
+        {
+          "text": "not important to me",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        }
+      ],
+      "_items": [
+        {
+          "text": "I would act out of a sense of environmental responsibility and courage. Reporting the violation aligns with my values of being a responsible steward of the environment and taking action for the greater good.",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          },
+          "_shouldBeSelected": 1
+        }
+    ],
+      "_feedback": {
+        "title": "",
+        "correct": "A virtue ethics perspective focuses on cultivating positive character traits and virtues. The emphasis is on displaying virtues such as environmental responsibility, courage, and a commitment to the greater good.",
+        "_incorrect": {
+          "notFinal": "",
+          "final": "A virtue ethics perspective focuses on cultivating positive character traits and virtues. The emphasis is on displaying virtues such as environmental responsibility, courage, and a commitment to the greater good."
+        },
+        "_partlyCorrect": {
+          "notFinal": "",
+          "final": "A virtue ethics perspective focuses on cultivating positive character traits and virtues. The emphasis is on displaying virtues such as environmental responsibility, courage, and a commitment to the greater good."
+        }
+      },
+      "_buttons": {
+        "_submit": {
+          "buttonText": "Submit",
+          "ariaLabel": "Select here to submit your answer."
+        },
+        "_reset": {
+          "buttonText": "Reset",
+          "ariaLabel": ""
+        },
+        "_showCorrectAnswer": {
+          "buttonText": "Correct Answer",
+          "ariaLabel": ""
+        },
+        "_hideCorrectAnswer": {
+          "buttonText": "My Answer",
+          "ariaLabel": ""
+        },
+        "_showFeedback": {
+          "buttonText": "Show feedback",
+          "ariaLabel": ""
+        },
+        "remainingAttemptsText": "attempts remaining",
+        "remainingAttemptText": "final attempt"
+      }
+    },
+    {
+      "_id": "aide-m2-o3-ethical-frameworks-1c-9",
+      "_parentId": "aide-m2-o3-ethical-frameworks-1b-9",
+      "_type": "component",
+      "_component": "selectchoice",
+      "_classes": "",
+      "_layout": "full",
+      "title": "Select Choice",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "",
+      "_attempts": 1,
+      "_shouldDisplayAttempts": false,
+      "_shouldResetAllAnswers": false,
+      "_isRandom": false,
+      "_questionWeight": 1,
+      "_canShowModelAnswer": true,
+      "_canShowFeedback": true,
+      "_canShowMarking": true,
+      "_recordInteraction": true,
+      "_hasItemScoring": true,
+      "_choices": [
+        {
+          "text": "Very important",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        },
+    
+        {
+          "text": "Secondary consideration",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        },
+        {
+          "text": "not important to me",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        }
+      ],
+      "_items": [
+        {
+          "text": "I might consider the cultural norms and attitudes towards environmental issues within the workplace and the broader community. If environmental concerns are not well-acknowledged, I might weigh the potential consequences differently.",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          },
+          "_shouldBeSelected": 1
+        }
+    ],
+      "_feedback": {
+        "title": "",
+        "correct": "<p>A relativist perspective takes into account the cultural context and norms surrounding environmental issues. The response considers the cultural attitudes toward environmental concerns and how they might influence the decision.</p>",
+        "_incorrect": {
+          "notFinal": "",
+          "final": "<p>A relativist perspective takes into account the cultural context and norms surrounding environmental issues. The response considers the cultural attitudes toward environmental concerns and how they might influence the decision.</p>"
+        },
+        "_partlyCorrect": {
+          "notFinal": "",
+          "final": "<p>A relativist perspective takes into account the cultural context and norms surrounding environmental issues. The response considers the cultural attitudes toward environmental concerns and how they might influence the decision.</p>"
+        }
+      },
+      "_buttons": {
+        "_submit": {
+          "buttonText": "Submit",
+          "ariaLabel": "Select here to submit your answer."
+        },
+        "_reset": {
+          "buttonText": "Reset",
+          "ariaLabel": ""
+        },
+        "_showCorrectAnswer": {
+          "buttonText": "Correct Answer",
+          "ariaLabel": ""
+        },
+        "_hideCorrectAnswer": {
+          "buttonText": "My Answer",
+          "ariaLabel": ""
+        },
+        "_showFeedback": {
+          "buttonText": "Show feedback",
+          "ariaLabel": ""
+        },
+        "remainingAttemptsText": "attempts remaining",
+        "remainingAttemptText": "final attempt"
+      }
+    },
+    {
+      "_id": "aide-m2-o3-ethical-frameworks-1c-10",
+      "_parentId": "aide-m2-o3-ethical-frameworks-1b-10",
+      "_type": "component",
+      "_component": "selectchoice",
+      "_classes": "",
+      "_layout": "full",
+      "title": "Select Choice",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "",
+      "_attempts": 1,
+      "_shouldDisplayAttempts": false,
+      "_shouldResetAllAnswers": false,
+      "_isRandom": false,
+      "_questionWeight": 1,
+      "_canShowModelAnswer": true,
+      "_canShowFeedback": true,
+      "_canShowMarking": true,
+      "_recordInteraction": true,
+      "_hasItemScoring": true,
+      "_choices": [
+        {
+          "text": "Very important",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        },
+    
+        {
+          "text": "Secondary consideration",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        },
+        {
+          "text": "not important to me",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        }
+      ],
+      "_items": [
+        {
+          "text": "I recognize that the environment has rights too, and preserving it is crucial for the well-being of present and future generations. I would report the violation to uphold the rights of the environment.",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          },
+          "_shouldBeSelected": 1
+        }
+    ],
+      "_feedback": {
+        "title": "",
+        "correct": "A rights ethics approach centres on upholding the rights of all beings, including the environment. The focus is on advocating for the rights of the environment and ensuring environmental justice.",
+        "_incorrect": {
+          "notFinal": "",
+          "final": "A rights ethics approach centres on upholding the rights of all beings, including the environment. The focus is on advocating for the rights of the environment and ensuring environmental justice."
+        },
+        "_partlyCorrect": {
+          "notFinal": "",
+          "final": "A rights ethics approach centres on upholding the rights of all beings, including the environment. The focus is on advocating for the rights of the environment and ensuring environmental justice."
+        }
+      },
+      "_buttons": {
+        "_submit": {
+          "buttonText": "Submit",
+          "ariaLabel": "Select here to submit your answer."
+        },
+        "_reset": {
+          "buttonText": "Reset",
+          "ariaLabel": ""
+        },
+        "_showCorrectAnswer": {
+          "buttonText": "Correct Answer",
+          "ariaLabel": ""
+        },
+        "_hideCorrectAnswer": {
+          "buttonText": "My Answer",
+          "ariaLabel": ""
+        },
+        "_showFeedback": {
+          "buttonText": "Show feedback",
+          "ariaLabel": ""
+        },
+        "remainingAttemptsText": "attempts remaining",
+        "remainingAttemptText": "final attempt"
+      }
+    },
+    {
+      "_id": "aide-m2-o3-ethical-frameworks-1c-11",
+      "_parentId": "aide-m2-o3-ethical-frameworks-1b-11",
+      "_type": "component",
+      "_component": "selectchoice",
+      "_classes": "",
+      "_layout": "full",
+      "title": "Select Choice",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "",
+      "_attempts": 1,
+      "_shouldDisplayAttempts": false,
+      "_shouldResetAllAnswers": false,
+      "_isRandom": false,
+      "_questionWeight": 1,
+      "_canShowModelAnswer": true,
+      "_canShowFeedback": true,
+      "_canShowMarking": true,
+      "_recordInteraction": true,
+      "_hasItemScoring": true,
+      "_choices": [
+        {
+          "text": "Very important",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        },
+    
+        {
+          "text": "Secondary consideration",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        },
+        {
+          "text": "not important to me",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        }
+      ],
+      "_items": [
+        {
+          "text": "I would approach my coworker with empathy, aiming to understand their perspective while also expressing how the situation has affected the team's morale. Prioritising open dialogue and relationships guides my response.",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          },
+          "_shouldBeSelected": 1
+        }
+    ],
+      "_feedback": {
+        "title": "",
+        "correct": "<p>A communitarian ethics perspective emphasises the well-being of the community and future generations. The focus is on preserving the common good, even if it means some individuals may face short-term hardships.</p>",
+        "_incorrect": {
+          "notFinal": "",
+          "final": "<p>A communitarian ethics perspective emphasises the well-being of the community and future generations. The focus is on preserving the common good, even if it means some individuals may face short-term hardships.</p>"
+        },
+        "_partlyCorrect": {
+          "notFinal": "",
+          "final": "<p>A communitarian ethics perspective emphasises the well-being of the community and future generations. The focus is on preserving the common good, even if it means some individuals may face short-term hardships.</p>"
+        }
+      },
+      "_buttons": {
+        "_submit": {
+          "buttonText": "Submit",
+          "ariaLabel": "Select here to submit your answer."
+        },
+        "_reset": {
+          "buttonText": "Reset",
+          "ariaLabel": ""
+        },
+        "_showCorrectAnswer": {
+          "buttonText": "Correct Answer",
+          "ariaLabel": ""
+        },
+        "_hideCorrectAnswer": {
+          "buttonText": "My Answer",
+          "ariaLabel": ""
+        },
+        "_showFeedback": {
+          "buttonText": "Show feedback",
+          "ariaLabel": ""
+        },
+        "remainingAttemptsText": "attempts remaining",
+        "remainingAttemptText": "final attempt"
+      }
+    },
+    {
+      "_id": "aide-m2-o3-ethical-frameworks-1c-12",
+      "_parentId": "aide-m2-o3-ethical-frameworks-1b-12",
+      "_type": "component",
+    "_component": "narrative",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Ethical Frameworks for AI",
+    "displayTitle": "Ethical Frameworks for AI",
+    "body": "These ethical frameworks provide different lenses through which to analyse and evaluate AI technologies and practices.",
+    "instruction": "Select the next and back arrows to find out more.",
+    "mobileInstruction": "Select the plus icon followed by the next arrow to find out more.",
+    "_hasNavigationInTextArea": false,
+    "_comment": "setCompletionOn = inview | allItems",
+    "_setCompletionOn": "allItems",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
+    "_isStackedOnMobile": false,
+    "_items": [
+        {
+            "title": "Utilitarianism",
+            "body": "<strong>Focus</strong>: Maximising overall happiness or utility.<br><strong>Key Principle</strong>: The ethical action is the one that produces the greatest overall happiness for the greatest number of people.<br><strong>Application in AI</strong>: In AI, utilitarianism might involve optimising algorithms to achieve the greatest societal benefit, even if it means sacrificing some individual rights or privacy.",
+                 "_graphic": {
+                    "src": "https://via.placeholder.com/600x400",
+                    "alt": "",
+                    "attribution": ""
+                },
+                "strapline": "Narrative item 1 strapline"
+        },
+        {
+            "title": "Deontology",
+            "body": "<strong>Focus</strong>: Duty and moral rules.<br><strong>Key Principle</strong>: The ethical action is determined by adhering to moral rules, regardless of the outcome.<br><strong>Application in AI</strong>: Deontology could guide AI ethics by emphasising respect for individual rights, privacy, and moral principles, even if it leads to suboptimal societal outcomes.",
+                 "_graphic": {
+                    "src": "https://via.placeholder.com/600x400",
+                    "alt": "",
+                    "attribution": ""
+                },
+                "strapline": "Narrative item 1 strapline"
+        },
+        {
+            "title": "Virtue Ethics",
+            "body": "<strong>Focus</strong>: Developing virtuous character traits.<br><strong>Key Principle</strong>: The ethical action comes from cultivating virtuous qualities and habits in oneself.<br><strong>Application in AI</strong>: Virtue ethics might encourage AI developers to prioritise qualities like empathy, compassion, and fairness in the design and deployment of AI systems.",
+                 "_graphic": {
+                    "src": "https://via.placeholder.com/600x400",
+                    "alt": "",
+                    "attribution": ""
+                },
+                "strapline": "Narrative item 1 strapline"
+        },
+        {
+            "title": "Rights-based Ethics",
+            "body": "<strong>Focus</strong>: Respect for individual rights.<br><strong>Key Principle</strong>: The ethical action respects and upholds fundamental rights, such as privacy, freedom, and equality.<br><strong>Application in AI</strong>: Rights-based ethics could guide AI development to ensure that technology respects users' rights and avoids infringing upon individual freedoms.",
+                 "_graphic": {
+                    "src": "https://via.placeholder.com/600x400",
+                    "alt": "",
+                    "attribution": ""
+                },
+                "strapline": "Narrative item 1 strapline"
+        },
+        {
+            "title": "Justice and Fairness",
+            "body": "<strong>Focus</strong>: Fair distribution of benefits and burdens.<br><strong>Key Principle</strong>: The ethical action involves ensuring equitable treatment and just distribution of resources and opportunities.<br><strong>Application in AI</strong>: Justice and fairness could lead to the development of AI systems that avoid biases, discrimination, and favouritism.",
+                 "_graphic": {
+                    "src": "https://via.placeholder.com/600x400",
+                    "alt": "",
+                    "attribution": ""
+                },
+                "strapline": "Narrative item 1 strapline"
+        },
+        {
+            "title": "Ethics of Care",
+            "body": "<strong>Focus</strong>: Relationships and empathy.<br><strong>Key Principle</strong>: The ethical action is guided by empathy, caring, and maintaining relationships.<br><strong>Application in AI</strong>: Ethics of care could encourage AI developers to consider the impact of their systems on vulnerable populations and to prioritise human well-being.",
+                 "_graphic": {
+                    "src": "https://via.placeholder.com/600x400",
+                    "alt": "",
+                    "attribution": ""
+                },
+                "strapline": "Narrative item 1 strapline"
+        }
+    ],
+    "_pageLevelProgress": {
+        "_isEnabled": true
+    }
+    },
+    {
+      "_id": "aide-m2-o3-ethical-frameworks-1c-13",
+      "_parentId": "aide-m2-o3-ethical-frameworks-1b-13",
+      "_type": "component",
+      "_component": "text",
+      "_classes": "section-banner",
+      "_layout": "full",
+      "title": "No ethical framework provides a one-size-fits-all solution; it's important to recognise that you are unlikely to subscribe to a single framework for every decision you make in life. ",
+      "displayTitle": "No ethical framework provides a one-size-fits-all solution; it's important to recognise that you are unlikely to subscribe to a single framework for every decision you make in life. ",
+      "body": "",
+      "instruction": "",
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    {
+      "_id": "aide-m2-o3-ethical-frameworks-1c-14",
+      "_parentId": "aide-m2-o3-ethical-frameworks-1b-14",
+      "_type": "component",
+      "_component": "groupItems",
+      "_classes": "",
+      "_layout": "full",
+      "title": "Examining the strengths and weaknesses of each ethical framework",
+      "displayTitle": "Examining the strengths and weaknesses of each ethical framework",
+      "body": "<p>The table below provides a brief outline of the strengths and weaknesses for each ethical framework. Whilst reading, consider where there are similarities and differences and how these characteristics manifest themselves in different contexts.&nbsp;</p>",
+      "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_groups": [
+      {
+        "title": "Utilitarianism",
+        "_icon": {
+          "src": "",
+          "_classes": "",
+          "alt": ""
+        }
+      },
+      {
+        "title": "Deontology",
+        "_icon": {
+          "src": "",
+          "_classes": "",
+          "alt": ""
+        },
+        "_graphic": {
+          "src": "",
+          "alt": ""
+        }
+      },
+      {
+        "title": "Virtue Ethics",
+        "_icon": {
+          "src": "",
+          "_classes": "",
+          "alt": ""
+        }
+      },
+      {
+        "title": "Rights-based Ethics",
+        "_icon": {
+          "src": "",
+          "_classes": "",
+          "alt": ""
+        }
+      },
+      {
+        "title": "Justice and Fairness",
+        "_icon": {
+          "src": "",
+          "_classes": "",
+          "alt": ""
+        }
+      },
+      {
+        "title": "Ethics of Care",
+        "_icon": {
+          "src": "",
+          "_classes": "",
+          "alt": ""
+        }
+      }
+    ],
+    "_items": [
+        {
+            "_group": 1,
+            "title": "Strengths",
+            "body": "<ul><li>Focuses on maximising overall societal well-being.</li><li>Provides a clear criterion for decision-making based on quantifiable outcomes.</li><li>Can guide decisions to prioritise the greater good in complex situations.</li></ul>",
+            "_graphic": {
+              "src": "",
+              "alt": ""
+            },
+            "_classes": ""
+          },
+          {
+            "_group": 1,
+            "title": "Weaknesses",
+            "body": "<ul><li>Can lead to sacrificing individual rights or minority interests for the greater good.</li><li>Challenges in accurately measuring and comparing happiness or utility.</li><li>May not adequately consider the rights and dignity of individuals.</li></ul>",
+            "_graphic": {
+              "src": "",
+              "alt": ""
+            },
+            "_classes": ""
+          },
+          {
+            "_group": 2,
+            "title": "Strengths",
+            "body": "<ul><li>Emphasises the importance of moral principles and duties.</li><li>Upholds individual rights and dignity even when the outcome may be less favourable.</li><li>Provides a consistent framework for decision-making.</li></ul>",
+            "_graphic": {
+              "src": "",
+              "alt": ""
+            },
+            "_classes": ""
+          },
+          {
+            "_group": 2,
+            "title": "Weaknesses",
+            "body": "<ul><li>Rigidity in following rules may lead to morally unacceptable outcomes.</li><li>Difficulties in resolving conflicts when different duties come into conflict.</li><li>Lacks clear guidance when rules conflict or when novel situations arise.</li></ul>",
+            "_graphic": {
+              "src": "",
+              "alt": ""
+            },
+            "_classes": ""
+          },
+          {
+            "_group": 3,
+            "title": "Strengths",
+            "body": "<ul><li>Focuses on character development and moral virtues.</li><li>Encourages ethical behaviour as a part of one's personal character.</li><li>Emphasises a holistic approach to ethics beyond specific actions.</li></ul>",
+            "_graphic": {
+              "src": "",
+              "alt": ""
+            },
+            "_classes": ""
+          },
+          {
+            "_group": 3,
+            "title": "Weaknesses",
+            "body": "<ul><li>Can be subjective in defining what virtues are essential.</li><li>Lacks concrete guidance in situations where virtues might conflict.</li><li>May not provide clear guidance in novel or complex ethical dilemmas.</li></ul>",
+            "_graphic": {
+              "src": "",
+              "alt": ""
+            },
+            "_classes": ""
+          },
+          {
+            "_group": 4,
+            "title": "Strengths",
+            "body": "<ul><li>Upholds individual rights and freedoms as fundamental.</li><li>Provides a strong foundation for respecting human dignity.</li><li>Offers clear guidelines for respecting autonomy and avoiding harm.</li></ul>",
+            "_graphic": {
+              "src": "",
+              "alt": ""
+            },
+            "_classes": ""
+          },
+          {
+            "_group": 4,
+            "title": "Weaknesses",
+            "body": "<ul><li>Can lead to conflicts when rights conflict with each other.</li><li>Limited guidance on how to resolve conflicts between individual rights and collective well-being.</li><li>May not address nuanced ethical decisions beyond the scope of rights.</li></ul>",
+            "_graphic": {
+              "src": "",
+              "alt": ""
+            },
+            "_classes": ""
+          },
+          {
+            "_group": 5,
+            "title": "Strengths",
+            "body": "<ul><li>Focuses on equitable distribution and treatment.</li><li>Addresses social inequalities and systemic biases.</li><li>Promotes inclusivity and addresses historical injustices.</li></ul>",
+            "_graphic": {
+              "src": "",
+              "alt": ""
+            },
+            "_classes": ""
+          },
+          {
+            "_group": 5,
+            "title": "Weaknesses",
+            "body": "<ul><li>Different interpretations of what constitutes fairness.</li><li>Challenges in defining and measuring fairness objectively.</li><li>May not provide clear answers in complex cases involving conflicting notions of justice.</li></ul>",
+            "_graphic": {
+              "src": "",
+              "alt": ""
+            },
+            "_classes": ""
+          },
+          {
+            "_group": 6,
+            "title": "Strengths",
+            "body": "<ul><li>Emphasises empathy, relationships, and context.</li><li>Highlights the importance of considering vulnerable populations.</li><li>Provides a more holistic perspective on ethical decisions.</li></ul>",
+            "_graphic": {
+              "src": "",
+              "alt": ""
+            },
+            "_classes": ""
+          },
+          {
+            "_group": 6,
+            "title": "Weaknesses",
+            "body": "<ul><li>Subjective interpretation of care and empathy.</li><li>Challenges in defining boundaries between personal relationships and ethical responsibilities.</li><li>May not provide clear guidance in situations involving larger societal considerations.</li></ul>",
+            "_graphic": {
+              "src": "",
+              "alt": ""
+            },
+            "_classes": ""
+          }
+      ],
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    {
+      "_id": "aide-m2-o3-ethical-frameworks-1c-15",
+      "_parentId": "aide-m2-o3-ethical-frameworks-1b-15",
+      "_type": "component",
+      "_component": "text",
+      "_classes": "",
+      "_layout": "left",
+      "title": "Ethical frameowrk summary of scenarios",
+      "displayTitle": "",
+      "body": "<p>Each ethical framework has its strengths and weaknesses, and the choice of which framework to apply can depend on the specific context, values, and goals of the AI development and deployment. Integrating a combination of frameworks can lead to a more comprehensive ethical analysis and decision-making process.</p>",
+      "instruction": "",
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    {
+      "_id": "aide-m2-o3-ethical-frameworks-1c-16",
+      "_parentId": "aide-m2-o3-ethical-frameworks-1b-16",
+      "_type": "component",
+      "_component": "text",
+      "_classes": "",
+      "_layout": "full",
+      "title": "Ethical Pluralism: Embracing Diversity in Ethical Thought",
+      "displayTitle": "Ethical Pluralism: Embracing Diversity in Ethical Thought",
+      "body": "<p>Ethical pluralism recognises the richness of multiple ethical perspectives and their application in complex scenarios. We will delve into the concept of ethical pluralism and its role in fostering comprehensive ethical analysis. By acknowledging that different situations may require different ethical approaches, we empower ourselves to navigate intricate ethical dilemmas with greater clarity and sensitivity.</p><p>In the context of AI, ethical pluralism recognizes that AI technologies and practices can involve a wide range of ethical considerations that cannot be fully addressed by a single ethical framework. AI applications can impact individual rights, societal well-being, fairness, privacy, and other values, each of which may align better with a particular ethical perspective. As a result, ethical pluralism encourages a flexible and context-sensitive approach to ethical analysis and decision-making in AI development, deployment, and use.</p><p>How Ethical Pluralism Applies in AI:</p><ol>\n<li><strong>Balancing Conflicting Values</strong>: Ethical pluralism allows AI developers and stakeholders to navigate situations where different values or principles may come into conflict. For instance, balancing the interests and rights of individuals with the benefits of data-driven AI services requires considering both rights-based ethics and utilitarianism.</li>\n<li><strong>Holistic Analysis</strong>: Ethical pluralism encourages a more comprehensive analysis by considering multiple ethical perspectives. This can lead to a more well-rounded understanding of the potential ethical implications of AI technologies.</li>\n<li><strong>Cultural and Contextual Variability</strong>: Different cultures and contexts may prioritise various ethical values differently. Ethical pluralism accommodates these variations and encourages adapting ethical considerations to the specific environment.</li>\n<li><strong>Dynamic Nature of AI</strong>: AI technologies evolve rapidly, leading to new ethical challenges. Ethical pluralism allows for agility in addressing emerging ethical concerns without being constrained by a single framework.</li>\n<li><strong>Stakeholder Engagement</strong>: Ethical pluralism can facilitate constructive dialogues among stakeholders with diverse perspectives. It recognizes that individuals may resonate with different ethical frameworks based on their backgrounds and roles.</li>\n</ol><p>By adopting an ethical pluralism approach in AI, organisations can create a more inclusive and adaptable ethical foundation. This approach encourages interdisciplinary collaboration, promotes holistic ethical assessments, and acknowledges the multidimensional nature of AI's impact on society. It helps AI developers and practitioners make nuanced, well-informed decisions that reflect the complexity of the technology and its ethical implications.&nbsp;</p>",
+      "instruction": "",
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    {
+      "_id": "aide-m2-o3-ethical-frameworks-1c-17",
+      "_parentId": "aide-m2-o3-ethical-frameworks-1b-17",
+      "_type": "component",
+      "_component": "mcq",
+      "_classes": "",
+      "_layout": "left",
+      "title": "Building Trust in Ethical Decision-Making?",
+      "displayTitle": "Building Trust in Ethical Decision-Making?",
+      "body": "",
+      "instruction": "Choose one option then select Submit.",
+      "ariaQuestion": "Question text specifically for screen readers.",
+      "_attempts": 1,
+      "_shouldDisplayAttempts": false,
+      "_isRandom": false,
+      "_hasItemScoring": false,
+      "_questionWeight": 1,
+      "_selectable": 1,
+      "_canShowModelAnswer": true,
+      "_canShowFeedback": true,
+      "_canShowMarking": true,
+      "_recordInteraction": true,
+      "_items": [
+        {
+          "text": "To ensure that everyone agrees with the outcome of every decision.",
+          "_shouldBeSelected": false,
+          "_isPartlyCorrect": false
+        },
+        {
+          "text": "To accommodate numerous viewpoints and cultural perspectives.",
+          "_shouldBeSelected": false,
+          "_isPartlyCorrect": false
+        },
+        {
+          "text": "To guarantee that decisions are made without any disagreements.",
+          "_shouldBeSelected": false,
+          "_isPartlyCorrect": false
+        },
+        {
+          "text": "To build trust in the decision-making processes, acknowledging that not everyone will always agree with the outcome.",
+          "_shouldBeSelected": true,
+          "_isPartlyCorrect": false
+        }
+      ],
+      "_feedback": {
+        "correct": "<p><strong>That's right!</p></strong></p><p>While it's important to consider various viewpoints and cultural perspectives in ethical decision-making, the ultimate goal is not to ensure unanimous agreement on every decision. Rather, the key reason for establishing robust ethical decision-making processes is to build trust in the decision-making procedures. It recognizes that not all individuals will necessarily agree with every outcome, but emphasises the importance of having a structured approach to making decisions in complex ethical scenarios. This fosters transparency and accountability within the organisation's ethical practices.</p>",
+        "_incorrect": {
+          "notFinal": "<p><strong>Are you sure about that?</p></strong></p><p>While it's important to consider various viewpoints and cultural perspectives in ethical decision-making, the ultimate goal is not to ensure unanimous agreement on every decision. Rather, the key reason for establishing robust ethical decision-making processes is to build trust in the decision-making procedures. It recognizes that not all individuals will necessarily agree with every outcome, but emphasises the importance of having a structured approach to making decisions in complex ethical scenarios. This fosters transparency and accountability within the organisation's ethical practices.</p>",
+          "final": "<p><strong>Are you sure about that?</p></strong></p><p>While it's important to consider various viewpoints and cultural perspectives in ethical decision-making, the ultimate goal is not to ensure unanimous agreement on every decision. Rather, the key reason for establishing robust ethical decision-making processes is to build trust in the decision-making procedures. It recognizes that not all individuals will necessarily agree with every outcome, but emphasises the importance of having a structured approach to making decisions in complex ethical scenarios. This fosters transparency and accountability within the organisation's ethical practices.</p>"
+        }
+      },
+      "_comment": "You only need to include _buttons if you want to override the button labels that are set in course.json",
+      "_buttons": {
+        "_submit": {
+          "buttonText": "Submit",
+          "ariaLabel": "Select here to submit your answer."
+        },
+        "_reset": {
+          "buttonText": "Reset",
+          "ariaLabel": ""
+        },
+        "_showCorrectAnswer": {
+          "buttonText": "Correct Answer",
+          "ariaLabel": ""
+        },
+        "_hideCorrectAnswer": {
+          "buttonText": "My Answer",
+          "ariaLabel": ""
+        },
+        "_showFeedback": {
+          "buttonText": "Show feedback",
+          "ariaLabel": ""
+        },
+        "remainingAttemptsText": "attempts remaining",
+        "remainingAttemptText": "final attempt"
+      },
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    {
+      "_id": "aide-m2-o3-ethical-frameworks-1c-18",
+      "_parentId": "aide-m2-o3-ethical-frameworks-1b-18",
+      "_type": "component",
+      "_component": "text",
+      "_classes": "",
+      "_layout": "full",
+      "title": "Case Study: UK Exam Grading - Balancing Ethics in Education",
+      "displayTitle": "Case Study: UK Exam Grading - Balancing Ethics in Education",
+      "body": "<p>The controversy surrounding the UK grading algorithm in 2020 serves as a poignant case study that encapsulates the challenges of ethical decision-making. We will dissect this scenario, considering how different ethical frameworks were applied, and how the consequences of those decisions played out. We will explore what could have been done differently and how a more balanced consideration of various ethical perspectives might have led to a more equitable outcome.</p><p>Scenario: In 2020, the United Kingdom faced a challenging situation in grading students' exams due to the COVID-19 pandemic. To assess students' grades, an algorithmic approach was initially adopted, which aimed to standardise results across schools. However, this algorithm faced widespread backlash for disproportionately affecting students from disadvantaged backgrounds. The government subsequently shifted to using teacher-assessed grades, aiming to rectify these disparities. While this decision addressed some concerns, it led to challenges such as high numbers of students being eligible for university places and concerns about future exam grade inflation. As we reflect on this situation, let's consider the ethical frameworks that were most strongly applied and which ones could have been applied more effectively.</p><p>Ethical Frameworks Considered:</p><ol>\n<li><strong>Utilitarianism</strong>:</li>\n<ul>\n<li>Initially: The algorithmic approach might have aimed to maximise fairness and uniformity across schools, but its implementation led to significant distress and dissatisfaction among students and parents.</li>\n<li>Teacher-assessed grades: The switch to teacher assessments aimed to minimise harm and distress for students, but the subsequent challenges raised questions about the overall well-being of the broader education system.</li>\n</ul>\n<li><strong>Deontology</strong>:</li>\n<ul>\n<li>Initially: The algorithmic approach adhered to predefined rules and criteria for grading, but the strong public reaction indicated that these rules might not have sufficiently considered the individual circumstances of students.</li>\n<li>Teacher-assessed grades: This approach could be seen as a response to the ethical duty of treating each student as an individual, focusing on their unique abilities and efforts rather than strictly following an algorithm.</li>\n</ul>\n<li><strong>Justice and Fairness</strong>:</li>\n<ul>\n<li>Initially: The algorithmic approach aimed to ensure standardised grading, but its failure to address disparities in students' backgrounds raised concerns about fairness and social justice.</li>\n<li>Teacher-assessed grades: This approach aimed to address the fairness concerns by allowing educators to account for students' personal situations, but the challenges of grade inflation and university admissions highlighted the complexity of achieving fairness for all.</li>\n</ul>\n<li><strong>Ethics of Care</strong>:</li>\n<ul>\n<li>Teacher-assessed grades: The shift to teacher assessments might reflect the consideration of students' well-being, as teachers could provide a more nuanced understanding of their capabilities and challenges.</li>\n</ul>\n<li><strong>Rights-based Ethics</strong>:</li>\n<ul>\n<li>Initially: The algorithmic approach could be interpreted as an attempt to uphold students' right to a fair and objective assessment. However, its shortcomings demonstrated the importance of ensuring students' rights to accurate evaluation.</li>\n<li>Teacher-assessed grades: This approach aimed to respect students' right to an individualised assessment, but the potential consequences for future students and university admissions raised questions about the broader impact on their rights.</li>\n</ul>\n<li><strong>Virtue Ethics</strong>:</li>\n<ul>\n<li>Both approaches: The virtues of empathy, responsibility, and fairness could have played roles in guiding decisions. Considering the well-being of students, their futures, and the education system as a whole aligns with virtuous decision-making.</li>\n</ul>\n</ol><p>Considering the scenario, it's clear that multiple ethical frameworks were at play. While the government's response indicated consideration of utilitarianism, deontology, and justice, other frameworks like ethics of care and virtue ethics could have been applied more robustly to address the complexities of individual student needs, long-term consequences, and fostering a supportive educational environment. By recognizing the strengths and limitations of each framework, we can better navigate similar challenging situations in the future.</p>",
+      "instruction": "",
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    {
+      "_id": "aide-m2-o3-ethical-frameworks-1c-19",
+      "_parentId": "aide-m2-o3-ethical-frameworks-1b-19",
+      "_type": "component",
+      "_component": "text",
+      "_classes": "",
+      "_layout": "left",
+      "title": "Using ethical questions to improve diversity in ethics committees",
+      "displayTitle": "Using ethical questions to improve diversity in ethics committees",
+      "body": "<p>Organisations often establish ethical committees to guide decisions and navigate complex issues. Yet, many face challenges in ensuring these committees possess the necessary diversity and authority for effective decision-making.</p><p>A diverse and inclusive ethical committee is essential for well-rounded decision-making that considers a spectrum of viewpoints. One strategy involves leveraging ethical questions as a tool to foster diversity among committee members' perspectives.</p><p>By crafting a diverse set of ethical questions spanning various scenarios and viewpoints, organisations encourage introspection into personal ethics and values. This process unveils the richness and potential gaps within the committee's ethical outlook. Such questions can also be incorporated into the committee member selection process, aiding in the identification of diverse perspectives.</p><p>Committee members' commitment to continuous learning is also vital. Staying updated on evolving ethical frameworks, societal shifts, and emerging ethical concerns widens their perspectives over time.</p><p>In summary, fostering a diverse and inclusive ethical committee requires innovative approaches. Ethical questions serve as a gateway to embracing multifaceted viewpoints, strengthening decision-making processes, and contributing to the overall ethical fabric of the organisation.</p>",
+      "instruction": "",
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    {
+      "_id": "aide-m2-o3-ethical-frameworks-1c-20",
+      "_parentId": "aide-m2-o3-ethical-frameworks-1b-20",
+      "_type": "component",
+      "_component": "text",
+      "_classes": "",
+      "_layout": "right",
+      "title": "Using ethical questions to examine AI systems",
+      "displayTitle": "Using ethical questions to examine AI systems",
+      "body": "<p>In their paper \"<a href=\"https://dl.acm.org/doi/10.1145/3278721.3278767\" target=\"_blank\" rel=\"noopener\">Cake, Death, and Trolleys: Dilemmas as Benchmarks of Ethical Decision-Making</a>\", the authors discuss the role of ethical dilemmas as benchmarks for assessing the ethical performance of artificial intelligence (AI) systems. As AI becomes increasingly integrated into society and makes more decisions, transparency on the AIs ethics becomes critical. The abstract proposes that by introducing the concept of benchmarking to the AI system, and evaluation against standard scenarios, we could reveal which frameworks have influenced its development.</p><p>The paper asserts that ethical dilemmas, which present complex moral scenarios with no definitive solution, can serve as effective benchmarks to gauge the ethical decision-making capabilities of autonomous systems. The authors argue that by evaluating how AI systems navigate these dilemmas, we can estimate their ethical performance and which frameworks they prioritise.&nbsp;</p><p>It is certainly an interesting, if not easy idea to implement.</p>",
+      "instruction": "",
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    {
+      "_id": "aide-m2-o3-ethical-frameworks-1c-21",
+      "_parentId": "aide-m2-o3-ethical-frameworks-1b-21",
+      "_type": "component",
+      "_component": "text",
+      "_classes": "",
+      "_layout": "left",
+      "title": "Summary ",
+      "displayTitle": "Summary ",
+      "body": "<p>This module has provided an overview of various ethical perspectives, from utilitarianism and deontology to virtue ethics and beyond, gaining insights into their application in AI, decision-making, and real-world scenarios like the UK exam grading case study.&nbsp;</p><p>Moreover, we've explored how ethical questions can be wielded as a powerful tool to ensure diversity and inclusivity within ethics committees. By prompting individuals to reflect on their ethical perspectives and values, organisations can form committees that encompass a broad range of viewpoints, enhancing the overall ethical fabric of the institution.</p><p>As you work through this programme of learning, consider the ethical framework you apply to different scenarios - what is it that informs your perspective in these contexts?&nbsp;</p><p>How might you broaden the perspective and introduce elements of ethical pluralism?</p>",
+      "instruction": "",
+      "_pageLevelProgress": {
+        "_isEnabled": false
+      }
+    },
+    {
+      "_id": "aide-m2-o3-ethical-frameworks-1g-1",
+      "_parentId": "aide-m2-o3-ethical-frameworks-1b-1",
+      "_type": "component",
+      "_component": "graphic",
+      "_classes": "",
+      "_layout": "right",
+      "title": "graphic for intro",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "",
+      "_graphic": {
+        "alt": "",
+        "longdescription": "",
+        "large": "course/en/assets/ed8c41138dc38e9d42c4c464ef200a62b430716e.png",
+        "small": "course/en/assets/ed8c41138dc38e9d42c4c464ef200a62b430716e.png",
+        "attribution": "<a href=\"http://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>",
+        "_url": "",
+        "_target": null
+      },
+      "_isScrollable": false,
+      "_defaultScrollPercent": 0,
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+      "_id": "aide-m2-o3-ethical-frameworks-1g-2",
+      "_parentId": "aide-m2-o3-ethical-frameworks-1b-2",
+      "_type": "component",
+      "_component": "graphic",
+      "_classes": "",
+      "_layout": "left",
+      "title": "graphic for Self-Examination: Questioning Your Approach to Challenges",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "",
+      "_graphic": {
+        "alt": "",
+        "longdescription": "",
+        "large": "https://via.placeholder.com/400x400",
+        "small": "https://via.placeholder.com/400x400",
+        "attribution": "NO ATTRIBUTION",
+        "_url": "",
+        "_target": ""
+      },
+      "_isScrollable": false,
+      "_defaultScrollPercent": 0,
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+      "_id": "aide-m2-o3-ethical-frameworks-1g-3",
+      "_parentId": "aide-m2-o3-ethical-frameworks-1b-3",
+      "_type": "component",
+      "_component": "graphic",
+      "_classes": "",
+      "_layout": "right",
+      "title": "graphic for Scenario’s set 1",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "",
+      "_graphic": {
+        "alt": "",
+        "longdescription": "",
+        "large": "https://via.placeholder.com/400x400",
+        "small": "https://via.placeholder.com/400x400",
+        "attribution": "NO ATTRIBUTION",
+        "_url": "",
+        "_target": ""
+      },
+      "_isScrollable": false,
+      "_defaultScrollPercent": 0,
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+      "_id": "aide-m2-o3-ethical-frameworks-1g-5",
+      "_parentId": "aide-m2-o3-ethical-frameworks-1b-5",
+      "_type": "component",
+      "_component": "graphic",
+      "_classes": "",
+      "_layout": "right",
+      "title": "graphic for Scenario’s set 2",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "",
+      "_graphic": {
+        "alt": "",
+        "longdescription": "",
+        "large": "https://via.placeholder.com/400x400",
+        "small": "https://via.placeholder.com/400x400",
+        "attribution": "NO ATTRIBUTION",
+        "_url": "",
+        "_target": ""
+      },
+      "_isScrollable": false,
+      "_defaultScrollPercent": 0,
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+      "_id": "aide-m2-o3-ethical-frameworks-1g-15",
+      "_parentId": "aide-m2-o3-ethical-frameworks-1b-15",
+      "_type": "component",
+      "_component": "graphic",
+      "_classes": "",
+      "_layout": "right",
+      "title": "graphic for Examini",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "",
+      "_graphic": {
+        "alt": "",
+        "longdescription": "",
+        "large": "https://via.placeholder.com/400x400",
+        "small": "https://via.placeholder.com/400x400",
+        "attribution": "NO ATTRIBUTION",
+        "_url": "",
+        "_target": ""
+      },
+      "_isScrollable": false,
+      "_defaultScrollPercent": 0,
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+      "_id": "aide-m2-o3-ethical-frameworks-1g-17",
+      "_parentId": "aide-m2-o3-ethical-frameworks-1b-17",
+      "_type": "component",
+      "_component": "graphic",
+      "_classes": "",
+      "_layout": "right",
+      "title": "graphic for Building Trust in Ethical Decision-Making?",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "",
+      "_graphic": {
+        "alt": "",
+        "longdescription": "",
+        "large": "https://via.placeholder.com/400x400",
+        "small": "https://via.placeholder.com/400x400",
+        "attribution": "NO ATTRIBUTION",
+        "_url": "",
+        "_target": ""
+      },
+      "_isScrollable": false,
+      "_defaultScrollPercent": 0,
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+      "_id": "aide-m2-o3-ethical-frameworks-1g-19",
+      "_parentId": "aide-m2-o3-ethical-frameworks-1b-19",
+      "_type": "component",
+      "_component": "graphic",
+      "_classes": "",
+      "_layout": "right",
+      "title": "graphic for Using ethical questions to improve diversity in ethics committees",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "",
+      "_graphic": {
+        "alt": "",
+        "longdescription": "",
+        "large": "https://via.placeholder.com/400x400",
+        "small": "https://via.placeholder.com/400x400",
+        "attribution": "NO ATTRIBUTION",
+        "_url": "",
+        "_target": ""
+      },
+      "_isScrollable": false,
+      "_defaultScrollPercent": 0,
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+      "_id": "aide-m2-o3-ethical-frameworks-1g-20",
+      "_parentId": "aide-m2-o3-ethical-frameworks-1b-20",
+      "_type": "component",
+      "_component": "graphic",
+      "_classes": "",
+      "_layout": "left",
+      "title": "graphic for Using ethical questions to examine AI systems",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "",
+      "_graphic": {
+        "alt": "",
+        "longdescription": "",
+        "large": "https://via.placeholder.com/400x400",
+        "small": "https://via.placeholder.com/400x400",
+        "attribution": "NO ATTRIBUTION",
+        "_url": "",
+        "_target": ""
+      },
+      "_isScrollable": false,
+      "_defaultScrollPercent": 0,
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+      "_id": "aide-m2-o3-ethical-frameworks-1g-21",
+      "_parentId": "aide-m2-o3-ethical-frameworks-1b-21",
+      "_type": "component",
+      "_component": "graphic",
+      "_classes": "",
+      "_layout": "right",
+      "title": "graphic for Summary ",
+      "displayTitle": "",
+      "body": "",
+      "instruction": "",
+      "_graphic": {
+        "alt": "",
+        "longdescription": "",
+        "large": "course/en/assets/50cd2a8785a924e204ab876d46a71c045cb0f0fc.png",
+        "small": "course/en/assets/50cd2a8785a924e204ab876d46a71c045cb0f0fc.png",
+        "attribution": "<a href=\"theodi.org\" target=\"_blank\">ODI</a> <span class='assetLicence'>[All rights reserved]</span>",
+        "_url": "",
+        "_target": null
       },
       "_isScrollable": false,
       "_defaultScrollPercent": 0,
