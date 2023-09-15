@@ -90,8 +90,8 @@
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "course/en/assets/data-lifecycle.png",
-      "small": "course/en/assets/data-lifecycle.png",
+      "large": "course/en/assets/data-lifecycle-img1.png",
+      "small": "course/en/assets/data-lifecycle-img1.png",
       "attribution": "<a href=\"theodi.org\" target=\"_blank\">ODI</a> <span class=\"assetLicence\">[CC0]</span>",
       "_url": "",
       "_target": ""
@@ -5333,7 +5333,7 @@
     "_type": "component",
     "_component": "text",
     "_classes": "",
-    "_layout": "left",
+    "_layout": "full",
     "title": "STEP 1: Establish the lawful and ethical basis",
     "displayTitle": "",
     "body": "<p>As this dataset is made up of fictional people, we do not need a lawful basis for using it. Although there is ‘personal data’ in the dataset, it is not related to any living individual.</p><p>From an ethical viewpoint, there is a small risk that someone might believe that Gilderoy Lockhart (a half-blood professor from the Harry Potter series) does live in Tower Hamlets, or that Joe Quimby (the Mayor from the Simpsons) lives in Ringwood. This person then might go to that street address (if our fictional street even exists) or enter the postcode (which does exist) in a SatNav and end up annoying whoever may live in that location, but the risk of that is acceptably low. So we can continue.</p>",
@@ -9260,7 +9260,7 @@
       }
     },
     {
-      "_id": "m2-07-ethical-dm-c-1",
+      "_id": "m2-07-ethical-dm-c-40",
       "_parentId": "m2-07-ethical-dm-b-1",
       "_type": "component",
       "_component": "mcq",
