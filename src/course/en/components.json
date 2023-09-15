@@ -1155,7 +1155,7 @@
     "_layout": "full",
     "title": "The AI act risk categories",
     "displayTitle": "",
-    "body": "<div><h3 class=\"border-bottom bold-color-text\">Unacceptable risk</h3> <p> Unacceptable risk AI systems are systems considered a threat to people and will be banned. Examples include: </p> <ul class=\"styled-links\"> <li class=\"callout-border-bold-list\"> Cognitive behavioural manipulation of people or specific vulnerable groups: for example voice-activated toys that encourage dangerous behaviour in children </li> <li class=\"callout-border-bold-list\"> Social scoring: classifying people based on behaviour, socio-economic status or personal characteristics </li> <li class=\"callout-border-bold-list\"> Real-time and remote biometric identification systems, such as facial recognition, including the untargeted scraping of facial images from the internet or CCTV footage to create facial recognition databases. </li> </ul> <p class=\"highlight-white-light\"> Some exceptions may be allowed: For instance, “post” remote biometric identification systems where identification occurs after a significant delay will be allowed to prosecute serious crimes but only after court approval. </p> </div> <div  style=\"margin-top:10px;\"> <h3 class=\"border-bottom bold-color-text\">High risk</h3> <p> The AI Act broadly splits high-risk AI uses into two categories – one for physical products and the other for more software based things. </p> <p> Annex II contains the list of products, which also fall under <a href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02001L0095-20100101\" target=\"_blank\" rel=\"noopener\" class=\"inline-links\"> the EU’s product safety legislation</a>. This includes toys, aviation, cars, medical devices and lifts. </p> <p class=\"color-box\" style=\"padding: 10px\">Annex III expands this to include:</p> <ul class=\"two-by-two-grid\"> <li class=\"blue-caution-callout\" style=\"list-style-type:none; font-weight: font-weight: 600;\"> critical infrastructures (e.g. transport), that could put the life and health of citizens at risk </li> <li class=\"blue-caution-callout\" style=\"list-style-type:none; font-weight: font-weight: 600;\"> educational or vocational training, that may determine the access to education and professional course of someone’s life (e.g. scoring of exams) </li> <li class=\"blue-caution-callout\" style=\"list-style-type:none; font-weight: font-weight: 600;\"> safety components of products (e.g. AI application in robot-assisted surgery) </li> <li class=\"blue-caution-callout\" style=\"list-style-type:none; font-weight: font-weight: 600;\"> employment, management of workers and access to self-employment (e.g. CV-sorting software for recruitment procedures) </li> <li class=\"blue-caution-callout\" style=\"list-style-type:none; font-weight: font-weight: 600;\"> essential private and public services (e.g. credit scoring denying citizens opportunity to obtain a loan) </li> <li class=\"blue-caution-callout\" style=\"list-style-type:none; font-weight: font-weight: 600;\"> law enforcement that may interfere with people’s fundamental rights (e.g. evaluation of the reliability of evidence) </li> <li class=\"blue-caution-callout\" style=\"list-style-type:none; font-weight: font-weight: 600;\"> migration, asylum and border control management (e.g. verification of authenticity of travel documents) </li> <li class=\"blue-caution-callout\" style=\"list-style-type:none; font-weight: font-weight: 600;\"> administration of justice and democratic processes (e.g. applying the law to a concrete set of facts). </li> </ul> <p class=\"blue-caution-callout\"> [image: <a href=\"https://docs.google.com/presentation/d/1oPTINAxl5ogZfvrMp79r-IsiKFIw4aq8OboTC1ASLFs/edit#slide=id.p\" target=\"_blank\" rel=\"noopener\">2 Adapt layout idea - EU AI Act High Risk Uses</a>] - graphic </p> <hr> <p class=\"highlight-white-light\"> Before these high-risk AI systems can be put on the EU market, they are subject to strict ‘conformity assessments’, which determine whether the system will meet all requirements in the Act. While those listed in Annex II will report to existing regulatory bodies, providers of those covered in Annex III will, for now, self-assess to the same requirements.&nbsp; </p> <h3 class=\"sub-header\"> </h3><h3 class=\"bold-color-text\"> Some examples of the requirements within the AI act include: </h3> <ul> <li class=\"small-quote\">adequate risk assessment and mitigation systems</li> <li class=\"small-quote\"> high quality of the datasets feeding the system to minimise risks and discriminatory outcomes </li> <li class=\"small-quote\"> logging of activity to ensure traceability of results </li> <li class=\"small-quote\"> detailed documentation providing all information necessary on the system and its purpose for authorities to assess its compliance </li> <li class=\"small-quote\">clear and adequate information to the user</li> <li class=\"small-quote\"> appropriate human oversight measures to minimise risk </li> <li class=\"small-quote\"> high level of robustness, security and accuracy. </li> </ul> <p> While those who already report to regulatory bodies will be familiar with these requirements and experience dealing with a notified body and conformity assessments, this is likely going to be very new to the technology section and as a result require investment, resources and expertise.&nbsp; </p>",
+    "body": "<div><h3 class=\"border-bottom bold-color-text\">Unacceptable risk</h3> <p> Unacceptable risk AI systems are systems considered a threat to people and will be banned. Examples include: </p> <ul class=\"styled-links\"> <li class=\"callout-border-bold-list\" style=\"border-left: 5px solid #0961b6;\"> Cognitive behavioural manipulation of people or specific vulnerable groups: for example voice-activated toys that encourage dangerous behaviour in children </li> <li class=\"callout-border-bold-list\" style=\"border-left: 5px solid #0961b6;\"> Social scoring: classifying people based on behaviour, socio-economic status or personal characteristics </li> <li class=\"callout-border-bold-list\" style=\"border-left: 5px solid #0961b6;\"> Real-time and remote biometric identification systems, such as facial recognition, including the untargeted scraping of facial images from the internet or CCTV footage to create facial recognition databases. </li> </ul> <p class=\"highlight-white-light\"> Some exceptions may be allowed: For instance, “post” remote biometric identification systems where identification occurs after a significant delay will be allowed to prosecute serious crimes but only after court approval. </p> </div> <div  style=\"margin-top:10px;\"> <h3 class=\"border-bottom bold-color-text\">High risk</h3> <p> The AI Act broadly splits high-risk AI uses into two categories – one for physical products and the other for more software based things. </p> <p> Annex II contains the list of products, which also fall under <a href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02001L0095-20100101\" target=\"_blank\" rel=\"noopener\" class=\"inline-links\"> the EU’s product safety legislation</a>. This includes toys, aviation, cars, medical devices and lifts. </p> <p class=\"color-box\" style=\"padding: 10px\">Annex III expands this to include:</p> <ul class=\"two-by-two-grid\"> <li class=\"blue-caution-callout\" style=\"list-style-type:none; font-weight: font-weight: 600;\"> critical infrastructures (e.g. transport), that could put the life and health of citizens at risk </li> <li class=\"blue-caution-callout\" style=\"list-style-type:none; font-weight: font-weight: 600;\"> educational or vocational training, that may determine the access to education and professional course of someone’s life (e.g. scoring of exams) </li> <li class=\"blue-caution-callout\" style=\"list-style-type:none; font-weight: font-weight: 600;\"> safety components of products (e.g. AI application in robot-assisted surgery) </li> <li class=\"blue-caution-callout\" style=\"list-style-type:none; font-weight: font-weight: 600;\"> employment, management of workers and access to self-employment (e.g. CV-sorting software for recruitment procedures) </li> <li class=\"blue-caution-callout\" style=\"list-style-type:none; font-weight: font-weight: 600;\"> essential private and public services (e.g. credit scoring denying citizens opportunity to obtain a loan) </li> <li class=\"blue-caution-callout\" style=\"list-style-type:none; font-weight: font-weight: 600;\"> law enforcement that may interfere with people’s fundamental rights (e.g. evaluation of the reliability of evidence) </li> <li class=\"blue-caution-callout\" style=\"list-style-type:none; font-weight: font-weight: 600;\"> migration, asylum and border control management (e.g. verification of authenticity of travel documents) </li> <li class=\"blue-caution-callout\" style=\"list-style-type:none; font-weight: font-weight: 600;\"> administration of justice and democratic processes (e.g. applying the law to a concrete set of facts). </li> </ul> <p class=\"blue-caution-callout\"> [image: <a href=\"https://docs.google.com/presentation/d/1oPTINAxl5ogZfvrMp79r-IsiKFIw4aq8OboTC1ASLFs/edit#slide=id.p\" target=\"_blank\" rel=\"noopener\">2 Adapt layout idea - EU AI Act High Risk Uses</a>] - graphic </p> <hr> <p class=\"highlight-white-light\"> Before these high-risk AI systems can be put on the EU market, they are subject to strict ‘conformity assessments’, which determine whether the system will meet all requirements in the Act. While those listed in Annex II will report to existing regulatory bodies, providers of those covered in Annex III will, for now, self-assess to the same requirements.&nbsp; </p> <h3 class=\"sub-header\"> </h3><h3 class=\"bold-color-text\"> Some examples of the requirements within the AI act include: </h3> <ul> <li class=\"small-quote\">adequate risk assessment and mitigation systems</li> <li class=\"small-quote\"> high quality of the datasets feeding the system to minimise risks and discriminatory outcomes </li> <li class=\"small-quote\"> logging of activity to ensure traceability of results </li> <li class=\"small-quote\"> detailed documentation providing all information necessary on the system and its purpose for authorities to assess its compliance </li> <li class=\"small-quote\">clear and adequate information to the user</li> <li class=\"small-quote\"> appropriate human oversight measures to minimise risk </li> <li class=\"small-quote\"> high level of robustness, security and accuracy. </li> </ul> <p> While those who already report to regulatory bodies will be familiar with these requirements and experience dealing with a notified body and conformity assessments, this is likely going to be very new to the technology section and as a result require investment, resources and expertise.&nbsp; </p>",
     "instruction": "",
     "_pageLevelProgress": {
       "_isEnabled": false
@@ -1213,6 +1213,7 @@
     "_canShowFeedback": true,
     "_canShowMarking": true,
     "_recordInteraction": true,
+    "placeholder": "Please select an option",
     "_items": [
       {
         "text": "Untargeted scraping of facial images from the internet or CCTV footage to create facial recognition databases.",
@@ -4236,7 +4237,7 @@
     "_disableAccessibilityState": false,
     "title": "The rights of individuals over personal data",
     "displayTitle": "",
-    "body": "",
+    "body": "<p>The legal structures that govern the rights of individuals over personal data differ across jurisdictions. However, the broad principles that underpin these frameworks are largely similar. For the purpose of this learning and for ease of understanding, the language used to describe the rights of individuals is aligned to the GDPR (General Data Protection Regulation). </p>",
     "_id": "64f881ec94389ef9d9f95602",
     "_parentId": "64f881ec94389ef9d9f955ed",
     "_type": "component",
@@ -4335,62 +4336,6 @@
       }
     ],
     "_shouldCollapseItems": true
-  },
-  {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
-    "title": "The role of data protection regulations",
-    "displayTitle": "",
-    "body": "<p>Generally, data protection regulations set out the following:&nbsp;</p><ol><li>Definitions of personal and sensitive personal data</li><li>Geographic restrictions relating specifically to personal data</li><li>The lawful basis under which personal data can be processed</li><li>The rights of individuals over personal data about them</li><li>The responsibilities of data controllers in relation to personal data</li></ol>",
-    "_id": "64f881ec94389ef9d9f95603",
-    "_parentId": "64f881ec94389ef9d9f955f0",
-    "_type": "component",
-    "_layout": "left",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "instruction": ""
-  },
-  {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
-    "title": "The role of data protection regulations",
-    "displayTitle": "",
-    "body": "<p>Different countries have their own data protection legislation, which enable personal data to be used while protecting the rights of individuals. The most important thing to remember is that personal data cannot be collected or processed without a lawful basis; if no lawful basis applies then it is illegal to hold the personal data.</p><p>A lawful basis is often detailed as part of the data governance and privacy impact assessments made by an organisation, and should also be clear to individuals as part of the organisation’s privacy notice.</p><p>Once the lawful basis is established, all other aspects, such as rights of individuals, will be matched to this.</p>",
-    "_id": "64f881ec94389ef9d9f95604",
-    "_parentId": "64f881ec94389ef9d9f955f0",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": true
-    },
-    "instruction": ""
   },
   {
     "_component": "mcq",
@@ -4681,44 +4626,6 @@
     "_defaultScrollPercent": 0
   },
   {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
-    "title": "The rights of individuals over personal data",
-    "displayTitle": "",
-    "body": "<p>Individuals have the right to be informed about how personal data about them is collected and used. This information should be presented in a ‘privacy notice’. This should be presented to the individual when data is collected, in clear, concise language, and in a way that is easily accessible.</p>",
-    "_id": "64f881ec94389ef9d9f9560c",
-    "_parentId": "64f881ec94389ef9d9f955ed",
-    "_type": "component",
-    "_layout": "left",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "instruction": ""
-  },
-  {
     "_component": "matching",
     "_classes": "",
     "_isOptional": false,
@@ -4944,7 +4851,7 @@
     "_defaultScrollPercent": 0
   },
   {
-    "_component": "accordion",
+    "_component": "text",
     "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4971,68 +4878,6 @@
     },
     "instruction": "Explore the six lawful basis in the sections below:",
     "_setCompletionOn": "allItems",
-    "_items": [
-      {
-        "title": "Public task",
-        "body": "<p>Personal data can be processed where it is necessary to perform a task in the public interest or for official functions, where the task or function has a clear basis in law.</p><p>Examples include provision or public utilities, e.g. water, electricity and education.&nbsp;</p><p>When it doesn’t apply: To create an Alumni network of University leavers or for fundraising.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "Performance of contract",
-        "body": "<p>Personal data can be processed when there is a need to fulfil a contract with an individual, or if the individual has asked for specific steps to be taken before entering into a contract.</p><p>For example, personal data can be processed to provide a quote for fitting double glazing on a house and the subsequent fitting. It can also be processed in order to assess the financial position of someone prior to purchasing large items such as a car or house.&nbsp;</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "Legal obligation",
-        "body": "<p>Under this basis, personal data can be processed in order to comply with UK law. For example, to comply with UK employment law. Contractual obligations with third parties do not count as a legal basis for processing.&nbsp;</p><p>When using this basis, the individual has no right to data portability, or right to object. An individual has a right to erasure if the legal obligation has expired. For example, if someone left a company over 3 years ago then there is unlikely to be a legal obligation for the employer to keep hold of data about that person (a very small quantity is required for longer).&nbsp;</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "Vital interests",
-        "body": "<p>Under this basis, personal data can be processed if it is necessary to protect someone’s life. This does not apply if the person’s vital interests can be protected in another less intrusive way.</p><p>This lawful basis also does not apply for health data or other special category data if the individual is capable of giving consent.</p><p>A common example of vital interests is in crisis response situations, such as natural disasters/emergencies, outbreak of an epidemic/pandemic etc.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "Legitimate interests",
-        "body": "<p>Under this basis personal data can be processed if it is in the legitimate interests of the individual, third parties, or society. Legitimate interests is the most flexible lawful basis for processing, but it cannot be assumed it will always be the most appropriate.</p><p>For a legitimate interest to apply, a data controller/processors interests must be balanced against the individual’s. If an individual would not reasonably expect the processing, or if it would cause unjustified harm, their interests are likely to override those of the controller/processor.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "Informed consent",
-        "body": "<p>To use this basis, individuals must be informed about how personal data is going to be used and consent given for each individual use. Consent cannot ask for open-ended permission to use data however the controller wants, such as “to improve our service”.&nbsp;</p><p>Gaining consent must be through clear affirmative action, such as a button press or an opt-in tick box. Hidden conditions and opt-out options where no action is required does not constitute clearly obtained consent under UK Data Protection regulations and GDPR.&nbsp;</p><p>Additionally the individual must be able to withdraw their consent at any time. The process for withdrawing consent must be as easy to complete as that for giving consent.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      }
-    ],
     "_shouldCollapseItems": true
   },
   {
@@ -6204,11 +6049,11 @@
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "50cd2a8785a924e204ab876d46a71c045cb0f0fc.png",
-      "small": "50cd2a8785a924e204ab876d46a71c045cb0f0fc.png",
-      "attribution": "NO ATTRIBUTION",
+      "large": "course/en/assets/50cd2a8785a924e204ab876d46a71c045cb0f0fc.png",
+      "small": "course/en/assets/50cd2a8785a924e204ab876d46a71c045cb0f0fc.png",
+      "attribution": "<a href=\"theodi.org\" target=\"_blank\">ODI</a> <span class='assetLicence'>[All rights reserved]</span>",
       "_url": "",
-      "_target": ""
+      "_target": null
     },
     "_isScrollable": false,
     "_defaultScrollPercent": 0,
