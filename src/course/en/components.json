@@ -85,14 +85,14 @@
     "_layout": "full",
     "title": "The Data Lifecycle and the changing nature of data ethics",
     "displayTitle": "",
-    "body": "<p>Understanding where we are on the data lifecycle is important to determining our immediate data practices. However, we must also recognise what this means for what happened before, and what happens after.</p>",
+    "body": "",
     "instruction": " ",
     "_graphic": {
       "alt": "",
       "longdescription": "",
       "large": "course/en/assets/data-lifecycle-img1.png",
       "small": "course/en/assets/data-lifecycle-img1.png",
-      "attribution": "<a href=\"theodi.org\" target=\"_blank\">ODI</a> <span class=\"assetLicence\">[CC0]</span>",
+      "attribution": "<a target=\"_blank\" href=\"theodi.org\" target=\"_blank\">ODI</a> <span class=\"assetLicence\">[CC0]</span>",
       "_url": "",
       "_target": ""
     },
@@ -116,7 +116,7 @@
     }
   },
   {
-    "_component": "accordion",
+    "_component": "graphic",
     "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -128,6 +128,64 @@
     "title": "Data ethics in practice (..or not)",
     "displayTitle": "Data ethics in practice (..or not)",
     "body": "Unfortunately, there is no shortage of stories that demonstrate negative impacts of data practices.  The following examples demonstrate where a lack of focus on data ethics has resulted in a negative impact on individuals and society.\nAs you read and watch the following examples, consider what stage of the data lifecycle we are at, and what that means for the different considerations we need to make.",
+    "_id": "64f1c12c94389ef9d9f95560-lifecycle-graphic",
+    "_parentId": "64f1c12b94389ef9d9f95555",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_graphicExpand": {
+      "_isEnabled": false,
+      "_selector": "",
+      "_button": {
+        "buttonText": "",
+        "ariaLabel": "",
+        "iconClass": "icon-expand_1"
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/data-lifecycle.png",
+      "small": "course/en/assets/data-lifecycle.png",
+      "attribution": "<a target=\"_blank\" href=\"http://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Data ethics in practice (..or not) accordion",
+    "displayTitle": "",
+    "body": "",
     "_id": "64f1c12c94389ef9d9f95560",
     "_parentId": "64f1c12b94389ef9d9f95555",
     "_type": "component",
@@ -143,7 +201,7 @@
     "_items": [
       {
         "title": "Twitter image cropper",
-        "body": "In September 2020, Twitter's photo cropping algorithm faced criticism for possible racial bias. Users noticed that the algorithm tended to prioritise white faces over black faces when cropping images, leading to different outcomes for the same image with different racial faces. This raised concerns about perpetuating racial biases and impacting users' experiences on the platform.\n\nWatch the video to learn more about this story.\n\n<iframe src=\"https://player.vimeo.com/video/817021580?h=4f28e6368a&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" width=\"100%\" height=\"400\" title=\"twitter\"></iframe>\n\n<p>In summary, upon <a href=\"https://blog.twitter.com/engineering/en_us/topics/insights/2021/sharing-learnings-about-our-image-cropping-algorithm\" target=\"_blank\" rel=\"noopener\">investigation</a>, Twitter discovered that their algorithm had&nbsp;</p> <ul> <li>An 8% difference in favour of women over men</li> <li>A 4% difference favouring white people over black people of both sexes</li> <li>A 7% difference favouring white women over black women</li> <li>A 2% difference in favour of white men over black men</li> </ul> <p>With these figures in mind, it was decided that giving people autonomy over the preview and customisation of the crops was the more appropriate outcome.</p> <h3>References</h3> <p><a href=\"https://blog.twitter.com/engineering/en_us/topics/insights/2021/sharing-learnings-about-our-image-cropping-algorithm\" target=\"_blank\" rel=\"noopener\">Sharing learnings about our image cropping algorithm</a> - Twitter Blog</p>",
+        "body": "In September 2020, Twitter's photo cropping algorithm faced criticism for possible racial bias. Users noticed that the algorithm tended to prioritise white faces over black faces when cropping images, leading to different outcomes for the same image with different racial faces. This raised concerns about perpetuating racial biases and impacting users' experiences on the platform.\n\nWatch the video to learn more about this story.\n\n<iframe src=\"https://player.vimeo.com/video/817021580?h=4f28e6368a&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" width=\"100%\" height=\"400\" title=\"twitter\"></iframe>\n\n<p>In summary, upon <a target=\"_blank\" href=\"https://blog.twitter.com/engineering/en_us/topics/insights/2021/sharing-learnings-about-our-image-cropping-algorithm\" target=\"_blank\" rel=\"noopener\">investigation</a>, Twitter discovered that their algorithm had&nbsp;</p> <ul> <li>An 8% difference in favour of women over men</li> <li>A 4% difference favouring white people over black people of both sexes</li> <li>A 7% difference favouring white women over black women</li> <li>A 2% difference in favour of white men over black men</li> </ul> <p>With these figures in mind, it was decided that giving people autonomy over the preview and customisation of the crops was the more appropriate outcome.</p> <h3>References</h3> <p><a target=\"_blank\" href=\"https://blog.twitter.com/engineering/en_us/topics/insights/2021/sharing-learnings-about-our-image-cropping-algorithm\" target=\"_blank\" rel=\"noopener\">Sharing learnings about our image cropping algorithm</a> - Twitter Blog</p>",
         "_imageAlignment": "full",
         "_graphic": {
           "src": "",
@@ -154,7 +212,7 @@
       },
       {
         "title": "Facebook soap dispenser",
-        "body": "In 2017, a Facebook employee in Nigeria shared footage of themselves that speaks to Tech’s larger diversity problem. In the video, a white man and a dark-skinned black man both try to get soap from a soap dispenser. The soap dispenses for the white man, but not the darker skinned man.\n\nThis video of the incident went viral, raising concerns about potential racial bias in technology. The lack of diversity in the training data is pointed out as a possible cause of the biassed outcome, emphasising the importance of using inclusive data sets for AI technology development.\n\nThe incident has sparked discussions on racial discrimination in AI algorithms and has amplified calls for greater awareness and responsibility in developing AI systems to avoid unintentional discrimination. Overall, it serves as a reminder of the need for ethical frameworks and diverse testing approaches to ensure fairness in AI technologies.\n\n<iframe src=\"https://player.vimeo.com/video/817030963?h=b9ef979956&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" width=\"100%\" height=\"400\" title=\"why is data ethics important\"></iframe>\n\nWhile soap dispensers are a more light-hearted example, this same problem has been documented in wearable fitness trackers and heart-rate monitors, and also in medical applications.",
+        "body": "<p>In 2017, a <a target=\"_blank\" href=\"https:\/\/gizmodo.com\/why-cant-this-soap-dispenser-identify-dark-skin-1797931773\" target=\"_blank\" rel=\"noopener\">Facebook employee in Nigeria shared footage of themselves<\/a> that speaks to Tech&rsquo;s larger diversity problem. In the video, a white man and a dark-skinned black man both try to get soap from a soap dispenser. The soap dispenses for the white man, but not the darker skinned man.<\/p>\r\n<p>This video of the incident went viral, raising concerns about potential racial bias in technology. The lack of diversity in the training data is pointed out as a possible cause of the biassed outcome, emphasising the importance of using inclusive data sets for AI technology development.&nbsp;<\/p>\r\n<p>The incident has sparked discussions on racial discrimination in AI algorithms and has amplified calls for greater awareness and responsibility in developing AI systems to avoid unintentional discrimination. Overall, it serves as a reminder of the need for ethical and diverse testing approaches to ensure fairness in AI technologies.<\/p>\n\n<iframe src=\"https://player.vimeo.com/video/817030963?h=b9ef979956&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" width=\"100%\" height=\"400\" title=\"why is data ethics important\"></iframe>\n\n<p>While soap dispensers are a more light-hearted example, this <a target=\"_blank\" href=\"http:\/\/splinternews.com\/will-the-apple-watchs-coolest-feature-work-for-people-o-1793846147#_ga=2.211126992.454014603.1502808684-1272852010.1497883481\" target=\"_blank\" rel=\"noopener\">same problem has been documented <\/a>in wearable <a target=\"_blank\" href=\"http:\/\/en.miui.com\/thread-324295-1-1.html\" target=\"_blank\" rel=\"noopener\">fitness trackers <\/a>and <a target=\"_blank\" href=\"https:\/\/www.cnet.com\/news\/how-accurate-are-wristband-heart-rate-monitors\/\" target=\"_blank\" rel=\"noopener\">heart-rate monitors<\/a>, and also in medical applications.<\/p>",
         "_imageAlignment": "full",
         "_graphic": {
           "src": "",
@@ -165,7 +223,7 @@
       },
       {
         "title": "Skin cancer diagnosis",
-        "body": "<p>Early diagnosis is crucial for positive health results in diseases like skin cancer. For instance, if Melanoma is diagnosed early, an individual has a 100% chance of surviving over 1 year. However, this drops to 53% if diagnosed at a later stage. Notably, people with non-white skin, though less prone to skin cancer, exhibit lower 5-year survival rates (70%) compared to white individuals (92%) [1].\n\nThis highlights issues within our healthcare systems, but also an issue for those organisations who are developing technologies that utilise machine learning to support diagnosis. The video below explores this example in more depth and introduces the First Derm [2] dataset as an example.\n\n<iframe src=\"https://player.vimeo.com/video/817240774?h=1cdc6f2d90&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" width=\"100%\" height=\"400\" title=\"why is data ethics important\"></iframe>\n\n<p>Broadly, there are two proposed approaches to mitigating this bias:</p>\r\n<ol>\r\n<li>Increasing the variety of the data to build a more representative dataset</li>\r\n<li>Train a different system on a dataset of 90% non-white images to maintain higher accuracy</li>\r\n</ol>\r\n<p>Both approaches require different considerations for the creation and use of data, and whilst both have merit as approaches to mitigation there are still further considerations to be taken into account to address future challenges.</p>\r\n<h3>Further Reading</h3>\r\n<p>It is not just non-white people who are excluded from medical research. In her book &ldquo;<a href=\"https://carolinecriadoperez.com/book/invisible-women/\" target=\"_blank\" rel=\"noopener\">Invisible women</a>&rdquo; Caroline Criado Perez looks at how much of the world has been designed for men. Among other examples, Caroline reveals how women are 47% more likely to be seriously injured in a car accident due to the seatbelt design.&nbsp;</p>\r\n<h3>References</h3>\r\n<p style=\"font-size: small; font-weight: 600;\">[1] Gupta, A. K., Bharadwaj, M., &amp; Mehrotra, R. (2016). Skin Cancer Concerns in People of Color: Risk Factors and Prevention. Asian Pacific journal of cancer prevention, 17(12), 5257&ndash;5264. Retrieved from https://doi.org/10.22034/APJCP.2016.17.12.5257</p>\r\n<p style=\"font-size: small; font-weight: 600;\">>[2] Kamulegeya, L., Okello , M., Bwanika, J., Musinguzi, D., Lubega, W., Rusoke, D., &amp; Nassiwa, F. (2019). Using artificial intelligence on dermatology conditions in Uganda: A case for diversity in training data sets for machine learning. bioRxiv</p>",
+        "body": "<p>Early diagnosis is crucial for positive health results in diseases like skin cancer. For instance, if Melanoma is diagnosed early, an individual has a 100% chance of surviving over 1 year. However, this drops to 53% if diagnosed at a later stage. Notably, people with non-white skin, though less prone to skin cancer, exhibit lower 5-year survival rates (70%) compared to white individuals (92%) [1].\n\nThis highlights issues within our healthcare systems, but also an issue for those organisations who are developing technologies that utilise machine learning to support diagnosis. The video below explores this example in more depth and introduces the First Derm [2] dataset as an example.\n\n<iframe src=\"https://player.vimeo.com/video/817240774?h=1cdc6f2d90&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" width=\"100%\" height=\"400\" title=\"why is data ethics important\"></iframe>\n\n<p>Broadly, there are two proposed approaches to mitigating this bias:</p>\r\n<ol>\r\n<li>Increasing the variety of the data to build a more representative dataset</li>\r\n<li>Train a different system on a dataset of 90% non-white images to maintain higher accuracy</li>\r\n</ol>\r\n<p>Both approaches require different considerations for the creation and use of data, and whilst both have merit as approaches to mitigation there are still further considerations to be taken into account to address future challenges.</p>\r\n<h3>Further Reading</h3>\r\n<p>It is not just non-white people who are excluded from medical research. In her book &ldquo;<a target=\"_blank\" href=\"https://carolinecriadoperez.com/book/invisible-women/\" target=\"_blank\" rel=\"noopener\">Invisible women</a>&rdquo; Caroline Criado Perez looks at how much of the world has been designed for men. Among other examples, Caroline reveals how women are 47% more likely to be seriously injured in a car accident due to the seatbelt design.&nbsp;</p>\r\n<h3>References</h3>\r\n<p style=\"font-size: small; font-weight: 600;\">[1] Gupta, A. K., Bharadwaj, M., &amp; Mehrotra, R. (2016). Skin Cancer Concerns in People of Color: Risk Factors and Prevention. Asian Pacific journal of cancer prevention, 17(12), 5257&ndash;5264. Retrieved from https://doi.org/10.22034/APJCP.2016.17.12.5257</p>\r\n<p style=\"font-size: small; font-weight: 600;\">[2] Kamulegeya, L., Okello , M., Bwanika, J., Musinguzi, D., Lubega, W., Rusoke, D., &amp; Nassiwa, F. (2019). Using artificial intelligence on dermatology conditions in Uganda: A case for diversity in training data sets for machine learning. bioRxiv</p>",
         "_imageAlignment": "full",
         "_graphic": {
           "src": "",
@@ -176,7 +234,7 @@
       },
       {
         "title": "Criminal profile analysis",
-        "body": "<p>Human rights say that everyone is entitled to a fair trial in crime and justice. Rating a risk of future crime is often done in conjunction with an evaluation of rehabilitation needs to ensure that aspects such as jail term and type of prison match the likelihood of reoffense. But is using an algorithm to predict risk of recidivism a good idea?&nbsp;<\/p>\r\n<p>Let&rsquo;s explore how data is helping (or hindering) crime and justice:<\/p>\n\n<iframe src=\"https://player.vimeo.com/video/817271706?h=ff16aca3bd&badge=0&autopause=0&player_id=0&app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" width=\"100%\" height=\"400\" title=\"Data Ethics - Criminal Faces\"></iframe><p>In this example, we explored the cases of Vernon Prater and Brisha Borden. The risk scores applied to these individuals is highly problematic, and as explained, demonstrates how the use of data can lead to remarkably unreliable results.&nbsp;<\/p>\r\n<p>Overall, Northpointe&rsquo;s assessment tool (COMPAS) correctly predicts recidivism 61 percent of the time. But there are major issues in the risk scores calculated:<\/p>\r\n<ul>\r\n<li>Black people are almost twice as likely as white people to be labelled a higher risk, but not actually re-offend<\/li>\r\n<li>White people are more likely to be labelled as lower risk, but more likely to go on to commit other crimes<\/li>\r\n<\/ul>\r\n<p>Northpointe argued that the COMPAS tool was accurate under its own measures of fairness. Where ProPublica&rsquo;s study challenged the models, classification and measures, Northpointe claimed that ProPublica failed to take into account &ldquo;the different base rates of recidivism for Blacks and Whites&rdquo;.&nbsp;<\/p>\r\n<p>This argument is an example of the complexities in the provenance of data and the common issues of large-scale use of algorithms. Since data is often tainted with historic and structural biases, usage of such data in training perpetuates a &lsquo;runaway feedback loop&rsquo; or the &lsquo;garbage in &mdash; garbage out&rsquo; phenomenon in future predictions by that algorithm. This obstructs progress and keeps societies trapped in their own mirror image of status quo. Even in cases where discriminatory factors are not used in algorithms, other factors can serve as proxies for discriminatory factors.<\/p>\r\n<h3>References<\/h3>\r\n<p><a href=\"https:\/\/www.propublica.org\/article\/machine-bias-risk-assessments-in-criminal-sentencing\" target=\"_blank\" rel=\"noopener\"><strong>Machine Bias &mdash; ProPublica<\/strong><\/a><strong> <\/strong><\/p>",
+        "body": "<p>Human rights say that everyone is entitled to a fair trial in crime and justice. Rating a risk of future crime is often done in conjunction with an evaluation of rehabilitation needs to ensure that aspects such as jail term and type of prison match the likelihood of reoffense. But is using an algorithm to predict risk of recidivism a good idea?&nbsp;<\/p>\r\n<p>Let&rsquo;s explore how data is helping (or hindering) crime and justice:<\/p>\n\n<iframe src=\"https://player.vimeo.com/video/817271706?h=ff16aca3bd&badge=0&autopause=0&player_id=0&app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" width=\"100%\" height=\"400\" title=\"Data Ethics - Criminal Faces\"></iframe><p>In this example, we explored the cases of Vernon Prater and Brisha Borden. The risk scores applied to these individuals is highly problematic, and as explained, demonstrates how the use of data can lead to remarkably unreliable results.&nbsp;<\/p>\r\n<p>Overall, Northpointe&rsquo;s assessment tool (COMPAS) correctly predicts recidivism 61 percent of the time. But there are major issues in the risk scores calculated:<\/p>\r\n<ul>\r\n<li>Black people are almost twice as likely as white people to be labelled a higher risk, but not actually re-offend<\/li>\r\n<li>White people are more likely to be labelled as lower risk, but more likely to go on to commit other crimes<\/li>\r\n<\/ul>\r\n<p>Northpointe argued that the COMPAS tool was accurate under its own measures of fairness. Where ProPublica&rsquo;s study challenged the models, classification and measures, Northpointe claimed that ProPublica failed to take into account &ldquo;the different base rates of recidivism for Blacks and Whites&rdquo;.&nbsp;<\/p>\r\n<p>This argument is an example of the complexities in the provenance of data and the common issues of large-scale use of algorithms. Since data is often tainted with historic and structural biases, usage of such data in training perpetuates a &lsquo;runaway feedback loop&rsquo; or the &lsquo;garbage in &mdash; garbage out&rsquo; phenomenon in future predictions by that algorithm. This obstructs progress and keeps societies trapped in their own mirror image of status quo. Even in cases where discriminatory factors are not used in algorithms, other factors can serve as proxies for discriminatory factors.<\/p>\r\n<h3>References<\/h3>\r\n<p><a target=\"_blank\" href=\"https:\/\/www.propublica.org\/article\/machine-bias-risk-assessments-in-criminal-sentencing\" target=\"_blank\" rel=\"noopener\"><strong>Machine Bias &mdash; ProPublica<\/strong><\/a><strong> <\/strong><\/p>",
         "_imageAlignment": "full",
         "_graphic": {
           "src": "",
@@ -187,7 +245,7 @@
       },   
       {
         "title": "Insurance quotes",
-        "body": "<p>One area that has to balance fairness and risk is insurance. In 2018, it was discovered that car insurance companies in the UK were discriminating against people due to their name, and in some cases, raising their prices by three times.</p>\n\n<iframe src=\"https://player.vimeo.com/video/817016312?h=8f9d3741d5&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" width=\"100%\" height=\"400\" title=\"Data Ethics - Car Insurance\"></iframe><p>Note that the only difference in the quotes discussed is the name. All other details entered were the same: the address, the car, mileage, job and nationality were all exactly the same.&nbsp;<\/p>\r\n<p>Since then, independent studies have found not much has changed and that there is still a large &lsquo;ethnicity penalty&rsquo; in the UK insurance market.&nbsp;<\/p>\r\n<h3>References<\/h3>\r\n<p><a href=\"https:\/\/www.thesun.co.uk\/motors\/5393978\/insurance-race-row-john-mohammed\/\" target=\"_blank\" rel=\"noopener\">Motorists fork out &pound;1,000 more to insure their cars if their name is Mohammed | The Sun<\/a><\/p>\r\n<p><a href=\"https:\/\/www.bbc.co.uk\/news\/business-43011882\" target=\"_blank\" rel=\"noopener\">Insurers 'risk breaking racism laws' - BBC News<\/a><\/p>\r\n<p><a href=\"https:\/\/www.citizensadvice.org.uk\/Global\/CitizensAdvice\/Consumer%20publications\/Report%20cover\/Citizens%20Advice%20-%20Discriminatory%20Pricing%20report%20(4).pdf\" target=\"_blank\" rel=\"noopener\">Citizens Advice - Discriminatory Pricing report<\/a><\/p>\r\n<p><a href=\"https:\/\/www.citizensadvice.org.uk\/about-us\/about-us1\/media\/press-releases\/people-of-colour-still-paying-250-more-on-car-insurance-per-year-than-white-people\/\" target=\"_blank\" rel=\"noopener\">People of colour still paying &pound;250 more on car insurance per year than white people - Citizens Advice<\/a><\/p>",
+        "body": "<p>One area that has to balance fairness and risk is insurance. In 2018, it was discovered that car insurance companies in the UK were discriminating against people due to their name, and in some cases, raising their prices by three times.</p>\n\n<iframe src=\"https://player.vimeo.com/video/817016312?h=8f9d3741d5&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" width=\"100%\" height=\"400\" title=\"Data Ethics - Car Insurance\"></iframe><p>Note that the only difference in the quotes discussed is the name. All other details entered were the same: the address, the car, mileage, job and nationality were all exactly the same.&nbsp;<\/p>\r\n<p>Since then, independent studies have found not much has changed and that there is still a large &lsquo;ethnicity penalty&rsquo; in the UK insurance market.&nbsp;<\/p>\r\n<h3>References<\/h3>\r\n<p><a target=\"_blank\" href=\"https:\/\/www.thesun.co.uk\/motors\/5393978\/insurance-race-row-john-mohammed\/\" target=\"_blank\" rel=\"noopener\">Motorists fork out &pound;1,000 more to insure their cars if their name is Mohammed | The Sun<\/a><\/p>\r\n<p><a target=\"_blank\" href=\"https:\/\/www.bbc.co.uk\/news\/business-43011882\" target=\"_blank\" rel=\"noopener\">Insurers 'risk breaking racism laws' - BBC News<\/a><\/p>\r\n<p><a target=\"_blank\" href=\"https:\/\/www.citizensadvice.org.uk\/Global\/CitizensAdvice\/Consumer%20publications\/Report%20cover\/Citizens%20Advice%20-%20Discriminatory%20Pricing%20report%20(4).pdf\" target=\"_blank\" rel=\"noopener\">Citizens Advice - Discriminatory Pricing report<\/a><\/p>\r\n<p><a target=\"_blank\" href=\"https:\/\/www.citizensadvice.org.uk\/about-us\/about-us1\/media\/press-releases\/people-of-colour-still-paying-250-more-on-car-insurance-per-year-than-white-people\/\" target=\"_blank\" rel=\"noopener\">People of colour still paying &pound;250 more on car insurance per year than white people - Citizens Advice<\/a><\/p>",
         "_imageAlignment": "full",
         "_graphic": {
           "src": "",
@@ -198,7 +256,7 @@
       },
       {
         "title": "Criminal faces",
-        "body": "<p>In November 2016, engineering researchers Xiaolin Wu and Xi Zhang shared an article titled \"Automated Inference on Criminality using Face Images\" on a popular research paper platform called arXiv. In their study, Wu and Zhang delved into using machine learning to identify facial traits linked to \"criminality.\" They asserted that their algorithms could accurately differentiate between criminals and non-criminals using basic headshot images.<\/p>\r\n<p>Wu and Zhang&rsquo;s claim?<\/p>\r\n<p>&ldquo;Unlike a human examiner\/judge, a computer vision algorithm or classifier has absolutely no subjective baggages [sic], having no emotions, no biases whatsoever due to past experience, race, religion, political doctrine, gender, age, etc., no mental fatigue, no preconditioning of a bad sleep or meal. The automated inference on criminality eliminates the variable meta-accuracy (the competence of the human judge\/examiner) all together&rdquo;<\/p>\r\n<p>In short, the computer is entirely objective. Let&rsquo;s explore the idea in more detail.<\/p>\r\n<iframe src=\"https:player.vimeo.com/video/817016569?h=e7f41bbb34&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" width=\"100%\" height=\"400\" title=\"Data Ethics - criminal faces\"><\/iframe>\r\n<p>Machines have been proven over and over to emphasise bias, not decrease it. The one thing machines are good at is consistency. So they will be concisely biassed and don&rsquo;t flit about like humans are prone to.&nbsp;<\/p>\r\n<p>Biases in images and image recognition systems result from how these systems have been trained. Understanding this history of image recognition training data can go a long way to tell us why newer systems are showing biases. If your dataset contains images of people smiling (the non-criminals) and those who aren&rsquo;t (the criminals), you do exactly what Wu and Zhang did - you build a smile detector.&nbsp;<\/p>\r\n<h3>References<\/h3>\r\n<p>Wu, X., &amp; Zhang, X. (2016). Automated Inference on Criminality using Face Images. ArXiv, abs\/1611.04135.<\/p>\r\n<p><a href=\"https:\/\/www.callingbullshit.org\/case_studies\/case_study_criminal_machine_learning.html\" target=\"_blank\" rel=\"noopener\">Case Study &mdash; Criminal Machine Learning<\/a><\/p>\r\n<p><a href=\"http:\/\/onlinelibrary.wiley.com\/doi\/10.1002\/bsl.939\/abstract\" target=\"_blank\" rel=\"noopener\"><strong>When emotionality trumps reason: A study of individual processing style and juror bias - Gunnell - 2010 - Behavioral Sciences &amp; the Law - Wiley Online Library<\/strong><\/a><strong> <\/strong><\/p>",
+        "body": "<p>In November 2016, engineering researchers Xiaolin Wu and Xi Zhang shared an article titled \"Automated Inference on Criminality using Face Images\" on a popular research paper platform called arXiv. In their study, Wu and Zhang delved into using machine learning to identify facial traits linked to \"criminality.\" They asserted that their algorithms could accurately differentiate between criminals and non-criminals using basic headshot images.<\/p>\r\n<p>Wu and Zhang&rsquo;s claim?<\/p>\r\n<p>&ldquo;Unlike a human examiner\/judge, a computer vision algorithm or classifier has absolutely no subjective baggages [sic], having no emotions, no biases whatsoever due to past experience, race, religion, political doctrine, gender, age, etc., no mental fatigue, no preconditioning of a bad sleep or meal. The automated inference on criminality eliminates the variable meta-accuracy (the competence of the human judge\/examiner) all together&rdquo;<\/p>\r\n<p>In short, the computer is entirely objective. Let&rsquo;s explore the idea in more detail.<\/p>\r\n<iframe src=\"https:player.vimeo.com/video/817016569?h=e7f41bbb34&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" width=\"100%\" height=\"400\" title=\"Data Ethics - criminal faces\"><\/iframe>\r\n<p>Machines have been proven over and over to emphasise bias, not decrease it. The one thing machines are good at is consistency. So they will be concisely biassed and don&rsquo;t flit about like humans are prone to.&nbsp;<\/p>\r\n<p>Biases in images and image recognition systems result from how these systems have been trained. Understanding this history of image recognition training data can go a long way to tell us why newer systems are showing biases. If your dataset contains images of people smiling (the non-criminals) and those who aren&rsquo;t (the criminals), you do exactly what Wu and Zhang did - you build a smile detector.&nbsp;<\/p>\r\n<h3>References<\/h3>\r\n<strong><a target=\"_blank\" href=\"https://arxiv.org/pdf/1611.04135.pdf\"> Wu, X., &amp; Zhang, X. (2016). Automated Inference on Criminality using Face Images. ArXiv, abs\/1611.04135.</a></strong>\r\n<strong><p><a target=\"_blank\" href=\"https:\/\/www.callingbullshit.org\/case_studies\/case_study_criminal_machine_learning.html\" target=\"_blank\" rel=\"noopener\">Case Study &mdash; Criminal Machine Learning<\/a><\/p></strong>\r\n<strong><p><a target=\"_blank\" href=\"http:\/\/onlinelibrary.wiley.com\/doi\/10.1002\/bsl.939\/abstract\" target=\"_blank\" rel=\"noopener\">When emotionality trumps reason: A study of individual processing style and juror bias - Gunnell - 2010 - Behavioral Sciences &amp; the Law - Wiley Online Library<\/a><\/p></strong>",
         "_imageAlignment": "full",
         "_graphic": {
           "src": "",
@@ -252,7 +310,7 @@
     "_items": [
       {
         "title": "Disease outbreak Prediction: Flowmind",
-        "body": "<p>During the Ebola outbreak in West Africa, mobile phone data was used to track population movement and predict the spread of the disease, helping health organisations respond effectively while minimising privacy concerns.</p> <p>The organisation behind using mobile phone data to track and predict the spread of Ebola during the outbreak in West Africa was Flowminder Foundation. Flowminder is a non-profit organisation that specialises in using big data for public health and development purposes. They collaborated with mobile phone operators and health organisations to collect and analyse anonymised and aggregated mobile phone data to understand population movement and aid in disease outbreak response by sharing relevant insights with the appropriate bodies.</p> <h3>Further Reading</h3> <p><a href=\\\"https://www.technologyreview.com/2014/08/22/250264/cell-phone-data-might-help-predict-ebolas-spread/#:~:text=A%20West%20African%20mobile%20carrier,predict%20the%20spread%20of%20Ebola.\\&amp;text=The%20new%20model%20helped%20Flowminder,of%20people%20across%20West%20Africa\\\" target=\\\"_blank\\\" rel=\\\"noopener\\\">Cell-Phone Data Might Help Predict Ebola\\&rsquo;s Spread | MIT Technology Review</a></p> <p><a href=\\\"https://obamawhitehouse.archives.gov/blog/2014/10/29/innovating-fight-ebola\\\" target=\\\"_blank\\\" rel=\\\"noopener\\\">Innovating to Fight Ebola | whitehouse.gov</a></p>",
+        "body": "<p>During the Ebola outbreak in West Africa, mobile phone data was used to track population movement and predict the spread of the disease, helping health organisations respond effectively while minimising privacy concerns.</p> <p>The organisation behind using mobile phone data to track and predict the spread of Ebola during the outbreak in West Africa was Flowminder Foundation. Flowminder is a non-profit organisation that specialises in using big data for public health and development purposes. They collaborated with mobile phone operators and health organisations to collect and analyse anonymised and aggregated mobile phone data to understand population movement and aid in disease outbreak response by sharing relevant insights with the appropriate bodies.</p> <h3>Further Reading</h3> <p><a target=\"_blank\" href=\\\"https://www.technologyreview.com/2014/08/22/250264/cell-phone-data-might-help-predict-ebolas-spread/#:~:text=A%20West%20African%20mobile%20carrier,predict%20the%20spread%20of%20Ebola.\\&amp;text=The%20new%20model%20helped%20Flowminder,of%20people%20across%20West%20Africa\\\" target=\\\"_blank\\\" rel=\\\"noopener\\\">Cell-Phone Data Might Help Predict Ebola\\&rsquo;s Spread | MIT Technology Review</a></p> <p><a target=\"_blank\" href=\\\"https://obamawhitehouse.archives.gov/blog/2014/10/29/innovating-fight-ebola\\\" target=\\\"_blank\\\" rel=\\\"noopener\\\">Innovating to Fight Ebola | whitehouse.gov</a></p>",
         "_imageAlignment": "full",
         "_graphic": {
           "src": "",
@@ -263,7 +321,7 @@
       },
       {
         "title": "Global Forest Watch: World Resources Institute",
-        "body": "<p>The World Resources Institute (WRI) engages in environmental monitoring. They curate data from various sources such as sensors, satellites, and citizen science initiatives to track critical environmental indicators, including pollution levels, deforestation rates, and climate change trends. The Global Forest Watch uses satellite data to monitor changes in forests and deforestation patterns.&nbsp;</p><p>A significant ethical dimension of WRI's work is their commitment to open and transparent data sharing. By making their collected data openly accessible through platforms like Global Forest Watch, they enable researchers, policymakers, communities, and the public to access valuable information. This transparent approach encourages collaboration and collective efforts to address environmental challenges.&nbsp;</p><h3>Further Reading</h3><p><a href=\"https://www.wri.org/initiatives/global-forest-watch\" target=\"_blank\" rel=\"noopener\">Global Forest Watch | World Resources Institute</a>&nbsp;&nbsp;</p>",
+        "body": "<p>The World Resources Institute (WRI) engages in environmental monitoring. They curate data from various sources such as sensors, satellites, and citizen science initiatives to track critical environmental indicators, including pollution levels, deforestation rates, and climate change trends. The Global Forest Watch uses satellite data to monitor changes in forests and deforestation patterns.&nbsp;</p><p>A significant ethical dimension of WRI's work is their commitment to open and transparent data sharing. By making their collected data openly accessible through platforms like Global Forest Watch, they enable researchers, policymakers, communities, and the public to access valuable information. This transparent approach encourages collaboration and collective efforts to address environmental challenges.&nbsp;</p><h3>Further Reading</h3><p><a target=\"_blank\" href=\"https://www.wri.org/initiatives/global-forest-watch\" target=\"_blank\" rel=\"noopener\">Global Forest Watch | World Resources Institute</a>&nbsp;&nbsp;</p>",
         "_imageAlignment": "full",
         "_graphic": {
           "src": "",
@@ -436,7 +494,7 @@
       "longdescription": "",
       "large": "course/en/assets/ed8c41138dc38e9d42c4c464ef200a62b430716e.png",
       "small": "course/en/assets/ed8c41138dc38e9d42c4c464ef200a62b430716e.png",
-      "attribution": "<a href=\"http://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>",
+      "attribution": "<a target=\"_blank\" href=\"http://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>",
       "_url": "",
       "_target": null
     },
@@ -541,7 +599,7 @@
       "longdescription": "",
       "large": "course/en/assets/50cd2a8785a924e204ab876d46a71c045cb0f0fc.png",
       "small": "course/en/assets/50cd2a8785a924e204ab876d46a71c045cb0f0fc.png",
-      "attribution": "<a href=\"theodi.org\" target=\"_blank\">ODI</a> <span class='assetLicence'>[All rights reserved]</span>",
+      "attribution": "<a target=\"_blank\" href=\"theodi.org\" target=\"_blank\">ODI</a> <span class='assetLicence'>[All rights reserved]</span>",
       "_url": "",
       "_target": null
     },
@@ -557,7 +615,7 @@
     "_layout": "full",
     "title": "Trialogue",
     "displayTitle": "",
-    "body": "Inspired by <a href='https://phivk.com/trialogue/docs/trialogue-demo.html'>trialogue</a>",
+    "body": "Inspired by <a target=\"_blank\" href='https://phivk.com/trialogue/docs/trialogue-demo.html'>trialogue</a>",
     "instruction": "This is optional instruction text.",
     "_items": [
       {
@@ -801,7 +859,7 @@
     "_items": [
       {
         "title": "Video script",
-        "body": "<p>Data protection laws play a pivotal role in safeguarding individuals' rights and upholding their privacy in an increasingly data-driven world. These laws, closely tied to the principles of human rights, ensure that personal data is collected, processed, and shared responsibly. Prominent examples include the General Data Protection Regulation (GDPR) in the European Union and the California Consumer Privacy Act (CCPA) in the United States.</p><p>In the context of data and AI, data protection laws hold significant importance. While they encompass various lawful bases for processing personal data beyond explicit consent, they also include provisions that specifically impact AI applications. For instance, the GDPR grants individuals the right to not be subject to automated decision-making and profiling, offering safeguards against the potential biases and discrimination that can arise from AI algorithms.&nbsp;</p><p>By emphasising individuals' rights over personal data and how, and where it can be processed, data protection laws provide a strong foundation for AI development. These regulations encourage transparency, accountability, and fairness in AI systems, fostering a landscape where innovation coexists harmoniously with respect for individuals' privacy and rights.&nbsp;</p><p><strong>ePrivacy and cookie laws&nbsp;</strong></p><p>ePrivacy and “cookie laws” play a vital role in the modern digital landscape by addressing the intricacies of communication and data transmission. Notable examples include the EU ePrivacy Directive and subsequent implementations including the Privacy and Electronic Communications Regulations (PECR) in the UK.</p><p>Such laws are all-encompassing, applying to a wide array of electronic communications, spanning emails, messages, and more. These regulations also extend their reach to tracking technologies, including the ubiquitous use of cookies.&nbsp;</p><p><strong>What are cookies?</strong></p><p>Cookies (think of them as small bits of information, like breadcrumbs) enable websites to personalise the user experience. For example, ecommerce websites use cookies to know what merchandise users have placed in their shopping carts, even before any identification or authentication. They are essentially a short term memory for a web browser that helps remember a user's choices. At the ODI we think of this as behavioural data. It may not be personal, but evidence shows that as you collect more of it, <a href=\"https://howthey.watch/you/\" target=\"_blank\" rel=\"noopener\">identification becomes easier</a> and how it can be used unethically becomes clearer.&nbsp;</p><p>For data and AI, the impact of these laws is significant. They ensure that individuals retain control over their online experiences, granting them the right to decide which tracking technologies they consent to. Even in cases where data collected might not be tied to an individual's identity, these regulations emphasise the importance of transparency and choice. This becomes particularly crucial as AI systems analyse a diverse range of data, some of which might not appear personal at first glance. The ethical framework thus established aligns with the overarching principles of fairness, accountability, and respect for user autonomy, reinforcing the integral connection between data ethics and regulatory compliance.</p>",
+        "body": "<p>Data protection laws play a pivotal role in safeguarding individuals' rights and upholding their privacy in an increasingly data-driven world. These laws, closely tied to the principles of human rights, ensure that personal data is collected, processed, and shared responsibly. Prominent examples include the General Data Protection Regulation (GDPR) in the European Union and the California Consumer Privacy Act (CCPA) in the United States.</p><p>In the context of data and AI, data protection laws hold significant importance. While they encompass various lawful bases for processing personal data beyond explicit consent, they also include provisions that specifically impact AI applications. For instance, the GDPR grants individuals the right to not be subject to automated decision-making and profiling, offering safeguards against the potential biases and discrimination that can arise from AI algorithms.&nbsp;</p><p>By emphasising individuals' rights over personal data and how, and where it can be processed, data protection laws provide a strong foundation for AI development. These regulations encourage transparency, accountability, and fairness in AI systems, fostering a landscape where innovation coexists harmoniously with respect for individuals' privacy and rights.&nbsp;</p><p><strong>ePrivacy and cookie laws&nbsp;</strong></p><p>ePrivacy and “cookie laws” play a vital role in the modern digital landscape by addressing the intricacies of communication and data transmission. Notable examples include the EU ePrivacy Directive and subsequent implementations including the Privacy and Electronic Communications Regulations (PECR) in the UK.</p><p>Such laws are all-encompassing, applying to a wide array of electronic communications, spanning emails, messages, and more. These regulations also extend their reach to tracking technologies, including the ubiquitous use of cookies.&nbsp;</p><p><strong>What are cookies?</strong></p><p>Cookies (think of them as small bits of information, like breadcrumbs) enable websites to personalise the user experience. For example, ecommerce websites use cookies to know what merchandise users have placed in their shopping carts, even before any identification or authentication. They are essentially a short term memory for a web browser that helps remember a user's choices. At the ODI we think of this as behavioural data. It may not be personal, but evidence shows that as you collect more of it, <a target=\"_blank\" href=\"https://howthey.watch/you/\" target=\"_blank\" rel=\"noopener\">identification becomes easier</a> and how it can be used unethically becomes clearer.&nbsp;</p><p>For data and AI, the impact of these laws is significant. They ensure that individuals retain control over their online experiences, granting them the right to decide which tracking technologies they consent to. Even in cases where data collected might not be tied to an individual's identity, these regulations emphasise the importance of transparency and choice. This becomes particularly crucial as AI systems analyse a diverse range of data, some of which might not appear personal at first glance. The ethical framework thus established aligns with the overarching principles of fairness, accountability, and respect for user autonomy, reinforcing the integral connection between data ethics and regulatory compliance.</p>",
         "_imageAlignment": "full",
         "_graphic": {
           "src": "",
@@ -1066,10 +1124,10 @@
       }
     ],
     "_feedback": {
-      "correct": "<p><strong>That's right!</p></strong></p><p>Although this started as a <a href=\"https://www.theverge.com/2015/4/30/8522649/microsoft-how-old-do-i-look\" target=\"_blank\" rel=\"noopener\">fun, if creepy, experiment by Microsoft</a>, the use of biometric data to determine the age of someone can have huge implications on their rights. This is highlighted in the area of immigration and asylum where age is linked to support received including access to education welfare services in the case of a child. It is of paramount importance then to consider the limitations of AI when considering the development and in particular the deployment of such technologies in these settings especially as there is no evidence that AI techniques are any better than the current highly subjective methods, but they still get <a href=\"https://researchbriefings.files.parliament.uk/documents/POST-PN-0666/POST-PN-0666.pdf\" target=\"_blank\" rel=\"noopener\">considered</a>.</p>",
+      "correct": "<p><strong>That's right!</p></strong></p><p>Although this started as a <a target=\"_blank\" href=\"https://www.theverge.com/2015/4/30/8522649/microsoft-how-old-do-i-look\" target=\"_blank\" rel=\"noopener\">fun, if creepy, experiment by Microsoft</a>, the use of biometric data to determine the age of someone can have huge implications on their rights. This is highlighted in the area of immigration and asylum where age is linked to support received including access to education welfare services in the case of a child. It is of paramount importance then to consider the limitations of AI when considering the development and in particular the deployment of such technologies in these settings especially as there is no evidence that AI techniques are any better than the current highly subjective methods, but they still get <a target=\"_blank\" href=\"https://researchbriefings.files.parliament.uk/documents/POST-PN-0666/POST-PN-0666.pdf\" target=\"_blank\" rel=\"noopener\">considered</a>.</p>",
       "_incorrect": {
-        "notFinal": "<p><strong>Are you sure about that?</p></strong></p><p>Although this started as a <a href=\"https://www.theverge.com/2015/4/30/8522649/microsoft-how-old-do-i-look\" target=\"_blank\" rel=\"noopener\">fun, if creepy, experiment by Microsoft</a>, the use of biometric data to determine the age of someone can have huge implications on their rights. This is highlighted in the area of immigration and asylum where age is linked to support received including access to education welfare services in the case of a child. It is of paramount importance then to consider the limitations of AI when considering the development and in particular the deployment of such technologies in these settings especially as there is no evidence that AI techniques are any better than the current highly subjective methods, but they still get <a href=\"https://researchbriefings.files.parliament.uk/documents/POST-PN-0666/POST-PN-0666.pdf\" target=\"_blank\" rel=\"noopener\">considered</a>.</p>",
-        "final": "<p><strong>Are you sure about that?</p></strong></p><p>Although this started as a <a href=\"https://www.theverge.com/2015/4/30/8522649/microsoft-how-old-do-i-look\" target=\"_blank\" rel=\"noopener\">fun, if creepy, experiment by Microsoft</a>, the use of biometric data to determine the age of someone can have huge implications on their rights. This is highlighted in the area of immigration and asylum where age is linked to support received including access to education welfare services in the case of a child. It is of paramount importance then to consider the limitations of AI when considering the development and in particular the deployment of such technologies in these settings especially as there is no evidence that AI techniques are any better than the current highly subjective methods, but they still get <a href=\"https://researchbriefings.files.parliament.uk/documents/POST-PN-0666/POST-PN-0666.pdf\" target=\"_blank\" rel=\"noopener\">considered</a>.</p>"
+        "notFinal": "<p><strong>Are you sure about that?</p></strong></p><p>Although this started as a <a target=\"_blank\" href=\"https://www.theverge.com/2015/4/30/8522649/microsoft-how-old-do-i-look\" target=\"_blank\" rel=\"noopener\">fun, if creepy, experiment by Microsoft</a>, the use of biometric data to determine the age of someone can have huge implications on their rights. This is highlighted in the area of immigration and asylum where age is linked to support received including access to education welfare services in the case of a child. It is of paramount importance then to consider the limitations of AI when considering the development and in particular the deployment of such technologies in these settings especially as there is no evidence that AI techniques are any better than the current highly subjective methods, but they still get <a target=\"_blank\" href=\"https://researchbriefings.files.parliament.uk/documents/POST-PN-0666/POST-PN-0666.pdf\" target=\"_blank\" rel=\"noopener\">considered</a>.</p>",
+        "final": "<p><strong>Are you sure about that?</p></strong></p><p>Although this started as a <a target=\"_blank\" href=\"https://www.theverge.com/2015/4/30/8522649/microsoft-how-old-do-i-look\" target=\"_blank\" rel=\"noopener\">fun, if creepy, experiment by Microsoft</a>, the use of biometric data to determine the age of someone can have huge implications on their rights. This is highlighted in the area of immigration and asylum where age is linked to support received including access to education welfare services in the case of a child. It is of paramount importance then to consider the limitations of AI when considering the development and in particular the deployment of such technologies in these settings especially as there is no evidence that AI techniques are any better than the current highly subjective methods, but they still get <a target=\"_blank\" href=\"https://researchbriefings.files.parliament.uk/documents/POST-PN-0666/POST-PN-0666.pdf\" target=\"_blank\" rel=\"noopener\">considered</a>.</p>"
       }
     },
     "_comment": "You only need to include _buttons if you want to override the button labels that are set in course.json",
@@ -1140,7 +1198,7 @@
     "_layout": "right",
     "title": "New regulations in AI (the EU AI Act)",
     "displayTitle": "",
-    "body": "<p>Although still a proposal (as of writing in August 2023), the EU AI act is aiming to be the first AI regulation. </p><p> The<a href=\"https://www.mhc.ie/hubs/legislation/the-eu-artificial-intelligence-act\" target=\"_blank\" rel=\"noopener\"> EU AI Act</a> is designed to regulate AI systems on a sliding scale of risk, with four risk categories: </p> <ul class=\"styled-links\"> <li class=\"callout-border-bold-list\">Unacceptable risk</li> <li class=\"callout-border-bold-list\">High risk</li> <li class=\"callout-border-bold-list\">Limited risk</li> <li class=\"callout-border-bold-list\">Minimal or no risk</li> </ul> <p class=\"highlight-white-light\"> By recognising the different levels of risk that apply to different applications of AI, the act is attempting to level the playing field for applications of AI while applying regulatory requirements that are proportional to the level of risk.&nbsp; </p>",
+    "body": "<p>Although still a proposal (as of writing in August 2023), the EU AI act is aiming to be the first AI regulation. </p><p> The<a target=\"_blank\" href=\"https://www.mhc.ie/hubs/legislation/the-eu-artificial-intelligence-act\" target=\"_blank\" rel=\"noopener\"> EU AI Act</a> is designed to regulate AI systems on a sliding scale of risk, with four risk categories: </p> <ul class=\"styled-links\"> <li class=\"callout-border-bold-list\">Unacceptable risk</li> <li class=\"callout-border-bold-list\">High risk</li> <li class=\"callout-border-bold-list\">Limited risk</li> <li class=\"callout-border-bold-list\">Minimal or no risk</li> </ul> <p class=\"highlight-white-light\"> By recognising the different levels of risk that apply to different applications of AI, the act is attempting to level the playing field for applications of AI while applying regulatory requirements that are proportional to the level of risk.&nbsp; </p>",
     "instruction": "",
     "_pageLevelProgress": {
       "_isEnabled": false
@@ -1155,7 +1213,7 @@
     "_layout": "full",
     "title": "The AI act risk categories",
     "displayTitle": "",
-    "body": "<div><h3 class=\"border-bottom bold-color-text\">Unacceptable risk</h3> <p> Unacceptable risk AI systems are systems considered a threat to people and will be banned. Examples include: </p> <ul class=\"styled-links\"> <li class=\"callout-border-bold-list\" style=\"border-left: 5px solid #0961b6;\"> Cognitive behavioural manipulation of people or specific vulnerable groups: for example voice-activated toys that encourage dangerous behaviour in children </li> <li class=\"callout-border-bold-list\" style=\"border-left: 5px solid #0961b6;\"> Social scoring: classifying people based on behaviour, socio-economic status or personal characteristics </li> <li class=\"callout-border-bold-list\" style=\"border-left: 5px solid #0961b6;\"> Real-time and remote biometric identification systems, such as facial recognition, including the untargeted scraping of facial images from the internet or CCTV footage to create facial recognition databases. </li> </ul> <p class=\"highlight-white-light\"> Some exceptions may be allowed: For instance, “post” remote biometric identification systems where identification occurs after a significant delay will be allowed to prosecute serious crimes but only after court approval. </p> </div> <div  style=\"margin-top:10px;\"> <h3 class=\"border-bottom bold-color-text\">High risk</h3> <p> The AI Act broadly splits high-risk AI uses into two categories – one for physical products and the other for more software based things. </p> <p> Annex II contains the list of products, which also fall under <a href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02001L0095-20100101\" target=\"_blank\" rel=\"noopener\" class=\"inline-links\"> the EU’s product safety legislation</a>. This includes toys, aviation, cars, medical devices and lifts. </p> <p class=\"color-box\" style=\"padding: 10px\">Annex III expands this to include:</p> <ul class=\"two-by-two-grid\"> <li class=\"blue-caution-callout\" style=\"list-style-type:none; font-weight: font-weight: 600;\"> critical infrastructures (e.g. transport), that could put the life and health of citizens at risk </li> <li class=\"blue-caution-callout\" style=\"list-style-type:none; font-weight: font-weight: 600;\"> educational or vocational training, that may determine the access to education and professional course of someone’s life (e.g. scoring of exams) </li> <li class=\"blue-caution-callout\" style=\"list-style-type:none; font-weight: font-weight: 600;\"> safety components of products (e.g. AI application in robot-assisted surgery) </li> <li class=\"blue-caution-callout\" style=\"list-style-type:none; font-weight: font-weight: 600;\"> employment, management of workers and access to self-employment (e.g. CV-sorting software for recruitment procedures) </li> <li class=\"blue-caution-callout\" style=\"list-style-type:none; font-weight: font-weight: 600;\"> essential private and public services (e.g. credit scoring denying citizens opportunity to obtain a loan) </li> <li class=\"blue-caution-callout\" style=\"list-style-type:none; font-weight: font-weight: 600;\"> law enforcement that may interfere with people’s fundamental rights (e.g. evaluation of the reliability of evidence) </li> <li class=\"blue-caution-callout\" style=\"list-style-type:none; font-weight: font-weight: 600;\"> migration, asylum and border control management (e.g. verification of authenticity of travel documents) </li> <li class=\"blue-caution-callout\" style=\"list-style-type:none; font-weight: font-weight: 600;\"> administration of justice and democratic processes (e.g. applying the law to a concrete set of facts). </li> </ul> <p class=\"blue-caution-callout\"> [image: <a href=\"https://docs.google.com/presentation/d/1oPTINAxl5ogZfvrMp79r-IsiKFIw4aq8OboTC1ASLFs/edit#slide=id.p\" target=\"_blank\" rel=\"noopener\">2 Adapt layout idea - EU AI Act High Risk Uses</a>] - graphic </p> <hr> <p class=\"highlight-white-light\"> Before these high-risk AI systems can be put on the EU market, they are subject to strict ‘conformity assessments’, which determine whether the system will meet all requirements in the Act. While those listed in Annex II will report to existing regulatory bodies, providers of those covered in Annex III will, for now, self-assess to the same requirements.&nbsp; </p> <h3 class=\"sub-header\"> </h3><h3 class=\"bold-color-text\"> Some examples of the requirements within the AI act include: </h3> <ul> <li class=\"small-quote\">adequate risk assessment and mitigation systems</li> <li class=\"small-quote\"> high quality of the datasets feeding the system to minimise risks and discriminatory outcomes </li> <li class=\"small-quote\"> logging of activity to ensure traceability of results </li> <li class=\"small-quote\"> detailed documentation providing all information necessary on the system and its purpose for authorities to assess its compliance </li> <li class=\"small-quote\">clear and adequate information to the user</li> <li class=\"small-quote\"> appropriate human oversight measures to minimise risk </li> <li class=\"small-quote\"> high level of robustness, security and accuracy. </li> </ul> <p> While those who already report to regulatory bodies will be familiar with these requirements and experience dealing with a notified body and conformity assessments, this is likely going to be very new to the technology section and as a result require investment, resources and expertise.&nbsp; </p>",
+    "body": "<div><h3 class=\"border-bottom bold-color-text\">Unacceptable risk</h3> <p> Unacceptable risk AI systems are systems considered a threat to people and will be banned. Examples include: </p> <ul class=\"styled-links\"> <li class=\"callout-border-bold-list\" style=\"border-left: 5px solid #0961b6;\"> Cognitive behavioural manipulation of people or specific vulnerable groups: for example voice-activated toys that encourage dangerous behaviour in children </li> <li class=\"callout-border-bold-list\" style=\"border-left: 5px solid #0961b6;\"> Social scoring: classifying people based on behaviour, socio-economic status or personal characteristics </li> <li class=\"callout-border-bold-list\" style=\"border-left: 5px solid #0961b6;\"> Real-time and remote biometric identification systems, such as facial recognition, including the untargeted scraping of facial images from the internet or CCTV footage to create facial recognition databases. </li> </ul> <p class=\"highlight-white-light\"> Some exceptions may be allowed: For instance, “post” remote biometric identification systems where identification occurs after a significant delay will be allowed to prosecute serious crimes but only after court approval. </p> </div> <div  style=\"margin-top:10px;\"> <h3 class=\"border-bottom bold-color-text\">High risk</h3> <p> The AI Act broadly splits high-risk AI uses into two categories – one for physical products and the other for more software based things. </p> <p> Annex II contains the list of products, which also fall under <a target=\"_blank\" href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02001L0095-20100101\" target=\"_blank\" rel=\"noopener\" class=\"inline-links\"> the EU’s product safety legislation</a>. This includes toys, aviation, cars, medical devices and lifts. </p> <p class=\"color-box\" style=\"padding: 10px\">Annex III expands this to include:</p> <ul class=\"two-by-two-grid\"> <li class=\"blue-caution-callout\" style=\"list-style-type:none; font-weight: font-weight: 600;\"> critical infrastructures (e.g. transport), that could put the life and health of citizens at risk </li> <li class=\"blue-caution-callout\" style=\"list-style-type:none; font-weight: font-weight: 600;\"> educational or vocational training, that may determine the access to education and professional course of someone’s life (e.g. scoring of exams) </li> <li class=\"blue-caution-callout\" style=\"list-style-type:none; font-weight: font-weight: 600;\"> safety components of products (e.g. AI application in robot-assisted surgery) </li> <li class=\"blue-caution-callout\" style=\"list-style-type:none; font-weight: font-weight: 600;\"> employment, management of workers and access to self-employment (e.g. CV-sorting software for recruitment procedures) </li> <li class=\"blue-caution-callout\" style=\"list-style-type:none; font-weight: font-weight: 600;\"> essential private and public services (e.g. credit scoring denying citizens opportunity to obtain a loan) </li> <li class=\"blue-caution-callout\" style=\"list-style-type:none; font-weight: font-weight: 600;\"> law enforcement that may interfere with people’s fundamental rights (e.g. evaluation of the reliability of evidence) </li> <li class=\"blue-caution-callout\" style=\"list-style-type:none; font-weight: font-weight: 600;\"> migration, asylum and border control management (e.g. verification of authenticity of travel documents) </li> <li class=\"blue-caution-callout\" style=\"list-style-type:none; font-weight: font-weight: 600;\"> administration of justice and democratic processes (e.g. applying the law to a concrete set of facts). </li> </ul> <p class=\"blue-caution-callout\"> [image: <a target=\"_blank\" href=\"https://docs.google.com/presentation/d/1oPTINAxl5ogZfvrMp79r-IsiKFIw4aq8OboTC1ASLFs/edit#slide=id.p\" target=\"_blank\" rel=\"noopener\">2 Adapt layout idea - EU AI Act High Risk Uses</a>] - graphic </p> <hr> <p class=\"highlight-white-light\"> Before these high-risk AI systems can be put on the EU market, they are subject to strict ‘conformity assessments’, which determine whether the system will meet all requirements in the Act. While those listed in Annex II will report to existing regulatory bodies, providers of those covered in Annex III will, for now, self-assess to the same requirements.&nbsp; </p> <h3 class=\"sub-header\"> </h3><h3 class=\"bold-color-text\"> Some examples of the requirements within the AI act include: </h3> <ul> <li class=\"small-quote\">adequate risk assessment and mitigation systems</li> <li class=\"small-quote\"> high quality of the datasets feeding the system to minimise risks and discriminatory outcomes </li> <li class=\"small-quote\"> logging of activity to ensure traceability of results </li> <li class=\"small-quote\"> detailed documentation providing all information necessary on the system and its purpose for authorities to assess its compliance </li> <li class=\"small-quote\">clear and adequate information to the user</li> <li class=\"small-quote\"> appropriate human oversight measures to minimise risk </li> <li class=\"small-quote\"> high level of robustness, security and accuracy. </li> </ul> <p> While those who already report to regulatory bodies will be familiar with these requirements and experience dealing with a notified body and conformity assessments, this is likely going to be very new to the technology section and as a result require investment, resources and expertise.&nbsp; </p>",
     "instruction": "",
     "_pageLevelProgress": {
       "_isEnabled": false
@@ -1366,7 +1424,7 @@
     "_layout": "full",
     "title": "Further reading",
     "displayTitle": "",
-    "body": "<p><em> Click the links to discover more about regulatory frameworks </em> <ul class=\"styled-links\"><li><a href=\"https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai\" target=\"_blank\" rel=\"noopener\">Regulatory framework proposal on artificial intelligence</a></li><li><a href=\"https://www.europarl.europa.eu/news/en/headlines/society/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence\" target=\"_blank\" rel=\"noopener\">EU AI Act: first regulation on artificial intelligence</a></li><li><a href=\"https://www.mhc.ie/hubs/the-eu-artificial-intelligence-act/eu-ai-act-risk-categories\" target=\"_blank\" rel=\"noopener\">EU AI Act: Risk Categories</a></li>",
+    "body": "<p><em> Click the links to discover more about regulatory frameworks </em> <ul class=\"styled-links\"><li><a target=\"_blank\" href=\"https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai\" target=\"_blank\" rel=\"noopener\">Regulatory framework proposal on artificial intelligence</a></li><li><a target=\"_blank\" href=\"https://www.europarl.europa.eu/news/en/headlines/society/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence\" target=\"_blank\" rel=\"noopener\">EU AI Act: first regulation on artificial intelligence</a></li><li><a target=\"_blank\" href=\"https://www.mhc.ie/hubs/the-eu-artificial-intelligence-act/eu-ai-act-risk-categories\" target=\"_blank\" rel=\"noopener\">EU AI Act: Risk Categories</a></li>",
     "instruction": "",
     "_pageLevelProgress": {
       "_isEnabled": false
@@ -1523,7 +1581,7 @@
       "longdescription": "",
       "large": "course/en/assets/ed8c41138dc38e9d42c4c464ef200a62b430716e.png",
       "small": "course/en/assets/ed8c41138dc38e9d42c4c464ef200a62b430716e.png",
-      "attribution": "<a href=\"http://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>",
+      "attribution": "<a target=\"_blank\" href=\"http://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>",
       "_url": "",
       "_target": ""
     },
@@ -1809,7 +1867,7 @@
       "longdescription": "",
       "large": "course/en/assets/50cd2a8785a924e204ab876d46a71c045cb0f0fc.png",
       "small": "course/en/assets/50cd2a8785a924e204ab876d46a71c045cb0f0fc.png",
-      "attribution": "<a href=\"theodi.org\" target=\"_blank\">ODI</a> <span class='assetLicence'>[All rights reserved]</span>",
+      "attribution": "<a target=\"_blank\" href=\"theodi.org\" target=\"_blank\">ODI</a> <span class='assetLicence'>[All rights reserved]</span>",
       "_url": "",
       "_target": null
     },
@@ -1861,7 +1919,7 @@
       "longdescription": "",
       "large": "course/en/assets/036042952f46c53618a64d9d1cc1119c2fcefbbe.png",
       "small": "course/en/assets/036042952f46c53618a64d9d1cc1119c2fcefbbe.png",
-      "attribution": "<a href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+      "attribution": "<a target=\"_blank\" href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
       "_url": "",
       "_target": null
     },
@@ -2003,7 +2061,7 @@
       "alt": "",
       "large": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
       "small": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
-      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+      "attribution": "<a target=\"_blank\" href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
     }
   },
   {
@@ -2047,7 +2105,7 @@
     "_graphic": {
       "src": "course/en/assets/ed7b55ee96ce4f250a50007d5173ab1df16685c5.png",
       "alt": "",
-      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+      "attribution": "<a target=\"_blank\" href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
     },
     "mobileBody": "",
     "mobileInstruction": "",
@@ -2067,7 +2125,7 @@
         "_graphic": {
           "src": "course/en/assets/f145e6f75c5fadc197c2695bb3ca7fe274900599.png",
           "alt": "",
-          "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+          "attribution": "<a target=\"_blank\" href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
           "_classes": "spectrum-marker"
         },
         "_pin": {
@@ -2086,7 +2144,7 @@
         "_graphic": {
           "src": "course/en/assets/deb27ec9e762978fc639027db87cae9e39535587.png",
           "alt": "",
-          "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+          "attribution": "<a target=\"_blank\" href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
           "_classes": "spectrum-marker"
         },
         "_pin": {
@@ -2105,7 +2163,7 @@
         "_graphic": {
           "src": "course/en/assets/77a03d871f7cea023d2fb6e752f5afddd5e2b2c7.png",
           "alt": "",
-          "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+          "attribution": "<a target=\"_blank\" href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
           "_classes": "spectrum-marker"
         },
         "_pin": {
@@ -2124,7 +2182,7 @@
         "_graphic": {
           "src": "course/en/assets/0e424e828a470902c84a57ec88e92d1880620249.png",
           "alt": "",
-          "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+          "attribution": "<a target=\"_blank\" href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
           "_classes": "spectrum-marker"
         },
         "_pin": {
@@ -2179,7 +2237,7 @@
       "longdescription": "",
       "large": "course/en/assets/396570278274a06acd0f81d651b1f270e9b0d196.png",
       "small": "course/en/assets/396570278274a06acd0f81d651b1f270e9b0d196.png",
-      "attribution": "<a href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+      "attribution": "<a target=\"_blank\" href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
       "_url": "",
       "_target": null
     },
@@ -2324,9 +2382,9 @@
     ],
     "_feedback": {
       "title": "",
-      "correct": "<p><strong>That’s right!</strong></p><p dir=\"ltr\">The more open the dataset, the less constraints there are to reuse. If datasets are not open, then some negotiation may be required with the rights holder. This could include helping the rights owners to address any concerns they have related to data sharing or to set up a <a href=\"https://gatesopenresearch.org/documents/2-44\" target=\"_blank\">data sharing agreement</a>.&nbsp;</p><p dir=\"ltr\">Additionally, reuse is highly likely to be impacted by the most restrictive licence under which data is obtained from a third party. For example, if you combine two open datasets with one available under a non-commercial restriction, then the reuse of the resultant combined data is limited to non-commercial use. Care should be taken to ensure source datasets are as open as possible – <em>and as closed as necessary</em> – to minimise harmful impacts.</p>",
+      "correct": "<p><strong>That’s right!</strong></p><p dir=\"ltr\">The more open the dataset, the less constraints there are to reuse. If datasets are not open, then some negotiation may be required with the rights holder. This could include helping the rights owners to address any concerns they have related to data sharing or to set up a <a target=\"_blank\" href=\"https://gatesopenresearch.org/documents/2-44\" target=\"_blank\">data sharing agreement</a>.&nbsp;</p><p dir=\"ltr\">Additionally, reuse is highly likely to be impacted by the most restrictive licence under which data is obtained from a third party. For example, if you combine two open datasets with one available under a non-commercial restriction, then the reuse of the resultant combined data is limited to non-commercial use. Care should be taken to ensure source datasets are as open as possible – <em>and as closed as necessary</em> – to minimise harmful impacts.</p>",
       "_incorrect": {
-        "final": "<p><strong>Are you sure about that?</strong></p><p dir=\"ltr\">The more open the dataset, the less constraints there are to reuse. If datasets are not open, then some negotiation may be required with the rights holder. This could include helping the rights owners to address any concerns they have related to data sharing or to set up a <a href=\"https://gatesopenresearch.org/documents/2-44\" target=\"_blank\">data sharing agreement</a>.&nbsp;</p><p dir=\"ltr\">Additionally, reuse is highly likely to be impacted by the most restrictive licence under which data is obtained from a third party. For example, if you combine two open datasets with one available under a non-commercial restriction, then the reuse of the resultant combined data is limited to non-commercial use. Care should be taken to ensure source datasets are as open as possible – <em>and as closed as necessary</em> – to minimise harmful impacts.</p>",
+        "final": "<p><strong>Are you sure about that?</strong></p><p dir=\"ltr\">The more open the dataset, the less constraints there are to reuse. If datasets are not open, then some negotiation may be required with the rights holder. This could include helping the rights owners to address any concerns they have related to data sharing or to set up a <a target=\"_blank\" href=\"https://gatesopenresearch.org/documents/2-44\" target=\"_blank\">data sharing agreement</a>.&nbsp;</p><p dir=\"ltr\">Additionally, reuse is highly likely to be impacted by the most restrictive licence under which data is obtained from a third party. For example, if you combine two open datasets with one available under a non-commercial restriction, then the reuse of the resultant combined data is limited to non-commercial use. Care should be taken to ensure source datasets are as open as possible – <em>and as closed as necessary</em> – to minimise harmful impacts.</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -2409,7 +2467,7 @@
     "_disableAccessibilityState": false,
     "title": "What to do when things are unclear",
     "displayTitle": "",
-    "body": "<p>If datasets are not open, then some negotiation may be required. This could include helping data holders to address any concerns they have related to data sharing or setting up a data sharing agreement.</p><p>In some cases, the reuse permissions related to a dataset might be unclear and a rights holder not listed. Following investigation you might even be bounced between people and get nowhere.</p><p dir=\"ltr\">In this situation, data may still be usable for example, if its use is covered by a <a href=\"https://en.wikipedia.org/wiki/Fair_use\" target=\"_blank\">fair use</a> (or <a href=\"https://en.wikipedia.org/wiki/Fair_dealing\" target=\"_blank\">fair dealing</a>) exception or other local law.</p><p>If this is not the case, then a risk-based decision could be made over the collection, use and sharing of the data. Taking into consideration what may be considered fair, proportionate and ethical use of such data may well play a large part of the risk-based decision.</p><p>This must be done with the understanding that the rights holder could reemerge and it may be necessary to backtrack, negotiate continued use, or potentially face a legal challenge.</p>",
+    "body": "<p>If datasets are not open, then some negotiation may be required. This could include helping data holders to address any concerns they have related to data sharing or setting up a data sharing agreement.</p><p>In some cases, the reuse permissions related to a dataset might be unclear and a rights holder not listed. Following investigation you might even be bounced between people and get nowhere.</p><p dir=\"ltr\">In this situation, data may still be usable for example, if its use is covered by a <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Fair_use\" target=\"_blank\">fair use</a> (or <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Fair_dealing\" target=\"_blank\">fair dealing</a>) exception or other local law.</p><p>If this is not the case, then a risk-based decision could be made over the collection, use and sharing of the data. Taking into consideration what may be considered fair, proportionate and ethical use of such data may well play a large part of the risk-based decision.</p><p>This must be done with the understanding that the rights holder could reemerge and it may be necessary to backtrack, negotiate continued use, or potentially face a legal challenge.</p>",
     "_id": "6408b85eb38aaf6b93dd7ddf-updated",
     "_parentId": "aide-m3-o5-third-party-b-14",
     "_type": "component",
@@ -2571,7 +2629,7 @@
       "longdescription": "",
       "large": "course/en/assets/ed8c41138dc38e9d42c4c464ef200a62b430716e.png",
       "small": "course/en/assets/ed8c41138dc38e9d42c4c464ef200a62b430716e.png",
-      "attribution": "<a href=\"http://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>",
+      "attribution": "<a target=\"_blank\" href=\"http://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>",
       "_url": "",
       "_target": null
     },
@@ -2658,7 +2716,7 @@
       "longdescription": "",
       "large": "course/en/assets/675af1af03c20d4a762d518bdb532edb6a2ad732.png",
       "small": "course/en/assets/675af1af03c20d4a762d518bdb532edb6a2ad732.png",
-      "attribution": "<a href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+      "attribution": "<a target=\"_blank\" href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
       "_url": "",
       "_target": null
     },
@@ -2808,7 +2866,7 @@
       "longdescription": "",
       "large": "course/en/assets/82fb1917c44640e6d5e713da46577b32650694b7.png",
       "small": "course/en/assets/82fb1917c44640e6d5e713da46577b32650694b7.png",
-      "attribution": "<a href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+      "attribution": "<a target=\"_blank\" href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
       "_url": "",
       "_target": null
     },
@@ -2954,7 +3012,7 @@
       "longdescription": "",
       "large": "course/en/assets/f3a80f034f898a3a29bf8f091e68b3a18ef07733.png",
       "small": "course/en/assets/f3a80f034f898a3a29bf8f091e68b3a18ef07733.png",
-      "attribution": "<a href=\"theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+      "attribution": "<a target=\"_blank\" href=\"theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
       "_url": "",
       "_target": null
     },
@@ -3002,7 +3060,7 @@
     "_items": [
       {
         "title": "Creative Commons licences",
-        "body": "<p dir=\"ltr\">Creative Commons licences are widely used for open content. Version 4.0 explicitly considers data licensing.</p><p dir=\"ltr\">There are three Creative Commons versions of an open licence:</p><ul><li dir=\"ltr\"><p dir=\"ltr\"><strong><a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Public domain: (CC0)</a></strong></p></li><li dir=\"ltr\"><p dir=\"ltr\"><strong><a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">Attribution: (CC-BY v4.0)</a></strong></p></li><li dir=\"ltr\"><p dir=\"ltr\"><strong><a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" target=\"_blank\">Attribution &amp; share-alike: (CC-BY-SA v4.0)</a></strong></p></li></ul><p dir=\"ltr\">Public domain and attribution licences give most flexibility in the use of data, while a share-alike licence may limit the commercial use of the data.</p>",
+        "body": "<p dir=\"ltr\">Creative Commons licences are widely used for open content. Version 4.0 explicitly considers data licensing.</p><p dir=\"ltr\">There are three Creative Commons versions of an open licence:</p><ul><li dir=\"ltr\"><p dir=\"ltr\"><strong><a target=\"_blank\" href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Public domain: (CC0)</a></strong></p></li><li dir=\"ltr\"><p dir=\"ltr\"><strong><a target=\"_blank\" href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">Attribution: (CC-BY v4.0)</a></strong></p></li><li dir=\"ltr\"><p dir=\"ltr\"><strong><a target=\"_blank\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\" target=\"_blank\">Attribution &amp; share-alike: (CC-BY-SA v4.0)</a></strong></p></li></ul><p dir=\"ltr\">Public domain and attribution licences give most flexibility in the use of data, while a share-alike licence may limit the commercial use of the data.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -3012,7 +3070,7 @@
       },
       {
         "title": "Open government licences",
-        "body": "<p dir=\"ltr\">Many governments have adopted their own official licences for data. Most of these are heavily based upon, and sometimes even direct derivatives of, the Creative Commons licences. This makes them compatible with each other, meaning data can be widely reused and remixed with other datasets available under the same terms.&nbsp;</p><p dir=\"ltr\">The <a href=\"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\" target=\"_blank\">UK</a>, <a href=\"https://www.etalab.gouv.fr/licence-ouverte-open-licence\" target=\"_blank\">French</a> and <a href=\"https://open.canada.ca/en/open-government-licence-canada\" target=\"_blank\">Canadian</a> governments are just a few examples of governments around the globe that have adopted open data licences.</p>",
+        "body": "<p dir=\"ltr\">Many governments have adopted their own official licences for data. Most of these are heavily based upon, and sometimes even direct derivatives of, the Creative Commons licences. This makes them compatible with each other, meaning data can be widely reused and remixed with other datasets available under the same terms.&nbsp;</p><p dir=\"ltr\">The <a target=\"_blank\" href=\"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\" target=\"_blank\">UK</a>, <a target=\"_blank\" href=\"https://www.etalab.gouv.fr/licence-ouverte-open-licence\" target=\"_blank\">French</a> and <a target=\"_blank\" href=\"https://open.canada.ca/en/open-government-licence-canada\" target=\"_blank\">Canadian</a> governments are just a few examples of governments around the globe that have adopted open data licences.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -3076,7 +3134,7 @@
       "longdescription": "",
       "large": "course/en/assets/a1ce7f94fafdffa5a894aac7dfa28b55a87fdd10.png",
       "small": "course/en/assets/a1ce7f94fafdffa5a894aac7dfa28b55a87fdd10.png",
-      "attribution": "<a href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+      "attribution": "<a target=\"_blank\" href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
       "_url": "",
       "_target": null
     },
@@ -3084,7 +3142,7 @@
     "_defaultScrollPercent": 0
   },
   {
-    "_component": "imgMagnify",
+    "_component": "graphic",
     "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3095,7 +3153,7 @@
     "_disableAccessibilityState": false,
     "title": "A decision-making flowchart for using data from third party sources",
     "displayTitle": "A decision-making flowchart for using data from third party sources",
-    "body": "<p><a href=\"https://learning.digitaltwinhub.co.uk/module3/course/en/assets/1f9d45cbc9acc5d18c7d33dddcbecdbb4baebd0f.png\" target=\"_blank\">Click to here view the image in a separate window</a></p>",
+    "body": "<p><a target=\"_blank\" href=\"https://learning.digitaltwinhub.co.uk/module3/course/en/assets/1f9d45cbc9acc5d18c7d33dddcbecdbb4baebd0f.png\" target=\"_blank\">Click to here view the image in a separate window</a></p>",
     "_id": "6408b85eb38aaf6b93dd7def",
     "_parentId": "aide-m3-o5-third-party-b-8",
     "_type": "component",
@@ -3120,19 +3178,18 @@
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
-    "enableMagnify": true,
     "_graphic": {
       "alt": "",
       "large": "course/en/assets/1f9d45cbc9acc5d18c7d33dddcbecdbb4baebd0f.png",
       "small": "course/en/assets/1f9d45cbc9acc5d18c7d33dddcbecdbb4baebd0f.png",
-      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+      "attribution": "<a target=\"_blank\" href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
     },
     "_notifyopt": "button",
     "_popupData": {
       "mypopup": {
         "title": "Title goes here",
         "message": "<p>Message goes here</p>",
-        "copypaste": "<a href='#' id='mypopup'>copied popup link</a>"
+        "copypaste": "<a target=\"_blank\" href='#' id='mypopup'>copied popup link</a>"
       }
     },
     "_alertData": {
@@ -3140,12 +3197,12 @@
         "title": "Title goes here",
         "message": "<p>Message goes here</p>",
         "confirmButton": "Continue",
-        "copypaste": "<a href='#' id='myalert'>copied alert link</a>"
+        "copypaste": "<a target=\"_blank\" href='#' id='myalert'>copied alert link</a>"
       }
     },
     "_externaLink": {
       "": {
-        "copypaste": "<a href='path_to_my_document_goes_here' id='myexternalink' onclick=\"window.open(this.href, '','resizable=yes,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=yes,dependent=no,width=600,height=600'); return false;\">external link name</a>"
+        "copypaste": "<a target=\"_blank\" href='path_to_my_document_goes_here' id='myexternalink' onclick=\"window.open(this.href, '','resizable=yes,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=yes,dependent=no,width=600,height=600'); return false;\">external link name</a>"
       }
     },
     "_buttonData": {
@@ -3201,7 +3258,7 @@
       "longdescription": "",
       "large": "course/en/assets/0e58c4069f60b40ed2f3e389702508b2010320ae.png",
       "small": "course/en/assets/0e58c4069f60b40ed2f3e389702508b2010320ae.png",
-      "attribution": "<a href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+      "attribution": "<a target=\"_blank\" href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
       "_url": "",
       "_target": null
     },
@@ -3613,7 +3670,7 @@
       "longdescription": "",
       "large": "course/en/assets/ed8c41138dc38e9d42c4c464ef200a62b430716e.png",
       "small": "course/en/assets/ed8c41138dc38e9d42c4c464ef200a62b430716e.png",
-      "attribution": "<a href=\"http://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>",
+      "attribution": "<a target=\"_blank\" href=\"http://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>",
       "_url": "",
       "_target": null
     },
@@ -3920,7 +3977,7 @@
       "longdescription": "",
       "large": "course/en/assets/827783a3350f485d99f67f6b91d8ba837369f325.png",
       "small": "course/en/assets/827783a3350f485d99f67f6b91d8ba837369f325.png",
-      "attribution": "<a href=\"theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+      "attribution": "<a target=\"_blank\" href=\"theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
       "_url": "",
       "_target": null
     },
@@ -4141,7 +4198,7 @@
       "longdescription": "",
       "large": "course/en/assets/e8a98548b38f44b62ccf5051043b4e890db4c671.png",
       "small": "course/en/assets/e8a98548b38f44b62ccf5051043b4e890db4c671.png",
-      "attribution": "<a href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+      "attribution": "<a target=\"_blank\" href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
       "_url": "",
       "_target": null
     },
@@ -4218,7 +4275,7 @@
       "longdescription": "",
       "large": "course/en/assets/e8a98548b38f44b62ccf5051043b4e890db4c671.png",
       "small": "course/en/assets/e8a98548b38f44b62ccf5051043b4e890db4c671.png",
-      "attribution": "<a href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+      "attribution": "<a target=\"_blank\" href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
       "_url": "",
       "_target": null
     },
@@ -4306,7 +4363,7 @@
       },
       {
         "title": "Right to data portability",
-        "body": "<p>Individuals can request that personal data about them be transferred directly to another controller. To this point, we have only seen the financial sector adopt the right to data portability as a way to build better banking services.&nbsp;The global <a href=\"https://en.wikipedia.org/wiki/Open_banking\" target=\"_blank\">open banking</a>&nbsp;initiative allows customers to directly transfer personal data between financial service providers, meaning you can change banks without having to fill in endless forms.</p>",
+        "body": "<p>Individuals can request that personal data about them be transferred directly to another controller. To this point, we have only seen the financial sector adopt the right to data portability as a way to build better banking services.&nbsp;The global <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Open_banking\" target=\"_blank\">open banking</a>&nbsp;initiative allows customers to directly transfer personal data between financial service providers, meaning you can change banks without having to fill in endless forms.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -4497,7 +4554,7 @@
       "longdescription": "",
       "large": "course/en/assets/a85fe55d5f72c2723a49bb8d38f2d5dcdaf4f711.png",
       "small": "course/en/assets/a85fe55d5f72c2723a49bb8d38f2d5dcdaf4f711.png",
-      "attribution": "<a href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+      "attribution": "<a target=\"_blank\" href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
       "_url": "",
       "_target": null
     },
@@ -4573,7 +4630,7 @@
       "alt": "",
       "large": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
       "small": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
-      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+      "attribution": "<a target=\"_blank\" href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
     }
   },
   {
@@ -4618,7 +4675,7 @@
       "longdescription": "",
       "large": "course/en/assets/6d5e20006ecebdeffc8157874edb53246050f39d.png",
       "small": "course/en/assets/6d5e20006ecebdeffc8157874edb53246050f39d.png",
-      "attribution": "<a href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+      "attribution": "<a target=\"_blank\" href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
       "_url": "",
       "_target": null
     },
@@ -4766,9 +4823,9 @@
     ],
     "_feedback": {
       "title": "",
-      "correct": "<p><strong>That’s right!</strong></p><p dir=\"ltr\">Not everything needs a person’s consent. The provision of many services is covered under the performance of contract with the consumer or legal obligations (or public duties) with which the provider has to abide.</p><p dir=\"ltr\">Deciding if vital or legitimate interest applies relies on being proportionate – if something feels excessive from the public’s point of view, then it probably is. The&nbsp;<a href=\"https://ico.org.uk/global/data-protection-and-coronavirus-information-hub/coronavirus-recovery-data-protection-advice-for-organisations/\" target=\"_blank\">Information Commissioner's Office in the UK</a> provides some excellent guidance on this.&nbsp;</p><p>Considering carefully the ethics of your reasons for collecting, using and sharing (or not sharing) the data will help you decide if such a basis can apply.&nbsp;</p><p>Regardless of the lawful basis, it is always a good idea to keep people informed about how data will be collected, used and shared, be that via a privacy notice (if using personal information) or via other means.</p><p><em>Note on question 1: Although vital interest is usually used as the basis for sharing data during times of crisis, sometimes legitimate interest is equally valid. Either way, it was deemed in the interests of those in the UK who were instructed to shield at home that permitted the NHS to share data with supermarkets so food delivery could be prioritised. Obviously this doesn’t mean supermarkets can retain the data following the shielding programme ending, and have been <a href=\"https://www.decisionmarketing.co.uk/news/ico-warns-supermarkets-over-covid-19-data-retention\" target=\"_blank\">warned</a>&nbsp;they will have no lawful basis for doing so.</em></p>",
+      "correct": "<p><strong>That’s right!</strong></p><p dir=\"ltr\">Not everything needs a person’s consent. The provision of many services is covered under the performance of contract with the consumer or legal obligations (or public duties) with which the provider has to abide.</p><p dir=\"ltr\">Deciding if vital or legitimate interest applies relies on being proportionate – if something feels excessive from the public’s point of view, then it probably is. The&nbsp;<a target=\"_blank\" href=\"https://ico.org.uk/global/data-protection-and-coronavirus-information-hub/coronavirus-recovery-data-protection-advice-for-organisations/\" target=\"_blank\">Information Commissioner's Office in the UK</a> provides some excellent guidance on this.&nbsp;</p><p>Considering carefully the ethics of your reasons for collecting, using and sharing (or not sharing) the data will help you decide if such a basis can apply.&nbsp;</p><p>Regardless of the lawful basis, it is always a good idea to keep people informed about how data will be collected, used and shared, be that via a privacy notice (if using personal information) or via other means.</p><p><em>Note on question 1: Although vital interest is usually used as the basis for sharing data during times of crisis, sometimes legitimate interest is equally valid. Either way, it was deemed in the interests of those in the UK who were instructed to shield at home that permitted the NHS to share data with supermarkets so food delivery could be prioritised. Obviously this doesn’t mean supermarkets can retain the data following the shielding programme ending, and have been <a target=\"_blank\" href=\"https://www.decisionmarketing.co.uk/news/ico-warns-supermarkets-over-covid-19-data-retention\" target=\"_blank\">warned</a>&nbsp;they will have no lawful basis for doing so.</em></p>",
       "_incorrect": {
-        "final": "<p><strong>Are you sure about that?</strong></p><p dir=\"ltr\">Not everything needs a person’s consent. The provision of many services is covered under the performance of contract with the consumer or legal obligations (or public duties) with which the provider has to abide.</p><p dir=\"ltr\">Deciding if vital or legitimate interest applies relies on being proportionate – if something feels excessive from the public’s point of view, then it probably is. The&nbsp;<a href=\"https://ico.org.uk/global/data-protection-and-coronavirus-information-hub/coronavirus-recovery-data-protection-advice-for-organisations/\" target=\"_blank\">Information Commissioner's Office in the UK</a> provides some excellent guidance on this.</p><p>Considering carefully the ethics of your reasons for collecting, using and sharing (or not sharing) the data will help you decide if such a basis can apply.&nbsp;</p><p>Regardless of the lawful basis, it is always a good idea to keep people informed about how data will be collected, used and shared, be that via a privacy notice (if using personal information) or via other means.</p><p>Note on question 1: Although vital interest is usually used as the basis for sharing data during times of crisis, sometimes legitimate interest is equally valid. Either way, it was deemed in the interests of those in the UK who were instructed to shield at home that permitted the NHS to share data with supermarkets so food delivery could be prioritised. Obviously this doesn’t mean supermarkets can retain the data following the shielding programme ending, and have been warned they will have no lawful basis for doing so.</p>",
+        "final": "<p><strong>Are you sure about that?</strong></p><p dir=\"ltr\">Not everything needs a person’s consent. The provision of many services is covered under the performance of contract with the consumer or legal obligations (or public duties) with which the provider has to abide.</p><p dir=\"ltr\">Deciding if vital or legitimate interest applies relies on being proportionate – if something feels excessive from the public’s point of view, then it probably is. The&nbsp;<a target=\"_blank\" href=\"https://ico.org.uk/global/data-protection-and-coronavirus-information-hub/coronavirus-recovery-data-protection-advice-for-organisations/\" target=\"_blank\">Information Commissioner's Office in the UK</a> provides some excellent guidance on this.</p><p>Considering carefully the ethics of your reasons for collecting, using and sharing (or not sharing) the data will help you decide if such a basis can apply.&nbsp;</p><p>Regardless of the lawful basis, it is always a good idea to keep people informed about how data will be collected, used and shared, be that via a privacy notice (if using personal information) or via other means.</p><p>Note on question 1: Although vital interest is usually used as the basis for sharing data during times of crisis, sometimes legitimate interest is equally valid. Either way, it was deemed in the interests of those in the UK who were instructed to shield at home that permitted the NHS to share data with supermarkets so food delivery could be prioritised. Obviously this doesn’t mean supermarkets can retain the data following the shielding programme ending, and have been warned they will have no lawful basis for doing so.</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -4843,7 +4900,7 @@
       "longdescription": "",
       "large": "course/en/assets/e8a98548b38f44b62ccf5051043b4e890db4c671.png",
       "small": "course/en/assets/e8a98548b38f44b62ccf5051043b4e890db4c671.png",
-      "attribution": "<a href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+      "attribution": "<a target=\"_blank\" href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
       "_url": "",
       "_target": null
     },
@@ -4960,7 +5017,7 @@
       "longdescription": "",
       "large": "course/en/assets/c6ea926749a29308a9cb3fdaca13be47c5b71769.png",
       "small": "course/en/assets/c6ea926749a29308a9cb3fdaca13be47c5b71769.png",
-      "attribution": "<a href=\"theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+      "attribution": "<a target=\"_blank\" href=\"theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
       "_url": "",
       "_target": null
     },
@@ -5207,7 +5264,7 @@
     "_id": "aide-m4-o2-anon-data-c-14",
     "_parentId": "aide-m4-o2-anon-data-b-14",
     "_type": "component",
-    "_component": "",
+    "_component": "mcq",
     "_classes": "",
     "_layout": "full",
     "title": "Which data points are Personal Data and what is the risk level of each data point?",
@@ -5637,7 +5694,7 @@
     "_layout": "right",
     "title": "Reviewing the model",
     "displayTitle": "",
-    "body": "<p><a href=\"https://docs.google.com/spreadsheets/d/1zNFWYXI1rRhbMEyZVLnkXFddYTe4BPfYO4RyFsu_p2w/edit?usp=drive_link\" target=\"_blank\" rel=\"noopener\">#DATA NHS synthetic data [Model Answer]</a></p><p>To anonymise the dataset we have undertaken the following activities:</p>",
+    "body": "<p><a target=\"_blank\" href=\"https://docs.google.com/spreadsheets/d/1zNFWYXI1rRhbMEyZVLnkXFddYTe4BPfYO4RyFsu_p2w/edit?usp=drive_link\" target=\"_blank\" rel=\"noopener\">#DATA NHS synthetic data [Model Answer]</a></p><p>To anonymise the dataset we have undertaken the following activities:</p>",
     "instruction": "Select the headings to find out more.",
     "_shouldCollapseItems": true,
     "_shouldExpandFirstItem": false,
@@ -5913,7 +5970,7 @@
       "longdescription": "",
       "large": "course/en/assets/ed8c41138dc38e9d42c4c464ef200a62b430716e.png",
       "small": "course/en/assets/ed8c41138dc38e9d42c4c464ef200a62b430716e.png",
-      "attribution": "<a href=\"http://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>",
+      "attribution": "<a target=\"_blank\" href=\"http://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>",
       "_url": "",
       "_target": ""
     },
@@ -6164,7 +6221,7 @@
       "longdescription": "",
       "large": "course/en/assets/50cd2a8785a924e204ab876d46a71c045cb0f0fc.png",
       "small": "course/en/assets/50cd2a8785a924e204ab876d46a71c045cb0f0fc.png",
-      "attribution": "<a href=\"theodi.org\" target=\"_blank\">ODI</a> <span class='assetLicence'>[All rights reserved]</span>",
+      "attribution": "<a target=\"_blank\" href=\"theodi.org\" target=\"_blank\">ODI</a> <span class='assetLicence'>[All rights reserved]</span>",
       "_url": "",
       "_target": null
     },
@@ -6254,7 +6311,7 @@
       "longdescription": "",
       "large": "course/en/assets/ed8c41138dc38e9d42c4c464ef200a62b430716e.png",
       "small": "course/en/assets/ed8c41138dc38e9d42c4c464ef200a62b430716e.png",
-      "attribution": "<a href=\"http://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>",
+      "attribution": "<a target=\"_blank\" href=\"http://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>",
       "_url": "",
       "_target": null
     },
@@ -6448,7 +6505,7 @@
       "longdescription": "",
       "large": "course/en/assets/72f3131f367c6aacae6f60a5eb60d0ea3847989d.png",
       "small": "course/en/assets/72f3131f367c6aacae6f60a5eb60d0ea3847989d.png",
-      "attribution": "<a href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+      "attribution": "<a target=\"_blank\" href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
       "_url": "",
       "_target": null
     },
@@ -6609,7 +6666,7 @@
       "longdescription": "",
       "large": "https://placehold.co/400",
       "small": "https://placehold.co/400",
-      "attribution": "<a href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+      "attribution": "<a target=\"_blank\" href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
       "_url": "",
       "_target": null
     },
@@ -6762,7 +6819,7 @@
       "longdescription": "",
       "large": "course/en/assets/853abf0ca65bf531062e63e6c42004154bff9385.png",
       "small": "course/en/assets/853abf0ca65bf531062e63e6c42004154bff9385.png",
-      "attribution": "<a href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+      "attribution": "<a target=\"_blank\" href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
       "_url": "",
       "_target": null
     },
@@ -6819,7 +6876,7 @@
     "_disableAccessibilityState": false,
     "title": "Characteristics of data sharing agreements",
     "displayTitle": "Characteristics of data sharing agreements",
-    "body": "<p>Data sharing agreements are usually contracts that will have been signed between two or more organisations sharing data. They set out the purpose and legal basis for sharing data as well as setting out how, when, where and for how long data will be shared. &nbsp;</p><p>Data sharing agreements are most useful when organisations, of any kind, are sharing with detailed, binding rules about what each side may do and must do. This is useful in high-risk situations where the data is sensitive or personal, and is essential if one organisation is performing a task or contract for another and is being granted access to the data for that purpose. It helps everyone involved to be clear on their obligations and specifies roles and responsibilities.</p><p>Responsibilities could also include the requirement for organisations to make a version of the dataset available openly for others to use, setting requirements to remove or suppress sensitive and personal data before doing so.&nbsp;</p><p><a href=\"https://gatesopenresearch.org/documents/2-44\" target=\"_blank\">This checklist will help when designing data sharing agreements</a>.&nbsp;</p>",
+    "body": "<p>Data sharing agreements are usually contracts that will have been signed between two or more organisations sharing data. They set out the purpose and legal basis for sharing data as well as setting out how, when, where and for how long data will be shared. &nbsp;</p><p>Data sharing agreements are most useful when organisations, of any kind, are sharing with detailed, binding rules about what each side may do and must do. This is useful in high-risk situations where the data is sensitive or personal, and is essential if one organisation is performing a task or contract for another and is being granted access to the data for that purpose. It helps everyone involved to be clear on their obligations and specifies roles and responsibilities.</p><p>Responsibilities could also include the requirement for organisations to make a version of the dataset available openly for others to use, setting requirements to remove or suppress sensitive and personal data before doing so.&nbsp;</p><p><a target=\"_blank\" href=\"https://gatesopenresearch.org/documents/2-44\" target=\"_blank\">This checklist will help when designing data sharing agreements</a>.&nbsp;</p>",
     "_id": "6408b2dfb38aaf6b93dd7d74",
     "_parentId": "aide-m3-o3-sharing-b-8",
     "_type": "component",
@@ -6925,7 +6982,7 @@
       "longdescription": "",
       "large": "course/en/assets/6cd6f2ec65797059c94ec65a349613dd893ecf19.png",
       "small": "course/en/assets/6cd6f2ec65797059c94ec65a349613dd893ecf19.png",
-      "attribution": "<a href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+      "attribution": "<a target=\"_blank\" href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
       "_url": "",
       "_target": null
     },
@@ -7103,7 +7160,7 @@
       "longdescription": "",
       "large": "course/en/assets/a8e5bc047ad85165f52c92f73dadf02bf5dcdcf0.png",
       "small": "course/en/assets/a8e5bc047ad85165f52c92f73dadf02bf5dcdcf0.png",
-      "attribution": "<a href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+      "attribution": "<a target=\"_blank\" href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
       "_url": "",
       "_target": null
     },
@@ -7281,7 +7338,7 @@
       "longdescription": "",
       "large": "course/en/assets/a1ce7f94fafdffa5a894aac7dfa28b55a87fdd10.png",
       "small": "course/en/assets/a1ce7f94fafdffa5a894aac7dfa28b55a87fdd10.png",
-      "attribution": "<a href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+      "attribution": "<a target=\"_blank\" href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
       "_url": "",
       "_target": null
     },
@@ -7300,7 +7357,7 @@
     "_disableAccessibilityState": false,
     "title": "Building a data sharing agreement",
     "displayTitle": "",
-    "body": "<p>A <a href=\"https://gatesopenresearch.org/documents/2-44\" target=\"_blank\">data sharing agreement</a> sets out the purpose and legal basis for sharing data as well as setting out how, when, where and for how long data will be shared.&nbsp;</p><p>Each agreement will likely be bespoke and focussed on a particular application or domain or purpose.&nbsp;</p><p>Unlike a data license, a data sharing agreement will often go into much more detail on the scope and detail the characteristics of the data and how it should be used to fulfil a specific purpose.&nbsp;</p><p>Often data sharing agreements are set up due to the need to share personal data between a data controller and a data processor. Here the lawful basis for sharing data is dictated by data protection regulations and will be detailed in the data sharing agreement.&nbsp;</p><p>Finally, data sharing agreements are contracts so will require legal signatures from both parties.</p>",
+    "body": "<p>A <a target=\"_blank\" href=\"https://gatesopenresearch.org/documents/2-44\" target=\"_blank\">data sharing agreement</a> sets out the purpose and legal basis for sharing data as well as setting out how, when, where and for how long data will be shared.&nbsp;</p><p>Each agreement will likely be bespoke and focussed on a particular application or domain or purpose.&nbsp;</p><p>Unlike a data license, a data sharing agreement will often go into much more detail on the scope and detail the characteristics of the data and how it should be used to fulfil a specific purpose.&nbsp;</p><p>Often data sharing agreements are set up due to the need to share personal data between a data controller and a data processor. Here the lawful basis for sharing data is dictated by data protection regulations and will be detailed in the data sharing agreement.&nbsp;</p><p>Finally, data sharing agreements are contracts so will require legal signatures from both parties.</p>",
     "_id": "6408b2dfb38aaf6b93dd7d7d",
     "_parentId": "aide-m3-o3-sharing-b-4",
     "_type": "component",
@@ -7368,7 +7425,7 @@
       "longdescription": "",
       "large": "course/en/assets/4e3e3ded57de78f2e0adefe61e7772a7426e2750.png",
       "small": "course/en/assets/4e3e3ded57de78f2e0adefe61e7772a7426e2750.png",
-      "attribution": "<a href=\"https://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+      "attribution": "<a target=\"_blank\" href=\"https://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
       "_url": "",
       "_target": null
     },
@@ -7602,7 +7659,7 @@
       "longdescription": "",
       "large": "course/en/assets/a349912e089d49be46d3e575ec6fbf171f54dc8e.png",
       "small": "course/en/assets/a349912e089d49be46d3e575ec6fbf171f54dc8e.png",
-      "attribution": "<a href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+      "attribution": "<a target=\"_blank\" href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
       "_url": "",
       "_target": null
     },
@@ -7651,7 +7708,7 @@
       "longdescription": "",
       "large": "course/en/assets/f837931503ef7d28e7754d94ea91374df399fe63.png",
       "small": "course/en/assets/f837931503ef7d28e7754d94ea91374df399fe63.png",
-      "attribution": "<a href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+      "attribution": "<a target=\"_blank\" href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
       "_url": "",
       "_target": null
     },
@@ -7670,7 +7727,7 @@
     "_disableAccessibilityState": false,
     "title": "Open government licenses",
     "displayTitle": "",
-    "body": "<p>Some publishers choose to adopt in-country government licenses. This has the advantage of being created and backed by local regulations.&nbsp;</p><p>In the majority of cases these are similar, to the point of being completely compatible with, creative commons licenses. The only difference in some cases is the name, logo and jurisdiction of laws that govern the license.&nbsp;</p><p>Some good examples of clear open government data licenses include:</p><ul><li><strong><a href=\"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\" target=\"_blank\">The UK Open Government license</a></strong></li><li><strong><a href=\"https://smartcities.data.gov.in/government-open-data-license-india\" target=\"_blank\">The Government Open Data License for India</a></strong></li></ul>",
+    "body": "<p>Some publishers choose to adopt in-country government licenses. This has the advantage of being created and backed by local regulations.&nbsp;</p><p>In the majority of cases these are similar, to the point of being completely compatible with, creative commons licenses. The only difference in some cases is the name, logo and jurisdiction of laws that govern the license.&nbsp;</p><p>Some good examples of clear open government data licenses include:</p><ul><li><strong><a target=\"_blank\" href=\"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\" target=\"_blank\">The UK Open Government license</a></strong></li><li><strong><a target=\"_blank\" href=\"https://smartcities.data.gov.in/government-open-data-license-india\" target=\"_blank\">The Government Open Data License for India</a></strong></li></ul>",
     "_id": "6408b2dfb38aaf6b93dd7d85",
     "_parentId": "aide-m3-o3-sharing-b-17",
     "_type": "component",
@@ -7738,7 +7795,7 @@
       "longdescription": "",
       "large": "course/en/assets/6952e2940d891488fdc4be6d76343ca3d73c0b8c.png",
       "small": "course/en/assets/6952e2940d891488fdc4be6d76343ca3d73c0b8c.png",
-      "attribution": "<a href=\"https://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+      "attribution": "<a target=\"_blank\" href=\"https://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
       "_url": "",
       "_target": null
     },
@@ -7757,7 +7814,7 @@
     "_disableAccessibilityState": false,
     "title": "Creative commons marks and licenses",
     "displayTitle": "",
-    "body": "<p>Creative Commons marks and licenses are widely used for open content. Version 4.0 explicitly considers data licensing. You can choose a license (or mark) that works for you at the <a href=\"https://creativecommons.org/choose/\" target=\"_blank\">Creative Commons website</a>.&nbsp;</p><p>There are three Creative Commons marks and licenses that are open:</p>",
+    "body": "<p>Creative Commons marks and licenses are widely used for open content. Version 4.0 explicitly considers data licensing. You can choose a license (or mark) that works for you at the <a target=\"_blank\" href=\"https://creativecommons.org/choose/\" target=\"_blank\">Creative Commons website</a>.&nbsp;</p><p>There are three Creative Commons marks and licenses that are open:</p>",
     "_id": "6408b2dfb38aaf6b93dd7d87",
     "_parentId": "aide-m3-o3-sharing-b-15",
     "_type": "component",
@@ -7786,7 +7843,7 @@
     "_items": [
       {
         "title": "Public domain: (CC0)",
-        "body": "<p>The <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">public domain mark</a> can be used by a copyright holder to waive all your rights over a piece of data, including copyright. This is particularly useful in the sharing of data and databases, since it otherwise may be unclear whether highly factual data and databases are restricted by copyright or other rights.</p>",
+        "body": "<p>The <a target=\"_blank\" href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">public domain mark</a> can be used by a copyright holder to waive all your rights over a piece of data, including copyright. This is particularly useful in the sharing of data and databases, since it otherwise may be unclear whether highly factual data and databases are restricted by copyright or other rights.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -7796,7 +7853,7 @@
       },
       {
         "title": "Attribution: (CC-BY v4.0)",
-        "body": "<p>The <a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">Creative Commons attribution license</a> gives users rights to access, use and share (even commercially) your content. The only restriction is that the user must give credit to the data publisher (rights holder).</p>",
+        "body": "<p>The <a target=\"_blank\" href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">Creative Commons attribution license</a> gives users rights to access, use and share (even commercially) your content. The only restriction is that the user must give credit to the data publisher (rights holder).</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -7806,7 +7863,7 @@
       },
       {
         "title": "Attribution & share-alike: (CC-BY-SA v4.0)",
-        "body": "<p>The <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" target=\"_blank\">Creative Commons attribution &amp; share-alike license</a>&nbsp;is the same as the attribution license with the added restriction that the data user must share back any changes and modifications made to the data.</p>",
+        "body": "<p>The <a target=\"_blank\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\" target=\"_blank\">Creative Commons attribution &amp; share-alike license</a>&nbsp;is the same as the attribution license with the added restriction that the data user must share back any changes and modifications made to the data.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -8012,7 +8069,7 @@
       "longdescription": "",
       "large": "course/en/assets/4984a2c07f5d1c9cf06162042639a1ff2f14ba12.png",
       "small": "course/en/assets/4984a2c07f5d1c9cf06162042639a1ff2f14ba12.png",
-      "attribution": "<a href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+      "attribution": "<a target=\"_blank\" href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
       "_url": "",
       "_target": null
     },
@@ -8089,7 +8146,7 @@
       "longdescription": "",
       "large": "course/en/assets/3864c85c5f6909f280efba70e00fb9e95673620f.png",
       "small": "course/en/assets/3864c85c5f6909f280efba70e00fb9e95673620f.png",
-      "attribution": "<a href=\"odi.org\" target=\"_blank\">ODI</a> <span class='assetLicence'>[CC0]</span>",
+      "attribution": "<a target=\"_blank\" href=\"odi.org\" target=\"_blank\">ODI</a> <span class='assetLicence'>[CC0]</span>",
       "_url": "",
       "_target": null
     },
@@ -8108,7 +8165,7 @@
     "_disableAccessibilityState": false,
     "title": "Data licenses in practice",
     "displayTitle": "",
-    "body": "<p dir=\"ltr\">There are many examples of data licenses in practice, with some of the worlds biggest websites such as <a href=\"https://wikipedia.org/\" target=\"_blank\">wikipedia</a>, <a href=\"https://www.flickr.com/\" target=\"_blank\">flickr</a> and <a href=\"https://www.scribd.com/\" target=\"_blank\">scribd</a>. In the agricultural sector the Innovative Solutions for Decision Agriculture Soil platform has launched soil information maps at a resolution of 30 meters, encompassing 24 billion unique locations across Africa. All data is easily accessible through an easy to use and well documented API and all available under a Creative Commons Attribution (CC-BY v4.0) licence.&nbsp;</p><p dir=\"ltr\"><a class=\"button\" href=\"https://www.isda-africa.com/isdasoil/\" target=\"_blank\">Explore the iSDAsoil platform for yourself</a></p>",
+    "body": "<p dir=\"ltr\">There are many examples of data licenses in practice, with some of the worlds biggest websites such as <a target=\"_blank\" href=\"https://wikipedia.org/\" target=\"_blank\">wikipedia</a>, <a target=\"_blank\" href=\"https://www.flickr.com/\" target=\"_blank\">flickr</a> and <a target=\"_blank\" href=\"https://www.scribd.com/\" target=\"_blank\">scribd</a>. In the agricultural sector the Innovative Solutions for Decision Agriculture Soil platform has launched soil information maps at a resolution of 30 meters, encompassing 24 billion unique locations across Africa. All data is easily accessible through an easy to use and well documented API and all available under a Creative Commons Attribution (CC-BY v4.0) licence.&nbsp;</p><p dir=\"ltr\"><a class=\"button\" href=\"https://www.isda-africa.com/isdasoil/\" target=\"_blank\">Explore the iSDAsoil platform for yourself</a></p>",
     "_id": "6408b2dfb38aaf6b93dd7d8d",
     "_parentId": "aide-m3-o3-sharing-b-18",
     "_type": "component",
@@ -8176,7 +8233,7 @@
       "longdescription": "",
       "large": "course/en/assets/0f561c7b70586d6a5ef11ac9398fd48aeed6527a.png",
       "small": "course/en/assets/0f561c7b70586d6a5ef11ac9398fd48aeed6527a.png",
-      "attribution": "<a href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+      "attribution": "<a target=\"_blank\" href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
       "_url": "",
       "_target": null
     },
@@ -8300,7 +8357,7 @@
       "longdescription": "",
       "large": "course/en/assets/f23585358a0af0742e16476eea1706566235d332.jpg",
       "small": "course/en/assets/f23585358a0af0742e16476eea1706566235d332.jpg",
-      "attribution": "<a href=\"https://www.pexels.com/photo/person-washing-his-hand-545014/\" target=\"_blank\">Burst</a> <span class='assetLicence'>[CC0]</span>",
+      "attribution": "<a target=\"_blank\" href=\"https://www.pexels.com/photo/person-washing-his-hand-545014/\" target=\"_blank\">Burst</a> <span class='assetLicence'>[CC0]</span>",
       "_url": "",
       "_target": null
     },
@@ -8931,7 +8988,7 @@
       "_layout": "full",
       "title": "Existing Ethical Decision-Making and Data Ethics Frameworks",
       "displayTitle": "Existing Ethical Decision-Making and Data Ethics Frameworks",
-      "body": "<p>In the realm of ethical decision-making and data ethics, various frameworks have been developed to provide structured approaches for navigating complex ethical dilemmas. These frameworks offer valuable insights and methodologies to complement the generic ethical evaluation process introduced earlier in this module. Let's explore some of these frameworks, highlighting their unique approaches and contributions:</p><p><a href=\"https://www.pmi.org/-/media/pmi/documents/public/pdf/ethics/ethical-decision-making-framework.pdf\" target=\"_blank\" rel=\"noopener\"><strong>Ethical Decision-Making Framework (EDMF)</strong></a></p><ul>\n<li><strong>Approach:</strong> The EDMF offers a structured methodology encompassing six stages: Information Gathering, Developing Options, Testing, Application and Action. It emphasises a systematic approach to aligning decisions with ethical principles and codes of conduct.</li>\n<li><strong>Contribution:</strong> The EDMF provides a comprehensive step-by-step process, integrating legal, professional, and ethical considerations. It facilitates thorough analysis, stakeholder engagement, and continuous learning ultimately asking if you are willing to accept responsibility for your decision?</li>\n</ul><p><a href=\"https://www.gov.uk/government/publications/data-ethics-framework/data-ethics-framework-2020\" target=\"_blank\" rel=\"noopener\"><strong>UK Government Digital Service (GDS) Framework</strong></a><strong>:</strong></p><ul>\n<li><strong>Approach:</strong> The GDS framework focuses on ethical considerations related to digital services and technology. It emphasises user-centricity, transparency, and accountability in design and delivery.</li>\n<li><strong>Contribution:</strong> The GDS framework introduces ethical considerations at the design stage, aligning technology development with user needs. It underscores the importance of user trust and clear communication.</li>\n</ul><p><a href=\"https://www.pdpc.gov.sg/help-and-resources/2020/01/model-ai-governance-framework\" target=\"_blank\" rel=\"noopener\"><strong>Singapore's Model Artificial Intelligence Governance Framework</strong></a></p><ul>\n<li><strong>Approach:</strong> Singapore's framework for AI governance focuses on accountability, transparency, fairness, and robustness. It promotes responsible AI development and deployment to ensure societal benefits.</li>\n<li><strong>Contribution:</strong> This framework aligns with the overarching principles of transparency, accountability, and fairness, while also addressing the challenges posed by AI technologies.</li>\n</ul><p><a href=\"https://standards.ieee.org/wp-content/uploads/import/documents/other/ead1e.pdf\" target=\"_blank\" rel=\"noopener\"><strong>IEEE Ethically Aligned Design (EAD) Framework</strong></a></p><ul>\n<li><strong>Approach:</strong> The IEEE EAD framework addresses a wide range of ethical considerations in technology design, including data ethics, privacy, and security. It emphasises the integration of ethics into the design process.</li>\n<li><strong>Contribution:</strong> The EAD sets forth scientific analysis and resources, high-level principles, and actionable recommendations. It offers specific guidance for standards, certification, regulation or legislation for design, manufacture, and use of A/IS that provably aligns with and improves holistic societal well-being.</li>\n</ul><p><a href=\"https://www.theodi.org/article/the-data-ethics-canvas-2021/\" target=\"_blank\" rel=\"noopener\"><strong>Open Data Institute's Data Ethics Canvas</strong></a></p><ul>\n<li><strong>Approach:</strong> The Data Ethics Canvas is a tool that helps organisations consider ethical implications and identify potential risks when working with data. It prompts critical questions related to data collection, use, and sharing.</li>\n<li><strong>Contribution:</strong> The Data Ethics Canvas offers a practical approach to data ethics, enabling organisations to visualise and address ethical concerns throughout the data lifecycle. It includes elements of the legal, wider ethical and consequence scanning activities, but definition and use of guiding principles is left to the organisation applying the canvas to a particular scenario. So in this way it is more of a tool to dig into the details of data ethics during the analysis stage rather than an overarching framework for ethical decision making.</li>\n</ul><p>These frameworks enhance the generic ethical evaluation process by providing specialised methodologies and insights tailored to specific contexts. Incorporating elements from these frameworks empowers individuals and organisations to navigate the nuances of data ethics, AI governance, and other domains with a well-informed and comprehensive approach.</p>",
+      "body": "<p>In the realm of ethical decision-making and data ethics, various frameworks have been developed to provide structured approaches for navigating complex ethical dilemmas. These frameworks offer valuable insights and methodologies to complement the generic ethical evaluation process introduced earlier in this module. Let's explore some of these frameworks, highlighting their unique approaches and contributions:</p><p><a target=\"_blank\" href=\"https://www.pmi.org/-/media/pmi/documents/public/pdf/ethics/ethical-decision-making-framework.pdf\" target=\"_blank\" rel=\"noopener\"><strong>Ethical Decision-Making Framework (EDMF)</strong></a></p><ul>\n<li><strong>Approach:</strong> The EDMF offers a structured methodology encompassing six stages: Information Gathering, Developing Options, Testing, Application and Action. It emphasises a systematic approach to aligning decisions with ethical principles and codes of conduct.</li>\n<li><strong>Contribution:</strong> The EDMF provides a comprehensive step-by-step process, integrating legal, professional, and ethical considerations. It facilitates thorough analysis, stakeholder engagement, and continuous learning ultimately asking if you are willing to accept responsibility for your decision?</li>\n</ul><p><a target=\"_blank\" href=\"https://www.gov.uk/government/publications/data-ethics-framework/data-ethics-framework-2020\" target=\"_blank\" rel=\"noopener\"><strong>UK Government Digital Service (GDS) Framework</strong></a><strong>:</strong></p><ul>\n<li><strong>Approach:</strong> The GDS framework focuses on ethical considerations related to digital services and technology. It emphasises user-centricity, transparency, and accountability in design and delivery.</li>\n<li><strong>Contribution:</strong> The GDS framework introduces ethical considerations at the design stage, aligning technology development with user needs. It underscores the importance of user trust and clear communication.</li>\n</ul><p><a target=\"_blank\" href=\"https://www.pdpc.gov.sg/help-and-resources/2020/01/model-ai-governance-framework\" target=\"_blank\" rel=\"noopener\"><strong>Singapore's Model Artificial Intelligence Governance Framework</strong></a></p><ul>\n<li><strong>Approach:</strong> Singapore's framework for AI governance focuses on accountability, transparency, fairness, and robustness. It promotes responsible AI development and deployment to ensure societal benefits.</li>\n<li><strong>Contribution:</strong> This framework aligns with the overarching principles of transparency, accountability, and fairness, while also addressing the challenges posed by AI technologies.</li>\n</ul><p><a target=\"_blank\" href=\"https://standards.ieee.org/wp-content/uploads/import/documents/other/ead1e.pdf\" target=\"_blank\" rel=\"noopener\"><strong>IEEE Ethically Aligned Design (EAD) Framework</strong></a></p><ul>\n<li><strong>Approach:</strong> The IEEE EAD framework addresses a wide range of ethical considerations in technology design, including data ethics, privacy, and security. It emphasises the integration of ethics into the design process.</li>\n<li><strong>Contribution:</strong> The EAD sets forth scientific analysis and resources, high-level principles, and actionable recommendations. It offers specific guidance for standards, certification, regulation or legislation for design, manufacture, and use of A/IS that provably aligns with and improves holistic societal well-being.</li>\n</ul><p><a target=\"_blank\" href=\"https://www.theodi.org/article/the-data-ethics-canvas-2021/\" target=\"_blank\" rel=\"noopener\"><strong>Open Data Institute's Data Ethics Canvas</strong></a></p><ul>\n<li><strong>Approach:</strong> The Data Ethics Canvas is a tool that helps organisations consider ethical implications and identify potential risks when working with data. It prompts critical questions related to data collection, use, and sharing.</li>\n<li><strong>Contribution:</strong> The Data Ethics Canvas offers a practical approach to data ethics, enabling organisations to visualise and address ethical concerns throughout the data lifecycle. It includes elements of the legal, wider ethical and consequence scanning activities, but definition and use of guiding principles is left to the organisation applying the canvas to a particular scenario. So in this way it is more of a tool to dig into the details of data ethics during the analysis stage rather than an overarching framework for ethical decision making.</li>\n</ul><p>These frameworks enhance the generic ethical evaluation process by providing specialised methodologies and insights tailored to specific contexts. Incorporating elements from these frameworks empowers individuals and organisations to navigate the nuances of data ethics, AI governance, and other domains with a well-informed and comprehensive approach.</p>",
       "instruction": "",
       "_pageLevelProgress": {
         "_isEnabled": false
@@ -9404,7 +9461,7 @@
         "longdescription": "",
         "large": "course/en/assets/ed8c41138dc38e9d42c4c464ef200a62b430716e.png",
       "small": "course/en/assets/ed8c41138dc38e9d42c4c464ef200a62b430716e.png",
-      "attribution": "<a href=\"http://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>",
+      "attribution": "<a target=\"_blank\" href=\"http://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>",
         "_url": "",
         "_target": ""
       },
@@ -9793,7 +9850,7 @@
         "alt": "",
         "large": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
         "small": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
-        "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+        "attribution": "<a target=\"_blank\" href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
       },
       "_isScrollable": false,
       "_defaultScrollPercent": 0,
@@ -11449,7 +11506,7 @@
       "_layout": "right",
       "title": "Using ethical questions to examine AI systems",
       "displayTitle": "Using ethical questions to examine AI systems",
-      "body": "<p>In their paper \"<a href=\"https://dl.acm.org/doi/10.1145/3278721.3278767\" target=\"_blank\" rel=\"noopener\">Cake, Death, and Trolleys: Dilemmas as Benchmarks of Ethical Decision-Making</a>\", the authors discuss the role of ethical dilemmas as benchmarks for assessing the ethical performance of artificial intelligence (AI) systems. As AI becomes increasingly integrated into society and makes more decisions, transparency on the AIs ethics becomes critical. The abstract proposes that by introducing the concept of benchmarking to the AI system, and evaluation against standard scenarios, we could reveal which frameworks have influenced its development.</p><p>The paper asserts that ethical dilemmas, which present complex moral scenarios with no definitive solution, can serve as effective benchmarks to gauge the ethical decision-making capabilities of autonomous systems. The authors argue that by evaluating how AI systems navigate these dilemmas, we can estimate their ethical performance and which frameworks they prioritise.&nbsp;</p><p>It is certainly an interesting, if not easy idea to implement.</p>",
+      "body": "<p>In their paper \"<a target=\"_blank\" href=\"https://dl.acm.org/doi/10.1145/3278721.3278767\" target=\"_blank\" rel=\"noopener\">Cake, Death, and Trolleys: Dilemmas as Benchmarks of Ethical Decision-Making</a>\", the authors discuss the role of ethical dilemmas as benchmarks for assessing the ethical performance of artificial intelligence (AI) systems. As AI becomes increasingly integrated into society and makes more decisions, transparency on the AIs ethics becomes critical. The abstract proposes that by introducing the concept of benchmarking to the AI system, and evaluation against standard scenarios, we could reveal which frameworks have influenced its development.</p><p>The paper asserts that ethical dilemmas, which present complex moral scenarios with no definitive solution, can serve as effective benchmarks to gauge the ethical decision-making capabilities of autonomous systems. The authors argue that by evaluating how AI systems navigate these dilemmas, we can estimate their ethical performance and which frameworks they prioritise.&nbsp;</p><p>It is certainly an interesting, if not easy idea to implement.</p>",
       "instruction": "",
       "_pageLevelProgress": {
         "_isEnabled": false
@@ -11486,7 +11543,7 @@
         "longdescription": "",
         "large": "course/en/assets/ed8c41138dc38e9d42c4c464ef200a62b430716e.png",
         "small": "course/en/assets/ed8c41138dc38e9d42c4c464ef200a62b430716e.png",
-        "attribution": "<a href=\"http://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>",
+        "attribution": "<a target=\"_blank\" href=\"http://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>",
         "_url": "",
         "_target": null
       },
@@ -11642,7 +11699,7 @@
         "longdescription": "",
         "large": "course/en/assets/50cd2a8785a924e204ab876d46a71c045cb0f0fc.png",
         "small": "course/en/assets/50cd2a8785a924e204ab876d46a71c045cb0f0fc.png",
-        "attribution": "<a href=\"theodi.org\" target=\"_blank\">ODI</a> <span class='assetLicence'>[All rights reserved]</span>",
+        "attribution": "<a target=\"_blank\" href=\"theodi.org\" target=\"_blank\">ODI</a> <span class='assetLicence'>[All rights reserved]</span>",
         "_url": "",
         "_target": null
       },

@@ -28,8 +28,7 @@
     "attribution": "ODI",
     "tags": []
   },
-  "50cd2a8785a924e204ab876d46a71c045cb0f0fc.png": [
-    {
+  "50cd2a8785a924e204ab876d46a71c045cb0f0fc.png": {
       "title": "clipboard-update-round.png",
       "description": "clipboard",
       "source": "theodi.org",
@@ -37,12 +36,6 @@
       "attribution": "ODI",
       "tags": []
     },
-    {
-      "title": "clipboard-update-round.png",
-      "description": "clipbaord",
-      "tags": []
-    }
-  ],
   "029418c3d6a4a6087d14575d291bcb6ee5fa994c.jpg": {
     "title": "Documents (430x430)",
     "description": "Documents (430x430)",
