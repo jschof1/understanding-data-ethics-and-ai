@@ -5106,7 +5106,7 @@
     "_layout": "full",
     "title": "STEP 4: Anonymise personal data",
     "displayTitle": "",
-    "body": "<p>There are several techniques that can be used to anonymise data. In the majority of cases, several techniques may need to be applied to lower the risks of re-identification. Regardless of the technique applied, we must:</p> <ul class=\"blue-caution-callout\"> <li>Choosing the right combination of techniques will depend on both the intended use and the level of risk related to each characteristic in the dataset.</li> <li>A record should be kept on how each technique is applied and the reasons for its choice.</li> </ul> <p>The EU Data Protection Working Party has produced a useful report outlining anonymisation techniques, robustness and typical mistakes. We have summarised these techniques in the later hands-on section of Anonymising Data.</p>",
+    "body": "<p>There are several techniques that can be used to anonymise data. In the majority of cases, several techniques may need to be applied to lower the risks of re-identification. Regardless of the technique applied, we must:</p> <ul class=\"blue-caution-callout\"> <li>Choose the right combination of techniques will depend on both the intended use and the level of risk related to each characteristic in the dataset.</li> <li>Keep a record on how each technique is applied and the reasons for its choice.</li> </ul> <p>The EU Data Protection Working Party has produced a useful report outlining anonymisation techniques, robustness and typical mistakes. We have summarised these techniques in the later hands-on section of Anonymising Data.</p>",
     "instruction": "",
     "_pageLevelProgress": {
       "_isEnabled": false
@@ -5157,21 +5157,7 @@
       "_isEnabled": false
     }
   },
-  {
-    "_id": "aide-m4-o2-anon-data-c-10",
-    "_parentId": "aide-m4-o2-anon-data-b-10",
-    "_type": "component",
-    "_component": "text",
-    "_classes": "",
-    "_layout": "right",
-    "title": "Hands-on: Data anonymisation",
-    "displayTitle": "",
-    "body": "<p>In this section, we are going to follow a number of steps to demonstrate how anonymisation works in practice. In order to complete this exercise, you should download the dataset below.</p><p>Download the dataset: <a href=\"https://docs.google.com/spreadsheets/d/1K5iuIn3gkzGS2HIT2pv8K4mBbO2_y_N_k0PIOTR3RXA/edit#gid=0\" target=\"_blank\" rel=\"noopener\">#DATA NHS synthetic data</a>.csv</p>",
-    "instruction": "",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    }
-  },
+
   {
     "_id": "aide-m4-o2-anon-data-c-11",
     "_parentId": "aide-m4-o2-anon-data-b-11",
@@ -5221,7 +5207,7 @@
     "_id": "aide-m4-o2-anon-data-c-14",
     "_parentId": "aide-m4-o2-anon-data-b-14",
     "_type": "component",
-    "_component": "mcq",
+    "_component": "",
     "_classes": "",
     "_layout": "full",
     "title": "Which data points are Personal Data and what is the risk level of each data point?",
@@ -5326,7 +5312,7 @@
     "_id": "aide-m4-o2-anon-data-c-15",
     "_parentId": "aide-m4-o2-anon-data-b-15",
     "_type": "component",
-    "_component": "mcq",
+    "_component": "matching",
     "_classes": "",
     "_layout": "full",
     "title": "What is the risk level of each data point?",
@@ -5340,6 +5326,7 @@
     "_hasItemScoring": false,
     "_questionWeight": 1,
     "_selectable": 1,
+    "placeholder":"Please select an option",
     "_canShowModelAnswer": true,
     "_canShowFeedback": true,
     "_canShowMarking": true,
@@ -5963,25 +5950,16 @@
     }
   },
   {
-    "_id": "aide-m4-o2-anon-data-g-10",
+    "_id": "aide-m4-o2-anon-data-c-10",
     "_parentId": "aide-m4-o2-anon-data-b-10",
     "_type": "component",
-    "_component": "graphic",
+    "_component": "text",
     "_classes": "",
-    "_layout": "left",
-    "title": "graphic for Hands-on: Data anonymisation",
+    "_layout": "full",
+    "title": "table for Hands-on: Data anonymisation",
     "displayTitle": "",
-    "body": "",
+    "body": "<table style=\"border-collapse: collapse; margin-top: 20px;\">\r\n    <thead>\r\n        <tr style=\"background-color: #e7e7e7;\">\r\n            <th style=\"padding: 10px; border: 1px solid #ddd;\">Site<\/th>\r\n            <th style=\"padding: 10px; border: 1px solid #ddd;\">Call date<\/th>\r\n            <th style=\"padding: 10px; border: 1px solid #ddd;\">Name<\/th>\r\n            <th style=\"padding: 10px; border: 1px solid #ddd;\">Sex<\/th>\r\n            <th style=\"padding: 10px; border: 1px solid #ddd;\">Date of birth<\/th>\r\n            <th style=\"padding: 10px; border: 1px solid #ddd;\">Address<\/th>\r\n            <th style=\"padding: 10px; border: 1px solid #ddd;\">Postcode<\/th>\r\n            <th style=\"padding: 10px; border: 1px solid #ddd;\">Profession<\/th>\r\n            <th style=\"padding: 10px; border: 1px solid #ddd;\">Severity (1=High)<\/th>\r\n        <\/tr>\r\n    <\/thead>\r\n    <tbody>\r\n        <tr>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">111<\/td>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">12\/03\/2022<\/td>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">Zoe Bloggs<\/td>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">F<\/td>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">06\/06\/2005<\/td>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">12 Penn Street, Barking, London<\/td>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">IG11 0DI<\/td>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">Student<\/td>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">35<\/td>\r\n        <\/tr>\r\n        <tr>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">111<\/td>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">18\/03\/2022<\/td>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">Pat Butcher<\/td>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">F<\/td>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">10\/11\/1949<\/td>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">27 Penelope Drive, Eastbourne<\/td>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">BN20 7UP<\/td>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">Retired<\/td>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">3<\/td>\r\n        <\/tr>\r\n        <tr>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">111<\/td>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">18\/03\/2022<\/td>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">Barry Titchmarsh<\/td>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">M<\/td>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">08\/10\/1981<\/td>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">19 Barber Close, Matlock, Derby<\/td>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">DE4 2ME<\/td>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">Gardener<\/td>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">90<\/td>\r\n        <\/tr>\r\n        <tr>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">999<\/td>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">18\/03\/2022<\/td>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">Gilderoy Lockhart<\/td>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">M<\/td>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">28\/02\/1946<\/td>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">27 Diagon Alley, Tower Hamlets, London<\/td>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">E1 0HP<\/td>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">Professor<\/td>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">1<\/td>\r\n        <\/tr>\r\n        <tr>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">999<\/td>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">14\/04\/2022<\/td>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">Arthur Smith<\/td>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">M<\/td>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">05\/03\/1922<\/td>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">155 Mount Park, Shrewbury<\/td>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">SY1 0AP<\/td>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">Retired<\/td>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">2<\/td>\r\n        <\/tr>\r\n        <tr>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">999<\/td>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">15\/04\/2022<\/td>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">Joe Quimby<\/td>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">F<\/td>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">17\/09\/1965<\/td>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">17 Prestige Place, Ringwood<\/td>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">BH24 1TM<\/td>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">Mayor<\/td>\r\n            <td style=\"padding: 10px; border: 1px solid #ddd;\">6<\/td>\r\n        <\/tr>\r\n    <\/tbody>\r\n<\/table>\r\n",
     "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "https://via.placeholder.com/600x600",
-      "small": "https://via.placeholder.com/600x600",
-      "attribution": "NO ATTRIBUTION",
-      "_url": "",
-      "_target": ""
-    },
     "_isScrollable": false,
     "_defaultScrollPercent": 0,
     "_pageLevelProgress": {
@@ -8997,7 +8975,7 @@
       "_classes": "",
       "_layout": "right",
       "title": "Defining situations",
-      "displayTitle": "",
+      "displayTitle": "Defining situations",
       "body": "",
       "instruction": "Choose one option then select Submit.",
       "ariaQuestion": "Question text specifically for screen readers.",
@@ -9241,8 +9219,8 @@
       "_component": "mcq",
       "_classes": "",
       "_layout": "left",
-      "title": "Q4) Taking action?",
-      "displayTitle": "Q4) Taking action?",
+      "title": "Taking action?",
+      "displayTitle": "Taking action?",
       "body": "",
       "instruction": "Choose one option then select Submit.",
       "ariaQuestion": "Question text specifically for screen readers.",
@@ -9859,7 +9837,7 @@
       "_type": "component",
       "_component": "text",
       "_classes": "",
-      "_layout": "left",
+      "_layout": "full",
       "title": "Scenario’s set 1",
       "displayTitle": "Scenario’s set 1",
       "body": "",
@@ -10445,8 +10423,8 @@
       "_parentId": "aide-m2-o3-ethical-frameworks-1b-5",
       "_type": "component",
       "_component": "text",
-      "_classes": "",
-      "_layout": "left",
+      "_classes": "section-banner",
+      "_layout": "full",
       "title": "Scenario’s set 2",
       "displayTitle": "Scenario’s set 2",
       "body": "<p>You have the opportunity to report an environmental violation committed by your employer, which might lead to job loss for some coworkers. How do you decide what action to take, and what principles do you consider? Rate these on the 3-point scale as very important to me, secondary considerations, not important to me.</p>",
@@ -11526,58 +11504,6 @@
       "_classes": "",
       "_layout": "left",
       "title": "graphic for Self-Examination: Questioning Your Approach to Challenges",
-      "displayTitle": "",
-      "body": "",
-      "instruction": "",
-      "_graphic": {
-        "alt": "",
-        "longdescription": "",
-        "large": "https://via.placeholder.com/400x400",
-        "small": "https://via.placeholder.com/400x400",
-        "attribution": "NO ATTRIBUTION",
-        "_url": "",
-        "_target": ""
-      },
-      "_isScrollable": false,
-      "_defaultScrollPercent": 0,
-      "_pageLevelProgress": {
-        "_isEnabled": true
-      }
-    },
-    {
-      "_id": "aide-m2-o3-ethical-frameworks-1g-3",
-      "_parentId": "aide-m2-o3-ethical-frameworks-1b-3",
-      "_type": "component",
-      "_component": "graphic",
-      "_classes": "",
-      "_layout": "right",
-      "title": "graphic for Scenario’s set 1",
-      "displayTitle": "",
-      "body": "",
-      "instruction": "",
-      "_graphic": {
-        "alt": "",
-        "longdescription": "",
-        "large": "https://via.placeholder.com/400x400",
-        "small": "https://via.placeholder.com/400x400",
-        "attribution": "NO ATTRIBUTION",
-        "_url": "",
-        "_target": ""
-      },
-      "_isScrollable": false,
-      "_defaultScrollPercent": 0,
-      "_pageLevelProgress": {
-        "_isEnabled": true
-      }
-    },
-    {
-      "_id": "aide-m2-o3-ethical-frameworks-1g-5",
-      "_parentId": "aide-m2-o3-ethical-frameworks-1b-5",
-      "_type": "component",
-      "_component": "graphic",
-      "_classes": "",
-      "_layout": "right",
-      "title": "graphic for Scenario’s set 2",
       "displayTitle": "",
       "body": "",
       "instruction": "",
