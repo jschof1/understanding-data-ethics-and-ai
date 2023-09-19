@@ -4559,7 +4559,7 @@
   },
   {
     "title": "Self-Examination: Questioning Your Approach to Challenges",
-    "displayTitle": "",
+    "displayTitle": "Self-Examination: Questioning Your Approach to Challenges",
     "body": "",
     "_classes": "",
     "_trackingId": 145,
@@ -5080,35 +5080,6 @@
     }
   },
   {
-    "title": "Examini",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 158,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "aide-m2-o3-ethical-frameworks-1b-15",
-    "_parentId": "article-ethical-frameworks",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": true
-    }
-  },
-  {
     "title": "Ethical Pluralism: Embracing Diversity in Ethical Thought",
     "displayTitle": "",
     "body": "",
@@ -5139,7 +5110,7 @@
   },
   {
     "title": "Building Trust in Ethical Decision-Making?",
-    "displayTitle": "",
+    "displayTitle": "Building Trust in Ethical Decision-Making?",
     "body": "",
     "_classes": "",
     "_trackingId": 160,
@@ -5197,7 +5168,7 @@
   },
   {
     "title": "Using ethical questions to improve diversity in ethics committees",
-    "displayTitle": "",
+    "displayTitle": "Using ethical questions to improve diversity in ethics committees",
     "body": "",
     "_classes": "",
     "_trackingId": 162,
@@ -5226,7 +5197,7 @@
   },
   {
     "title": "Using ethical questions to examine AI systems",
-    "displayTitle": "",
+    "displayTitle": "Using ethical questions to examine AI systems",
     "body": "",
     "_classes": "",
     "_trackingId": 163,
@@ -5257,7 +5228,7 @@
     "title": "Summary: ",
     "displayTitle": "",
     "body": "",
-    "_classes": "",
+    "_classes": "footer",
     "_trackingId": 164,
     "instruction": "",
     "_isOptional": false,
@@ -5267,7 +5238,7 @@
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
     "_id": "aide-m2-o3-ethical-frameworks-1b-21",
-    "_parentId": "article-ethical-frameworks",
+    "_parentId": "article-ethical-frameworks-footer",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -5313,7 +5284,7 @@
   },
   {
     "title": "SAD can make you happy",
-    "displayTitle": "",
+    "displayTitle": "SAD can make you happy",
     "body": "",
     "_classes": "",
     "instruction": "",
@@ -5341,8 +5312,8 @@
     "_trackingId": 119
   },
   {
-    "title": "To add to the acronym then lets expand to SAD-AM.",
-    "displayTitle": "",
+    "title": "To add to the acronym then lets expand to SAD-AM",
+    "displayTitle": "To add to the acronym then lets expand to SAD-AM",
     "body": "",
     "_classes": "",
     "instruction": "",
@@ -6569,7 +6540,7 @@
     }
   },
   {
-    "title": "What does this mean for Standard Chartered?",
+    "title": "What does this mean for your organisation?",
     "displayTitle": "",
     "body": "",
     "_classes": "",

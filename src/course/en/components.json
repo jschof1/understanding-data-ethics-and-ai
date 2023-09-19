@@ -771,7 +771,7 @@
     "_parentId": "aide-m3-o2-exploring-de-regulations-b-1",
     "_type": "component",
     "_component": "text",
-    "_classes": "",
+    "_classes": "ticks",
     "_layout": "left",
     "title": "Introduction",
     "displayTitle": "",
@@ -1570,7 +1570,7 @@
     "_parentId": "aide-m3-o2-exploring-de-regulations-b-1",
     "_type": "component",
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "intro-logo",
     "_layout": "right",
     "title": "graphic for Introduction",
     "displayTitle": "",
@@ -1856,7 +1856,7 @@
     "_parentId": "aide-m3-o2-exploring-de-regulations-b-23",
     "_type": "component",
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "clipboard",
     "_layout": "right",
     "title": "graphic for Summary",
     "displayTitle": "",
@@ -2551,7 +2551,7 @@
   },
   {
     "_component": "text",
-    "_classes": "",
+    "_classes": "ticks",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -3592,7 +3592,7 @@
   },
   {
     "_component": "text",
-    "_classes": "",
+    "_classes": "ticks",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -3947,7 +3947,7 @@
     "_disableAccessibilityState": false,
     "title": "Defining personal, sensitive personal and sensitive commercial data",
     "displayTitle": "",
-    "body": "<p><strong>Be aware: </strong><em>Different countries may also have their own definitions and categories for personal and sensitive personal data, defined by data protection regulations. The data protection regulations of the UK and Europe are used as reference for content presented here.</em></p>",
+    "body": "",
     "_id": "64f881ec94389ef9d9f955fd",
     "_parentId": "64f881ec94389ef9d9f955f1",
     "_type": "component",
@@ -3956,6 +3956,20 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_extra": {
+      "_isEnabled": true,
+      "_showOnModelCompleted": false,
+      "_selector": ".component__inner",
+      "_appendTo": "bottom",
+      "_classes": "warning",
+      "text": "Be aware",
+      "_items": [
+        {
+          "title": "Different countries may also have their own definitions and categories for personal and sensitive personal data, defined by data protection regulations. The data protection regulations of the UK and Europe are used as reference for content presented here.",
+          "_classes": ""
+        }
+      ]
     },
     "_tutor": {
       "_isInherited": true,
@@ -4298,7 +4312,7 @@
     "_id": "64f881ec94389ef9d9f95602",
     "_parentId": "64f881ec94389ef9d9f955ed",
     "_type": "component",
-    "_layout": "right",
+    "_layout": "full",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
@@ -4949,7 +4963,7 @@
     "_disableAccessibilityState": false,
     "title": "The role of data protection regulations",
     "displayTitle": "",
-    "body": "<p dir=\"ltr\">The most important thing to remember is that personal data cannot be collected or processed without a lawful basis; if no lawful basis applies, then it is illegal to hold the personal data.</p><p dir=\"ltr\">A lawful basis is often detailed as part of the data governance and privacy impact assessments made by an organisation, and should also be clear to individuals as part of the organisation’s privacy notice.</p><p dir=\"ltr\">Once the lawful basis is established, all other aspects, such as rights of individuals, will be matched to this.</p>",
+    "body": "<blockquote> The most important thing to remember is that personal data cannot be collected or processed without a lawful basis; if no lawful basis applies, then it is illegal to hold the personal data.</p><p dir=\"ltr\">A lawful basis is often detailed as part of the data governance and privacy impact assessments made by an organisation, and should also be clear to individuals as part of the organisation’s privacy notice.</p><p dir=\"ltr\">Once the lawful basis is established, all other aspects, such as rights of individuals, will be matched to this.</blockquote>",
     "_id": "64f9edb194389ef9d9f9563a",
     "_parentId": "64f9edb194389ef9d9f95638",
     "_type": "component",
@@ -5888,7 +5902,7 @@
     "_layout": "full",
     "title": "STEP 5: Testing resilience",
     "displayTitle": "",
-    "body": "<div class=\"sub-header\">     <h3> Application to our example dataset</h3> </div> <p>Remember the questions:</p> <ol class=\"callout-border-bold-list\">     <li>Is it possible to single out an individual?</li>     <li>Is it possible to link records relating to an individual using data already available to people?</li>     <li>Can information be inferred concerning an individual within the same dataset?</li> </ol> </div> <p>Let’s apply these to the dataset:</p> <div> <table> <thead> <tr> <th>Feature</th> <th>Example value</th> <th>Q1</th> <th>Q2</th> <th>Q3</th> </tr> </thead> <tbody> <tr> <td>Site Type</td> <td>111,999</td> <td>N</td> <td>N</td> <td>N</td> </tr> <tr> <td>Call date</td> <td>2020-03-19</td> <td>N</td> <td>N</td> <td>N</td> </tr> <tr> <td>Name</td> <td>Joe Bloggs</td> <td>REMOVED FROM DATA</td> </tr> <tr> <td>Date of Birth</td> <td>2005-06-03</td> <td>REMOVED FROM DATA</td> </tr> <tr> <td>Age Band</td> <td>0&ndash;18,19&ndash;69,70&ndash;120</td> <td>N</td> <td>N</td> <td>N</td> </tr> <tr> <td>Town/City</td> <td>Matlock</td> <td>N</td> <td>Potentially in some sparsely populated areas. Classifying as low risk.</td> <td>N</td> </tr> <tr> <td>Postcode area</td> <td>IG11</td> <td>N</td> <td>Potentially in some sparsely populated areas. Classifying as low risk.</td> <td>N</td> </tr> <tr> <td>Profession</td> <td>Student, Counselor</td> <td>N</td> <td>N</td> <td>N</td> </tr> </tbody> </table> </div> <p class=\"orange-caution-callout\" style=\"padding: 1em\">For this, it appears our anonymisation is good while     preserving the objective. There are some acceptable risks associated with sparsely populated areas and we could     choose to identify these and remove them from the dataset. In spreads of infections, measuring the spread in     sparsely populated areas is not likely to be of significant interest.</p> </div>",
+    "body": "<div class=\"sub-header\">     <h3> Application to our example dataset</h3> </div> <p>Remember the questions:</p> <ol>     <li class=\"callout-border-bold-list\">Is it possible to single out an individual?</li>     <li class=\"callout-border-bold-list\">Is it possible to link records relating to an individual using data already available to people?</li>     <li class=\"callout-border-bold-list\">Can information be inferred concerning an individual within the same dataset?</li> </ol> </div> <p>Let’s apply these to the dataset:</p> <div> <table> <thead> <tr> <th>Feature</th> <th>Example value</th> <th>Q1</th> <th>Q2</th> <th>Q3</th> </tr> </thead> <tbody> <tr> <td>Site Type</td> <td>111,999</td> <td>N</td> <td>N</td> <td>N</td> </tr> <tr> <td>Call date</td> <td>2020-03-19</td> <td>N</td> <td>N</td> <td>N</td> </tr> <tr> <td>Name</td> <td>Joe Bloggs</td> <td>REMOVED FROM DATA</td> </tr> <tr> <td>Date of Birth</td> <td>2005-06-03</td> <td>REMOVED FROM DATA</td> </tr> <tr> <td>Age Band</td> <td>0&ndash;18,19&ndash;69,70&ndash;120</td> <td>N</td> <td>N</td> <td>N</td> </tr> <tr> <td>Town/City</td> <td>Matlock</td> <td>N</td> <td>Potentially in some sparsely populated areas. Classifying as low risk.</td> <td>N</td> </tr> <tr> <td>Postcode area</td> <td>IG11</td> <td>N</td> <td>Potentially in some sparsely populated areas. Classifying as low risk.</td> <td>N</td> </tr> <tr> <td>Profession</td> <td>Student, Counselor</td> <td>N</td> <td>N</td> <td>N</td> </tr> </tbody> </table> </div> <p class=\"orange-caution-callout\" style=\"padding: 1em\">For this, it appears our anonymisation is good while     preserving the objective. There are some acceptable risks associated with sparsely populated areas and we could     choose to identify these and remove them from the dataset. In spreads of infections, measuring the spread in     sparsely populated areas is not likely to be of significant interest.</p> </div>",
     "instruction": "",
     "_pageLevelProgress": {
       "_isEnabled": false
@@ -5959,7 +5973,7 @@
     "_parentId": "aide-m4-o2-anon-data-b-1",
     "_type": "component",
     "_component": "graphic",
-    "_classes": "intro logo",
+    "_classes": "intro-logo",
     "_layout": "right",
     "title": "Graphic for Introduction",
     "displayTitle": "",
@@ -6175,7 +6189,7 @@
     "_parentId": "aide-m4-o2-anon-data-b-28",
     "_type": "component",
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "clipboard",
     "_layout": "right",
     "title": "graphic for Summary",
     "displayTitle": "",
@@ -6198,7 +6212,7 @@
   },
   {
     "_component": "text",
-    "_classes": "",
+    "_classes": "ticks",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -8334,7 +8348,7 @@
       "_parentId": "m2-07-ethical-dm-b-1",
       "_type": "component",
       "_component": "text",
-      "_classes": "",
+      "_classes": "ticks",
       "_layout": "left",
       "title": "Introduction",
       "displayTitle": "Introduction",
@@ -8404,8 +8418,8 @@
       "_component": "accordion",
       "_classes": "",
       "_layout": "left",
-      "title": "To add to the acronym then lets expand to SAD-AM.",
-      "displayTitle": "To add to the acronym then lets expand to SAD-AM.",
+      "title": "To add to the acronym then lets expand to SAD-AM",
+      "displayTitle": "",
       "body": "",
       "instruction": "Select the headings to find out more.",
       "_shouldCollapseItems": true,
@@ -8780,7 +8794,7 @@
       "_layout": "full",
       "title": "Thinking strategically",
       "displayTitle": "Thinking strategically",
-      "body": "<p>Strategic thinking plays a pivotal role in scoping ethical situations by providing a structured and comprehensive approach to understanding the various dimensions of a scenario. It involves considering the \"what,\" \"why,\" and \"how\" aspects of the situation:</p><p><strong>What</strong>: This involves defining the specific circumstances and elements of the situation. What are the key components, stakeholders, and factors involved? By clarifying the elements, strategic thinking ensures a clear understanding of the context and scope.</p><p><strong>Why</strong>: Strategic thinking delves into the underlying motivations and reasons behind the situation. Why is this situation arising? What are the objectives and goals at play? By uncovering the motivations, ethical considerations become more transparent, enabling a more thorough analysis.</p><p><strong>How</strong>: This focuses on the methods, processes, and potential outcomes associated with the situation. How did this situation come about, how might it unfold, and might we approach solving it? Strategic thinking helps anticipate potential consequences and understand the pathways leading to various outcomes.</p><p>In ethical decision-making, strategic thinking enables a comprehensive assessment of the ethical implications within a given context. It aids in identifying potential biases, assumptions, and gaps in understanding, allowing for a more nuanced evaluation of the ethical dimensions. By breaking down the situation into its components and exploring the underlying motivations and potential outcomes, strategic thinking facilitates a holistic approach to ethical analysis and decision-making.</p>",
+      "body": "<p>Strategic thinking plays a pivotal role in scoping ethical situations by providing a structured and comprehensive approach to understanding the various dimensions of a scenario. It involves considering the \"what,\" \"why,\" and \"how\" aspects of the situation:</p><p><strong>What</strong>: This involves defining the specific circumstances and elements of the situation. What are the key components, stakeholders, and factors involved? By clarifying the elements, strategic thinking ensures a clear understanding of the context and scope.</p><p><strong>Why</strong>: Strategic thinking delves into the underlying motivations and reasons behind the situation. Why is this situation arising? What are the objectives and goals at play? By uncovering the motivations, ethical considerations become more transparent, enabling a more thorough analysis.</p><p><strong>How</strong>: This focuses on the methods, processes, and potential outcomes associated with the situation. How did this situation come about, how might it unfold, and might we approach solving it? Strategic thinking helps anticipate potential consequences and understand the pathways leading to various outcomes.</p><p class=\"orange-caution-callout\">In ethical decision-making, strategic thinking enables a comprehensive assessment of the ethical implications within a given context. It aids in identifying potential biases, assumptions, and gaps in understanding, allowing for a more nuanced evaluation of the ethical dimensions. By breaking down the situation into its components and exploring the underlying motivations and potential outcomes, strategic thinking facilitates a holistic approach to ethical analysis and decision-making.</p>",
       "instruction": "",
       "_pageLevelProgress": {
         "_isEnabled": false
@@ -8908,7 +8922,7 @@
       "_layout": "left",
       "title": "Taking Action and Monitoring",
       "displayTitle": "Taking Action and Monitoring",
-      "body": "<p>The culmination of the ethical decision-making process marks the beginning of a journey filled with responsibilities and commitments. Once a decision is made, it initiates a series of actions that go beyond mere implementation. These actions are driven by the guiding principles, in this case transparency, accountability, and fairness. These actions help ensure that the decision is not an isolated event but a continuous demonstration of ethical conduct.</p><p>Incorporating these commitments into the post-decision phase ensures that the ethical evaluation process is not confined to a single point in time but extends into the future. Ethical decision-making becomes a dynamic cycle, guided by principles of transparency, accountability, and fairness. By diligently planning and allocating resources for these actions, organisations uphold their ethical responsibilities and contribute to building a culture of ethical conduct that resonates with stakeholders and society at large.&nbsp;</p><p>[DIAGRAM of SAD-AM model]</p>",
+      "body": "<p>The culmination of the ethical decision-making process marks the beginning of a journey filled with responsibilities and commitments. Once a decision is made, it initiates a series of actions that go beyond mere implementation. These actions are driven by the guiding principles, in this case transparency, accountability, and fairness. These actions help ensure that the decision is not an isolated event but a continuous demonstration of ethical conduct.</p><p>Incorporating these commitments into the post-decision phase ensures that the ethical evaluation process is not confined to a single point in time but extends into the future. Ethical decision-making becomes a dynamic cycle, guided by principles of transparency, accountability, and fairness. By diligently planning and allocating resources for these actions, organisations uphold their ethical responsibilities and contribute to building a culture of ethical conduct that resonates with stakeholders and society at large.&nbsp;</p>",
       "instruction": "",
       "_pageLevelProgress": {
         "_isEnabled": false
@@ -8938,7 +8952,7 @@
       "_layout": "full",
       "title": "Monitoring",
       "displayTitle": "Monitoring",
-      "body": "<p><strong>Accountability for Outcomes:</strong></p><ul>\n<li><strong>Monitoring and Reporting:</strong> Organisations establish mechanisms to monitor the outcomes of the decision. They hold themselves accountable for ensuring that the anticipated positive outcomes are achieved and that any negative effects are addressed promptly.</li>\n</ul><p><strong>Continuous Review and Adaptation:</strong></p><ul>\n<li><strong>Adapting to Changing Contexts:</strong> Ethical decisions are not static. Organisations commit to regularly reviewing the decision's effectiveness and adapting to changes in the external environment or new information that may arise. Such changes could include changes to legal, compliance and ethical frameworks, changes in the data or the models used to process it, or anything else considered as part of the analysis stage.</li>\n</ul><p><strong>Addressing Stakeholder Concerns:</strong></p><ul>\n<li><strong>Engaging with Stakeholders:</strong> Organisations commit to engaging with stakeholders who may have concerns or questions about the decision. Addressing these concerns fosters an environment of open dialogue and inclusivity.</li>\n</ul><p><strong>Learning and Improvement:</strong></p><ul>\n<li><strong>Learning from Experience:</strong> Organisations commit to learning from the decision-making process. This includes reflecting on the decision's outcomes, analysing the decision-making process, and identifying opportunities for improvement.</li>\n</ul><p><strong>Long-Term Impact Assessment:</strong></p><ul>\n<li><strong>Assessing Long-Term Effects:</strong> Ethical decisions extend beyond immediate outcomes. Organisations commit to assessing the long-term impact of the decision on stakeholders, society, and the environment.</li>\n</ul>",
+      "body": "<h3><strong>Accountability for Outcomes:</strong></h3><ul>\n<li><strong>Monitoring and Reporting:</strong> Organisations establish mechanisms to monitor the outcomes of the decision. They hold themselves accountable for ensuring that the anticipated positive outcomes are achieved and that any negative effects are addressed promptly.</li>\n</ul><p><strong>Continuous Review and Adaptation:</strong></p><ul>\n<li><strong>Adapting to Changing Contexts:</strong> Ethical decisions are not static. Organisations commit to regularly reviewing the decision's effectiveness and adapting to changes in the external environment or new information that may arise. Such changes could include changes to legal, compliance and ethical frameworks, changes in the data or the models used to process it, or anything else considered as part of the analysis stage.</li>\n</ul><p><strong>Addressing Stakeholder Concerns:</strong></p><ul>\n<li><strong>Engaging with Stakeholders:</strong> Organisations commit to engaging with stakeholders who may have concerns or questions about the decision. Addressing these concerns fosters an environment of open dialogue and inclusivity.</li>\n</ul><p><strong>Learning and Improvement:</strong></p><ul>\n<li><strong>Learning from Experience:</strong> Organisations commit to learning from the decision-making process. This includes reflecting on the decision's outcomes, analysing the decision-making process, and identifying opportunities for improvement.</li>\n</ul><p><strong>Long-Term Impact Assessment:</strong></p><ul>\n<li><strong>Assessing Long-Term Effects:</strong> Ethical decisions extend beyond immediate outcomes. Organisations commit to assessing the long-term impact of the decision on stakeholders, society, and the environment.</li>\n</ul>",
       "instruction": "",
       "_pageLevelProgress": {
         "_isEnabled": false
@@ -8968,7 +8982,7 @@
       "_layout": "full",
       "title": "Applied ethical decision making",
       "displayTitle": "Applied ethical decision making",
-      "body": "<p><strong>Situation</strong></p><p>In the mid 2010s, a team at Amazon had been investigating the use of machine learning and AI to review job applicants’ resumes with the aim of mechanising the search for top talent. This AI-driven endeavour aimed to streamline the screening process and identify the most promising candidates, offering a potential solution to the company's recruitment challenges.</p><p><strong>Analysis</strong></p><p>Amazon's initiative to develop an AI-powered recruitment tool reflects their proactive approach to grappling with the complexities of handling a large number of applications. By utilising AI algorithms to automate preliminary screening, the company intended to optimise the hiring process, improve efficiency, and allocate human resources more effectively. It was noted at this stage that the tool was biased toward men and ultimately this led to the decision following being an easy one to make. However, a notable weakness during the analysis was a failure to recognise legal and ethical challenges relating to the use of personal data in resumes submitted over a 10-year period to train the tool.</p><p><strong>Decision</strong></p><p>Upon critical examination of the AI system's outcomes, Amazon chose not to employ the technology for final hiring decisions due to identified gender bias concerns. However, the company opted to leverage some components of the tool for ancillary functions, revealing their adaptability and commitment to refining their approach based on the ethical implications that emerged during analysis. Even though this is a somewhat positive outcome, Amazon's decision to keep the AI project and the associated data's use confidential to this point was their undoing.</p><p><strong>Action and Monitoring</strong></p><p>Amazon's action to not use the tool does offer some hope of them taking ethical responsibility. Despite choosing not to proceed with the tool for hiring decisions, they found value in repurposing it to filter out duplicates and ensure basic application criteria alignment. However, the secretive nature of the project and the use of personal data without explicit consent eroded trust, casting a shadow over the entire initiative. Although Amazon claimed never to have used the tool, the lack of transparency surrounding both the project and the data used for training fueled scepticism and undermined the company's reputation. This clearly demonstrates that the ethical decision-making process marks the beginning of a journey filled with responsibilities and commitments and should start before any analysis or application.&nbsp;</p><p>In this context, Amazon's venture into AI-driven recruitment highlights the intricate interplay between technology, ethics, and transparency. While the initiative demonstrated Amazon's commitment to ethical decision-making by discontinuing biassed AI usage, the secrecy surrounding the development and data usage led to a loss of trust. This scenario underscores the importance of open communication, transparency, and safeguarding individual data privacy when implementing AI solutions to address complex challenges, even if you don’t end up using them.</p>",
+      "body": "<p><strong>Situation</strong></p><p>In the mid 2010s, a team at Amazon had been investigating the use of machine learning and AI to review job applicants’ resumes with the aim of mechanising the search for top talent. This AI-driven endeavour aimed to streamline the screening process and identify the most promising candidates, offering a potential solution to the company's recruitment challenges.</p><p><strong>Analysis</strong></p><p>Amazon's initiative to develop an AI-powered recruitment tool reflects their proactive approach to grappling with the complexities of handling a large number of applications. By utilising AI algorithms to automate preliminary screening, the company intended to optimise the hiring process, improve efficiency, and allocate human resources more effectively. It was noted at this stage that the tool was biased toward men and ultimately this led to the decision following being an easy one to make. However, a notable weakness during the analysis was a failure to recognise legal and ethical challenges relating to the use of personal data in resumes submitted over a 10-year period to train the tool.</p><p><strong>Decision</strong></p><p>Upon critical examination of the AI system's outcomes, Amazon chose not to employ the technology for final hiring decisions due to identified gender bias concerns. However, the company opted to leverage some components of the tool for ancillary functions, revealing their adaptability and commitment to refining their approach based on the ethical implications that emerged during analysis. Even though this is a somewhat positive outcome, Amazon's decision to keep the AI project and the associated data's use confidential to this point was their undoing.</p><p><strong>Action and Monitoring</strong></p><p>Amazon's action to not use the tool does offer some hope of them taking ethical responsibility. Despite choosing not to proceed with the tool for hiring decisions, they found value in repurposing it to filter out duplicates and ensure basic application criteria alignment. However, the secretive nature of the project and the use of personal data without explicit consent eroded trust, casting a shadow over the entire initiative. Although Amazon claimed never to have used the tool, the lack of transparency surrounding both the project and the data used for training fueled scepticism and undermined the company's reputation. This clearly demonstrates that the ethical decision-making process marks the beginning of a journey filled with responsibilities and commitments and should start before any analysis or application.&nbsp;</p><p class=\"orange-caution-callout\">In this context, Amazon's venture into AI-driven recruitment highlights the intricate interplay between technology, ethics, and transparency. While the initiative demonstrated Amazon's commitment to ethical decision-making by discontinuing biassed AI usage, the secrecy surrounding the development and data usage led to a loss of trust. This scenario underscores the importance of open communication, transparency, and safeguarding individual data privacy when implementing AI solutions to address complex challenges, even if you don’t end up using them.</p>",
       "instruction": "",
       "_pageLevelProgress": {
         "_isEnabled": false
@@ -9415,7 +9429,7 @@
       "_parentId": "m2-07-ethical-dm-b-1",
       "_type": "component",
       "_component": "graphic",
-      "_classes": "",
+      "_classes": "intro-logo",
       "_layout": "right",
       "title": "graphic for Introduction",
       "displayTitle": "",
@@ -9828,7 +9842,7 @@
       "_parentId": "aide-m2-o3-ethical-frameworks-1b-1",
       "_type": "component",
       "_component": "text",
-      "_classes": "",
+      "_classes": "ticks",
       "_layout": "left",
       "title": "Introduction",
       "displayTitle": "Introduction",
@@ -9846,8 +9860,8 @@
       "_classes": "",
       "_layout": "right",
       "title": "Self-Examination: Questioning Your Approach to Challenges",
-      "displayTitle": "Self-Examination: Questioning Your Approach to Challenges",
-      "body": "<p>As ethical decision-makers, it's crucial to understand our own perspectives and biases. We'll begin by asking introspective questions that prompt reflection on our innate tendencies and ethical inclinations. By examining our reactions to hypothetical scenarios, we'll uncover the values that underpin our choices and consider how these values align with different ethical frameworks.</p><p>You witness a coworker taking credit for your team's work. How would you respond, and what values are driving your reaction? Rate the following on a 3 point scale of “very important to me” to “not important at all”&nbsp; (very important, secondary considerations, not important to me)</p>",
+      "displayTitle": "",
+      "body": "<p>As ethical decision-makers, it's crucial to understand our own perspectives and biases. We'll begin by asking introspective questions that prompt reflection on our innate tendencies and ethical inclinations. By examining our reactions to hypothetical scenarios, we'll uncover the values that underpin our choices and consider how these values align with different ethical frameworks.</p><p>You witness a coworker taking credit for your team's work. How would you respond, and what values are driving your reaction? Rate the following on a 3 point scale of “Very important to me” to “not important at all”&nbsp; (very important, Secondary considerations, Not important to me)</p>",
       "instruction": "",
       "_pageLevelProgress": {
         "_isEnabled": false
@@ -9862,7 +9876,7 @@
       "_layout": "full",
       "title": "Scenario’s set 1",
       "displayTitle": "Scenario’s set 1",
-      "body": "",
+      "body": "<strong><p class=\"blue-caution-callout\">You witness a coworker taking credit for your team's work. How would you respond, and what values are driving your reaction? </p></strong> <p>Rate the following on a 3 point scale of “Very important to me” to “not important at all”  (very important, Secondary considerations, Not important to me)</p>",
       "instruction": "",
       "_pageLevelProgress": {
         "_isEnabled": false
@@ -9908,7 +9922,7 @@
         }
       },
       {
-        "text": "not important to me",
+        "text": "Not important to me",
         "_graphic": {
           "alt": "",
           "large": "",
@@ -10003,7 +10017,7 @@
         }
       },
       {
-        "text": "not important to me",
+        "text": "Not important to me",
         "_graphic": {
           "alt": "",
           "large": "",
@@ -10098,7 +10112,7 @@
         }
       },
       {
-        "text": "not important to me",
+        "text": "Not important to me",
         "_graphic": {
           "alt": "",
           "large": "",
@@ -10193,7 +10207,7 @@
         }
       },
       {
-        "text": "not important to me",
+        "text": "Not important to me",
         "_graphic": {
           "alt": "",
           "large": "",
@@ -10288,7 +10302,7 @@
         }
       },
       {
-        "text": "not important to me",
+        "text": "Not important to me",
         "_graphic": {
           "alt": "",
           "large": "",
@@ -10383,7 +10397,7 @@
         }
       },
       {
-        "text": "not important to me",
+        "text": "Not important to me",
         "_graphic": {
           "alt": "",
           "large": "",
@@ -10449,7 +10463,7 @@
       "_layout": "full",
       "title": "Scenario’s set 2",
       "displayTitle": "Scenario’s set 2",
-      "body": "<p>You have the opportunity to report an environmental violation committed by your employer, which might lead to job loss for some coworkers. How do you decide what action to take, and what principles do you consider? Rate these on the 3-point scale as very important to me, secondary considerations, not important to me.</p>",
+      "body": "<strong><p class=\"blue-caution-callout\">You have the opportunity to report an environmental violation committed by your employer, which might lead to job loss for some coworkers. How do you decide what action to take, and what principles do you consider?</p> </strong><p> Rate these on the 3-point scale as Very important to me, Secondary considerations, Not important to me.</p>",
       "instruction": "",
       "_pageLevelProgress": {
         "_isEnabled": false
@@ -10495,7 +10509,7 @@
           }
         },
         {
-          "text": "not important to me",
+          "text": "Not important to me",
           "_graphic": {
             "alt": "",
             "large": "",
@@ -10591,7 +10605,7 @@
           }
         },
         {
-          "text": "not important to me",
+          "text": "Not important to me",
           "_graphic": {
             "alt": "",
             "large": "",
@@ -10687,7 +10701,7 @@
           }
         },
         {
-          "text": "not important to me",
+          "text": "Not important to me",
           "_graphic": {
             "alt": "",
             "large": "",
@@ -10783,7 +10797,7 @@
           }
         },
         {
-          "text": "not important to me",
+          "text": "Not important to me",
           "_graphic": {
             "alt": "",
             "large": "",
@@ -10879,7 +10893,7 @@
           }
         },
         {
-          "text": "not important to me",
+          "text": "Not important to me",
           "_graphic": {
             "alt": "",
             "large": "",
@@ -10975,7 +10989,7 @@
           }
         },
         {
-          "text": "not important to me",
+          "text": "Not important to me",
           "_graphic": {
             "alt": "",
             "large": "",
@@ -11053,61 +11067,61 @@
         {
             "title": "Utilitarianism",
             "body": "<strong>Focus</strong>: Maximising overall happiness or utility.<br><strong>Key Principle</strong>: The ethical action is the one that produces the greatest overall happiness for the greatest number of people.<br><strong>Application in AI</strong>: In AI, utilitarianism might involve optimising algorithms to achieve the greatest societal benefit, even if it means sacrificing some individual rights or privacy.",
-                 "_graphic": {
-                    "src": "https://via.placeholder.com/600x400",
-                    "alt": "",
-                    "attribution": ""
-                },
+            "_graphic": {
+              "src": "course/en/assets/f411c2b78291072109c4c3a722e42c984411b0a9.png",
+              "alt": "Utilitarianism",
+              "attribution": "<a href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+            },
                 "strapline": "Narrative item 1 strapline"
         },
         {
             "title": "Deontology",
             "body": "<strong>Focus</strong>: Duty and moral rules.<br><strong>Key Principle</strong>: The ethical action is determined by adhering to moral rules, regardless of the outcome.<br><strong>Application in AI</strong>: Deontology could guide AI ethics by emphasising respect for individual rights, privacy, and moral principles, even if it leads to suboptimal societal outcomes.",
-                 "_graphic": {
-                    "src": "https://via.placeholder.com/600x400",
-                    "alt": "",
-                    "attribution": ""
-                },
+            "_graphic": {
+              "src": "course/en/assets/4a067fad57b41e099970dbcf4d50d1dfe05b0831.png",
+              "alt": "Deontology",
+              "attribution": "<a href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+            },
                 "strapline": "Narrative item 1 strapline"
         },
         {
             "title": "Virtue Ethics",
             "body": "<strong>Focus</strong>: Developing virtuous character traits.<br><strong>Key Principle</strong>: The ethical action comes from cultivating virtuous qualities and habits in oneself.<br><strong>Application in AI</strong>: Virtue ethics might encourage AI developers to prioritise qualities like empathy, compassion, and fairness in the design and deployment of AI systems.",
-                 "_graphic": {
-                    "src": "https://via.placeholder.com/600x400",
-                    "alt": "",
-                    "attribution": ""
-                },
+            "_graphic": {
+              "src": "course/en/assets/490e2795ecb4cb9aa547b000fe14e15de2c95f8c.png",
+              "alt": "Virtue Ethics",
+              "attribution": "<a href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+            },
                 "strapline": "Narrative item 1 strapline"
         },
         {
             "title": "Rights-based Ethics",
             "body": "<strong>Focus</strong>: Respect for individual rights.<br><strong>Key Principle</strong>: The ethical action respects and upholds fundamental rights, such as privacy, freedom, and equality.<br><strong>Application in AI</strong>: Rights-based ethics could guide AI development to ensure that technology respects users' rights and avoids infringing upon individual freedoms.",
-                 "_graphic": {
-                    "src": "https://via.placeholder.com/600x400",
-                    "alt": "",
-                    "attribution": ""
-                },
+            "_graphic": {
+              "src": "course/en/assets/ec2c9a8ed91036d6c7dfe0e860356110b0e78f0a.png",
+              "alt": "Rights-based Ethics",
+              "attribution": "<a href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+            },
                 "strapline": "Narrative item 1 strapline"
         },
         {
             "title": "Justice and Fairness",
             "body": "<strong>Focus</strong>: Fair distribution of benefits and burdens.<br><strong>Key Principle</strong>: The ethical action involves ensuring equitable treatment and just distribution of resources and opportunities.<br><strong>Application in AI</strong>: Justice and fairness could lead to the development of AI systems that avoid biases, discrimination, and favouritism.",
-                 "_graphic": {
-                    "src": "https://via.placeholder.com/600x400",
-                    "alt": "",
-                    "attribution": ""
-                },
+            "_graphic": {
+              "src": "course/en/assets/0e4cf59bb62a8520dec642e4bcbc169e90836ead.png",
+              "alt": "Justice and Fairness",
+              "attribution": "<a href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+            },
                 "strapline": "Narrative item 1 strapline"
         },
         {
             "title": "Ethics of Care",
             "body": "<strong>Focus</strong>: Relationships and empathy.<br><strong>Key Principle</strong>: The ethical action is guided by empathy, caring, and maintaining relationships.<br><strong>Application in AI</strong>: Ethics of care could encourage AI developers to consider the impact of their systems on vulnerable populations and to prioritise human well-being.",
-                 "_graphic": {
-                    "src": "https://via.placeholder.com/600x400",
-                    "alt": "",
-                    "attribution": ""
-                },
+            "_graphic": {
+              "src": "course/en/assets/30ecdf5a4cb05a98491d56e22e74143bcf6d7a74.png",
+              "alt": "Ethics of Care",
+              "attribution": "<a href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+            },
                 "strapline": "Narrative item 1 strapline"
         }
     ],
@@ -11123,8 +11137,8 @@
       "_classes": "section-banner",
       "_layout": "full",
       "title": "No ethical framework provides a one-size-fits-all solution; it's important to recognise that you are unlikely to subscribe to a single framework for every decision you make in life. ",
-      "displayTitle": "No ethical framework provides a one-size-fits-all solution; it's important to recognise that you are unlikely to subscribe to a single framework for every decision you make in life. ",
-      "body": "",
+      "displayTitle": "",
+      "body": "<blockquote><p dir=\"ltr\" style=\"text-align:center font-size:large\"><em>No ethical framework provides a one-size-fits-all solution; it's important to recognise that you are unlikely to subscribe to a single framework for every decision you make in life. </em></p></blockquote>",
       "instruction": "",
       "_pageLevelProgress": {
         "_isEnabled": false
@@ -11139,9 +11153,23 @@
       "_layout": "full",
       "title": "Examining the strengths and weaknesses of each ethical framework",
       "displayTitle": "Examining the strengths and weaknesses of each ethical framework",
-      "body": "<p>The table below provides a brief outline of the strengths and weaknesses for each ethical framework. Whilst reading, consider where there are similarities and differences and how these characteristics manifest themselves in different contexts.&nbsp;</p>",
+      "body": "<p>The groups of cards below provide a brief outline of the strengths and weaknesses for each ethical framework. Whilst reading, consider where there are similarities and differences and how these characteristics manifest themselves in different contexts.&nbsp;</p>",
       "instruction": "",
     "_setCompletionOn": "allItems",
+    "_extra": {
+      "_isEnabled": true,
+      "_showOnModelCompleted": false,
+      "_selector": ".component__inner",
+      "_appendTo": "bottom",
+      "_classes": "info",
+      "text": "Remember:",
+      "_items": [
+        {
+          "title": "Each ethical framework has its strengths and weaknesses, and the choice of which framework to apply can depend on the specific context, values, and goals of the AI development and deployment. Integrating a combination of frameworks can lead to a more comprehensive ethical analysis and decision-making process.",
+          "_classes": ""
+        }
+      ]
+    },
     "_groups": [
       {
         "title": "Utilitarianism",
@@ -11323,21 +11351,6 @@
       }
     },
     {
-      "_id": "aide-m2-o3-ethical-frameworks-1c-15",
-      "_parentId": "aide-m2-o3-ethical-frameworks-1b-15",
-      "_type": "component",
-      "_component": "text",
-      "_classes": "",
-      "_layout": "left",
-      "title": "Ethical frameowrk summary of scenarios",
-      "displayTitle": "",
-      "body": "<p>Each ethical framework has its strengths and weaknesses, and the choice of which framework to apply can depend on the specific context, values, and goals of the AI development and deployment. Integrating a combination of frameworks can lead to a more comprehensive ethical analysis and decision-making process.</p>",
-      "instruction": "",
-      "_pageLevelProgress": {
-        "_isEnabled": false
-      }
-    },
-    {
       "_id": "aide-m2-o3-ethical-frameworks-1c-16",
       "_parentId": "aide-m2-o3-ethical-frameworks-1b-16",
       "_type": "component",
@@ -11360,7 +11373,7 @@
       "_classes": "",
       "_layout": "left",
       "title": "Building Trust in Ethical Decision-Making?",
-      "displayTitle": "Building Trust in Ethical Decision-Making?",
+      "displayTitle": "",
       "body": "",
       "instruction": "Choose one option then select Submit.",
       "ariaQuestion": "Question text specifically for screen readers.",
@@ -11441,7 +11454,7 @@
       "_layout": "full",
       "title": "Case Study: UK Exam Grading - Balancing Ethics in Education",
       "displayTitle": "Case Study: UK Exam Grading - Balancing Ethics in Education",
-      "body": "<p>The controversy surrounding the UK grading algorithm in 2020 serves as a poignant case study that encapsulates the challenges of ethical decision-making. We will dissect this scenario, considering how different ethical frameworks were applied, and how the consequences of those decisions played out. We will explore what could have been done differently and how a more balanced consideration of various ethical perspectives might have led to a more equitable outcome.</p><p>Scenario: In 2020, the United Kingdom faced a challenging situation in grading students' exams due to the COVID-19 pandemic. To assess students' grades, an algorithmic approach was initially adopted, which aimed to standardise results across schools. However, this algorithm faced widespread backlash for disproportionately affecting students from disadvantaged backgrounds. The government subsequently shifted to using teacher-assessed grades, aiming to rectify these disparities. While this decision addressed some concerns, it led to challenges such as high numbers of students being eligible for university places and concerns about future exam grade inflation. As we reflect on this situation, let's consider the ethical frameworks that were most strongly applied and which ones could have been applied more effectively.</p><p>Ethical Frameworks Considered:</p><ol>\n<li><strong>Utilitarianism</strong>:</li>\n<ul>\n<li>Initially: The algorithmic approach might have aimed to maximise fairness and uniformity across schools, but its implementation led to significant distress and dissatisfaction among students and parents.</li>\n<li>Teacher-assessed grades: The switch to teacher assessments aimed to minimise harm and distress for students, but the subsequent challenges raised questions about the overall well-being of the broader education system.</li>\n</ul>\n<li><strong>Deontology</strong>:</li>\n<ul>\n<li>Initially: The algorithmic approach adhered to predefined rules and criteria for grading, but the strong public reaction indicated that these rules might not have sufficiently considered the individual circumstances of students.</li>\n<li>Teacher-assessed grades: This approach could be seen as a response to the ethical duty of treating each student as an individual, focusing on their unique abilities and efforts rather than strictly following an algorithm.</li>\n</ul>\n<li><strong>Justice and Fairness</strong>:</li>\n<ul>\n<li>Initially: The algorithmic approach aimed to ensure standardised grading, but its failure to address disparities in students' backgrounds raised concerns about fairness and social justice.</li>\n<li>Teacher-assessed grades: This approach aimed to address the fairness concerns by allowing educators to account for students' personal situations, but the challenges of grade inflation and university admissions highlighted the complexity of achieving fairness for all.</li>\n</ul>\n<li><strong>Ethics of Care</strong>:</li>\n<ul>\n<li>Teacher-assessed grades: The shift to teacher assessments might reflect the consideration of students' well-being, as teachers could provide a more nuanced understanding of their capabilities and challenges.</li>\n</ul>\n<li><strong>Rights-based Ethics</strong>:</li>\n<ul>\n<li>Initially: The algorithmic approach could be interpreted as an attempt to uphold students' right to a fair and objective assessment. However, its shortcomings demonstrated the importance of ensuring students' rights to accurate evaluation.</li>\n<li>Teacher-assessed grades: This approach aimed to respect students' right to an individualised assessment, but the potential consequences for future students and university admissions raised questions about the broader impact on their rights.</li>\n</ul>\n<li><strong>Virtue Ethics</strong>:</li>\n<ul>\n<li>Both approaches: The virtues of empathy, responsibility, and fairness could have played roles in guiding decisions. Considering the well-being of students, their futures, and the education system as a whole aligns with virtuous decision-making.</li>\n</ul>\n</ol><p>Considering the scenario, it's clear that multiple ethical frameworks were at play. While the government's response indicated consideration of utilitarianism, deontology, and justice, other frameworks like ethics of care and virtue ethics could have been applied more robustly to address the complexities of individual student needs, long-term consequences, and fostering a supportive educational environment. By recognizing the strengths and limitations of each framework, we can better navigate similar challenging situations in the future.</p>",
+      "body": "<p style=\"border-bottom: 2px solid #d6d6d6; padding: 10px 0; \">The controversy surrounding the UK grading algorithm in 2020 serves as a poignant case study that encapsulates the challenges of ethical decision-making. We will dissect this scenario, considering how different ethical frameworks were applied, and how the consequences of those decisions played out. We will explore what could have been done differently and how a more balanced consideration of various ethical perspectives might have led to a more equitable outcome. </p><h3 class=\"sub-header\"<strong>Scenario:</strong></h3><p style=\"color: black; font-style: italic; background-color: #dddd; padding: 10px;\">  In 2020, the United Kingdom faced a challenging situation in grading students exams due to the COVID-19 pandemic. To assess students' grades, an algorithmic approach was initially adopted, which aimed to standardise results across schools. However, this algorithm faced widespread backlash for disproportionately affecting students from disadvantaged backgrounds. The government subsequently shifted to using teacher-assessed grades, aiming to rectify these disparities. While this decision addressed some concerns, it led to challenges such as high numbers of students being eligible for university places and concerns about future exam grade inflation. As we reflect on this situation, let's consider the ethical frameworks that were most strongly applied and which ones could have been applied more effectively. </p> <hr style=\"border-top: 2px solid #d6d6d6; margin: 20px 0;\"><h3 style=\" padding: 5px;\">Ethical Frameworks Considered:</h3> <ol class=\"callout-border-bold-list\" style=\"border: 2px solid #d6d6d6;  padding: 10px;\"> <li><strong>Utilitarianism</strong>:</li> <ul class=\"highlight-white-light\" style=\"background-color: #f9f9f9; margin: 10px; padding: 10px;\"> <li><strong>Initially:</strong> The algorithmic approach might have aimed to maximise fairness and uniformity across schools, but its implementation led to significant distress and dissatisfaction among students and parents.</li> <li><strong>Teacher-assessed grades:</strong>The switch to teacher assessments aimed to minimise harm and distress for students, but the subsequent challenges raised questions about the overall well-being of the broader education system.</li> </ul> <hr style=\"border-top: 1px dashed #d6d6d6; margin: 20px 0;\"> <li><strong>Deontology</strong>:</li> <ul class=\"highlight-white-light\" style=\"background-color: #f9f9f9; margin: 10px; padding: 10px;\"> <li><strong>Initially:</strong> The algorithmic approach adhered to predefined rules and criteria for grading, but the strong public reaction indicated that these rules might not have sufficiently considered the individual circumstances of students.</li> <li><strong>Teacher-assessed grades:</strong>This approach could be seen as a response to the ethical duty of treating each student as an individual, focusing on their unique abilities and efforts rather than strictly following an algorithm.</li> </ul> <hr style=\"border-top: 1px dashed #d6d6d6; margin: 20px 0;\"> <li><strong>Justice and Fairness</strong>:</li> <ul class=\"highlight-white-light\" style=\"background-color: #f9f9f9; margin: 10px; padding: 10px;\"> <li><strong>Initially:</strong> The algorithmic approach aimed to ensure standardised grading, but its failure to address disparities in students' backgrounds raised concerns about fairness and social justice.</li> <li><strong>Teacher-assessed grades:</strong>This approach aimed to address the fairness concerns by allowing educators to account for students' personal situations, but the challenges of grade inflation and university admissions highlighted the complexity of achieving fairness for all.</li> </ul> <hr style=\"border-top: 1px dashed #d6d6d6; margin: 20px 0;\"> <li><strong>Ethics of Care</strong>:</li> <ul class=\"highlight-white-light\" style=\"background-color: #f9f9f9; margin: 10px; padding: 10px;\"> <li><strong>Teacher-assessed grades:</strong>The shift to teacher assessments might reflect the consideration of students' well-being, as teachers could provide a more nuanced understanding of their capabilities and challenges.</li> </ul> <hr style=\"border-top: 1px dashed #d6d6d6; margin: 20px 0;\"> <li><strong>Rights-based Ethics</strong>:</li> <ul class=\"highlight-white-light\" style=\"background-color: #f9f9f9; margin: 10px; padding: 10px;\"> <li><strong>Initially:</strong> The algorithmic approach could be interpreted as an attempt to uphold students' right to a fair and objective assessment. However, its shortcomings demonstrated the importance of ensuring students' rights to accurate evaluation.</li> <li><strong>Teacher-assessed grades:</strong>This approach aimed to respect students' right to an individualised assessment, but the potential consequences for future students and university admissions raised questions about the broader impact on their rights.</li> </ul> <hr style=\"border-top: 1px dashed #d6d6d6; margin: 20px 0;\"> <li><strong>Virtue Ethics</strong>:</li> <ul class=\"highlight-white-light\" style=\"background-color: #f9f9f9; margin: 10px; padding: 10px;\"> <li><strong>Both approaches:</strong> The virtues of empathy, responsibility, and fairness could have played roles in guiding decisions. Considering the well-being of students, their futures, and the education system as a whole aligns with virtuous decision-making.</li> </ul> </ol> <p class=\"blue-caution-callout\" style=\"background-color: #e1f4ff; padding: 10px; border: 1px solid #c1e0f6;\"> Considering the scenario, it's clear that multiple ethical frameworks were at play. While the government's response indicated consideration of utilitarianism, deontology, and justice, other frameworks like ethics of care and virtue ethics could have been applied more robustly to address the complexities of individual student needs, long-term consequences, and fostering a supportive educational environment. By recognizing the strengths and limitations of each framework, we can better navigate similar challenging situations in the future. </p>",
       "instruction": "",
       "_pageLevelProgress": {
         "_isEnabled": false
@@ -11455,7 +11468,7 @@
       "_classes": "",
       "_layout": "left",
       "title": "Using ethical questions to improve diversity in ethics committees",
-      "displayTitle": "Using ethical questions to improve diversity in ethics committees",
+      "displayTitle": "",
       "body": "<p>Organisations often establish ethical committees to guide decisions and navigate complex issues. Yet, many face challenges in ensuring these committees possess the necessary diversity and authority for effective decision-making.</p><p>A diverse and inclusive ethical committee is essential for well-rounded decision-making that considers a spectrum of viewpoints. One strategy involves leveraging ethical questions as a tool to foster diversity among committee members' perspectives.</p><p>By crafting a diverse set of ethical questions spanning various scenarios and viewpoints, organisations encourage introspection into personal ethics and values. This process unveils the richness and potential gaps within the committee's ethical outlook. Such questions can also be incorporated into the committee member selection process, aiding in the identification of diverse perspectives.</p><p>Committee members' commitment to continuous learning is also vital. Staying updated on evolving ethical frameworks, societal shifts, and emerging ethical concerns widens their perspectives over time.</p><p>In summary, fostering a diverse and inclusive ethical committee requires innovative approaches. Ethical questions serve as a gateway to embracing multifaceted viewpoints, strengthening decision-making processes, and contributing to the overall ethical fabric of the organisation.</p>",
       "instruction": "",
       "_pageLevelProgress": {
@@ -11470,7 +11483,7 @@
       "_classes": "",
       "_layout": "right",
       "title": "Using ethical questions to examine AI systems",
-      "displayTitle": "Using ethical questions to examine AI systems",
+      "displayTitle": "",
       "body": "<p>In their paper \"<a target=\"_blank\" href=\"https://dl.acm.org/doi/10.1145/3278721.3278767\" target=\"_blank\" rel=\"noopener\">Cake, Death, and Trolleys: Dilemmas as Benchmarks of Ethical Decision-Making</a>\", the authors discuss the role of ethical dilemmas as benchmarks for assessing the ethical performance of artificial intelligence (AI) systems. As AI becomes increasingly integrated into society and makes more decisions, transparency on the AIs ethics becomes critical. The abstract proposes that by introducing the concept of benchmarking to the AI system, and evaluation against standard scenarios, we could reveal which frameworks have influenced its development.</p><p>The paper asserts that ethical dilemmas, which present complex moral scenarios with no definitive solution, can serve as effective benchmarks to gauge the ethical decision-making capabilities of autonomous systems. The authors argue that by evaluating how AI systems navigate these dilemmas, we can estimate their ethical performance and which frameworks they prioritise.&nbsp;</p><p>It is certainly an interesting, if not easy idea to implement.</p>",
       "instruction": "",
       "_pageLevelProgress": {
@@ -11482,7 +11495,7 @@
       "_parentId": "aide-m2-o3-ethical-frameworks-1b-21",
       "_type": "component",
       "_component": "text",
-      "_classes": "",
+      "_classes": "clipboard",
       "_layout": "left",
       "title": "Summary ",
       "displayTitle": "Summary ",
@@ -11497,7 +11510,7 @@
       "_parentId": "aide-m2-o3-ethical-frameworks-1b-1",
       "_type": "component",
       "_component": "graphic",
-      "_classes": "",
+      "_classes": "intro-logo",
       "_layout": "right",
       "title": "graphic for intro",
       "displayTitle": "",
@@ -11535,32 +11548,6 @@
         "large": "course/en/assets/ea5c5f3346fb1d7b245f38d85c08aaf7521db77d.jpg",
         "small": "course/en/assets/ea5c5f3346fb1d7b245f38d85c08aaf7521db77d.jpg",
         "attribution": "<a href=\"https://elements.envato.com/co-workers-are-discussing-presentation-of-business-7ULW3X3\" target=\"_blank\">Iakobchuk</a> <span class='assetLicence'>[Envato Element Licence]</span>",
-        "_url": "",
-        "_target": null
-      },
-      "_isScrollable": false,
-      "_defaultScrollPercent": 0,
-      "_pageLevelProgress": {
-        "_isEnabled": true
-      }
-    },
-    {
-      "_id": "aide-m2-o3-ethical-frameworks-1g-15",
-      "_parentId": "aide-m2-o3-ethical-frameworks-1b-15",
-      "_type": "component",
-      "_component": "graphic",
-      "_classes": "",
-      "_layout": "right",
-      "title": "graphic for Examini",
-      "displayTitle": "",
-      "body": "",
-      "instruction": "",
-      "_graphic": {
-        "alt": "",
-        "longdescription": "",
-        "large": "course/en/assets/7953b1edae6cfdac2b63e7403afe32bc7f33eda9.png",
-        "small": "course/en/assets/7953b1edae6cfdac2b63e7403afe32bc7f33eda9.png",
-        "attribution": "<a href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
         "_url": "",
         "_target": null
       },
@@ -11642,11 +11629,11 @@
       "_graphic": {
         "alt": "",
         "longdescription": "",
-        "large": "https://via.placeholder.com/400x400",
-        "small": "https://via.placeholder.com/400x400",
-        "attribution": "NO ATTRIBUTION",
+        "large": "course/en/assets/cfd84842de4aeb90d325987f22279c3d7e8f36d6.jpg",
+        "small": "course/en/assets/cfd84842de4aeb90d325987f22279c3d7e8f36d6.jpg",
+        "attribution": "<a href=\"https://elements.envato.com/business-evolution-with-ai-interaction-with-modern-QX9AGST\" target=\"_blank\">AndersonPiza</a> <span class='assetLicence'>[Envato Element Licence]</span>",
         "_url": "",
-        "_target": ""
+        "_target": null
       },
       "_isScrollable": false,
       "_defaultScrollPercent": 0,
@@ -11659,7 +11646,7 @@
       "_parentId": "aide-m2-o3-ethical-frameworks-1b-21",
       "_type": "component",
       "_component": "graphic",
-      "_classes": "",
+      "_classes": "clipboard",
       "_layout": "right",
       "title": "graphic for Summary ",
       "displayTitle": "",
