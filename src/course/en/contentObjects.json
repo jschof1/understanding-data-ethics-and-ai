@@ -385,8 +385,8 @@
     }
   },
   {
-    "title": "Steps for ethical decision making",
-    "displayTitle": "Steps for ethical decision making",
+    "title": "Exploring Ethical Frameworks in Decision-Making",
+    "displayTitle": "Exploring Ethical Frameworks in Decision-Making",
     "body": "",
     "_classes": "",
     "subtitle": "",
@@ -404,6 +404,47 @@
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
     "_id": "content-object-ethical-frameworks",
+    "_parentId": "64d34913d9db5173efdc23e6",
+    "_type": "page",
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    }
+  },
+  {
+    "title": "Unveilling the Complexity of Ethical Decision-Making",
+    "displayTitle": "Unveilling the Complexity of Ethical Decision-Making",
+    "body": "",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "complexity-of-ethical-decision-making",
     "_parentId": "64d34913d9db5173efdc23e6",
     "_type": "page",
     "_aboutPage": {
