@@ -3040,7 +3040,7 @@
   {
     "title": "Hands-on: Data anonymisation",
     "displayTitle": "Hands-on: Data anonymisation",
-    "body": "<p>In this section, we are going to follow a number of steps to demonstrate how anonymisation works in practice. In order to complete this exercise, you should download the dataset below.</p><p>Download the dataset: <a href=\"https://docs.google.com/spreadsheets/d/1K5iuIn3gkzGS2HIT2pv8K4mBbO2_y_N_k0PIOTR3RXA/edit#gid=0\" target=\"_blank\" rel=\"noopener\">#DATA NHS synthetic data</a>.csv</p>",
+    "body": "<p>In this section, we are going to follow a number of steps to demonstrate how anonymisation works in practice. In order to complete this exercise, you should download or view the dataset below.</p><p>Download the dataset here: <a href=\"https://docs.google.com/spreadsheets/d/1K5iuIn3gkzGS2HIT2pv8K4mBbO2_y_N_k0PIOTR3RXA/edit#gid=0\" target=\"_blank\" rel=\"noopener\">#DATA NHS synthetic data</a>.csv</p>",
     "_classes": "",
     "instruction": "",
     "_isOptional": false,
@@ -3299,8 +3299,8 @@
     "_trackingId": 87
   },
   {
-    "title": "There is no right or wrong - it depends on the data set",
-    "displayTitle": "There is no right or wrong - it depends on the data set",
+    "title": "Applying the techniques",
+    "displayTitle": "",
     "body": "",
     "_classes": "",
     "instruction": "",
@@ -3416,7 +3416,7 @@
   },
   {
     "title": "Data protection and anonymised/synthetic data",
-    "displayTitle": "Data protection and anonymised/synthetic data",
+    "displayTitle": "Do data protection regulations apply to anonymised or synthetic data?",
     "body": "",
     "_classes": "",
     "instruction": "",
