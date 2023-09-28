@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Exploring Ethical Frameworks in Decision-Making",
+    "displayTitle": "Exploring Ethical Frameworks in Decision-Making",
+    "body": "",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "651571b1f03bb600c97a58ed",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_FooterLink": {
+      "_items": [
+        {
+          "title": "Report bug/enhancement",
+          "link": "https://docs.google.com/forms/d/e/1FAIpQLSdtHVRylSGS4U5-G7gvRQMPiKq7Cfrr38ftD_7MFM-uHlvpSQ/viewform?usp=pp_url&entry.1530449492=Adapt&entry.598945860=M2:+Exploring+Ethical+Frameworks+in+Decision-Making+(adapt)"
+        }
+      ]
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  }
+]

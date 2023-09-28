@@ -1,0 +1,514 @@
+[
+  {
+    "title": "Introduction",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 1,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "651571b1f03bb600c97a591d",
+    "_parentId": "651571b1f03bb600c97a58fd",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_extra": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_selector": ".block__inner",
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    }
+  },
+  {
+    "title": "Summary: ",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "footer",
+    "_trackingId": 2,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "651571b1f03bb600c97a592d",
+    "_parentId": "651571b1f03bb600c97a590d",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_extra": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_selector": ".block__inner",
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    }
+  },
+  {
+    "title": "Introduction to Main Frameworks: AI's Ethical Compass",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 3,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "651571e3f03bb600c97a6574",
+    "_parentId": "651571e3f03bb600c97a6517",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_extra": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_selector": ".block__inner",
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    }
+  },
+  {
+    "title": "Your ethical compass",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 4,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "6515720af03bb600c97a7e06",
+    "_parentId": "65157209f03bb600c97a7cfd",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_extra": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_selector": ".block__inner",
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Self-Examination: Questioning Your Approach to Challenges",
+    "displayTitle": "Self-Examination: Questioning Your Approach to Challenges",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 5,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "651571b1f03bb600c97a593d",
+    "_parentId": "651571b1f03bb600c97a58fd",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_extra": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_selector": ".block__inner",
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    }
+  },
+  {
+    "title": "No ethical framework provides a one-size-fits-all solution; it's important to recognise that you are unlikely to subscribe to a single framework for every decision you make in life. ",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 6,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "651571e3f03bb600c97a6586",
+    "_parentId": "651571e3f03bb600c97a6517",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_extra": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_selector": ".block__inner",
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    }
+  },
+  {
+    "title": "Scenario 1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 7,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "651571b2f03bb600c97a594d",
+    "_parentId": "651571b1f03bb600c97a58fd",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_extra": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_selector": ".block__inner",
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    }
+  },
+  {
+    "title": "Examining the strengths and weaknesses of each ethical framework",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 8,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "651571e4f03bb600c97a6598",
+    "_parentId": "651571e3f03bb600c97a6517",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_extra": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_selector": ".block__inner",
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    }
+  },
+  {
+    "title": "Ethical Pluralism: Embracing Diversity in Ethical Thought",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 9,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "651571e4f03bb600c97a65aa",
+    "_parentId": "651571e3f03bb600c97a6517",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_extra": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_selector": ".block__inner",
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    }
+  },
+  {
+    "title": "Scenario 2",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 10,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "65157825f03bb600c97ac94f",
+    "_parentId": "651571b1f03bb600c97a58fd",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_extra": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_selector": ".block__inner",
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Building Trust in Ethical Decision-Making?",
+    "displayTitle": "Building Trust in Ethical Decision-Making?",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 11,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "651571e4f03bb600c97a65bc",
+    "_parentId": "651571e3f03bb600c97a6517",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_extra": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_selector": ".block__inner",
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    }
+  },
+  {
+    "title": "Case Study: UK Exam Grading - Balancing Ethics in Education",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 12,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "651571e4f03bb600c97a65ce",
+    "_parentId": "651571e3f03bb600c97a6517",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_extra": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_selector": ".block__inner",
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    }
+  },
+  {
+    "title": "Using ethical questions to improve diversity in ethics committees",
+    "displayTitle": "Using ethical questions to improve diversity in ethics committees",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 13,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "651571e4f03bb600c97a65e0",
+    "_parentId": "651571e3f03bb600c97a6517",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_extra": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_selector": ".block__inner",
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    }
+  },
+  {
+    "title": "Using ethical questions to examine AI systems",
+    "displayTitle": "Using ethical questions to examine AI systems",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 14,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "651571e4f03bb600c97a65f2",
+    "_parentId": "651571e3f03bb600c97a6517",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_extra": {
+      "_isEnabled": false,
+      "_showOnModelCompleted": false,
+      "_selector": ".block__inner",
+      "_appendTo": "bottom",
+      "text": "",
+      "_items": [],
+      "_classes": ""
+    }
+  }
+]
